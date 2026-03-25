@@ -18,7 +18,7 @@
     "venue": "DEYA Taproom",
     "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/4f0f6701-c5ff-4b0c-8b29-625dd683b41f/MCSTREET-DINER-1-.png",
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
@@ -346,7 +346,7 @@
     "venue": "The Tappy",
     "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/65b950a4-47e4-4664-8dc2-1064f0bec1f9/SPRING-SESSIon-TOUR.png",
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
@@ -437,7 +437,7 @@
     "venue": "DEYA Brewing",
     "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/9cd057d9-6f3c-4874-b7c4-b421c69b137a/ALL-DEYA-2-500-X-500.png",
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
@@ -794,7 +794,7 @@
     "venue": "DEYA Brewing",
     "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/fa7f4ed7-4b2f-4ebe-b293-f6e86a14a3f9/MXP4-500-X-500.png",
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
@@ -933,5 +933,89 @@
     "categories": [
       "sport-fitness"
     ]
+  },
+  {
+    "name": "Late Sketch Club",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/7ee3dc2c-29d6-42db-b33e-ee967796cff0/Late-Sketch-Club-compressed.jpg",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
+  },
+  {
+    "name": "The Real CSI: More Than Just What You See on TV @ The Swamp",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/a5e1ca14-00ab-4d93-8909-39b9817f6de0/TAPPED-IN-500-X-500-.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
+  },
+  {
+    "name": "Jazz Launch Night",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/40120937-3e95-49d6-b2e3-99532fe0384c/JAZZ-FEST-500X500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
+  },
+  {
+    "name": "What The Croc!?!? Quiz",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/97e65f3b-8ece-435b-aa42-48d1ada93536/QUIZ-500-X-500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
+  },
+  {
+    "name": "Fire Feast from Ubuntu Food @ The Swamp",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/cd6f3019-033e-41bd-96c3-a7c1dee23c7b/UBUNTU-EVENT-500-X-500-.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
+  },
+  {
+    "name": "Spanish Specials - Brewery Tour and Tasting",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewing",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/e22e246f-50b0-471d-b954-dffd502ff53c/SPANISH-BREWERY-TOUR.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true
   }
 ]
