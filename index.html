@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cheltenham Events — What's on in Cheltenham</title>
+<meta name="description" content="Discover events in Cheltenham. Live music, comedy, theatre, food, markets, family days and more. Updated weekly.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📍</text></svg>">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,400;9..144,700;9..144,900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:oklch(98.5% 0.003 80);
+  --surface:oklch(100% 0 0);
+  --surface-2:oklch(96.5% 0.005 80);
+  --border:oklch(91% 0.008 80);
+  --text:oklch(18% 0.01 80);
+  --text-2:oklch(42% 0.015 80);
+  --text-3:oklch(58% 0.01 80);
+  --accent:oklch(50% 0.15 150);
+  --accent-light:oklch(95% 0.03 150);
+  --accent-dark:oklch(38% 0.12 150);
+  --warm:oklch(62% 0.14 55);
+  --warm-light:oklch(95% 0.03 55);
+  --font-display:'Fraunces',Georgia,serif;
+  --font-body:'Plus Jakarta Sans',system-ui,sans-serif;
+  --radius:10px;
+  --max-w:1080px;
+}
+body{background:var(--bg);color:var(--text);font-family:var(--font-body);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:var(--accent-dark);text-decoration:none}
+a:hover{text-decoration:underline}
+::selection{background:var(--accent-light);color:var(--accent-dark)}
+img{display:block;max-width:100%}
+
+/* Header */
+header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justify-content:space-between;align-items:center}
+.logo{font-family:var(--font-display);font-size:20px;font-weight:900;letter-spacing:-0.02em}
+.logo span{color:var(--text-3);font-weight:400;font-size:12px;font-family:var(--font-body);margin-left:4px}
+.header-r{display:flex;gap:16px;align-items:center}
+.header-r a{color:var(--text-3);font-size:13px;font-weight:500}
+.header-r a:hover{color:var(--text);text-decoration:none}
+.newsletter-btn{background:var(--text);color:var(--bg);padding:8px 20px;border-radius:8px;font-size:12px;font-weight:700;font-family:var(--font-body);border:none;cursor:pointer;transition:opacity 0.15s}
+.newsletter-btn:hover{opacity:0.85;text-decoration:none}
+
+/* Hero */
+.hero{max-width:var(--max-w);margin:0 auto;padding:48px 24px 32px;text-align:left}
+.hero h1{font-family:var(--font-display);font-size:clamp(28px,4.5vw,44px);font-weight:900;line-height:1.1;letter-spacing:-0.03em;margin-bottom:8px}
+.hero p{color:var(--text-2);font-size:15px;max-width:480px;line-height:1.6}
+.hero-stats{display:flex;gap:32px;margin-top:20px}
+.hero-stat .num{font-size:24px;font-weight:800;font-family:var(--font-display);letter-spacing:-0.02em}
+.hero-stat .label{font-size:11px;color:var(--text-3);font-weight:600;text-transform:uppercase;letter-spacing:0.06em}
+
+/* Filters */
+.filters{max-width:var(--max-w);margin:0 auto;padding:0 24px 24px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.filter-btn{padding:7px 16px;border-radius:100px;font-size:12px;font-weight:600;font-family:var(--font-body);border:1px solid var(--border);background:var(--surface);color:var(--text-2);cursor:pointer;transition:all 0.15s;white-space:nowrap}
+.filter-btn:hover{border-color:var(--accent);color:var(--accent-dark)}
+.filter-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+.filter-count{font-size:11px;color:var(--text-3);margin-left:4px;font-weight:400}
+.search-box{flex:0 0 auto;margin-left:auto;position:relative}
+.search-box input{padding:7px 14px 7px 32px;border:1px solid var(--border);border-radius:100px;font-size:12px;font-family:var(--font-body);background:var(--surface);color:var(--text);width:200px;outline:none;transition:border-color 0.15s}
+.search-box input:focus{border-color:var(--accent)}
+.search-box::before{content:'';position:absolute;left:12px;top:50%;transform:translateY(-50%);width:14px;height:14px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat}
+
+/* Events grid */
+.events-section{max-width:var(--max-w);margin:0 auto;padding:0 24px 48px}
+.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+.event-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:border-color 0.15s,box-shadow 0.15s;cursor:pointer;display:flex;flex-direction:column}
+.event-card:hover{border-color:oklch(80% 0.02 80);box-shadow:0 4px 16px oklch(0% 0 0 / 0.04)}
+.event-card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1}
+.event-img{width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--surface-2)}
+.event-img-placeholder{width:100%;aspect-ratio:16/9;background:var(--surface-2);display:flex;align-items:center;justify-content:center;font-size:28px;color:var(--border)}
+.event-body{padding:14px 16px;flex:1;display:flex;flex-direction:column}
+.event-date{font-size:11px;font-weight:700;color:var(--accent-dark);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:4px}
+.event-name{font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.event-venue{font-size:12px;color:var(--text-3);margin-top:auto;display:flex;align-items:center;gap:4px}
+.event-venue::before{content:'';width:3px;height:3px;border-radius:50%;background:var(--text-3);flex-shrink:0}
+.event-tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px}
+.event-tag{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;background:var(--surface-2);color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em}
+.event-tag.live-music{background:oklch(92% 0.04 320);color:oklch(45% 0.15 320)}
+.event-tag.comedy{background:oklch(92% 0.04 55);color:oklch(45% 0.15 55)}
+.event-tag.theatre{background:oklch(92% 0.04 25);color:oklch(45% 0.15 25)}
+.event-tag.family{background:oklch(92% 0.04 140);color:oklch(40% 0.12 140)}
+.event-tag.food-drink{background:oklch(92% 0.04 75);color:oklch(45% 0.12 75)}
+.event-tag.sport-fitness{background:oklch(92% 0.04 200);color:oklch(42% 0.12 200)}
+.event-tag.arts-culture{background:oklch(92% 0.04 290);color:oklch(42% 0.14 290)}
+.event-tag.wellbeing{background:oklch(92% 0.04 170);color:oklch(42% 0.12 170)}
+.event-tag.business{background:oklch(92% 0.02 250);color:oklch(42% 0.08 250)}
+.event-tag.markets{background:oklch(92% 0.04 100);color:oklch(42% 0.12 100)}
+.event-tag.dating{background:oklch(92% 0.04 350);color:oklch(42% 0.15 350)}
+
+/* No results */
+.no-results{text-align:center;padding:64px 24px;color:var(--text-3)}
+.no-results h3{font-size:18px;font-weight:700;color:var(--text);margin-bottom:4px}
+
+/* Load more */
+.load-more-wrap{text-align:center;padding:24px 0}
+.load-more{padding:10px 32px;border:1px solid var(--border);border-radius:var(--radius);font-size:13px;font-weight:600;font-family:var(--font-body);background:var(--surface);color:var(--text);cursor:pointer;transition:all 0.15s}
+.load-more:hover{border-color:var(--accent);color:var(--accent-dark)}
+
+/* Newsletter */
+.newsletter{max-width:var(--max-w);margin:0 auto;padding:48px 24px}
+.newsletter-box{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:40px;display:flex;gap:32px;align-items:center}
+.newsletter-box h2{font-family:var(--font-display);font-size:24px;font-weight:900;letter-spacing:-0.02em;margin-bottom:4px}
+.newsletter-box p{color:var(--text-2);font-size:14px;line-height:1.5}
+.newsletter-form{display:flex;gap:8px;margin-top:12px}
+.newsletter-form input{padding:10px 16px;border:1px solid var(--border);border-radius:8px;font-size:13px;font-family:var(--font-body);flex:1;min-width:200px;outline:none}
+.newsletter-form input:focus{border-color:var(--accent)}
+.newsletter-form button{padding:10px 24px;background:var(--text);color:var(--bg);border:none;border-radius:8px;font-size:13px;font-weight:700;font-family:var(--font-body);cursor:pointer;white-space:nowrap;transition:opacity 0.15s}
+.newsletter-form button:hover{opacity:0.85}
+
+/* Footer */
+footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid var(--border);color:var(--text-3);font-size:11px;display:flex;justify-content:space-between}
+
+/* Responsive */
+@media(max-width:640px){
+  .hero{padding:32px 20px 24px}
+  .hero-stats{gap:20px}
+  .filters{padding:0 20px 16px}
+  .events-section{padding:0 20px 32px}
+  .events-grid{grid-template-columns:1fr}
+  .search-box{margin-left:0;width:100%;order:-1;flex:1 1 100%}
+  .search-box input{width:100%}
+  .newsletter-box{flex-direction:column;padding:28px 24px;gap:16px}
+  .newsletter-form{flex-direction:column}
+  .newsletter-form input{min-width:0}
+  .header-r a:not(.newsletter-btn){display:none}
+  footer{flex-direction:column;gap:4px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Cheltenham Events <span>beta</span></div>
+  <div class="header-r">
+    <a href="#newsletter">Newsletter</a>
+    <a href="#" class="newsletter-btn">Submit an event</a>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>What's on in Cheltenham</h1>
+  <p>Live music, comedy, theatre, food, markets and more. Everything happening in and around Cheltenham, in one place.</p>
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <div class="num" id="event-count">0</div>
+      <div class="label">Events</div>
+    </div>
+    <div class="hero-stat">
+      <div class="num" id="venue-count">0</div>
+      <div class="label">Venues</div>
+    </div>
+    <div class="hero-stat">
+      <div class="num" id="source-count">3</div>
+      <div class="label">Sources</div>
+    </div>
+  </div>
+</section>
+
+<div class="filters" id="filters">
+  <div class="search-box">
+    <input type="text" id="search" placeholder="Search events or venues...">
+  </div>
+</div>
+
+<section class="events-section">
+  <div class="events-grid" id="events-grid"></div>
+  <div class="no-results" id="no-results" style="display:none">
+    <h3>No events found</h3>
+    <p>Try a different filter or search term.</p>
+  </div>
+  <div class="load-more-wrap" id="load-more-wrap">
+    <button class="load-more" id="load-more">Show more events</button>
+  </div>
+</section>
+
+<section class="newsletter" id="newsletter">
+  <div class="newsletter-box">
+    <div>
+      <h2>Get the weekly roundup</h2>
+      <p>Every Friday, the best events happening in Cheltenham next week. No spam, unsubscribe anytime.</p>
+      <form class="newsletter-form" id="newsletter-form">
+        <input type="email" placeholder="you@email.com" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>Cheltenham Events. Data from Eventbrite, Dunkertons, Deya Brewing and more.</span>
+  <span>Updated weekly.</span>
+</footer>
+
+<script>
+(function(){
+  const EVENTS_PER_PAGE = 24;
+  let allEvents = [];
+  let filteredEvents = [];
+  let currentFilter = 'all';
+  let currentSearch = '';
+  let visibleCount = EVENTS_PER_PAGE;
+
+  const categories = [
+    {id:'all', label:'All'},
+    {id:'live-music', label:'Live Music'},
+    {id:'comedy', label:'Comedy'},
+    {id:'theatre', label:'Theatre'},
+    {id:'family', label:'Family'},
+    {id:'food-drink', label:'Food & Drink'},
+    {id:'sport-fitness', label:'Sport & Fitness'},
+    {id:'arts-culture', label:'Arts & Culture'},
+    {id:'wellbeing', label:'Wellbeing'},
+    {id:'business', label:'Business'},
+    {id:'markets', label:'Markets'},
+    {id:'dating', label:'Dating'}
+  ];
+
+  function formatDate(dateStr){
+    if(!dateStr || dateStr.length < 10) return '';
+    try{
+      const d = new Date(dateStr + 'T00:00:00');
+      const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      return days[d.getDay()] + ' ' + d.getDate() + ' ' + months[d.getMonth()];
+    }catch(e){return dateStr}
+  }
+
+  function renderFilters(){
+    const container = document.getElementById('filters');
+    const searchBox = container.querySelector('.search-box');
+    
+    const counts = {all: allEvents.length};
+    allEvents.forEach(e => {
+      (e.categories||[]).forEach(c => {
+        counts[c] = (counts[c]||0) + 1;
+      });
+    });
+    
+    categories.forEach(cat => {
+      if(cat.id !== 'all' && !counts[cat.id]) return;
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn' + (cat.id === currentFilter ? ' active' : '');
+      btn.innerHTML = cat.label;
+      if(counts[cat.id]) btn.innerHTML += '<span class="filter-count">' + counts[cat.id] + '</span>';
+      btn.onclick = function(){
+        currentFilter = cat.id;
+        visibleCount = EVENTS_PER_PAGE;
+        applyFilters();
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+      };
+      container.insertBefore(btn, searchBox);
+    });
+  }
+
+  function applyFilters(){
+    const q = currentSearch.toLowerCase().trim();
+    filteredEvents = allEvents.filter(e => {
+      if(currentFilter !== 'all' && !(e.categories||[]).includes(currentFilter)) return false;
+      if(q){
+        const name = (e.name||'').toLowerCase();
+        const venue = (e.venue||'').toLowerCase();
+        if(!name.includes(q) && !venue.includes(q)) return false;
+      }
+      return true;
+    });
+    renderEvents();
+  }
+
+  function renderEvents(){
+    const grid = document.getElementById('events-grid');
+    const noResults = document.getElementById('no-results');
+    const loadMoreWrap = document.getElementById('load-more-wrap');
+    
+    grid.innerHTML = '';
+    
+    if(filteredEvents.length === 0){
+      noResults.style.display = '';
+      loadMoreWrap.style.display = 'none';
+      return;
+    }
+    
+    noResults.style.display = 'none';
+    const toShow = filteredEvents.slice(0, visibleCount);
+    
+    toShow.forEach(e => {
+      const card = document.createElement('div');
+      card.className = 'event-card';
+      
+      const dateFormatted = formatDate(e.date);
+      const cats = (e.categories||[]).filter(c=>c!=='other').map(c => 
+        '<span class="event-tag ' + c + '">' + c.replace('-',' ') + '</span>'
+      ).join('');
+      
+      let imgHtml;
+      if(e.image){
+        imgHtml = '<img class="event-img" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder></div>\'">';
+      } else {
+        imgHtml = '<div class="event-img-placeholder"></div>';
+      }
+      
+      const url = e.url || '#';
+      
+      card.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' +
+        imgHtml +
+        '<div class="event-body">' +
+          (dateFormatted ? '<div class="event-date">' + dateFormatted + '</div>' : '') +
+          '<div class="event-name">' + e.name + '</div>' +
+          (e.venue ? '<div class="event-venue">' + e.venue + '</div>' : '') +
+          (cats ? '<div class="event-tags">' + cats + '</div>' : '') +
+        '</div>' +
+      '</a>';
+      
+      grid.appendChild(card);
+    });
+    
+    loadMoreWrap.style.display = visibleCount >= filteredEvents.length ? 'none' : '';
+  }
+
+  function updateStats(){
+    document.getElementById('event-count').textContent = allEvents.length;
+    const venues = new Set(allEvents.map(e=>e.venue).filter(Boolean));
+    document.getElementById('venue-count').textContent = venues.size;
+  }
+
+  // Load events
+  fetch('events.json')
+    .then(r => r.json())
+    .then(data => {
+      allEvents = data;
+      filteredEvents = data;
+      updateStats();
+      renderFilters();
+      renderEvents();
+    })
+    .catch(err => {
+      console.error('Failed to load events:', err);
+      document.getElementById('events-grid').innerHTML = '<p style="color:var(--text-3);padding:24px">Failed to load events. Please refresh.</p>';
+    });
+
+  // Search
+  let searchTimeout;
+  document.getElementById('search').addEventListener('input', function(){
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(function(){
+      currentSearch = document.getElementById('search').value;
+      visibleCount = EVENTS_PER_PAGE;
+      applyFilters();
+    }, 200);
+  });
+
+  // Load more
+  document.getElementById('load-more').addEventListener('click', function(){
+    visibleCount += EVENTS_PER_PAGE;
+    renderEvents();
+  });
+
+  // Newsletter form
+  document.getElementById('newsletter-form').addEventListener('submit', function(ev){
+    ev.preventDefault();
+    const email = this.querySelector('input').value;
+    this.innerHTML = '<p style="color:var(--accent-dark);font-weight:600">Subscribed. See you Friday.</p>';
+  });
+})();
+</script>
+
+</body>
+</html>
