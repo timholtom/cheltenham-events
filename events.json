@@ -1,4162 +1,937 @@
 [
   {
-    "name": "Social Gaming Worcester",
-    "date": "2026-03-25",
-    "venue": "The Dice Box",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/social-gaming-worcester-tickets-1981938056078",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": false
-  },
-  {
-    "name": "WILD Wednesday at Velvet!",
-    "date": "2026-03-25",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/wild-wednesday-at-velvet-tickets-1985455025428",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Healthy Housing in a Changing Climate: Planetary Health lectures",
-    "date": "2026-03-25",
-    "venue": "University of Gloucestershire, City Campus",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/healthy-housing-in-a-changing-climate-planetary-health-lectures-tickets-1983389599684",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": false
-  },
-  {
-    "name": "Meditation Class | Wednesday | Thornbury | 6 - 7 pm",
-    "date": "2026-03-25",
-    "venue": "Chantry Community & Arts Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/meditation-class-wednesday-thornbury-6-7-pm-tickets-1983440551081",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": false
-  },
-  {
     "name": "The Wonderful Art of Michael Harrison at Hatchards Cheltenham",
     "date": "2026-03-25",
     "venue": "Hatchards",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/the-wonderful-art-of-michael-harrison-at-hatchards-cheltenham-tickets-1983192536262",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F464968629%2F249434687474%2F1%2Foriginal.20210811-120145?auto=format%2Ccompress&q=75&sharp=10&s=ed46034bd5e17d02a87de6ace1f15c11",
+    "source": "eventbrite",
+    "on_sale": false,
     "categories": [
       "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": false
+    ]
   },
   {
-    "name": "Mac Street Diner",
-    "date": "2026-03-25 to 2026-03-29",
+    "name": "Mac Street Diner at DEYA",
+    "date": "2026-03-25",
     "venue": "DEYA Taproom",
-    "city": "",
+    "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "food-drink"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "Smiths of Bourton (multiple sessions)",
-    "date": "2026-03-25 to 2026-04-26",
-    "venue": "DEYA Taproom",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "From Posts to Profit: The social media workshop for busy business owners",
-    "date": "2026-03-26",
-    "venue": "The Arden Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/from-posts-to-profit-the-social-media-workshop-for-busy-business-owners-tickets-1983274202528",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sofa Screenings - 'If I Had Legs I'd Kick You\u2019 Thursday 26th March (15)",
-    "date": "2026-03-26",
-    "venue": "Create Studios Digital Media C.I.C",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sofa-screenings-if-i-had-legs-id-kick-you-thursday-26th-march-15-tickets-1982972879262",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Cheese Club",
-    "date": "2026-03-26",
-    "venue": "The Salutation Inn",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/cheese-club-tickets-1984558674418",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Sinister Side of Shakespeare's Stratford - Ghost Walk",
-    "date": "2026-03-26",
-    "venue": "Sinister Stratford",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-sinister-side-of-shakespeares-stratford-ghost-walk-tickets-1978180399827",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Talk Property - Cheltenham",
     "date": "2026-03-26",
     "venue": "The Ivy Montpellier Brasserie Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/talk-property-cheltenham-tickets-1984293273597",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178787586%2F154992467434%2F1%2Foriginal.20260302-135937?auto=format%2Ccompress&q=75&sharp=10&s=b1012763c8978ceb82c3ffc0cf275144",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Charlotte Tilbury Skincare & Makeup Must Haves",
     "date": "2026-03-26",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/charlotte-tilbury-skincare-makeup-must-haves-tickets-1983079678702",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177465593%2F678163826753%2F1%2Foriginal.20260213-140554?auto=format%2Ccompress&q=75&sharp=10&s=401c678e15f1aaf5814fd4b062f019db",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "BNI Compass (Gloucester)",
-    "date": "2026-03-26",
-    "venue": "Patch Gloucester",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/bni-compass-gloucester-tickets-1890695514179",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Dance Fitness with prosperity care",
-    "date": "2026-03-26",
-    "venue": "Jolt Studios",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/dance-fitness-with-prosperity-care-tickets-1982874237221",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Connections over Coffee",
-    "date": "2026-03-27",
-    "venue": "The Forum - Gloucester",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/connections-over-coffee-tickets-1981855481094",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Andersons Seminar 2026- Prospects for UK Agriculture - Cirencester",
-    "date": "2026-03-27",
-    "venue": "Royal Agricultural University",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/andersons-seminar-2026-prospects-for-uk-agriculture-cirencester-tickets-1802176391099",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "TOP Club Worcester Clubhouse (at the Worcestershire County Cricket Club)",
-    "date": "2026-03-27",
-    "venue": "Worcestershire County Cricket Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/top-club-worcester-clubhouse-at-the-worcestershire-county-cricket-club-tickets-1985140045314",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Fresh Fridays",
-    "date": "2026-03-27",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/fresh-fridays-tickets-1984820602853",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NSBRC Guide to Self Build Projects - 27th - 29th March 2026",
-    "date": "2026-03-27",
-    "venue": "The National Self Build & Renovation Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nsbrc-guide-to-self-build-projects-27th-29th-march-2026-tickets-1469551781939",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": false
-  },
-  {
-    "name": "Swindon Old Town Comedy Club Live at Christ Church Community Centre",
-    "date": "2026-03-27",
-    "venue": "Christ Church Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/swindon-old-town-comedy-club-live-at-christ-church-community-centre-tickets-1980911197717",
-    "image": "",
-    "categories": [
-      "live-music",
-      "comedy"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "SNAP Breakfast Seminar Friday 27 March 2026",
-    "date": "2026-03-27",
-    "venue": "Thrings",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/snap-breakfast-seminar-friday-27-march-2026-tickets-1984290964691",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/comedy-huddle-tickets-1981427576219",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175645548%2F1028489781793%2F1%2Foriginal.20260123-143011?auto=format%2Ccompress&q=75&sharp=10&s=8545bcc3dea1046bda0d921b849eb3ae",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "comedy"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Steve Ferbrache - singer songwriter with an incredible voice",
-    "date": "2026-03-27",
-    "venue": "Nailsworth Community Workshop",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/steve-ferbrache-singer-songwriter-with-an-incredible-voice-tickets-1983075415952",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Gloucester Ghost Tour",
-    "date": "2026-03-27",
-    "venue": "Folk of Gloucester",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/gloucester-ghost-tour-tickets-1536789301169",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "In Real Life: The Friday Table - Jewel Balti",
-    "date": "2026-03-27",
-    "venue": "Jewel Balti Monmouth",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/in-real-life-the-friday-table-jewel-balti-tickets-1983617635746",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Styling Showcase with ghd Speed \u2013 Celebrating Official Good Hair Day",
     "date": "2026-03-27",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/styling-showcase-with-ghd-speed-celebrating-official-good-hair-day-tickets-1983962775067",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178410477%2F678163826753%2F1%2Foriginal.20260225-145930?auto=format%2Ccompress&q=75&sharp=10&s=57a3c296fe102621c48fef02d2896002",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Beginner Microsoft Copilot training",
     "date": "2026-03-27",
     "venue": "Frogmore House, Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/beginner-microsoft-copilot-training-tickets-1983271406164",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177642751%2F2922661579141%2F1%2Foriginal.20260216-164718?auto=format%2Ccompress&q=75&sharp=10&s=6b59523b84efdee60c2d979c17f7754c",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Evening of Mediumship with Nikki Kitt - Gloucester",
-    "date": "2026-03-27",
-    "venue": "Wotton Hall Social Club Limited",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/evening-of-mediumship-with-nikki-kitt-gloucester-tickets-1980978717671",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "This is Country",
     "date": "2026-03-27",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
-      "other"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
+      "live-music"
+    ]
   },
   {
     "name": "Cheltenham Card Show - March 2026 - 2 Days",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/cheltenham-card-show-march-2026-2-days-tickets-1802076191399",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173470081%2F2051199908233%2F1%2Foriginal.20251223-194625?auto=format%2Ccompress&q=75&sharp=10&s=30a671f08e6c199f811fefdd6141f40e",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Awakening Strength Throwdown",
-    "date": "2026-03-28",
-    "venue": "Awakening Strength",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/awakening-strength-throwdown-tickets-1984044851560",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Oliver Darling & The Living  Legends + The Blue Cats",
-    "date": "2026-03-28",
-    "venue": "Winderton Church",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/oliver-darling-the-living-legends-the-blue-cats-tickets-1980879817859",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The BIG Saturday Night Out",
-    "date": "2026-03-28",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-big-saturday-night-out-tickets-1984820720204",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Portrait Drawing from a photograph",
-    "date": "2026-03-28",
-    "venue": "The Friends Meeting House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/portrait-drawing-from-a-photograph-tickets-1984877060720",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Bring your own art project",
-    "date": "2026-03-28",
-    "venue": "The Friends Meeting House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/bring-your-own-art-project-tickets-1985364135574",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Crystal bracelet making workshop",
-    "date": "2026-03-28",
-    "venue": "Studley Parish Centre",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/crystal-bracelet-making-workshop-tickets-1981425385667",
-    "image": "",
-    "categories": [
-      "sport-fitness",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Hayao Miyazaki's Dreams by Mystery Ensemble",
     "date": "2026-03-28",
     "venue": "Parabola Arts Centre",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/hayao-miyazakis-dreams-by-mystery-ensemble-tickets-1982181658700",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180462012%2F950342392673%2F1%2Foriginal.20260323-131827?auto=format%2Ccompress&q=75&sharp=10&s=bbda062cb8fa95b53a01c72a86e8641c",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "TA101 - Two-Day Introductory Course to Transactional Analysis",
-    "date": "2026-03-28",
-    "venue": "Goldney House Wellness Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ta101-two-day-introductory-course-to-transactional-analysis-tickets-1683441060529",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Wild Woman Flow & Sound-bath Journey",
-    "date": "2026-03-28",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/wild-woman-flow-sound-bath-journey-tickets-1976745702609",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Somatic Flow Yoga | Every Saturday | 10:30-11:30 | Stroud Yoga Space",
-    "date": "2026-03-28",
-    "venue": "Stroud Yoga Space & Shop",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/somatic-flow-yoga-every-saturday-1030-1130-stroud-yoga-space-tickets-1321535561439",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Malvern Hills Nearly New Sale",
-    "date": "2026-03-28",
-    "venue": "The Dome, Malvern St James School",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/malvern-hills-nearly-new-sale-tickets-1981716704008",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Floating Sound Bath",
-    "date": "2026-03-29",
-    "venue": "Tewkesbury Leisure Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/floating-sound-bath-tickets-1965417121518",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Swindon's Craft & Flea Market",
-    "date": "2026-03-29",
-    "venue": "STEAM - Museum of the Great Western Railway",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/swindons-craft-flea-market-tickets-1983080772975",
-    "image": "",
-    "categories": [
-      "arts-culture",
-      "markets"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sunday Community Sound Bath at Kyndfolk - 29th March",
-    "date": "2026-03-29",
-    "venue": "Kyndfolk",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sunday-community-sound-bath-at-kyndfolk-29th-march-tickets-1985229137792",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Flow Into Stillness \u2014 90-Minute Workshop",
-    "date": "2026-03-29",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/flow-into-stillness-90-minute-workshop-tickets-1982964263492",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Reiki Infused Sound Bath with Pili",
-    "date": "2026-03-29",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/reiki-infused-sound-bath-with-pili-tickets-1982964353762",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "YOU-TIME WEEKLY YIN YOGA CLASSES",
-    "date": "2026-03-29",
-    "venue": "Chalford Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/you-time-weekly-yin-yoga-classes-tickets-999665104237",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Lets talk menopause by Dr Javed",
-    "date": "2026-03-30",
-    "venue": "Bruno's Bakery",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/lets-talk-menopause-by-dr-javed-tickets-1983871341587",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Paint and Sip @ The Hollybush",
-    "date": "2026-03-30",
-    "venue": "The Hollybush",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/paint-and-sip-the-hollybush-tickets-1982830295791",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mon 10.15am Strong & Stable at Turnberries",
-    "date": "2026-03-30",
-    "venue": "Turnberries Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.ca/e/mon-1015am-strong-stable-at-turnberries-tickets-1979183401833",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Guided SUDS walk around Robinswood Hill Country Park",
-    "date": "2026-03-31",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/guided-suds-walk-around-robinswood-hill-country-park-tickets-1981927898697",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "How to build a rain garden",
-    "date": "2026-03-31",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/how-to-build-a-rain-garden-tickets-1981927007030",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Taster Session Booking - Calm Together with Laura and the YogaBears",
-    "date": "2026-03-31",
-    "venue": "The Fold - Venue Hire, Organic Farm, Artists Studios, Shops, Markets, Nature Trail, Cafe",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/taster-session-booking-calm-together-with-laura-and-the-yogabears-tickets-1985676942187",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "TechConnect",
-    "date": "2026-03-31",
-    "venue": "Workshed Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/techconnect-tickets-1977875486824",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Les brettall PSYCHIC NIGHT",
-    "date": "2026-03-31",
-    "venue": "The Feathers Sport & Music Lounge",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/les-brettall-psychic-night-tickets-1985444657417",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Day Time Cinema Presents: Operation Mincemeat",
-    "date": "2026-03-31",
-    "venue": "The Corn Exchange",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/day-time-cinema-presents-operation-mincemeat-tickets-1981161401082",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Non League Networking \"Bards Brunch\" @ Stratford Town FC",
-    "date": "2026-03-31",
-    "venue": "Stratford Town Football Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/non-league-networking-bards-brunch-stratford-town-fc-tickets-1983458538883",
-    "image": "",
-    "categories": [
-      "food-drink",
-      "sport-fitness",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
     "date": "2026-03-31",
     "venue": "The Site",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/dress-the-part-a-wardrobe-to-define-your-career-success-tickets-1983780741600",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178699272%2F2164024883063%2F1%2Foriginal.20260228-222856?auto=format%2Ccompress&q=75&sharp=10&s=cc52f1dcb50cae012d2293e317283e8b",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "arts-culture",
       "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Easter Tablescaping Masterclass",
     "date": "2026-03-31",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/easter-tablescaping-masterclass-tickets-1983364723278",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177730659%2F678163826753%2F1%2Foriginal.20260217-152837?auto=format%2Ccompress&q=75&sharp=10&s=0685bb8be9f5211ec759137aeea97a75",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "AVEDA X GHD Shine & Style Masterclass",
     "date": "2026-03-31",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/aveda-x-ghd-shine-style-masterclass-tickets-1982068424012",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176321954%2F678163826753%2F1%2Foriginal.20260131-105443?auto=format%2Ccompress&q=75&sharp=10&s=7ee894e596b54338e2112fcc8935ee5a",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "EQUUS360 - A WHOLE HORSE ADVENTURE FOR YOUNG EQUESTRIANS - AGE 8-11yrs",
-    "date": "2026-03-31",
-    "venue": "Treworgan Farm",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/equus360-a-whole-horse-adventure-for-young-equestrians-age-8-11yrs-tickets-1983550095732",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Paint Better Pictures one at a time",
-    "date": "2026-04-01",
-    "venue": "The Friends Meeting House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/paint-better-pictures-one-at-a-time-tickets-1985275825436",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Pond Explorers - Wild Child Workshop!",
-    "date": "2026-04-01",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/pond-explorers-wild-child-workshop-tickets-1981931958841",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sewer Flooding with Severn Trent",
-    "date": "2026-04-01",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sewer-flooding-with-severn-trent-tickets-1982003031421",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NCT Stratford upon Avon Bumps and Babies with feeding support",
-    "date": "2026-04-01",
-    "venue": "Venture House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nct-stratford-upon-avon-bumps-and-babies-with-feeding-support-tickets-1980456867804",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Property & Poppadoms - Cheltenham",
     "date": "2026-04-01",
     "venue": "Indian Brasserie",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/property-poppadoms-cheltenham-tickets-1245911588099",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F694010309%2F1722536547263%2F1%2Foriginal.20240209-191535?auto=format%2Ccompress&q=75&sharp=10&s=40b1000795f4b57c43a1f4ccca521a23",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
-    "name": "Ladies Networking - Herefordshire means Business 4 Women",
+    "name": "The Real CSI @ The Swamp",
     "date": "2026-04-01",
-    "venue": "Shell Store",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ladies-networking-herefordshire-means-business-4-women-tickets-1492024929729",
+    "venue": "The Swamp / DEYA",
+    "source": "deya",
+    "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Netwalking for Women in Business",
-    "date": "2026-04-01",
-    "venue": "Crickley Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/netwalking-for-women-in-business-tickets-1965295871857",
-    "image": "",
-    "categories": [
-      "sport-fitness",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Dungeons and Dragons",
-    "date": "2026-04-02",
-    "venue": "The Dice Box",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/dungeons-and-dragons-tickets-1983546418734",
-    "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Easter Break Up Party! 18+",
-    "date": "2026-04-02",
-    "venue": "Tramps Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/easter-break-up-party-18-tickets-1985599635962",
-    "image": "",
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Wildlife Ponds Talk with Mini-Pond Workshop",
-    "date": "2026-04-02",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/wildlife-ponds-talk-with-mini-pond-workshop-tickets-1982003381468",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/speed-dating-age-28-45-tickets-1983386488378",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176819360%2F2667127565171%2F1%2Foriginal.20260205-205725?auto=format%2Ccompress&q=75&sharp=10&s=d8829506fdb3effb26516f2dc97bd6eb",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "dating"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Full Moon Evening of  Clairvoyance with Psychic Medium Julie Angel, Evesham",
-    "date": "2026-04-02",
-    "venue": "Hampton Working Men's Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/full-moon-evening-of-clairvoyance-with-psychic-medium-julie-angel-evesham-tickets-1983679430576",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "'Cinema @ Civic' Ice Age Thursday 2nd April",
-    "date": "2026-04-02",
-    "venue": "Swindon Borough Council",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/cinema-civic-ice-age-thursday-2nd-april-tickets-1982887028480",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Nature Tots - Crickley Hill - Spring is Springing",
-    "date": "2026-04-02",
-    "venue": "Crickley Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nature-tots-crickley-hill-spring-is-springing-tickets-1982969327639",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Cleeve Common Spring Trail",
     "date": "2026-04-03",
     "venue": "Cleeve Common",
-    "city": "",
+    "city": "Bishops Cleeve",
     "url": "https://www.eventbrite.co.uk/e/cleeve-common-spring-trail-tickets-1980580470503",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174887820%2F193915738348%2F1%2Foriginal.20260114-204931?auto=format%2Ccompress&q=75&sharp=10&s=931ecdd4a8803afbbd4d156a3bff33ac",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Takeover Reload",
-    "date": "2026-04-03",
-    "venue": "Power Lounge Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/takeover-reload-tickets-1982632224354",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Good Friday - Easter Party! 18+",
-    "date": "2026-04-03",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/good-friday-easter-party-18-tickets-1985594398296",
-    "image": "",
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Friday Evening  Sound Bath - 3rd April",
-    "date": "2026-04-03",
-    "venue": "Claines Church Institute",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/friday-evening-sound-bath-3rd-april-tickets-1982623192339",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Discoliscious - Denise Van Outen",
     "date": "2026-04-03",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "live-music"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
+    ]
   },
   {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.com/e/over-40s-day-party-tickets-1982715380075",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178218670%2F2986516250713%2F1%2Foriginal.20260223-172829?auto=format%2Ccompress&q=75&sharp=10&s=10c74b164343919f8049c55e92cda96f",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Orbit Card Show @ Cheltenham Racecourse",
     "date": "2026-04-04",
     "venue": "Cheltenham Racecourse",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/orbit-card-show-cheltenham-racecourse-tickets-1983193204260",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171581906%2F2880405825001%2F1%2Foriginal.20251123-110657?auto=format%2Ccompress&q=75&sharp=10&s=c8cd23e23bd10a66804ea8139914d8e1",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre",
       "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "70s Day Party Comes to Swindon!",
-    "date": "2026-04-04",
-    "venue": "Kioki",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/70s-day-party-comes-to-swindon-tickets-1969024774104",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The BIG Easter Night Out!",
-    "date": "2026-04-04",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-big-easter-night-out-tickets-1985599459434",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Spring Landscape Watercolour Painting Workshop.",
-    "date": "2026-04-04",
-    "venue": "The Friends Meeting House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/spring-landscape-watercolour-painting-workshop-tickets-1985517144227",
-    "image": "",
-    "categories": [
-      "arts-culture",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Easter Egg Trail 2026 - Swindon",
-    "date": "2026-04-04",
-    "venue": "Old Town Gardens",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/easter-egg-trail-2026-swindon-tickets-1983074448057",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "ELEMIS Power of Serums Masterclass",
     "date": "2026-04-04",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/elemis-power-of-serums-masterclass-tickets-1983080039782",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177466598%2F678163826753%2F1%2Foriginal.20260213-141905?auto=format%2Ccompress&q=75&sharp=10&s=fcc98d1ad71811fde55ac61f267abe89",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Easter Extravaganza Party",
-    "date": "2026-04-04",
-    "venue": "DoubleTree by Hilton Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/easter-extravaganza-party-tickets-1980072877278",
-    "image": "",
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "15 Years of TBAG",
-    "date": "2026-04-04",
-    "venue": "Cotswold Airport",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/15-years-of-tbag-tickets-1975226854694",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Ibiza Anthems - 90's vs 00's",
     "date": "2026-04-04",
     "venue": "Under the Prom",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/ibiza-anthems-90s-vs-00s-tickets-1978894603028",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173453626%2F383495851287%2F1%2Foriginal.20251223-150337?auto=format%2Ccompress&q=75&sharp=10&s=3fd4389ba747cd849093a0982fd62fe3",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "BOTTOMLESS Brunch CHELTENHAM",
     "date": "2026-04-04",
     "venue": "Somerset Arms",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/bottomless-brunch-cheltenham-tickets-1983206615373",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177579316%2F316588342403%2F1%2Foriginal.20260215-191207?auto=format%2Ccompress&q=75&sharp=10&s=9b5cf05ccc716a90d946586b734c657e",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "food-drink",
       "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Breakfast with Easter Bunny",
-    "date": "2026-04-05",
-    "venue": "Macdonald Alveston Manor Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/breakfast-with-easter-bunny-tickets-1982443325352",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Easter Sunday Party! 18+",
-    "date": "2026-04-05",
-    "venue": "Velvet Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/easter-sunday-party-18-tickets-1985736249577",
-    "image": "",
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "CACAO.CREATE.CONNECT.",
-    "date": "2026-04-05",
-    "venue": "Dolphin House Arts",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/cacaocreateconnect-tickets-1983652616374",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Reggae Brunch - SWINDON - Sun 5th Apr - Easter Special",
-    "date": "2026-04-05",
-    "venue": "Kioki",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/the-reggae-brunch-swindon-sun-5th-apr-easter-special-tickets-1980991627284",
-    "image": "",
-    "categories": [
-      "family",
-      "food-drink",
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Witney Business Buzz  Networking",
-    "date": "2026-04-07",
-    "venue": "34 Market Square",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/witney-business-buzz-networking-tickets-1976163715871",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Himalayan Sound Bath in Painswick",
-    "date": "2026-04-07",
-    "venue": "The Painswick Centre",
-    "city": "",
-    "url": "https://www.eventbrite.sg/e/himalayan-sound-bath-in-painswick-tickets-1982680652203",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "FREE Nature Nurtures Fun Day",
-    "date": "2026-04-07",
-    "venue": "Robinswood Hill Country Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/free-nature-nurtures-fun-day-tickets-1983760384712",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Women Only | New To Yoga | Near Worcester (4 weeks)",
-    "date": "2026-04-08",
-    "venue": "The Fold",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/women-only-new-to-yoga-near-worcester-4-weeks-tickets-1985737763104",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Complete Portrait Course",
-    "date": "2026-04-08",
-    "venue": "The Friends Meeting House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/complete-portrait-course-tickets-1985722373072",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Comic Book Workshop with the creators of Tiny Hercules - Gloucester",
-    "date": "2026-04-08",
-    "venue": "Waterstones",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/comic-book-workshop-with-the-creators-of-tiny-hercules-gloucester-tickets-1983884198041",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Gloucester Retailers' Meeting",
-    "date": "2026-04-08",
-    "venue": "Primark",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/gloucester-retailers-meeting-tickets-1760885468839",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
     "date": "2026-04-09",
     "venue": "Parabola Arts Centre",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/a-psychologists-guide-to-expressing-female-rage-tickets-1983963976661",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178412885%2F2813136321771%2F1%2Foriginal.20260225-152250?auto=format%2Ccompress&q=75&sharp=10&s=4ee491b976b2e797eeefcf0b50565e9c",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Breathwork and Soundbath Journey",
-    "date": "2026-04-09",
-    "venue": "Purton Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/breathwork-and-soundbath-journey-tickets-1985699727338",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "BASC Junior Member Young Shot Progression Day at Ian Coley Sporting",
     "date": "2026-04-09",
     "venue": "Ian Coley Sporting",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/basc-junior-member-young-shot-progression-day-at-ian-coley-sporting-tickets-1983254415344",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F650168679%2F185905646471%2F1%2Foriginal.20231129-111821?auto=format%2Ccompress&q=75&sharp=10&s=f36cfe6ac465ffe2fb6a3cc51fffc6d5",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Dram - Exchange!",
     "date": "2026-04-09",
     "venue": "Stagedoor Learning Ltd",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/dram-exchange-tickets-1980250677082",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175329779%2F2988307006869%2F1%2Foriginal.20260120-125936?auto=format%2Ccompress&q=75&sharp=10&s=7acdc132d1001fa35927abacde029c33",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
-    "name": "HOhME Sound Journey",
+    "name": "Spring Session at The Tappy",
     "date": "2026-04-10",
-    "venue": "The Fold",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/hohme-sound-journey-tickets-1984676979271",
+    "venue": "The Tappy",
+    "source": "deya",
+    "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Find Your Inner Spark - week one",
-    "date": "2026-04-10",
-    "venue": "Lyppard Hub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/find-your-inner-spark-week-one-tickets-1985059576630",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Malvern Archers UKRS-CTD (WA70 etc.) 2026 No. 1",
-    "date": "2026-04-10",
-    "venue": "Malvern Archers",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/malvern-archers-ukrs-ctd-wa70-etc-2026-no-1-tickets-1563073136829",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Elder Emo Day Party in Swindon!",
-    "date": "2026-04-11",
-    "venue": "Kioki",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/elder-emo-day-party-in-swindon-tickets-1969025322745",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Cheltenham: Quantum Gong Bath,Guided Meditation+Light Language",
     "date": "2026-04-11",
     "venue": "The Isbourne - Holistic Wellbeing",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/cheltenham-quantum-gong-bathguided-meditationlight-language-tickets-1979665975223",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173948608%2F632946163373%2F1%2Foriginal.20260104-181041?auto=format%2Ccompress&q=75&sharp=10&s=5fe7f729bdf591b6e527655008a72234",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "The Old Prison Ghost Hunts  With Haunting Nights",
     "date": "2026-04-11",
     "venue": "The Old Prison",
-    "city": "",
+    "city": "Northleach",
     "url": "https://www.eventbrite.co.uk/e/the-old-prison-ghost-hunts-with-haunting-nights-tickets-1979975351576",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F886524293%2F293063955376%2F1%2Foriginal.20241029-190518?auto=format%2Ccompress&q=75&sharp=10&s=be6e98eed4bfbdf06a85cbe52585e470",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Corinium Ales ~ Brewery Tour & Tasting",
-    "date": "2026-04-11",
-    "venue": "Corinium Ales Ltd",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/corinium-ales-brewery-tour-tasting-tickets-1981848785066",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Robinswood Hill Clean Up with Life's a Beach",
-    "date": "2026-04-11",
-    "venue": "Robinswood Hill",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/robinswood-hill-clean-up-with-lifes-a-beach-tickets-1981419029656",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mosaic Art Workshop in Swindon",
-    "date": "2026-04-12",
-    "venue": "Central Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/mosaic-art-workshop-in-swindon-tickets-1980890887970",
-    "image": "",
-    "categories": [
-      "arts-culture",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
-    "city": "",
+    "city": "Elkstone",
     "url": "https://www.eventbrite.co.uk/e/nurture-nourish-tickets-1982350430501",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176678857%2F2001245276573%2F1%2Foriginal.20260204-155005?auto=format%2Ccompress&q=75&sharp=10&s=1b66fcec9b6f5d3b2ec6ef3a32d18e5a",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "In Real Life: Paddle Boarding on the River Wye",
-    "date": "2026-04-12",
-    "venue": "Riverside Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/in-real-life-paddle-boarding-on-the-river-wye-tickets-1983898827799",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Supercars & Classics - Macchina Cotswolds x The Dial House",
     "date": "2026-04-12",
     "venue": "The Dial House Hotel & Restaurant",
-    "city": "",
+    "city": "Bourton-on-the-Water",
     "url": "https://www.eventbrite.com/e/supercars-classics-macchina-cotswolds-x-the-dial-house-tickets-1984334459786",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178839969%2F2597758154771%2F1%2Foriginal.20260117-233540?auto=format%2Ccompress&q=75&sharp=10&s=ff167440ccf57deb6e149c5525cbe469",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Reiki and Yoga Nidra Restorative Workshop",
-    "date": "2026-04-12",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/reiki-and-yoga-nidra-restorative-workshop-tickets-1976753510964",
-    "image": "",
-    "categories": [
-      "sport-fitness",
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "TEMPLE GRAFTON GONG BATH : A Sound Healing Journey",
-    "date": "2026-04-13",
-    "venue": "The Graftons Village Hall B49 6NU",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/temple-grafton-gong-bath-a-sound-healing-journey-tickets-1984929952922",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Block Booking - Calm Together with Laura and the YogaBears",
-    "date": "2026-04-14",
-    "venue": "The Fold - Venue Hire, Organic Farm, Artists Studios, Shops, Markets, Nature Trail, Cafe",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/block-booking-calm-together-with-laura-and-the-yogabears-tickets-1985675779710",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NEW! LinkedIn Workshop  - Build Your Personal Brand and Write 30 Posts",
-    "date": "2026-04-14",
-    "venue": "Stanton Manor Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/new-linkedin-workshop-build-your-personal-brand-and-write-30-posts-tickets-1980706394144",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Alive Again peer-to-peer support group for women",
-    "date": "2026-04-14",
-    "venue": "Lifeways Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/alive-again-peer-to-peer-support-group-for-women-tickets-1983443184959",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Day Time Cinema Presents: Fishermans Friends",
-    "date": "2026-04-14",
-    "venue": "The Corn Exchange",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/day-time-cinema-presents-fishermans-friends-tickets-1981853033774",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Tapas Tuesday",
-    "date": "2026-04-14",
-    "venue": "Sebz Cafe Tapas Restaurant",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/tapas-tuesday-tickets-1982351253964",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Summer Term 2026 - Ceramics Beginners Short Course",
-    "date": "2026-04-14",
-    "venue": "Hereford College of Arts",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/summer-term-2026-ceramics-beginners-short-course-tickets-1980860358656",
-    "image": "",
-    "categories": [
-      "food-drink",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Summer Term 2026 - Sewing for Beginners Short Course",
-    "date": "2026-04-14",
-    "venue": "Hereford College of Arts",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/summer-term-2026-sewing-for-beginners-short-course-tickets-1981582419359",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Botanical Plaster Casting Workshop at Coughton Court Gardens",
-    "date": "2026-04-15",
-    "venue": "Coughton Court",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/botanical-plaster-casting-workshop-at-coughton-court-gardens-tickets-1981149698078",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "An Evening with Prue Leith",
-    "date": "2026-04-15",
-    "venue": "Bingham Hall",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/an-evening-with-prue-leith-tickets-1982586952946",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NCT Stratford upon Avon Bumps and Babies",
-    "date": "2026-04-15",
-    "venue": "Venture House",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nct-stratford-upon-avon-bumps-and-babies-tickets-1980457383346",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Anna Bailey in conversation with Jackie Kabler - Cheltenham",
     "date": "2026-04-15",
     "venue": "Waterstones",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/anna-bailey-in-conversation-with-jackie-kabler-cheltenham-tickets-1983536620427",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082801123%2F206334532617%2F1%2Foriginal.20191204-120754?auto=format%2Ccompress&q=75&sharp=10&s=c90d827945f0fcdd3aec76accc828a00",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "PERSHORE - Networking with The Women Who Business Community",
-    "date": "2026-04-15",
-    "venue": "The Angel Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/pershore-networking-with-the-women-who-business-community-tickets-1977294704689",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Things We Found In The Ground at Hatchards Cheltenham",
     "date": "2026-04-15",
     "venue": "Hatchards",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/things-we-found-in-the-ground-at-hatchards-cheltenham-tickets-1984180256560",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F464968629%2F249434687474%2F1%2Foriginal.20210811-120145?auto=format%2Ccompress&q=75&sharp=10&s=ed46034bd5e17d02a87de6ace1f15c11",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
+  },
+  {
+    "name": "ALL DEYA 2",
+    "date": "2026-04-15",
+    "venue": "DEYA Brewing",
+    "source": "deya",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
+    "categories": [
+      "other"
+    ]
   },
   {
     "name": "26.1: In the Eye of the Storm",
     "date": "2026-04-16",
     "venue": "Dunkertons Park",
-    "city": "",
+    "city": "Charlton Kings",
     "url": "https://www.eventbrite.co.uk/e/261-in-the-eye-of-the-storm-tickets-1981342063448",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175557409%2F185341321657%2F1%2Foriginal.20260122-154354?auto=format%2Ccompress&q=75&sharp=10&s=1188e3854b3b82781f526dcd118cf1f0",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "PPN Worcester",
-    "date": "2026-04-16",
-    "venue": "Worcester Golf and Country Club",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/ppn-worcester-tickets-1674754839809",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Thursday AM Tots & Twigs Forest School Westonbirt Arboretum Summer 2026",
-    "date": "2026-04-16",
-    "venue": "Westonbirt, The National Arboretum",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/thursday-am-tots-twigs-forest-school-westonbirt-arboretum-summer-2026-tickets-1984718341988",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Heavy Thursday Worcester -  Brass: Lancashire",
-    "date": "2026-04-16",
-    "venue": "The Dice Box",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/heavy-thursday-worcester-brass-lancashire-tickets-1985456506859",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Augustine's Unplugged",
-    "date": "2026-04-16",
-    "venue": "St Augustine\u2019s Catholic High School",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/augustines-unplugged-tickets-1984464507763",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Speed Dating in Stratford upon Avon      Ages 40-59ish",
-    "date": "2026-04-16",
-    "venue": "The Four Alls Pub & Dining",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/speed-dating-in-stratford-upon-avon-ages-40-59ish-tickets-1984545938324",
-    "image": "",
-    "categories": [
-      "dating"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mediumship Evening with Bernie Scott Chipping Sodbury",
-    "date": "2026-04-16",
-    "venue": "Chipping Sodbury Town Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/mediumship-evening-with-bernie-scott-chipping-sodbury-tickets-1977603385963",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "NETWALKING CHELTENHAM Creative  Wellbeing Female Entrepreneurs",
     "date": "2026-04-16",
     "venue": "Central Cross Cafe, In The Park",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/netwalking-cheltenham-creative-wellbeing-female-entrepreneurs-tickets-1975794618892",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142354823%2F383759959191%2F1%2Foriginal.20251002-092504?auto=format%2Ccompress&q=75&sharp=10&s=d712051cc09ca273ad1d9d912f5edd42",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "sport-fitness",
       "arts-culture",
       "wellbeing",
       "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Miniyaki's Woodland Dining Event - supper club",
-    "date": "2026-04-17",
-    "venue": "Miniyaki's - Japanese Soul Food",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/miniyakis-woodland-dining-event-supper-club-tickets-1981118545901",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Zine-Making Club: Magic",
-    "date": "2026-04-17",
-    "venue": "Huntingdon Hall, Worcester Theatres",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/zine-making-club-magic-tickets-1984551384614",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Worcester Talk Property Lunch-",
-    "date": "2026-04-17",
-    "venue": "Burger Shop Worcester",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/worcester-talk-property-lunch--tickets-1985577251008",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "SpecialEffect Clay Pigeon Shoot 2026",
-    "date": "2026-04-17",
-    "venue": "The Oxfordshire Shooting School",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/specialeffect-clay-pigeon-shoot-2026-tickets-1978638934316",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Koselig Cabaret - April Edition",
-    "date": "2026-04-17",
-    "venue": "Court Farm Lakes",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/koselig-cabaret-april-edition-tickets-1979860840069",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Coffee, Cake and Connections for Health Care Professionals",
-    "date": "2026-04-17",
-    "venue": "Old Village Shop",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/coffee-cake-and-connections-for-health-care-professionals-tickets-1981846120095",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Swindon Dub Club #005 - ITAL POWER SOUND SYSTEM",
-    "date": "2026-04-17",
-    "venue": "The Wyvern Tavern",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/swindon-dub-club-005-ital-power-sound-system-tickets-1984373566756",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "100 Percent Badgers with Matt Hobs",
-    "date": "2026-04-17",
-    "venue": "Nailsworth Community Workshop",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/100-percent-badgers-with-matt-hobs-tickets-1981417630471",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Lanc\u00f4me Skin & Makeup Masterclass",
     "date": "2026-04-18",
     "venue": "John Lewis Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/lancome-skin-makeup-masterclass-tickets-1980449010302",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174711766%2F678163826753%2F1%2Foriginal.20260113-091213?auto=format%2Ccompress&q=75&sharp=10&s=483f8bfe483102bfee27690f62fa27d6",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "SOAR  Breathwork Day incorporating Breath Power",
-    "date": "2026-04-18",
-    "venue": "Crowne Plaza Stratford Upon Avon, an IHG Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/soar-breathwork-day-incorporating-breath-power-tickets-1092586087399",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Sodbury Yarn Over - Saturday 18th Tickets",
-    "date": "2026-04-18",
-    "venue": "Chipping Sodbury Town Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-sodbury-yarn-over-saturday-18th-tickets-tickets-1977806690051",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Under The Broadwalk",
-    "date": "2026-04-18",
-    "venue": "Churchdown Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/under-the-broadwalk-tickets-1971684206538",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Suites and Serenades - The Beauchamp Chamber Orchestra Live in Beckford",
-    "date": "2026-04-18",
-    "venue": "St John the Baptist Church",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/suites-and-serenades-the-beauchamp-chamber-orchestra-live-in-beckford-tickets-1980805973990",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "An Evening of Radiohead at Hereford Cathedral",
-    "date": "2026-04-18",
-    "venue": "Hereford Cathedral",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/an-evening-of-radiohead-at-hereford-cathedral-tickets-1501961751029",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Impacto com Deus - Igreja Videira Swindon",
-    "date": "2026-04-18",
-    "venue": "Vine Church Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/impacto-com-deus-igreja-videira-swindon-tickets-1984285087111",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Sodbury Yarn Over -  18th & 19th Weekend Ticket",
-    "date": "2026-04-18",
-    "venue": "Chipping Sodbury Town Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-sodbury-yarn-over-18th-19th-weekend-ticket-tickets-1977818943702",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NCT Vale of Evesham Nearly New Sale",
-    "date": "2026-04-18",
-    "venue": "The De Montfort School",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nct-vale-of-evesham-nearly-new-sale-tickets-1820123050039",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Fair Isle Knitting Workshop",
-    "date": "2026-04-18",
-    "venue": "Goldney House Wellness Centre and Business Space",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/fair-isle-knitting-workshop-tickets-1982623742986",
-    "image": "",
-    "categories": [
-      "business",
-      "markets"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "\u201cLittle Sheep\u201d Needle Felted Sheep Workshop",
-    "date": "2026-04-18",
-    "venue": "Masonic Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/little-sheep-needle-felted-sheep-workshop-tickets-1982618631698",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "EVM Wrestling- You can't kill what doesn't die",
     "date": "2026-04-18",
     "venue": "Gas Green Youth & Community Centre",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.com/e/evm-wrestling-you-cant-kill-what-doesnt-die-tickets-1983979423864",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178434901%2F527375298331%2F1%2Foriginal.20260225-183401?auto=format%2Ccompress&q=75&sharp=10&s=7395a3a21ef3e35737c42f923240a71a",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
-    "name": "Ready to Go Landscape - Needle Felting Workshop",
-    "date": "2026-04-19",
-    "venue": "Masonic Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ready-to-go-landscape-needle-felting-workshop-tickets-1982627914463",
+    "name": "Fire Feast - Ubuntu Food @ The Swamp",
+    "date": "2026-04-18",
+    "venue": "The Swamp / DEYA",
+    "source": "deya",
+    "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+      "food-drink"
+    ]
   },
   {
-    "name": "First Aid in Sport",
-    "date": "2026-04-19",
-    "venue": "Gloucestershire Heritage Hub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/first-aid-in-sport-tickets-1981853553328",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Project Build God's Church",
-    "date": "2026-04-19",
-    "venue": "MECA Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/project-build-gods-church-tickets-1981806687150",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sound Bath with Reiki Energy Monday 20th April 2026",
-    "date": "2026-04-20",
-    "venue": "Sacred Heart & St Catherine of Alexandria Catholic Church",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sound-bath-with-reiki-energy-monday-20th-april-2026-tickets-1984187702832",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Matt Hobs: 100% Badgers @ Swindon Old Town Comedy Club",
-    "date": "2026-04-20",
-    "venue": "The Hop Inn",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/matt-hobs-100-badgers-swindon-old-town-comedy-club-tickets-1983917315095",
-    "image": "",
-    "categories": [
-      "comedy"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Matt Hobs & Nate Kitch Ed Fringe Show Double  @ The Old Town Comedy Club",
-    "date": "2026-04-20",
-    "venue": "The Hop Inn",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/matt-hobs-nate-kitch-ed-fringe-show-double-the-old-town-comedy-club-tickets-1984086111971",
-    "image": "",
-    "categories": [
-      "comedy",
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Blooming Menopause Stratford - Apr",
-    "date": "2026-04-21",
-    "venue": "Community Wellbeing Hub, Stratford Hospital",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/blooming-menopause-stratford-apr-tickets-1979651328414",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Living with Extreme Heat: Planetary Health lectures",
+    "name": "Spanish Specials - Brewery Tour & Tasting",
     "date": "2026-04-22",
-    "venue": "University of Gloucestershire, City Campus",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/living-with-extreme-heat-planetary-health-lectures-tickets-1981843421022",
+    "venue": "DEYA Brewery",
+    "source": "deya",
+    "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "\u2728 Pain Pattern Reset \u2728",
-    "date": "2026-04-22",
-    "venue": "Old School Yoga Studio",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/pain-pattern-reset-tickets-1984632232432",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+      "food-drink"
+    ]
   },
   {
     "name": "Fresh: Art Fair - Cheltenham Racecourse.",
     "date": "2026-04-23",
     "venue": "Cheltenham Racecourse",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/fresh-art-fair-cheltenham-racecourse-tickets-1983954109147",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178602277%2F2160804134543%2F1%2Foriginal.20260227-124423?auto=format%2Ccompress&q=75&sharp=10&s=ac08b2f5623067a738476c38640e842f",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "sport-fitness",
       "arts-culture",
       "markets"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sushi-making for beginners",
-    "date": "2026-04-23",
-    "venue": "Weigh it Up",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sushi-making-for-beginners-tickets-1981860383758",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Borders & Boundaries: Artist Talk Series II with Leah Gordon",
-    "date": "2026-04-23",
-    "venue": "Hereford College of Arts (University Campus)",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/borders-boundaries-artist-talk-series-ii-with-leah-gordon-tickets-1978131462454",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Cheese and wine book club evening - 23rd April",
-    "date": "2026-04-23",
-    "venue": "Chapter 23 - Cafe & Bar",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/cheese-and-wine-book-club-evening-23rd-april-tickets-1984822973945",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Tweedy's Massive Circus",
     "date": "2026-04-23",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "theatre"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
+    ]
   },
   {
     "name": "The Slates - Indie Nights by Gig Life Crisis",
     "date": "2026-04-24",
     "venue": "The Steam and Whistle",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.com/e/the-slates-indie-nights-by-gig-life-crisis-tickets-1982108477814",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176812231%2F2709632863981%2F1%2Foriginal.20260205-195108?auto=format%2Ccompress&q=75&sharp=10&s=7f656c423d721cd1e9de53b9742b248d",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "A Taste of Spain Inspired Feast Night",
-    "date": "2026-04-24",
-    "venue": "Berkeley Castle - Kitchen Garden Restaurant",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/a-taste-of-spain-inspired-feast-night-tickets-1985573510821",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NEW! AI Workshop  - Uncovering the Truths of AI in Your Business",
-    "date": "2026-04-24",
-    "venue": "Stanton Manor Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/new-ai-workshop-uncovering-the-truths-of-ai-in-your-business-tickets-1980557618151",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "DROITWICH NetworkWell Walk & Talk",
-    "date": "2026-04-24",
-    "venue": "Droitwich Spa Lido Caf\u00e9",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/droitwich-networkwell-walk-talk-tickets-1977297555215",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Small Biz Growth Hub UK \u2013 Stratford-Upon-Avon Networking!",
-    "date": "2026-04-24",
-    "venue": "The Embankment",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/small-biz-growth-hub-uk-stratford-upon-avon-networking-tickets-1981705716143",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Bluebell Wood Fundraiser Trail in the Heart of England Forest",
-    "date": "2026-04-24",
-    "venue": "Alne Wood Park Natural Burial Ground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/bluebell-wood-fundraiser-trail-in-the-heart-of-england-forest-tickets-1964787894483",
-    "image": "",
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Product Place Cirencester Network - April",
-    "date": "2026-04-24",
-    "venue": "New Brewery Arts",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-product-place-cirencester-network-april-tickets-1978609538392",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "'The One' Women's Network - Cheltenham",
     "date": "2026-04-24",
     "venue": "Circo Brasserie",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/the-one-womens-network-cheltenham-tickets-1982186563370",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172048073%2F377803405155%2F1%2Foriginal.20251201-114450?auto=format%2Ccompress&q=75&sharp=10&s=192a9ad035f14dc181bcdf3622cc2867",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Yoga Nidra & Sound Immersion",
-    "date": "2026-04-24",
-    "venue": "Elmley Castle Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/yoga-nidra-sound-immersion-tickets-1982546151909",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Arabica Sessions",
-    "date": "2026-04-24",
-    "venue": "Coffee at Oddsocks",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/the-arabica-sessions-tickets-1982117264094",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Live Kundalini Activation - A Deep Energy Activation Session",
-    "date": "2026-04-24",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/live-kundalini-activation-a-deep-energy-activation-session-tickets-1982965124066",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Quiz Night for NWMA: Youth's Trip to Spree SW",
-    "date": "2026-04-25",
-    "venue": "Minety Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/quiz-night-for-nwma-youths-trip-to-spree-sw-tickets-1984893158870",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Ibiza Anthems - 90's vs 00's - Worcester",
-    "date": "2026-04-25",
-    "venue": "Drummonds",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ibiza-anthems-90s-vs-00s-worcester-tickets-1985073135184",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Emotional First Aid - WHOLE WORKSHOP",
-    "date": "2026-04-25",
-    "venue": "Lyppard Hub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/emotional-first-aid-whole-workshop-tickets-1985448730600",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sip n Paint - With a complementary glass of prosecco and nibbles",
-    "date": "2026-04-25",
-    "venue": "College Arms",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sip-n-paint-with-a-complementary-glass-of-prosecco-and-nibbles-tickets-1984577557899",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Swindons Heresy doubles event",
-    "date": "2026-04-25",
-    "venue": "Atomic Cards",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/swindons-heresy-doubles-event-tickets-1980653755701",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Working Ethically with Risk (including suicidality and self-harm)",
-    "date": "2026-04-25",
-    "venue": "Willows Counselling Service",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/working-ethically-with-risk-including-suicidality-and-self-harm-tickets-1905748598359",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Pop-Up Dress Agency At Sezincote - Saturday 25th April 2026",
-    "date": "2026-04-25",
-    "venue": "Sezincote House & Garden",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/pop-up-dress-agency-at-sezincote-saturday-25th-april-2026-tickets-1981359294988",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sound Bath Experience - by Jo Williamson",
-    "date": "2026-04-25",
-    "venue": "Yogalina Bridge Street",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/sound-bath-experience-by-jo-williamson-tickets-1976753624303",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Juvelook & Lenisna - Advanced hybrid collagen Bio stimulator, Droitwich",
-    "date": "2026-04-27",
-    "venue": "Flux Skin",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/juvelook-lenisna-advanced-hybrid-collagen-bio-stimulator-droitwich-tickets-1984407594534",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Safeguarding Children \u2013 Level 2 Training for all Early Years Practitioners",
-    "date": "2026-04-27",
-    "venue": "Herefordshire Archive and Records Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/safeguarding-children-level-2-training-for-all-early-years-practitioners-tickets-1975461935828",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Monday Dating Club - Over 30s",
     "date": "2026-04-27",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "dating"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Day Time Cinema Presents: The Lady in the Van",
-    "date": "2026-04-28",
-    "venue": "The Corn Exchange",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/day-time-cinema-presents-the-lady-in-the-van-tickets-1981853302578",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "From Flowers to Fashion - An evening with Sandra Townsend",
-    "date": "2026-04-29",
-    "venue": "Apperley Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/from-flowers-to-fashion-an-evening-with-sandra-townsend-tickets-1983040637930",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Introduction to NCTF-Full Face Bio-regeneration - Droitwich",
-    "date": "2026-04-29",
-    "venue": "Flux Skin",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/introduction-to-nctf-full-face-bio-regeneration-droitwich-tickets-1984408374868",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Shipston-on-Stour - Small99's People, Planet, Pint\u2122: Sustainability Meetup",
-    "date": "2026-04-29",
-    "venue": "Horseshoe",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/shipston-on-stour-small99s-people-planet-pinttm-sustainability-meetup-tickets-1985714063217",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Curriculum and Pedagogy in the Early Years -2 sessions",
-    "date": "2026-04-29",
-    "venue": "Herefordshire Archive and Records Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/curriculum-and-pedagogy-in-the-early-years-2-sessions-tickets-1509006853119",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Brush Party Paint & Sip",
     "date": "2026-04-29",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "arts-culture"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Transitions in the Early Years (Schools)",
-    "date": "2026-04-30",
-    "venue": "Herefordshire Archive and Records Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/transitions-in-the-early-years-schools-tickets-1896641940099",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Thursday Dating Club - Under 30s",
     "date": "2026-04-30",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "dating"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Zine-Making Club: Joy",
-    "date": "2026-05-01",
-    "venue": "Huntingdon Hall, Worcester Theatres",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/zine-making-club-joy-tickets-1984564823811",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Cruftside Dog Show 2026",
-    "date": "2026-05-02",
-    "venue": "Riverside Stratford",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/cruftside-dog-show-2026-tickets-1981927186567",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Improvers - Short NDB Course",
-    "date": "2026-05-02",
-    "venue": "Royal Agricultural University",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/improvers-short-ndb-course-tickets-1645066822149",
-    "image": "",
-    "categories": [
-      "comedy"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Tweens and Teens: What every parent needs to know - Gloucester",
-    "date": "2026-05-05",
-    "venue": "One Church Gloucester",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/tweens-and-teens-what-every-parent-needs-to-know-gloucester-tickets-1976870139804",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Good Autism Practice in the Early Years (Schools)",
-    "date": "2026-05-05",
-    "venue": "Herefordshire Archive and Records Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/good-autism-practice-in-the-early-years-schools-tickets-1896842660459",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Bats and Biodiversity: Discover Alne Wood at Dusk",
-    "date": "2026-05-06",
-    "venue": "Alne Wood Park Natural Burial Ground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/bats-and-biodiversity-discover-alne-wood-at-dusk-tickets-1965170256137",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Worcester - Small99's People, Planet, Pint\u2122: Sustainability Meetup",
-    "date": "2026-05-07",
-    "venue": "The Oil Basin Brewhouse",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/worcester-small99s-people-planet-pinttm-sustainability-meetup-tickets-1981698368165",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Stroud Business Social May 2026",
-    "date": "2026-05-07",
-    "venue": "The Stroud Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/stroud-business-social-may-2026-tickets-1983435093758",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "StevieMac",
-    "date": "2026-05-08",
-    "venue": "The Corn Exchange",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/steviemac-tickets-1977720631648",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "ABBA Arrival Tribute Night",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "live-music"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Nature Labyrinth Wellbeing Retreat Day",
-    "date": "2026-05-09",
-    "venue": "Westonbirt Arboretum",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nature-labyrinth-wellbeing-retreat-day-tickets-1984670887049",
-    "image": "",
-    "categories": [
-      "wellbeing"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Gloucester Creed Comic Con - May 2026",
-    "date": "2026-05-09",
-    "venue": "Freedom Leisure @ GL1",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/gloucester-creed-comic-con-may-2026-tickets-1983449177884",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Awakening the Awenydd, an introductory workshop to Welsh Shamanic Practices",
-    "date": "2026-05-09",
-    "venue": "Redbrook Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/awakening-the-awenydd-an-introductory-workshop-to-welsh-shamanic-practices-tickets-1979453809630",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Eastervaan V",
-    "date": "2026-05-09",
-    "venue": "Chipping Sodbury Town Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/eastervaan-v-tickets-1974498142095",
-    "image": "",
-    "categories": [
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Nature Journaling in Wardens' Wood",
     "date": "2026-05-09",
     "venue": "Wardens Wood",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/nature-journaling-in-wardens-wood-tickets-1977544940150",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172723455%2F193915738348%2F1%2Foriginal.20251210-220804?auto=format%2Ccompress&q=75&sharp=10&s=1139571bee2cf9bce6f34c4564a35357",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Gloucester Brick Festival May 2026",
-    "date": "2026-05-10",
-    "venue": "GL1",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/gloucester-brick-festival-may-2026-tickets-1979982589224",
-    "image": "",
-    "categories": [
-      "live-music",
-      "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Her Longevity Games 2026 Spring Challenge",
-    "date": "2026-05-10",
-    "venue": "Swindon Harriers Athletics Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/her-longevity-games-2026-spring-challenge-tickets-1978280869334",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "WALK THE WYE CHALLENGE",
-    "date": "2026-05-10",
-    "venue": "Monmouth Show Ground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/walk-the-wye-challenge-tickets-1980810245767",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Calligraphy Workshop",
     "date": "2026-05-10",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "arts-culture",
       "business"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
+    ]
   },
   {
     "name": "Cotswold Networking Cheltenham May 2026 Meet-up",
     "date": "2026-05-11",
     "venue": "Dunkertons Park",
-    "city": "",
+    "city": "Charlton Kings",
     "url": "https://www.eventbrite.co.uk/e/cotswold-networking-cheltenham-may-2026-meet-up-tickets-1531505186239",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F796154589%2F1338385562923%2F1%2Foriginal.20240625-183416?auto=format%2Ccompress&q=75&sharp=10&s=942307682b6ea7b2c002c617bdc4315f",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Women only | Gloucestershire Way Walk | Section 12",
-    "date": "2026-05-13",
-    "venue": "Oldbury Road Car Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/women-only-gloucestershire-way-walk-section-12-tickets-1251139324399",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Robin Nolan Trio at the Steam and Whistle, Cheltenham",
     "date": "2026-05-13",
     "venue": "The Steam and Whistle",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/robin-nolan-trio-at-the-steam-and-whistle-cheltenham-tickets-1617597721329",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1101783933%2F56036850233%2F1%2Foriginal.20250821-154433?auto=format%2Ccompress&q=75&sharp=10&s=a3866c5a64a9f210a2adf8dd4112e3d5",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Natural Burial: Sustaining Earth and Honouring Life - Guided Walk",
-    "date": "2026-05-14",
-    "venue": "Alne Wood Park Natural Burial Ground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/natural-burial-sustaining-earth-and-honouring-life-guided-walk-tickets-1976585202549",
-    "image": "",
-    "categories": [
-      "sport-fitness",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Red On Back Yard Ultra, May 2026",
     "date": "2026-05-15",
     "venue": "Cheltenham Racecourse",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/red-on-back-yard-ultra-may-2026-tickets-1635855380479",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1115224703%2F1563458340463%2F1%2Foriginal.20250905-113609?auto=format%2Ccompress&q=75&sharp=10&s=bbdcb0ea679b878e83c44432e2d771ba",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The \u201cNever Quite Right Horse\u201d \u2013 Early Signs of Metabolic Trouble",
-    "date": "2026-05-15",
-    "venue": "Treworgan Farm",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-never-quite-right-horse-early-signs-of-metabolic-trouble-tickets-1984178898498",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Land Rover Monthly Live Malvern 16 - 17 May 2026 - Camping",
-    "date": "2026-05-15",
-    "venue": "Three Counties Showground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/land-rover-monthly-live-malvern-16-17-may-2026-camping-tickets-1829435804739",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Polymer Clay Earring Making Workshop",
-    "date": "2026-05-16",
-    "venue": "The Artery Studios CIC",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/polymer-clay-earring-making-workshop-tickets-1985821540685",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Summer Concert - Carmina Burana",
-    "date": "2026-05-16",
-    "venue": "St Mary's Parish Church, Ross-on-Wye",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/summer-concert-carmina-burana-tickets-1985543149008",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Eurovision Party Night in aid of Ukraine",
-    "date": "2026-05-16",
-    "venue": "The Kings Arms",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/eurovision-party-night-in-aid-of-ukraine-tickets-1984716736185",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Barnsley Village Garden Festival 2026",
-    "date": "2026-05-16",
-    "venue": "Barnsley",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/barnsley-village-garden-festival-2026-tickets-1802154184679",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Tetbury Hospital Hike 2026",
-    "date": "2026-05-17",
-    "venue": "Church Lane",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/tetbury-hospital-hike-2026-tickets-1984777472850",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Xtreme Colour Run",
     "date": "2026-05-17",
     "venue": "Dunkertons Park",
-    "city": "",
+    "city": "Charlton Kings",
     "url": "https://www.eventbrite.co.uk/e/xtreme-colour-run-tickets-1977487179386",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172670071%2F146927294671%2F1%2Foriginal.20251210-085956?auto=format%2Ccompress&q=75&sharp=10&s=90d21fd342b8adffa5f7dcd7d57a68fb",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Xtreme Colour Run (Cobalt Health)",
     "date": "2026-05-17",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "sport-fitness"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Swindon Psychic Night",
-    "date": "2026-05-18",
-    "venue": "Swindon Town Football Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/swindon-psychic-night-tickets-1723131455569",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Designated Safeguarding Lead (DSL) Training \u2013 Level 3",
-    "date": "2026-05-18",
-    "venue": "Herefordshire Archive and Records Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/designated-safeguarding-lead-dsl-training-level-3-tickets-1975504464031",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "An evening of mediumship with Carol Green",
     "date": "2026-05-18",
     "venue": "Bar No.9",
-    "city": "",
+    "city": "Bishops Cleeve",
     "url": "https://www.eventbrite.co.uk/e/an-evening-of-mediumship-with-carol-green-tickets-1980480195578",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F671668399%2F134090776662%2F1%2Foriginal.20240110-165542?auto=format%2Ccompress&q=75&sharp=10&s=6ac9998059f8d89e23f4dc606e22cb82",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Total Marketing: AI & Digital Marketing Workshop + Networking Lunch",
-    "date": "2026-05-19",
-    "venue": "The Old Bell Hotel",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/total-marketing-ai-digital-marketing-workshop-networking-lunch-tickets-1985371142532",
-    "image": "",
-    "categories": [
-      "business",
-      "markets"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Charity Kids Disco Party",
-    "date": "2026-05-23",
-    "venue": "Great Oldbury Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/charity-kids-disco-party-tickets-1982434668459",
-    "image": "",
-    "categories": [
-      "live-music",
-      "family",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Soul Funker And R&B All Dayer.",
     "date": "2026-05-23",
     "venue": "Cotswold Area Civil Service Sports Association",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/soul-funker-and-rb-all-dayer-tickets-1369998956759",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173616901%2F316588342403%2F1%2Foriginal.20251228-221830?auto=format%2Ccompress&q=75&sharp=10&s=480830973758aa9831c7cbf4b57ad0f3",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Book Binding Workshop",
-    "date": "2026-05-23",
-    "venue": "GL5 5NN",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/book-binding-workshop-tickets-1983516367851",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Count the Stars",
-    "date": "2026-05-24",
-    "venue": "Lydiard Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/count-the-stars-tickets-1984373611891",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Disorders of Movement Across the Lifespan: Linking Muscle, Nerve and Brain",
-    "date": "2026-05-27",
-    "venue": "Royal Agricultural University",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/disorders-of-movement-across-the-lifespan-linking-muscle-nerve-and-brain-tickets-1981482602805",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "\u2b50MEGA\u2b50 Musical Bingo at The Beckford Inn (Tewkesbury, Gloucestershire)",
-    "date": "2026-05-28",
-    "venue": "The Beckford Inn",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/mega-musical-bingo-at-the-beckford-inn-tewkesbury-gloucestershire-tickets-1981848566412",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Greatest Showman Outdoor Cinema Sing-a-Long at Lydiard Park",
-    "date": "2026-05-29",
-    "venue": "Lydiard Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-greatest-showman-outdoor-cinema-sing-a-long-at-lydiard-park-tickets-1983538310482",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "OCMF Spring Festival in the Cotswolds: 'Dreams and Prayers' at Burford",
-    "date": "2026-05-29",
-    "venue": "St John the Baptist Church",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ocmf-spring-festival-in-the-cotswolds-dreams-and-prayers-at-burford-tickets-1985822771366",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sing Outdoor Cinema Experience at Lydiard Park",
-    "date": "2026-05-30",
-    "venue": "Lydiard Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sing-outdoor-cinema-experience-at-lydiard-park-tickets-1983538975471",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The DRT Magazine Launch  & Networking Dinner Soiree",
-    "date": "2026-05-30",
-    "venue": "The Welcombe Hotel, BW Premier Collection",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-drt-magazine-launch-networking-dinner-soiree-tickets-1967795153275",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "OCMF Spring Festival in the Cotswolds: \u2018Golden Times\u2019 at Asthall Manor",
-    "date": "2026-05-30",
-    "venue": "St Nicholas Church, Asthall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ocmf-spring-festival-in-the-cotswolds-golden-times-at-asthall-manor-tickets-1985826412256",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Wrestling Spectacular Gloucester Saturday 30th May 2026",
-    "date": "2026-05-30",
-    "venue": "The King's School",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/wrestling-spectacular-gloucester-saturday-30th-may-2026-tickets-1981464075389",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Build It Live West 2026",
-    "date": "2026-05-30",
-    "venue": "Three Counties Showground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/build-it-live-west-2026-tickets-1427455149779",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "70th Anniversary 1 Day AA Convention",
     "date": "2026-05-31",
     "venue": "Cheltenham Ladies' College",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/70th-anniversary-1-day-aa-convention-tickets-1473601123629",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1068869213%2F296368729990%2F1%2Foriginal.20250708-122753?auto=format%2Ccompress&q=75&sharp=10&s=57f7925f5b97be65676a16138d6afb47",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Gruffalo & Stick Man Outdoor Cinema Experience at Lydiard Park",
-    "date": "2026-05-31",
-    "venue": "Lydiard Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-gruffalo-stick-man-outdoor-cinema-experience-at-lydiard-park-tickets-1983539908261",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Gravity",
-    "date": "2026-05-31",
-    "venue": "Wootton Bassett Memorial Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/gravity-tickets-1983169423130",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "OCMF Spring Festival in the Cotswolds: 'Be still my heart' Swinbrook Church",
-    "date": "2026-05-31",
-    "venue": "St Mary's Church",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/ocmf-spring-festival-in-the-cotswolds-be-still-my-heart-swinbrook-church-tickets-1985829173515",
-    "image": "",
-    "categories": [
-      "live-music",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "MKLINK National MSP Conference 2026 - Cheltenham",
     "date": "2026-06-03",
     "venue": "Leonardo Hotel Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/mklink-national-msp-conference-2026-cheltenham-registration-1980893796670",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175871606%2F2783229408631%2F1%2Foriginal.20260126-192323?auto=format%2Ccompress&q=75&sharp=10&s=92e722e934ffa580fd63c5eec9ad747b",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Live on the Wye Music Festival 2026",
-    "date": "2026-06-05",
-    "venue": "Redbrook Football Field",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/live-on-the-wye-music-festival-2026-tickets-1854056425679",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Working with the Body: Expanding Somatic Skills for Counsellors",
-    "date": "2026-06-05",
-    "venue": "Willows Counselling Service",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/working-with-the-body-expanding-somatic-skills-for-counsellors-tickets-1974708067989",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Summer Charity Ceilidh",
     "date": "2026-06-05",
     "venue": "Tithe Barn",
-    "city": "",
+    "city": "Bishops Cleeve",
     "url": "https://www.eventbrite.co.uk/e/summer-charity-ceilidh-tickets-1981425235217",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176654737%2F388795613741%2F1%2Foriginal.20260204-101958?auto=format%2Ccompress&q=75&sharp=10&s=322e655ef810f7a09e252b37f2814c21",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
-    "name": "Child Readiness Conference",
+    "name": "Mind Expansion Pack 4.0",
     "date": "2026-06-05",
-    "venue": "Shell Store - Wye Room",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/child-readiness-conference-tickets-1480796344729",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mind Expansion Pack 4.0 (DEYA & Bryd Out)",
-    "date": "2026-06-05 to 2026-06-06",
-    "venue": "DEYA",
-    "city": "",
+    "venue": "DEYA Brewing",
+    "source": "deya",
     "url": "https://www.deyabrewing.com/pages/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "Turno Grubby Tour Worcester",
-    "date": "2026-06-06",
-    "venue": "Tramps Nightclub",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/turno-grubby-tour-worcester-tickets-1984869252365",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Badgeworth Open Day",
     "date": "2026-06-07",
     "venue": "Badgeworth",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/badgeworth-open-day-tickets-1983963561419",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178412464%2F206331598219%2F1%2Foriginal.20260225-151822?auto=format%2Ccompress&q=75&sharp=10&s=f99fc10013cd11a4a6db92910249c0a1",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "BID Training - Fire Marshal",
     "date": "2026-06-10",
     "venue": "Albion House Social Club",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/bid-training-fire-marshal-tickets-1982958350807",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177719500%2F1718007836653%2F1%2Foriginal.20260217-131303?auto=format%2Ccompress&q=75&sharp=10&s=06ffa6b3031d81f81340810288e58ae6",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "MERCH MINDSET: The AI Edition",
     "date": "2026-06-11",
     "venue": "Leonardo Hotel Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/merch-mindset-the-ai-edition-tickets-1974968514993",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171728816%2F479409751477%2F1%2Foriginal.20251125-152419?auto=format%2Ccompress&q=75&sharp=10&s=1e1b3c55b31f64fb49774124e856273b",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mamma Mia Outdoor Cinema in Gloucester",
-    "date": "2026-06-12",
-    "venue": "Dowty Sports & Social Ltd",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/mamma-mia-outdoor-cinema-in-gloucester-registration-1984134175731",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Jacko & Nunkie Charity Show",
-    "date": "2026-06-13",
-    "venue": "Moredon Community Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-jacko-nunkie-charity-show-tickets-1984452271163",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sing Outdoor Cinema Experience at Hanbury Hall",
-    "date": "2026-06-13",
-    "venue": "Hanbury Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sing-outdoor-cinema-experience-at-hanbury-hall-tickets-1983546428764",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Mamma Mia! Outdoor Cinema ExtrABBAganza at Hanbury Hall, Droitwich",
-    "date": "2026-06-13",
-    "venue": "Hanbury Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/mamma-mia-outdoor-cinema-extrabbaganza-at-hanbury-hall-droitwich-tickets-1983079026752",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Cheltenham Three Peaks Challenge 2026 for Aim Up",
     "date": "2026-06-13",
     "venue": "Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/cheltenham-three-peaks-challenge-2026-for-aim-up-tickets-1978615724896",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173271573%2F167839718049%2F1%2Foriginal.20251219-153216?auto=format%2Ccompress&q=75&sharp=10&s=5be0bf0f9deef1f0465b0d9bd22aa6b8",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NSBRC Guide to Project Management - 13 June 2026",
-    "date": "2026-06-13",
-    "venue": "The National Self Build & Renovation Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nsbrc-guide-to-project-management-13-june-2026-tickets-1483791744049",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Sip and Paint Night at The Bulls Head Inkberrow",
-    "date": "2026-06-13",
-    "venue": "The Bulls Head",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/sip-and-paint-night-at-the-bulls-head-inkberrow-tickets-1985367588903",
-    "image": "",
-    "categories": [
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Silent Disco",
     "date": "2026-06-13",
     "venue": "Somerset Arms",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/silent-disco-tickets-1984175643763",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178672807%2F316588342403%2F1%2Foriginal.20260228-085335?auto=format%2Ccompress&q=75&sharp=10&s=1ed34574f36b31bc30b63a6f330d8d55",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Gruffalo & Stick Man Outdoor Cinema Experience at Hanbury Hall",
-    "date": "2026-06-14",
-    "venue": "Hanbury Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-gruffalo-stick-man-outdoor-cinema-experience-at-hanbury-hall-tickets-1983547699565",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Pretty Woman Outdoor Cinema Experience at Hanbury Hall, Droitwich",
-    "date": "2026-06-14",
-    "venue": "Hanbury Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/pretty-woman-outdoor-cinema-experience-at-hanbury-hall-droitwich-tickets-1983348588017",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Andrea Bocelli Outdoor Cinema Celebration at Hanbury Hall, Droitwich",
-    "date": "2026-06-14",
-    "venue": "Hanbury Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/andrea-bocelli-outdoor-cinema-celebration-at-hanbury-hall-droitwich-tickets-1983432030596",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Cotswold Series - Fairford WSC Round",
-    "date": "2026-06-20",
-    "venue": "Fairford Waterski Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/cotswold-series-fairford-wsc-round-tickets-1985705650053",
-    "image": "",
-    "categories": [
-      "markets"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NSBRC Guide to Planning Permission - 20 June 2026",
-    "date": "2026-06-20",
-    "venue": "The National Self Build & Renovation Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nsbrc-guide-to-planning-permission-20-june-2026-tickets-1484112363029",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "NSBRC Guide to Renovation Projects - 20 June 2026",
-    "date": "2026-06-20",
-    "venue": "The National Self Build & Renovation Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/nsbrc-guide-to-renovation-projects-20-june-2026-tickets-1483796287639",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Highnam Court Open Garden in Aid of Cobalt",
-    "date": "2026-06-20",
-    "venue": "Highnam Court",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/highnam-court-open-garden-in-aid-of-cobalt-tickets-1979855678631",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Summer Rag Rug Wreath Workshop",
-    "date": "2026-06-27",
-    "venue": "Tudor House Museum",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/summer-rag-rug-wreath-workshop-tickets-1984549842000",
-    "image": "",
-    "categories": [
-      "business"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Exploring the Sibling Matrix",
-    "date": "2026-06-27",
-    "venue": "Willows Counselling Service",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/exploring-the-sibling-matrix-tickets-1968208024183",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Music at the Crossroads 2026 \"best little festival\" FRI 3rd to SUN 5th JULY",
-    "date": "2026-07-03",
-    "venue": "Hook Norton Brewery",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/music-at-the-crossroads-2026-best-little-festival-fri-3rd-to-sun-5th-july-tickets-1984132616066",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "The Princess Proms: Cheltenham (First Session)",
     "date": "2026-07-04",
     "venue": "Everyman Theatre",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-first-session-tickets-1974904420284",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899693943%2F2198324733003%2F1%2Foriginal.20241115-111408?auto=format%2Ccompress&q=75&sharp=10&s=f3068b250e4bbd6e15c77b5d7a8720c9",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre",
       "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Longevity Relay",
-    "date": "2026-07-04",
-    "venue": "Moredon Sporting Hub",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-longevity-relay-tickets-1968279020535",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "The Princess Proms: Cheltenham (Second Session)",
     "date": "2026-07-04",
     "venue": "Everyman Theatre",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-second-session-tickets-1975085638312",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899693943%2F2198324733003%2F1%2Foriginal.20241115-111408?auto=format%2Ccompress&q=75&sharp=10&s=f3068b250e4bbd6e15c77b5d7a8720c9",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre",
       "family"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "William Hicks As Barry White",
-    "date": "2026-07-04",
-    "venue": "Wotton Hall Social Club Limited",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/william-hicks-as-barry-white-tickets-1809038756619",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Unmasked - The Magic of Angus Baskerville",
-    "date": "2026-07-08",
-    "venue": "Binton Village Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/unmasked-the-magic-of-angus-baskerville-tickets-1981855681694",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Wild Church Day of Fun 2026",
-    "date": "2026-07-11",
-    "venue": "Park Farm Campsite",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/wild-church-day-of-fun-2026-tickets-1983971763953",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Stow Motor Show 2026",
     "date": "2026-07-11",
     "venue": "Stow-on-the-Wold",
-    "city": "",
+    "city": "Stow-on-the-Wold",
     "url": "https://www.eventbrite.co.uk/e/stow-motor-show-2026-registration-733023702627",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174401188%2F332273861791%2F1%2Foriginal.20260109-114430?auto=format%2Ccompress&q=75&sharp=10&s=50111636bec8207ae5f463014fa6ce1a",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Forte Charity Mother and Daughter Fundraising Dinner",
-    "date": "2026-07-11",
-    "venue": "DoubleTree by Hilton Stratford-upon-Avon",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/forte-charity-mother-and-daughter-fundraising-dinner-tickets-1982678321231",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "The After Party Summer Special",
     "date": "2026-07-17",
     "venue": "Dunkertons Cider",
-    "city": "",
+    "source": "dunkertons",
     "url": "https://www.dunkertonscider.co.uk/collections/events",
     "image": "",
+    "city": "Cheltenham",
+    "on_sale": true,
     "categories": [
       "live-music",
       "arts-culture"
-    ],
-    "source": "dunkertons",
-    "on_sale": false
-  },
-  {
-    "name": "Alice's  Adventures in Wonderland  - 'This Is My Theatre'",
-    "date": "2026-07-29",
-    "venue": "Worcester Cathedral",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/alices-adventures-in-wonderland-this-is-my-theatre-tickets-1984964866349",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Great Gatsby  - 'This Is My Theatre'",
-    "date": "2026-07-29",
-    "venue": "The Old Palace",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-great-gatsby-this-is-my-theatre-tickets-1984966729923",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Tale of Peter Rabbit and Benjamin Bunny",
-    "date": "2026-07-30",
-    "venue": "The Corn Exchange",
-    "city": "",
-    "url": "https://www.eventbrite.com/e/the-tale-of-peter-rabbit-and-benjamin-bunny-tickets-1983341059499",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Car Club Fest 2026",
-    "date": "2026-08-14",
-    "venue": "Three Counties Showground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/car-club-fest-2026-tickets-1982050015953",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Western Motorhome & Campervan Show 2026 - Camping",
-    "date": "2026-08-20",
-    "venue": "Three Counties Showground",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-western-motorhome-campervan-show-2026-camping-tickets-1852100806369",
-    "image": "",
-    "categories": [
-      "theatre"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Bredon Cider Festival 2026",
-    "date": "2026-09-04",
-    "venue": "Croft Farm Water Park",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/bredon-cider-festival-2026-tickets-1445434406219",
-    "image": "",
-    "categories": [
-      "live-music",
-      "food-drink"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Didmarton Bluegrass Festival 2026",
-    "date": "2026-09-04",
-    "venue": "Kemble Airfield ,  Gloucestershire",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/didmarton-bluegrass-festival-2026-tickets-1740340749029",
-    "image": "",
-    "categories": [
-      "live-music",
-      "arts-culture"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Longevity Games 2026 Autumn Challenge",
-    "date": "2026-09-13",
-    "venue": "Swindon Harriers Athletics Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-longevity-games-2026-autumn-challenge-tickets-1978295432894",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Creating Connections with Holly Nixon",
-    "date": "2026-09-25",
-    "venue": "Crowne Plaza Stratford Upon Avon by IHG",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/creating-connections-with-holly-nixon-tickets-1981729213424",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Self Absorbed",
-    "date": "2026-10-03",
-    "venue": "DoubleTree by Hilton Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-self-absorbed-tickets-1852052291259",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "Freddie Mercury Tribute Night",
-    "date": "2026-10-09",
-    "venue": "Wrag Barn Golf Club",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/freddie-mercury-tribute-night-tickets-1980456502712",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
+    ]
   },
   {
     "name": "Sue Ryder Starlight Hike Cheltenham",
     "date": "2026-10-17",
     "venue": "Ashley Manor Preparatory School",
-    "city": "",
+    "city": "Cheltenham",
     "url": "https://www.eventbrite.co.uk/e/sue-ryder-starlight-hike-cheltenham-tickets-1967627189892",
-    "image": "",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170599288%2F277922429472%2F1%2Foriginal.20251110-161615?auto=format%2Ccompress&q=75&sharp=10&s=85a833904624914843adacc36b3bfe52",
+    "source": "eventbrite",
+    "on_sale": true,
     "categories": [
       "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "\u201cThe Choir Factor Sing Again\u201d",
-    "date": "2026-11-07",
-    "venue": "George Watson Memorial Hall",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-choir-factor-sing-again-tickets-1980873710592",
-    "image": "",
-    "categories": [
-      "live-music"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "TERRACE SOUL 2026 VIP WEEKENDER  LEGENDARY HERITAGE HEADLINER",
-    "date": "2026-11-13",
-    "venue": "DoubleTree by Hilton Swindon",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/terrace-soul-2026-vip-weekender-legendary-heritage-headliner-tickets-1631868325089",
-    "image": "",
-    "categories": [
-      "sport-fitness"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Longevity Games 2026 Series Finale - 22nd Nov",
-    "date": "2026-11-22",
-    "venue": "Delta Tennis Centre",
-    "city": "",
-    "url": "https://www.eventbrite.co.uk/e/the-longevity-games-2026-series-finale-22nd-nov-tickets-1981927134411",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "eventbrite",
-    "on_sale": true
-  },
-  {
-    "name": "The Real CSI @ The Swamp",
-    "date": "TBA",
-    "venue": "The Swamp / DEYA",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "ALL DEYA 2 (Altogether Otherwise)",
-    "date": "TBA",
-    "venue": "DEYA",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "Spring Session at The Tappy",
-    "date": "TBA",
-    "venue": "The Tappy",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "other"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "Fire Feast - Ubuntu Food @ The Swamp",
-    "date": "TBA",
-    "venue": "The Swamp / DEYA",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "deya",
-    "on_sale": false
-  },
-  {
-    "name": "Spanish Specials - Brewery Tour & Tasting",
-    "date": "TBA",
-    "venue": "DEYA Brewery",
-    "city": "",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "",
-    "categories": [
-      "food-drink"
-    ],
-    "source": "deya",
-    "on_sale": false
+    ]
   }
 ]
