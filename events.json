@@ -52,7 +52,7 @@
     ]
   },
   {
-    "name": "Thursday Dating Club - Under 30s Dating Night - Thursday 26th March",
+    "name": "Under 30s Dating Night",
     "date": "2026-03-26",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "name": "This is Country - Thursday 27th March",
+    "name": "This is Country",
     "date": "2026-03-27",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "name": "Cheltenham Card Show - March 2026 - 2 Days",
+    "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
     "city": "Cheltenham",
@@ -256,7 +256,7 @@
     "is_recurring": true
   },
   {
-    "name": "Comedy Night - Sunday 29th March",
+    "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -316,7 +316,7 @@
     "is_recurring": true
   },
   {
-    "name": "Monday Dating Club - Over 30s Dating Night - Monday 30th March",
+    "name": "Over 30s Dating Night",
     "date": "2026-03-30",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "name": "Dunkertons Cinema Club Presents Wonka - Wednesday 1st April",
+    "name": "Cinema Club Presents: Wonka",
     "date": "2026-04-01",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -429,7 +429,7 @@
     "price": "\u00a33.00"
   },
   {
-    "name": "Open Mic Night x Wildflower Whisky - Wednesday 1st April",
+    "name": "Open Mic Night x Wildflower Whisky",
     "date": "2026-04-01",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -456,7 +456,7 @@
     ]
   },
   {
-    "name": "Cleeve Common Spring Trail",
+    "name": "Spring Trail",
     "date": "2026-04-03",
     "venue": "Cleeve Common",
     "city": "Bishops Cleeve",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "name": "Discoliscious -The ultimate inclusive party - Friday 3rd April",
+    "name": "Discoliscious \u2014 The Ultimate Inclusive Party",
     "date": "2026-04-03",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -622,7 +622,7 @@
     "is_recurring": true
   },
   {
-    "name": "Easter Trail Hunt - Sunday 5th April",
+    "name": "Easter Trail Hunt",
     "date": "2026-04-05",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -654,7 +654,7 @@
     "is_recurring": true
   },
   {
-    "name": "Children's Painting Workshop -Easter Special-Tuesday 7th April",
+    "name": "Children's Painting Workshop \u2014 Easter Special",
     "date": "2026-04-07",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -669,7 +669,7 @@
     "price": "\u00a312.00"
   },
   {
-    "name": "DWAEC Present: The Incredible Animal Show -Wednesday 8th April",
+    "name": "DWAEC Present: The Incredible Animal Show",
     "date": "2026-04-08",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "name": "The Chip Shop Boys - Friday 10th April",
+    "name": "The Chip Shop Boys",
     "date": "2026-04-10",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -818,7 +818,7 @@
     ]
   },
   {
-    "name": "The Old Prison Ghost Hunts With Haunting Nights",
+    "name": "Ghost Hunts With Haunting Nights",
     "date": "2026-04-11",
     "venue": "The Old Prison",
     "city": "Northleach",
@@ -1115,7 +1115,7 @@
     ]
   },
   {
-    "name": "ABBA Arrival - Friday 8th May",
+    "name": "ABBA Arrival",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1156,7 +1156,7 @@
     ]
   },
   {
-    "name": "Calligraphy Workshop - Sunday 10th May",
+    "name": "Calligraphy Workshop",
     "date": "2026-05-10",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1183,7 +1183,7 @@
     ]
   },
   {
-    "name": "Robin Nolan Trio at the Steam and Whistle",
+    "name": "Robin Nolan Trio",
     "date": "2026-05-13",
     "venue": "The Steam and Whistle",
     "city": "Cheltenham",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "name": "Red On Back Yard Ultra, May 2026",
+    "name": "Red On Back Yard Ultra",
     "date": "2026-05-15",
     "venue": "Cheltenham Racecourse",
     "city": "Cheltenham",
@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "name": "Xtreme Colour Run In Partnership with Cobalt Health - Sunday 17th May",
+    "name": "Xtreme Colour Run In Partnership with Cobalt Health",
     "date": "2026-05-17",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "name": "Cheltenham Three Peaks Challenge 2026 for Aim Up",
+    "name": "Three Peaks Challenge 2026 for Aim Up",
     "date": "2026-06-13",
     "venue": "Cheltenham",
     "city": "Cheltenham",
@@ -1478,7 +1478,7 @@
     ]
   },
   {
-    "name": "The After Party Summer Special-Friday 17th July",
+    "name": "The After Party Summer Special",
     "date": "2026-07-17",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1731,7 +1731,7 @@
     "price": "\u00a315.00"
   },
   {
-    "name": "Games Night Mondays",
+    "name": "Games Night",
     "date": "",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1761,7 +1761,7 @@
     "recurrence_text": "Every Tuesday"
   },
   {
-    "name": "Taco Tuesday - Every Tuesday",
+    "name": "Taco Tuesday",
     "date": "",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
