@@ -391,9 +391,20 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         if(!name.includes(q) && !venue.includes(q) && !cats.includes(q)) return false;
       }
 
-      if(selectedDates.size > 0 && !e.is_recurring){
-        const eDate = (e.date||'').substring(0,10);
-        if(!eDate || !selectedDates.has(eDate)) return false;
+      if(selectedDates.size > 0){
+        if(e.is_recurring){
+          // Show recurring if any selected date matches the recurrence day
+          const recText = (e.recurrence_text||'').toLowerCase();
+          let matchesDay = false;
+          for(const d of selectedDates){
+            const dayName = new Date(d+'T00:00:00').toLocaleDateString('en-US',{weekday:'long'}).toLowerCase();
+            if(recText.includes(dayName)) matchesDay = true;
+          }
+          if(!matchesDay) return false;
+        } else {
+          const eDate = (e.date||'').substring(0,10);
+          if(!eDate || !selectedDates.has(eDate)) return false;
+        }
       }
       return true;
     });
