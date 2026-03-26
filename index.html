@@ -92,6 +92,9 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .event-name{font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .event-venue{font-size:12px;color:var(--text-3);margin-top:auto;display:flex;align-items:center;gap:4px}
 .event-venue::before{content:'';width:3px;height:3px;border-radius:50%;background:var(--text-3);flex-shrink:0}
+.event-recurring-badge{display:inline-block;font-size:10px;font-weight:700;padding:3px 8px;border-radius:4px;background:var(--accent);color:white;text-transform:uppercase;letter-spacing:0.04em}
+.event-img-wrap{position:relative;overflow:hidden}
+.event-img-wrap .event-overlay-logo{position:absolute;bottom:8px;right:8px;height:28px;opacity:0.85;filter:drop-shadow(0 1px 2px rgba(0,0,0,0.3))}
 .event-tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px}
 .event-tag{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;background:var(--surface-2);color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em}
 .event-tag.live-music{background:oklch(92% 0.04 320);color:oklch(45% 0.15 320)}
@@ -404,7 +407,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         if(!name.includes(q) && !venue.includes(q)) return false;
       }
       if(selectedVenue && (e.venue||'') !== selectedVenue) return false;
-      if(selectedDates.size > 0){
+      if(selectedDates.size > 0 && !e.is_recurring){
         const eDate = (e.date||'').substring(0,10);
         if(!eDate || !selectedDates.has(eDate)) return false;
       }
@@ -440,18 +443,24 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       
       const mainCat = (e.categories||[]).find(c=>c!=='other') || 'other';
       let imgHtml;
+      const overlayLogo = e.source === 'parkrun' ? '<svg class="event-overlay-logo" viewBox="0 0 90 20" xmlns="http://www.w3.org/2000/svg" style="height:22px;width:auto"><rect rx="4" width="90" height="20" fill="#ED1944" opacity="0.9"/><text x="45" y="14.5" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="bold" letter-spacing="0.5">parkrun</text></svg>' : '';
+      
       if(e.image){
-        imgHtml = '<img class="event-img" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder ' + mainCat + '>' + mainCat.replace(/-/g,' ') + '</div>\'">';
+        imgHtml = '<div class="event-img-wrap"><img class="event-img" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder ' + mainCat + '>' + mainCat.replace(/-/g,' ') + '</div>\'">' + overlayLogo + '</div>';
       } else {
-        imgHtml = '<div class="event-img-placeholder ' + mainCat + '">' + mainCat.replace(/-/g,' ') + '</div>';
+        imgHtml = '<div class="event-img-wrap"><div class="event-img-placeholder ' + mainCat + '">' + mainCat.replace(/-/g,' ') + '</div>' + overlayLogo + '</div>';
       }
       
       const url = e.url || '#';
+      const isRecurring = e.is_recurring && e.recurrence_text;
+      const dateDisplay = isRecurring 
+        ? '<span class="event-recurring-badge">' + e.recurrence_text + '</span>'
+        : (dateFormatted ? '<div class="event-date">' + dateFormatted + '</div>' : '');
       
       card.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' +
         imgHtml +
         '<div class="event-body">' +
-          (dateFormatted ? '<div class="event-date">' + dateFormatted + '</div>' : '') +
+          dateDisplay +
           '<div class="event-name">' + e.name + '</div>' +
           (e.venue ? '<div class="event-venue">' + e.venue + '</div>' : '') +
           (cats ? '<div class="event-tags">' + cats + '</div>' : '') +
