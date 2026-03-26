@@ -147,6 +147,21 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-03-28",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Comedy Night - Sunday 29th March",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -159,6 +174,22 @@
     ],
     "on_sale": true,
     "price": "\u00a310.00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-03-29",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
   },
   {
     "name": "Monday Dating Club - Over 30s Dating Night - Monday 30th March",
@@ -382,6 +413,21 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-04-04",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Easter Trail Hunt - Sunday 5th April",
     "date": "2026-04-05",
     "venue": "Dunkertons Cider",
@@ -394,6 +440,22 @@
     ],
     "on_sale": true,
     "price": "\u00a38.00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-04-05",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
   },
   {
     "name": "Children's Painting Workshop -Easter Special-Tuesday 7th April",
@@ -521,6 +583,21 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-04-11",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -545,6 +622,22 @@
     "categories": [
       "food-drink"
     ]
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-04-12",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
   },
   {
     "name": "Anna Bailey in conversation with Jackie Kabler - Cheltenham",
@@ -657,6 +750,37 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-04-18",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-04-19",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Spanish Specials - Brewery Tour & Tasting",
     "date": "2026-04-22",
     "venue": "DEYA Brewery",
@@ -714,6 +838,68 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-04-25",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-04-26",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
+    "name": "Cheltenham parkrun",
+    "date": "2026-05-02",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-05-03",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "ABBA Arrival - Friday 8th May",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
@@ -742,6 +928,21 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-05-09",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Calligraphy Workshop - Sunday 10th May",
     "date": "2026-05-10",
     "venue": "Dunkertons Cider",
@@ -754,6 +955,22 @@
     ],
     "on_sale": true,
     "price": "\u00a360.00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-05-10",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
   },
   {
     "name": "Cotswold Networking Cheltenham May 2026 Meet-up",
@@ -795,6 +1012,21 @@
     ]
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-05-16",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "recurring": true,
+    "time": "09:00"
+  },
+  {
     "name": "Xtreme Colour Run",
     "date": "2026-05-17",
     "venue": "Dunkertons Park",
@@ -822,6 +1054,22 @@
     ],
     "on_sale": true,
     "price": "\u00a310.00"
+  },
+  {
+    "name": "Cheltenham junior parkrun",
+    "date": "2026-05-17",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "recurring": true,
+    "time": "09:00"
   },
   {
     "name": "An evening of mediumship with Carol Green",
