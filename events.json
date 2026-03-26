@@ -110,7 +110,7 @@
     "venue": "Everyman Theatre",
     "city": "Cheltenham",
     "url": "https://www.everymantheatre.org.uk/",
-    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Taylor-Fever_0F2EEF2F-BC64-498E-AB6A-C3379D2F0F77-9c68ce2a5056a36_9c68ced1-5056-a36a-0b0d87e54e4218e1.jpg",
+    "image": "https://www.everymantheatre.org.uk/media/lwbfs2sq/taylorfever289x177.jpg?width=725&height=468&quality=85",
     "source": "visitcheltenham",
     "on_sale": false,
     "categories": [
@@ -318,6 +318,33 @@
     "on_sale": false,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "An Evening of Burlesque Cabaret",
+    "date": "2026-03-27",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/an-evening-of-burlesque-cabaret/",
+    "image": "https://www.everymantheatre.org.uk/media/vmwb32jz/burlesquecabaret289x177.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "comedy"
+    ]
+  },
+  {
+    "name": "The Inquiry",
+    "date": "2026-03-27",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/the-inquiry/",
+    "image": "https://www.everymantheatre.org.uk/media/1vxbl3ap/the-inquiry-act-3-yt-show-2026-289-x-177-px.png?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
     ]
   },
   {
@@ -637,6 +664,20 @@
     ]
   },
   {
+    "name": "Chitty Chitty Bang Bang",
+    "date": "2026-03-31",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/chitty-chitty-bang-bang/",
+    "image": "https://www.everymantheatre.org.uk/media/aw4e0ffe/blank-289-x-177.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "family"
+    ]
+  },
+  {
     "name": "Property & Poppadoms",
     "date": "2026-04-01",
     "venue": "Indian Brasserie",
@@ -704,6 +745,19 @@
     "on_sale": true,
     "categories": [
       "theatre"
+    ]
+  },
+  {
+    "name": "Cardboard Costumes",
+    "date": "2026-04-01",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/cardboard-costumes/",
+    "image": "https://www.everymantheatre.org.uk/media/3tpf5zwi/cardboard-costumes-web.png?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "family"
     ]
   },
   {
@@ -952,6 +1006,19 @@
     ]
   },
   {
+    "name": "Barnum",
+    "date": "2026-04-07",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/barnum/",
+    "image": "https://www.everymantheatre.org.uk/media/u12blprx/barnum_chltnhm_289x177.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "DWAEC Present: The Incredible Animal Show",
     "date": "2026-04-08",
     "venue": "Dunkertons Cider",
@@ -1044,6 +1111,19 @@
     "on_sale": true,
     "categories": [
       "family"
+    ]
+  },
+  {
+    "name": "Daisy Donald",
+    "date": "2026-04-09",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/daisy-donald/",
+    "image": "https://www.everymantheatre.org.uk/media/krilyery/daisy-donald-289.png?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "comedy"
     ]
   },
   {
@@ -1218,6 +1298,19 @@
     ]
   },
   {
+    "name": "Folk On",
+    "date": "2026-04-11",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/folk-on/",
+    "image": "https://www.everymantheatre.org.uk/media/iroe2juk/featured-shows.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -1244,6 +1337,19 @@
     ]
   },
   {
+    "name": "Jazz in the Studio",
+    "date": "2026-04-13",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/jazz-in-the-studio/",
+    "image": "https://www.everymantheatre.org.uk/media/gxvewkah/am2.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "An Evening with Ian Botham",
     "date": "2026-04-14",
     "venue": "Cheltenham Town Hall",
@@ -1254,6 +1360,19 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
+    ]
+  },
+  {
+    "name": "The Spy Who Came in From the Cold",
+    "date": "2026-04-14",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/the-spy-who-came-in-from-the-cold/",
+    "image": "https://www.everymantheatre.org.uk/media/0befnhja/thespywho_rl_289x177px_cheltenham.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
     ]
   },
   {
@@ -1510,6 +1629,19 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
+    ]
+  },
+  {
+    "name": "The Constant Wife",
+    "date": "2026-04-20",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.everymantheatre.org.uk/shows/the-constant-wife/",
+    "image": "https://www.everymantheatre.org.uk/media/tvrd5tqr/tcw_cheltenham_on-sale-assets_sep25_289x177.jpg?width=725&height=468&quality=85",
+    "source": "everyman-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
     ]
   },
   {
