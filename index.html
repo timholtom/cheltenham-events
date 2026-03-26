@@ -497,7 +497,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       const v = e.venue || '';
       if(v) venues[v] = (venues[v]||0) + 1;
     });
-    Object.keys(venues).sort((a,b) => venues[b]-venues[a]).forEach(v => {
+    Object.keys(venues).sort((a,b) => a.localeCompare(b)).forEach(v => {
       const opt = document.createElement('option');
       opt.value = v;
       opt.textContent = v + ' (' + venues[v] + ')';
