@@ -348,6 +348,19 @@
     ]
   },
   {
+    "name": "Oasiz",
+    "date": "2026-03-27",
+    "venue": "College Pool",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/686705",
+    "image": "https://static.wegottickets.com/images/events/694177f32e34b_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -1311,6 +1324,20 @@
     ]
   },
   {
+    "name": "Simcha: The Kindertransport Concert",
+    "date": "2026-04-11",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690813",
+    "image": "https://static.wegottickets.com/images/events/69779f32862f7_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music",
+      "arts-culture"
+    ]
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -1427,6 +1454,19 @@
     "categories": [
       "comedy",
       "family"
+    ]
+  },
+  {
+    "name": "Cathryn Craig and Brian Willoughby",
+    "date": "2026-04-15",
+    "venue": "The Steam and Whistle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/688704",
+    "image": "https://static.wegottickets.com/images/events/6961779074987_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
