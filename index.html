@@ -237,7 +237,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   const EVENTS_PER_PAGE = 24;
   let allEvents = [];
   let filteredEvents = [];
-  let currentFilter = 'all';
+  let selectedCategories = new Set();
   let currentSearch = '';
   let selectedDates = new Set();
   let visibleCount = EVENTS_PER_PAGE;
@@ -281,17 +281,37 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
     categories.forEach(cat => {
       if(cat.id !== 'all' && !counts[cat.id]) return;
       const btn = document.createElement('button');
-      btn.className = 'filter-btn' + (cat.id === currentFilter ? ' active' : '');
+      btn.className = 'filter-btn' + (cat.id === 'all' ? ' active' : '');
+      btn.dataset.cat = cat.id;
       btn.innerHTML = cat.label;
       if(counts[cat.id]) btn.innerHTML += '<span class="filter-count">' + counts[cat.id] + '</span>';
-      btn.onclick = function(){
-        currentFilter = cat.id;
+      btn.addEventListener('click', function(ev){
+        ev.preventDefault();
+        ev.stopPropagation();
+        const id = this.dataset.cat;
+        if(id === 'all'){
+          selectedCategories.clear();
+        } else if(selectedCategories.has(id)){
+          selectedCategories.delete(id);
+        } else {
+          selectedCategories.add(id);
+        }
         visibleCount = EVENTS_PER_PAGE;
+        updateCategoryChips();
         applyFilters();
-        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        this.classList.add('active');
-      };
+      });
       container.insertBefore(btn, searchBox);
+    });
+  }
+
+  function updateCategoryChips(){
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      const id = btn.dataset.cat;
+      if(id === 'all'){
+        btn.classList.toggle('active', selectedCategories.size === 0);
+      } else {
+        btn.classList.toggle('active', selectedCategories.has(id));
+      }
     });
   }
 
@@ -322,18 +342,11 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       chip.innerHTML = '<div class="day-chip-inner"><span class="day-name">' + days[d.getDay()] + '</span><span class="day-num">' + d.getDate() + '</span></div>';
       chip.title = days[d.getDay()] + ' ' + d.getDate() + ' ' + months[d.getMonth()];
 
-      chip.onclick = function(ev){
+      chip.addEventListener('click', function(ev){
+        ev.preventDefault();
+        ev.stopPropagation();
         const k = this.dataset.date;
-        if(ev.shiftKey && selectedDates.size > 0){
-          // Shift-click: select range from last selected to this
-          const sorted = [...selectedDates].sort();
-          const last = sorted[sorted.length - 1];
-          const from = new Date(Math.min(new Date(last), new Date(k)));
-          const to = new Date(Math.max(new Date(last), new Date(k)));
-          for(let dt = new Date(from); dt <= to; dt.setDate(dt.getDate()+1)){
-            selectedDates.add(dt.toISOString().split('T')[0]);
-          }
-        } else if(selectedDates.has(k)){
+        if(selectedDates.has(k)){
           selectedDates.delete(k);
         } else {
           selectedDates.add(k);
@@ -341,7 +354,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         visibleCount = EVENTS_PER_PAGE;
         updateDateChips();
         applyFilters();
-      };
+      });
       container.appendChild(chip);
     }
   }
@@ -356,7 +369,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   function applyFilters(){
     const q = currentSearch.toLowerCase().trim();
     filteredEvents = allEvents.filter(e => {
-      if(currentFilter !== 'all' && !(e.categories||[]).includes(currentFilter)) return false;
+      if(selectedCategories.size > 0 && !(e.categories||[]).some(c => selectedCategories.has(c))) return false;
       if(q){
         const name = (e.name||'').toLowerCase();
         const venue = (e.venue||'').toLowerCase();
