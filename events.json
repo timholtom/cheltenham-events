@@ -52,6 +52,20 @@
     ]
   },
   {
+    "name": "Thursday Dating Club - Under 30s Dating Night - Thursday 26th March",
+    "date": "2026-03-26",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/thursday-dating-club-under-30s-dating-night-thursday-26th-march-1",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/social_1200x1200.png?v=1767344751",
+    "source": "dunkertons",
+    "categories": [
+      "dating"
+    ],
+    "on_sale": true,
+    "price": "\u00a37.50"
+  },
+  {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
@@ -91,17 +105,19 @@
     ]
   },
   {
-    "name": "This is Country",
+    "name": "This is Country - Thursday 27th March",
     "date": "2026-03-27",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/this-is-country-friday-27th-march",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/This_is_Country_1080x1350_bbfc28d3-9bc0-45b2-a570-7cde5206b14c_1200x1200.png?v=1769421178",
+    "source": "dunkertons",
     "categories": [
+      "theatre",
       "live-music"
-    ]
+    ],
+    "on_sale": true,
+    "price": "\u00a320.00"
   },
   {
     "name": "Cheltenham Card Show - March 2026 - 2 Days",
@@ -128,6 +144,36 @@
     "categories": [
       "other"
     ]
+  },
+  {
+    "name": "Comedy Night - Sunday 29th March",
+    "date": "2026-03-29",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/comedy-night-sunday-29th-march-1",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_tile_1200x1200.png?v=1766150960",
+    "source": "dunkertons",
+    "categories": [
+      "arts-culture",
+      "theatre",
+      "comedy"
+    ],
+    "on_sale": true,
+    "price": "\u00a310.00"
+  },
+  {
+    "name": "Monday Dating Club - Over 30s Dating Night - Monday 30th March",
+    "date": "2026-03-30",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/monday-dating-club-over-30s-dating-night-monday-30th-march",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_ART_a2bc8244-93cd-42d1-a20c-58fa152c0990_1200x1200.png?v=1769421358",
+    "source": "dunkertons",
+    "categories": [
+      "dating"
+    ],
+    "on_sale": true,
+    "price": "\u00a37.50"
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
@@ -196,6 +242,38 @@
     ]
   },
   {
+    "name": "Dunkertons Cinema Club Presents Wonka - Wednesday 1st April",
+    "date": "2026-04-01",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-cinema-club-presents-wonka-wednesday-1st-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/wonka_2_1200x1200.png?v=1773832725",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "price": "\u00a33.00"
+  },
+  {
+    "name": "Open Mic Night x Wildflower Whisky - Wednesday 1st April",
+    "date": "2026-04-01",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/open-mic-night-x-wildflower-whisky-wednesday-1st-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_tile_7b43bc14-a812-45d6-bc3a-9549cf5d0615_1200x1200.png?v=1767601549",
+    "source": "dunkertons",
+    "categories": [
+      "arts-culture",
+      "theatre",
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": ""
+  },
+  {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
@@ -222,17 +300,19 @@
     ]
   },
   {
-    "name": "Discoliscious - Denise Van Outen",
+    "name": "Discoliscious -The ultimate inclusive party - Friday 3rd April",
     "date": "2026-04-03",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/denise-van-outen-april-3",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/posts_3-02_1200x1200.png?v=1772548614",
+    "source": "dunkertons",
     "categories": [
+      "arts-culture",
       "live-music"
-    ]
+    ],
+    "on_sale": true,
+    "price": "\u00a320.00"
   },
   {
     "name": "Over 40s Day Party",
@@ -302,6 +382,51 @@
     ]
   },
   {
+    "name": "Easter Trail Hunt - Sunday 5th April",
+    "date": "2026-04-05",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/easter-trail-hunt-sunday-5th-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_e77fc837-8808-43f9-967a-95a1fcd5880c_1200x1200.png?v=1772557289",
+    "source": "dunkertons",
+    "categories": [
+      "family"
+    ],
+    "on_sale": true,
+    "price": "\u00a38.00"
+  },
+  {
+    "name": "Children's Painting Workshop -Easter Special-Tuesday 7th April",
+    "date": "2026-04-07",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/childrens-painting-workshop-easter-special-tuesday-7th-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/paint_pot_parties_feb_1200x1200.jpg?v=1769420106",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "price": "\u00a312.00"
+  },
+  {
+    "name": "DWAEC Present: The Incredible Animal Show -Wednesday 8th April",
+    "date": "2026-04-08",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dinosaur-wildlife-education-centre-present-the-incredible-animal-show-wednesday-8th-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_3174a832-9fa5-4db1-9b71-9e7aa35c758c_1200x1200.png?v=1771933825",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "\u00a37.50"
+  },
+  {
     "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
     "date": "2026-04-09",
     "venue": "Parabola Arts Centre",
@@ -352,6 +477,20 @@
     "categories": [
       "other"
     ]
+  },
+  {
+    "name": "The Chip Shop Boys - Friday 10th April",
+    "date": "2026-04-10",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-chip-shop-boys-friday-10th-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_1080X1350_31b7304e-62a4-4eba-ba3e-514f55502d61_1200x1200.png?v=1772961663",
+    "source": "dunkertons",
+    "categories": [
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "\u00a315.00"
   },
   {
     "name": "Cheltenham: Quantum Gong Bath,Guided Meditation+Light Language",
@@ -541,19 +680,6 @@
     ]
   },
   {
-    "name": "Tweedy's Massive Circus",
-    "date": "2026-04-23",
-    "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
-    "city": "Cheltenham",
-    "on_sale": true,
-    "categories": [
-      "theatre"
-    ]
-  },
-  {
     "name": "The Slates - Indie Nights by Gig Life Crisis",
     "date": "2026-04-24",
     "venue": "The Steam and Whistle",
@@ -580,56 +706,19 @@
     ]
   },
   {
-    "name": "Monday Dating Club - Over 30s",
-    "date": "2026-04-27",
-    "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
-    "city": "Cheltenham",
-    "on_sale": true,
-    "categories": [
-      "dating"
-    ]
-  },
-  {
-    "name": "Brush Party Paint & Sip",
-    "date": "2026-04-29",
-    "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
-    "city": "Cheltenham",
-    "on_sale": true,
-    "categories": [
-      "arts-culture"
-    ]
-  },
-  {
-    "name": "Thursday Dating Club - Under 30s",
-    "date": "2026-04-30",
-    "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
-    "city": "Cheltenham",
-    "on_sale": true,
-    "categories": [
-      "dating"
-    ]
-  },
-  {
-    "name": "ABBA Arrival Tribute Night",
+    "name": "ABBA Arrival - Friday 8th May",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/abba-arrival-friday-8th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.jpg?v=1771249303",
+    "source": "dunkertons",
     "categories": [
+      "theatre",
       "live-music"
-    ]
+    ],
+    "on_sale": true,
+    "price": "\u00a315.00"
   },
   {
     "name": "Nature Journaling in Wardens' Wood",
@@ -645,18 +734,18 @@
     ]
   },
   {
-    "name": "Calligraphy Workshop",
+    "name": "Calligraphy Workshop - Sunday 10th May",
     "date": "2026-05-10",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/calligraphy-workshop-sunday-10th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/tile_9828e524-1872-4d68-94cb-15659c955ae5_1200x1200.png?v=1771872301",
+    "source": "dunkertons",
     "categories": [
-      "arts-culture",
-      "business"
-    ]
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "price": "\u00a360.00"
   },
   {
     "name": "Cotswold Networking Cheltenham May 2026 Meet-up",
@@ -711,17 +800,19 @@
     ]
   },
   {
-    "name": "Xtreme Colour Run (Cobalt Health)",
+    "name": "Xtreme Colour Run In Partnership with Cobalt Health - Sunday 17th May",
     "date": "2026-05-17",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/xtreme-colour-run-in-partnership-with-cobalt-health-sunday-17th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_337b6282-abb5-4c95-ae00-64c1184ab75b_1200x1200.png?v=1771867355",
+    "source": "dunkertons",
     "categories": [
+      "arts-culture",
       "sport-fitness"
-    ]
+    ],
+    "on_sale": true,
+    "price": "\u00a310.00"
   },
   {
     "name": "An evening of mediumship with Carol Green",
@@ -908,18 +999,20 @@
     ]
   },
   {
-    "name": "The After Party Summer Special",
+    "name": "The After Party Summer Special-Friday 17th July",
     "date": "2026-07-17",
     "venue": "Dunkertons Cider",
-    "source": "dunkertons",
-    "url": "https://www.dunkertonscider.co.uk/collections/events",
-    "image": "",
     "city": "Cheltenham",
-    "on_sale": true,
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-after-party-summer-special-friday-17th-july",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_9fd780f8-5df0-42d3-8bed-f6abd2a60ec4_1200x1200.png?v=1773992928",
+    "source": "dunkertons",
     "categories": [
-      "live-music",
-      "arts-culture"
-    ]
+      "arts-culture",
+      "theatre",
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "\u00a320.00"
   },
   {
     "name": "Sue Ryder Starlight Hike Cheltenham",
@@ -1101,5 +1194,123 @@
       "dating"
     ],
     "on_sale": false
+  },
+  {
+    "name": "Tweedy's Massive Circus",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/Tile_1080x1350_5ed83f69-b8d0-40d3-ba57-3e5ecf1e2028_1200x1200.jpg?v=1769154456",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": "\u00a329.00"
+  },
+  {
+    "name": "The 80s Mixtape - A Night of Iconic 80s Power Anthems - Friday 31st Ju",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
+    "source": "dunkertons",
+    "categories": [
+      "theatre",
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "\u00a315.00"
+  },
+  {
+    "name": "Games Night Mondays",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
+    "source": "dunkertons",
+    "categories": [
+      "other"
+    ],
+    "on_sale": true,
+    "price": ""
+  },
+  {
+    "name": "Quiz Night- Every Tuesday",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
+    "source": "dunkertons",
+    "categories": [
+      "other"
+    ],
+    "on_sale": true,
+    "price": "\u00a312.00"
+  },
+  {
+    "name": "Taco Tuesday - Every Tuesday",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
+    "source": "dunkertons",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "price": ""
+  },
+  {
+    "name": "Funky Pants Music & Dance Parties",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
+    "source": "dunkertons",
+    "categories": [
+      "live-music",
+      "family"
+    ],
+    "on_sale": true,
+    "price": "\u00a38.50"
+  },
+  {
+    "name": "Dunkertons Run Club",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
+    "source": "dunkertons",
+    "categories": [
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": ""
+  },
+  {
+    "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/bunny_tile_1200x1200.png?v=1773672426",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "price": "\u00a312.00"
   }
 ]
