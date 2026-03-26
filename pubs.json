@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Sandford Park Alehouse",
+    "website": "http://www.sandfordparkalehouse.co.uk/",
+    "phone": "+44 1242 690242",
+    "rating": "4.7",
+    "instagram": "4144345168961679",
+    "facebook_page": "sanfordpark.house",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://sandfordparkalehouse.co.uk/whats-on/"
+  },
+  {
+    "name": "The Old Courthouse",
+    "website": "https://www.oldcourthouse.pub/",
+    "phone": "+44 1242 500930",
+    "rating": "4.4",
+    "instagram": "theoldcourthousepub",
+    "facebook_page": "366639677101969",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Frog & Fiddle, Cheltenham",
+    "website": "https://butcombe.com/the-frog-and-fiddle-cheltenham/",
+    "phone": "+44 1242 701156",
+    "rating": "4.5",
+    "instagram": "frogandfiddle",
+    "facebook_page": "FrogAndFiddleCheltenham",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://butcombe.com/the-frog-and-fiddle-cheltenham/live-sports/"
+  },
+  {
+    "name": "Clock Tower",
+    "website": "http://www.clocktowerpub.co.uk/",
+    "phone": "+44 1242 571794",
+    "rating": "4.3",
+    "instagram": "clocktower.cheltenham",
+    "facebook_page": "406373882729544",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "http://www.clocktowerpub.co.uk/whats-on"
+  },
+  {
+    "name": "Planet Caravan",
+    "website": "http://www.planetcaravancheltenham.com/",
+    "phone": "+44 1242 462294",
+    "rating": "4.9",
+    "instagram": "planetcaravanchelt",
+    "facebook_page": "2008",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "http://www.planetcaravancheltenham.com/events"
+  },
+  {
+    "name": "The Tavern",
+    "website": "https://www.thetaverncheltenham.com/",
+    "phone": "+44 1242 800290",
+    "rating": "4.4",
+    "instagram": "thetaverncheltenham",
+    "facebook_page": "2008",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://www.thetaverncheltenham.com/whats-on"
+  },
+  {
+    "name": "The Brown Jug",
+    "website": "http://www.thebrownjugcheltenham.co.uk/",
+    "phone": "+44 1242 521736",
+    "rating": "4.6",
+    "instagram": "the.brownjug",
+    "facebook_page": "people",
+    "twitter": "TheBrownJug1",
+    "has_events_page": true,
+    "events_url": "https://thebrownjugcheltenham.co.uk/wp-content/plugins/event-management/css/style.css?ver=6.9.4"
+  },
+  {
+    "name": "The House in The Tree",
+    "website": "http://www.houseinthetree.co.uk/",
+    "phone": "+44 1242 680241",
+    "rating": "4.6",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Bayshill",
+    "website": "",
+    "phone": "+44 1242 379164",
+    "rating": "4.4"
+  },
+  {
+    "name": "The Strand",
+    "website": "http://thestrandcheltenham.co.uk/",
+    "phone": "+44 1242 373728",
+    "rating": "4.4",
+    "instagram": "thestrandgl50",
+    "facebook_page": "TheStrandGL50",
+    "twitter": "thestrandgl50",
+    "has_events_page": true,
+    "events_url": "http://thestrandcheltenham.co.uk/#events-section"
+  },
+  {
+    "name": "Copa of Cheltenham",
+    "website": "https://www.greeneking.co.uk/pubs/gloucestershire/copa-of-cheltenham/",
+    "phone": "+44 1242 245044",
+    "rating": "4.3",
+    "instagram": "copacheltenham",
+    "facebook_page": "212173145539059",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://www.greeneking.co.uk/pubs/gloucestershire/copa-of-cheltenham/pubs/gloucestershire/copa-of-cheltenham/whats-on"
+  },
+  {
+    "name": "The Bottle of Sauce",
+    "website": "https://dodopubs.com/locations/the-bottle-of-sauce/",
+    "phone": "+44 1242 256156",
+    "rating": "4.5",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://dodopubs.com/dodo-events/?ical=1"
+  },
+  {
+    "name": "The Five Alls, Cheltenham",
+    "website": "http://www.thefivealls.co.uk/",
+    "phone": "+44 1242 573700",
+    "rating": "4.5",
+    "instagram": "thefiveschelt",
+    "facebook_page": "2008",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "Brewhouse & Kitchen - Cheltenham",
+    "website": "http://www.brewhouseandkitchen.com/venue/cheltenham/",
+    "phone": "+44 1242 509946",
+    "rating": "4.3",
+    "instagram": "brewhouse_and_kitchen",
+    "facebook_page": "Brewhouse",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://www.brewhouseandkitchen.com/venue/cheltenham/#whats-on"
+  },
+  {
+    "name": "The Lansdown",
+    "website": "https://www.greeneking.co.uk/pubs/gloucestershire/the-lansdown/",
+    "phone": "+44 1242 522700",
+    "rating": "4.1",
+    "instagram": "greeneking_pubs",
+    "facebook_page": "GreeneKingBrewery",
+    "twitter": "greeneking",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Miller, Cheltenham",
+    "website": "https://www.facebook.com/TheMillerCheltenham",
+    "phone": "+44 7868 182589",
+    "rating": "4.4"
+  },
+  {
+    "name": "The Kemble Brewery Inn",
+    "website": "https://www.facebook.com/thekemble",
+    "phone": "+44 1242 701053",
+    "rating": "4.7"
+  },
+  {
+    "name": "The Spectre",
+    "website": "https://www.craftunionpubs.com/spectre-cheltenham/",
+    "phone": "+44 1242 257394",
+    "rating": "4.1",
+    "instagram": "craftunionpubs",
+    "facebook_page": "TheSpectre.cheltenham",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://www.craftunionpubs.com/spectre-cheltenham/spectre-cheltenham/sport/watch-darts-live"
+  },
+  {
+    "name": "Rotunda Tavern",
+    "website": "https://m.facebook.com/Rotunda-Tavern/",
+    "phone": "+44 1242 522994",
+    "rating": "4.4"
+  },
+  {
+    "name": "The Wheatsheaf",
+    "website": "https://www.wheatsheafcheltenham.co.uk/",
+    "phone": "+44 1242 525371",
+    "rating": "4.6",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "Harry Cook Freehouse",
+    "website": "https://www.harrycookcheltenham.co.uk/",
+    "phone": "+44 1242 236857",
+    "rating": "4.3",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Royal Oak, Prestbury",
+    "website": "https://butcombe.com/the-royal-oak-pub-gloucestershire/",
+    "phone": "+44 1242 522344",
+    "rating": "4.4",
+    "instagram": "royaloakprestbury",
+    "facebook_page": "royaloakprestbury",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://butcombe.com/the-royal-oak-pub-gloucestershire/whats-on/"
+  },
+  {
+    "name": "33 The Rum Bar",
+    "website": "http://www.33therumbar.co.uk/",
+    "phone": "+44 1242 500690",
+    "rating": "4.9",
+    "instagram": "33therumbar",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Swan",
+    "website": "http://www.theswancheltenham.co.uk/",
+    "phone": "+44 1242 243726",
+    "rating": "4.5",
+    "instagram": "swancheltenham",
+    "facebook_page": "theswancheltenham",
+    "twitter": "SwanCheltenham",
+    "has_events_page": true,
+    "events_url": "http://www.theswancheltenham.co.uk/mailto:events@theswancheltenham.co.uk"
+  },
+  {
+    "name": "Parler",
+    "website": "https://www.parlerbar.co.uk/",
+    "phone": "",
+    "rating": "4.9",
+    "instagram": "parlerbar",
+    "facebook_page": "2008",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Plough Inn Prestbury",
+    "website": "http://www.theploughprestbury.co.uk/",
+    "phone": "+44 1242 361506",
+    "rating": "4.6",
+    "instagram": "theploughprestbury",
+    "facebook_page": "theploughprestbury",
+    "twitter": "ThePloughChelt",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Vine",
+    "website": "http://www.thevinecheltenham.co.uk/",
+    "phone": "+44 1242 220170",
+    "rating": "4.5",
+    "instagram": "thevinechelt",
+    "facebook_page": "pg",
+    "twitter": "thevinechelt",
+    "has_events_page": true,
+    "events_url": "http://www.thevinecheltenham.co.uk/about-the-vine/#events"
+  },
+  {
+    "name": "The Merryfellow",
+    "website": "https://www.themerryfellow.co.uk/",
+    "phone": "+44 1242 431196",
+    "rating": "4.6",
+    "instagram": "The_Merryfellow",
+    "facebook_page": "The_Merryfellow",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://www.themerryfellow.co.uk/private-dining-%26-events"
+  },
+  {
+    "name": "Tailors Eating House",
+    "website": "http://www.tailorscheltenham.co.uk/",
+    "phone": "+44 1242 255453",
+    "rating": "4.3",
+    "instagram": "tailors_pub_cheltenham",
+    "facebook_page": "tailorscheltenham",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://tailorscheltenham.co.uk/wp-content/plugins/event-management/css/style.css?ver=6.9.4"
+  },
+  {
+    "name": "Langton Cheltenham",
+    "website": "https://www.thelangton.co.uk/",
+    "phone": "+44 1242 233022",
+    "rating": "4.4",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "Turtle Bay Cheltenham",
+    "website": "https://turtlebay.co.uk/restaurants/cheltenham/",
+    "phone": "+44 1242 529923",
+    "rating": "4.8",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://deliveroo.co.uk/menu/cheltenham/cheltenham/turtle-bay-cheltenham"
+  },
+  {
+    "name": "The Ivy Montpellier Brasserie Cheltenham",
+    "website": "https://ivycollection.com/",
+    "phone": "+44 1242 894200",
+    "rating": "4.5",
+    "instagram": "the_ivy_collection",
+    "facebook_page": "TheIvyBrasseries",
+    "twitter": "",
+    "has_events_page": true,
+    "events_url": "https://ivycollection.com/events-at-the-ivy/easter/"
+  },
+  {
+    "name": "Hewlett Arms",
+    "website": "http://thehewlett.co.uk/",
+    "phone": "+44 1242 228600",
+    "rating": "4.5",
+    "instagram": "",
+    "facebook_page": "",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "Memsahib's Lounge",
+    "website": "https://memsahibslounge.com/",
+    "phone": "+44 1242 583377",
+    "rating": "4.7",
+    "instagram": "memsahibslounge",
+    "facebook_page": "MemsahibsLounge",
+    "twitter": "",
+    "has_events_page": false,
+    "events_url": ""
+  },
+  {
+    "name": "The Beehive",
+    "website": "",
+    "phone": "",
+    "rating": "4.3"
+  }
+]
