@@ -441,22 +441,6 @@
     "price": ""
   },
   {
-    "name": "Pub Quiz at The Five Alls",
-    "date": "2026-04-01",
-    "venue": "The Five Alls",
-    "city": "Cheltenham",
-    "url": "https://www.thefivealls.co.uk/new-events/",
-    "image": "",
-    "source": "five-alls",
-    "on_sale": false,
-    "categories": [
-      "pub-quiz"
-    ],
-    "time": "20:00",
-    "recurrence_text": "Every Wednesday",
-    "is_recurring": true
-  },
-  {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
