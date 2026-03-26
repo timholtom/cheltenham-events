@@ -420,6 +420,19 @@
     ]
   },
   {
+    "name": "Robbed Zombie \u2014 Rob Zombie Tribute",
+    "date": "2026-03-28",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/692003",
+    "image": "https://static.wegottickets.com/images/events/69837a76232fe_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -762,6 +775,19 @@
     ]
   },
   {
+    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "date": "2026-04-03",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690251",
+    "image": "https://static.wegottickets.com/images/events/69c3fb587116d_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
@@ -840,6 +866,20 @@
     "on_sale": false,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "Drag Wars \u2014 Heat 2",
+    "date": "2026-04-04",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690445",
+    "image": "https://static.wegottickets.com/images/events/69726dbf19090_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "comedy"
     ]
   },
   {
@@ -1048,6 +1088,19 @@
     ]
   },
   {
+    "name": "Dance Floor Presents: Congratulations",
+    "date": "2026-04-10",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/692141",
+    "image": "https://static.wegottickets.com/images/events/6984960fc1f06_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Quantum Gong Bath, Guided Meditation+ Light Language",
     "date": "2026-04-11",
     "venue": "The Isbourne - Holistic Wellbeing",
@@ -1094,6 +1147,19 @@
     "url": "https://cheltenhamtownhall.org.uk/event/northern-live/",
     "image": "",
     "source": "cheltenham-town-hall",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "GLHC Presents: Tempers Fray // Despondent",
+    "date": "2026-04-11",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/694870",
+    "image": "https://static.wegottickets.com/images/events/69a0a6f02e85c_event.jpeg",
+    "source": "wegottickets",
     "on_sale": true,
     "categories": [
       "live-music"
@@ -1223,6 +1289,19 @@
     ]
   },
   {
+    "name": "UoG Fine Art Degree Show Fundraiser Quiz",
+    "date": "2026-04-16",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/f/17524",
+    "image": "https://static.wegottickets.com/images/events/69c46a4a77789_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Skivers Club",
     "date": "2026-04-17",
     "venue": "The Bottle of Sauce",
@@ -1300,6 +1379,20 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "Drag Wars \u2014 Semi Final",
+    "date": "2026-04-18",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690446",
+    "image": "https://static.wegottickets.com/images/events/69726e816c717_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "comedy"
     ]
   },
   {
@@ -1397,6 +1490,19 @@
     ]
   },
   {
+    "name": "UoG Music Society \u2014 Student Takeover",
+    "date": "2026-04-23",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/696082",
+    "image": "https://static.wegottickets.com/images/events/69af605fad1f7_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "The Slates - Indie Nights by Gig Life Crisis",
     "date": "2026-04-24",
     "venue": "The Steam and Whistle",
@@ -1472,6 +1578,32 @@
     "url": "https://cheltenhamtownhall.org.uk/event/girl-power/",
     "image": "",
     "source": "cheltenham-town-hall",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Fantazmaz \u2014 Gonna Blow Your Top UK Tour",
+    "date": "2026-04-24",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/696972",
+    "image": "https://static.wegottickets.com/images/events/69b87447a065b_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
+    "date": "2026-04-25",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/691006",
+    "image": "https://static.wegottickets.com/images/events/69796079b449d_event.jpeg",
+    "source": "wegottickets",
     "on_sale": true,
     "categories": [
       "live-music"
@@ -1559,6 +1691,19 @@
     ]
   },
   {
+    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "date": "2026-05-08",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690255",
+    "image": "https://static.wegottickets.com/images/events/69953322a4b98_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Nature Journaling in Wardens' Wood",
     "date": "2026-05-09",
     "venue": "Wardens Wood",
@@ -1569,6 +1714,20 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
+    ]
+  },
+  {
+    "name": "Drag Wars \u2014 Grand Final",
+    "date": "2026-05-09",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690447",
+    "image": "https://static.wegottickets.com/images/events/69726eecd19af_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "comedy"
     ]
   },
   {
@@ -1584,6 +1743,19 @@
     ],
     "on_sale": true,
     "price": "\u00a360.00"
+  },
+  {
+    "name": "GLHC Presents: Passed Out // Uncertainty",
+    "date": "2026-05-10",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/696872",
+    "image": "https://static.wegottickets.com/images/events/69b750fc27445_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
   },
   {
     "name": "Cotswold Networking Meet-up",
@@ -1635,6 +1807,19 @@
     "on_sale": false,
     "categories": [
       "food-drink"
+    ]
+  },
+  {
+    "name": "Ed Force One \u2014 Iron Maiden Tribute",
+    "date": "2026-05-16",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/692019",
+    "image": "https://static.wegottickets.com/images/events/69839464b1082_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -1716,6 +1901,19 @@
     "on_sale": false,
     "categories": [
       "food-drink"
+    ]
+  },
+  {
+    "name": "Keyframe Karnage! ft. Buried in Bermuda",
+    "date": "2026-05-22",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/696086",
+    "image": "https://static.wegottickets.com/images/events/69af68ee17fbe_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -1851,6 +2049,19 @@
     ]
   },
   {
+    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "date": "2026-06-05",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690334",
+    "image": "https://static.wegottickets.com/images/events/699534bed22b2_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Badgeworth Open Day",
     "date": "2026-06-07",
     "venue": "Badgeworth",
@@ -1955,6 +2166,19 @@
     ]
   },
   {
+    "name": "Not the Vicar's Tea Party 7!",
+    "date": "2026-06-20",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/688681",
+    "image": "https://static.wegottickets.com/images/events/6961417354533_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Murder Trial Tonight",
     "date": "2026-06-25",
     "venue": "Cheltenham Town Hall",
@@ -1965,6 +2189,19 @@
     "on_sale": true,
     "categories": [
       "theatre"
+    ]
+  },
+  {
+    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "date": "2026-06-26",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690344",
+    "image": "https://static.wegottickets.com/images/events/699536e95b0fb_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -2034,6 +2271,19 @@
     "on_sale": true,
     "categories": [
       "theatre"
+    ]
+  },
+  {
+    "name": "Moon Reaper // Kryptess",
+    "date": "2026-07-16",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/694889",
+    "image": "https://static.wegottickets.com/images/events/69a0d93018e77_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -2172,6 +2422,19 @@
     ]
   },
   {
+    "name": "MC Devvo \u2014 20th Anniversary Tour",
+    "date": "2026-10-03",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/696870",
+    "image": "https://static.wegottickets.com/images/events/69b7380120b0a_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Sue Ryder Starlight Hike",
     "date": "2026-10-17",
     "venue": "Ashley Manor Preparatory School",
@@ -2196,6 +2459,32 @@
     "categories": [
       "food-drink",
       "family"
+    ]
+  },
+  {
+    "name": "Biffy McClyro \u2014 Double Header",
+    "date": "2026-11-06",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/668644",
+    "image": "https://static.wegottickets.com/images/events/6980b8d3a6c12_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Gaz Brookfield \u2014 Autumn Tour",
+    "date": "2026-11-20",
+    "venue": "Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://wegottickets.com/event/690512",
+    "image": "https://static.wegottickets.com/images/events/6973a5ed0ad3e_event.jpeg",
+    "source": "wegottickets",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
