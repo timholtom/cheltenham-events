@@ -540,8 +540,11 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
 
     if(suggestions.length === 0){ sugBox.classList.remove('active'); return; }
 
-    // Sort: exact start matches first, then contains
+    // Sort: venues first, then events, then categories; prefix matches first within each
+    const typeOrder = {venue: 0, event: 1, category: 2};
     suggestions.sort((a,b) => {
+      const ta = typeOrder[a.type] || 9, tb = typeOrder[b.type] || 9;
+      if(ta !== tb) return ta - tb;
       const aStarts = a.raw.startsWith(q) ? 0 : 1;
       const bStarts = b.raw.startsWith(q) ? 0 : 1;
       return aStarts - bStarts || a.raw.localeCompare(b.raw);
