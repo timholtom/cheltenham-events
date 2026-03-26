@@ -1791,7 +1791,7 @@
   },
   {
     "name": "Dunkertons Run Club",
-    "date": "",
+    "date": "2026-03-29",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
@@ -1801,7 +1801,9 @@
       "sport-fitness"
     ],
     "on_sale": true,
-    "price": ""
+    "price": "",
+    "is_recurring": true,
+    "recurrence_text": "Every Sunday"
   },
   {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
