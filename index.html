@@ -197,14 +197,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   <button class="filters-toggle" id="filters-toggle">Show more</button>
   <button class="date-clear" id="cat-clear" style="display:none">Clear</button>
 </div>
-<div class="filters" id="venue-filters" style="padding-bottom:8px">
-  <div class="date-picker" style="width:100%">
-    <span class="date-picker-label">Venue</span>
-    <select id="venue-select" style="flex:1;max-width:300px;padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:13px;font-weight:500;font-family:var(--font-body);cursor:pointer;appearance:auto">
-      <option value="">All venues</option>
-    </select>
-  </div>
-</div>
+
 <div class="filters" id="date-filters">
   <div class="date-picker">
     <span class="date-picker-label">Dates</span>
@@ -249,7 +242,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   let filteredEvents = [];
   let selectedCategories = new Set();
   let currentSearch = '';
-  let selectedVenue = '';
+
   let selectedDates = new Set();
   let visibleCount = EVENTS_PER_PAGE;
 
@@ -394,7 +387,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         const venue = (e.venue||'').toLowerCase();
         if(!name.includes(q) && !venue.includes(q)) return false;
       }
-      if(selectedVenue && (e.venue||'') !== selectedVenue) return false;
+
       if(selectedDates.size > 0 && !e.is_recurring){
         const eDate = (e.date||'').substring(0,10);
         if(!eDate || !selectedDates.has(eDate)) return false;
@@ -472,7 +465,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       updateStats();
       renderFilters();
       renderDatePicker();
-      renderVenues();
+
       renderEvents();
       setFilterCollapse();
     })
@@ -492,26 +485,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
     }, 200);
   });
 
-  function renderVenues(){
-    const sel = document.getElementById('venue-select');
-    const venues = {};
-    allEvents.forEach(e => {
-      const v = e.venue || '';
-      if(v) venues[v] = (venues[v]||0) + 1;
-    });
-    Object.keys(venues).sort((a,b) => a.replace(/^The /i,'').localeCompare(b.replace(/^The /i,''))).forEach(v => {
-      const opt = document.createElement('option');
-      opt.value = v;
-      opt.textContent = v + ' (' + venues[v] + ')';
-      sel.appendChild(opt);
-    });
-  }
 
-  document.getElementById('venue-select').addEventListener('change', function(){
-    selectedVenue = this.value;
-    visibleCount = EVENTS_PER_PAGE;
-    applyFilters();
-  });
 
   // Category show more/less
   function setFilterCollapse(){
