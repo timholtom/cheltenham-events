@@ -391,7 +391,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       const mainCat = (e.categories||[]).find(c=>c!=='other') || 'other';
       let imgHtml;
       if(e.image){
-        imgHtml = '<img class="event-img" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder ' + mainCat + '>' + mainCat.replace(/-/g,\' \') + '</div>\'">';
+        imgHtml = '<img class="event-img" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder ' + mainCat + '>' + mainCat.replace(/-/g,' ') + '</div>\'">';
       } else {
         imgHtml = '<div class="event-img-placeholder ' + mainCat + '">' + mainCat.replace(/-/g,' ') + '</div>';
       }
