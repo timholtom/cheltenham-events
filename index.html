@@ -102,6 +102,20 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .event-tag.markets{background:oklch(92% 0.04 100);color:oklch(42% 0.12 100)}
 .event-tag.dating{background:oklch(92% 0.04 350);color:oklch(42% 0.15 350)}
 
+/* Date picker */
+.date-picker{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.date-picker-label{font-size:11px;font-weight:600;color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em;white-space:nowrap}
+.day-chips{display:flex;gap:4px;flex-wrap:wrap}
+.day-chip{width:36px;height:36px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text-2);font-size:11px;font-weight:700;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all 0.15s;user-select:none;line-height:1}
+.day-chip:hover{border-color:var(--accent);color:var(--accent-dark)}
+.day-chip.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+.day-chip.today{border-color:var(--accent);color:var(--accent-dark)}
+.day-chip .day-num{font-size:13px;font-weight:800}
+.day-chip .day-name{font-size:8px;font-weight:600;letter-spacing:0.02em}
+.day-chip-inner{display:flex;flex-direction:column;align-items:center;gap:0;line-height:1}
+.date-clear{font-size:11px;color:var(--text-3);cursor:pointer;font-weight:600;font-family:var(--font-body);background:none;border:none;padding:4px 8px;border-radius:4px;transition:color 0.15s}
+.date-clear:hover{color:var(--accent-dark)}
+
 /* No results */
 .no-results{text-align:center;padding:64px 24px;color:var(--text-3)}
 .no-results h3{font-size:18px;font-weight:700;color:var(--text);margin-bottom:4px}
@@ -138,6 +152,10 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   .newsletter-form{flex-direction:column}
   .newsletter-form input{min-width:0}
   .header-r a:not(.newsletter-btn){display:none}
+  #date-filters{padding:0 20px 16px}
+  .day-chip{width:32px;height:32px;border-radius:6px}
+  .day-chip .day-num{font-size:12px}
+  .day-chip .day-name{font-size:7px}
   footer{flex-direction:column;gap:4px}
 }
 </style>
@@ -174,6 +192,13 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
 <div class="filters" id="filters">
   <div class="search-box">
     <input type="text" id="search" placeholder="Search events or venues...">
+  </div>
+</div>
+<div class="filters" id="date-filters">
+  <div class="date-picker">
+    <span class="date-picker-label">Dates</span>
+    <div class="day-chips" id="day-chips"></div>
+    <button class="date-clear" id="date-clear" style="display:none">Clear</button>
   </div>
 </div>
 
@@ -213,6 +238,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   let filteredEvents = [];
   let currentFilter = 'all';
   let currentSearch = '';
+  let selectedDates = new Set();
   let visibleCount = EVENTS_PER_PAGE;
 
   const categories = [
@@ -268,6 +294,57 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
     });
   }
 
+  function renderDatePicker(){
+    const container = document.getElementById('day-chips');
+    container.innerHTML = '';
+    const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    const today = new Date();
+    today.setHours(0,0,0,0);
+
+    for(let i = 0; i < 14; i++){
+      const d = new Date(today);
+      d.setDate(d.getDate() + i);
+      const key = d.toISOString().split('T')[0];
+      const isToday = i === 0;
+
+      const chip = document.createElement('button');
+      chip.className = 'day-chip' + (selectedDates.has(key) ? ' active' : '') + (isToday ? ' today' : '');
+      chip.dataset.date = key;
+      chip.innerHTML = '<div class="day-chip-inner"><span class="day-name">' + days[d.getDay()] + '</span><span class="day-num">' + d.getDate() + '</span></div>';
+      chip.title = days[d.getDay()] + ' ' + d.getDate() + ' ' + months[d.getMonth()];
+
+      chip.onclick = function(ev){
+        const k = this.dataset.date;
+        if(ev.shiftKey && selectedDates.size > 0){
+          // Shift-click: select range from last selected to this
+          const sorted = [...selectedDates].sort();
+          const last = sorted[sorted.length - 1];
+          const from = new Date(Math.min(new Date(last), new Date(k)));
+          const to = new Date(Math.max(new Date(last), new Date(k)));
+          for(let dt = new Date(from); dt <= to; dt.setDate(dt.getDate()+1)){
+            selectedDates.add(dt.toISOString().split('T')[0]);
+          }
+        } else if(selectedDates.has(k)){
+          selectedDates.delete(k);
+        } else {
+          selectedDates.add(k);
+        }
+        visibleCount = EVENTS_PER_PAGE;
+        updateDateChips();
+        applyFilters();
+      };
+      container.appendChild(chip);
+    }
+  }
+
+  function updateDateChips(){
+    document.querySelectorAll('.day-chip').forEach(chip => {
+      chip.classList.toggle('active', selectedDates.has(chip.dataset.date));
+    });
+    document.getElementById('date-clear').style.display = selectedDates.size > 0 ? '' : 'none';
+  }
+
   function applyFilters(){
     const q = currentSearch.toLowerCase().trim();
     filteredEvents = allEvents.filter(e => {
@@ -276,6 +353,10 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         const name = (e.name||'').toLowerCase();
         const venue = (e.venue||'').toLowerCase();
         if(!name.includes(q) && !venue.includes(q)) return false;
+      }
+      if(selectedDates.size > 0){
+        const eDate = (e.date||'').substring(0,10);
+        if(!eDate || !selectedDates.has(eDate)) return false;
       }
       return true;
     });
@@ -347,6 +428,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       filteredEvents = data;
       updateStats();
       renderFilters();
+      renderDatePicker();
       renderEvents();
     })
     .catch(err => {
@@ -363,6 +445,14 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       visibleCount = EVENTS_PER_PAGE;
       applyFilters();
     }, 200);
+  });
+
+  // Date clear
+  document.getElementById('date-clear').addEventListener('click', function(){
+    selectedDates.clear();
+    visibleCount = EVENTS_PER_PAGE;
+    updateDateChips();
+    applyFilters();
   });
 
   // Load more
