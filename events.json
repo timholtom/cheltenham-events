@@ -256,6 +256,21 @@
     "is_recurring": true
   },
   {
+    "name": "Southam Car Boot Sale",
+    "date": "2026-03-28",
+    "venue": "Southam Lane, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.bootsrus.co.uk/",
+    "image": "https://static.wixstatic.com/media/cd6504_ecfeff61c1024d7c829b1f521e7018ac~mv2.jpg",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday & Sunday"
+  },
+  {
     "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -314,6 +329,37 @@
     ],
     "recurrence_text": "Every Sunday",
     "is_recurring": true
+  },
+  {
+    "name": "Dunkertons Run Club",
+    "date": "2026-03-29",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
+    "source": "dunkertons",
+    "categories": [
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": "",
+    "is_recurring": true,
+    "recurrence_text": "Every Sunday"
+  },
+  {
+    "name": "Cheltenham Car Boot",
+    "date": "2026-03-29",
+    "venue": "Cheltenham Car Boot Site",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamcarboot.co.uk/",
+    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday & Sunday"
   },
   {
     "name": "Over 30s Dating Night",
@@ -382,6 +428,22 @@
     "categories": [
       "pub-quiz"
     ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday"
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-31",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
+    "source": "dunkertons",
+    "categories": [
+      "pub-quiz"
+    ],
+    "on_sale": true,
+    "price": "\u00a312.00",
     "is_recurring": true,
     "recurrence_text": "Every Tuesday"
   },
@@ -605,23 +667,6 @@
     ]
   },
   {
-    "name": "Southam Car Boot Sale",
-    "date": "2026-04-04",
-    "venue": "Cheltenham Racecourse (Southam)",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamcarboot.co.uk/",
-    "image": "https://images.unsplash.com/photo-1530099486328-e021101a494a?w=600&h=340&fit=crop",
-    "source": "carboot",
-    "on_sale": false,
-    "categories": [
-      "markets"
-    ],
-    "time": "08:00-14:00",
-    "price": "Adults \u00a31 (before 8am \u00a33)",
-    "recurrence_text": "Every Saturday & Sunday",
-    "is_recurring": true
-  },
-  {
     "name": "Easter Trail Hunt",
     "date": "2026-04-05",
     "venue": "Dunkertons Cider",
@@ -634,24 +679,6 @@
     ],
     "on_sale": true,
     "price": "\u00a38.00"
-  },
-  {
-    "name": "Southam Car Boot Sale (Easter Monday)",
-    "date": "2026-04-06",
-    "venue": "Cheltenham Racecourse (Southam)",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamcarboot.co.uk/",
-    "image": "https://images.unsplash.com/photo-1530099486328-e021101a494a?w=600&h=340&fit=crop",
-    "source": "carboot",
-    "on_sale": false,
-    "categories": [
-      "markets",
-      "family"
-    ],
-    "time": "08:00-14:00",
-    "price": "Adults \u00a31 (before 8am \u00a33)",
-    "recurrence_text": "Every Monday",
-    "is_recurring": true
   },
   {
     "name": "Children's Painting Workshop \u2014 Easter Special",
@@ -1745,22 +1772,6 @@
     "price": ""
   },
   {
-    "name": "Quiz Night",
-    "date": "2026-03-31",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
-    "source": "dunkertons",
-    "categories": [
-      "pub-quiz"
-    ],
-    "on_sale": true,
-    "price": "\u00a312.00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday"
-  },
-  {
     "name": "Taco Tuesday",
     "date": "",
     "venue": "Dunkertons Cider",
@@ -1788,22 +1799,6 @@
     ],
     "on_sale": true,
     "price": "\u00a38.50"
-  },
-  {
-    "name": "Dunkertons Run Club",
-    "date": "2026-03-29",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
-    "source": "dunkertons",
-    "categories": [
-      "sport-fitness"
-    ],
-    "on_sale": true,
-    "price": "",
-    "is_recurring": true,
-    "recurrence_text": "Every Sunday"
   },
   {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
