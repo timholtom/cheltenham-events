@@ -198,8 +198,9 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
     <input type="text" id="search" placeholder="Search events or venues...">
   </div>
 </div>
-<div style="max-width:var(--max-w);margin:0 auto;padding:0 24px 8px">
+<div style="max-width:var(--max-w);margin:0 auto;padding:0 24px 8px;display:flex;gap:12px">
   <button class="filters-toggle" id="filters-toggle">Show more</button>
+  <button class="date-clear" id="cat-clear" style="display:none">Clear</button>
 </div>
 <div class="filters" id="venue-filters" style="padding-bottom:8px">
   <div class="date-picker" style="width:100%">
@@ -328,6 +329,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
         btn.classList.toggle('active', selectedCategories.has(id));
       }
     });
+    document.getElementById('cat-clear').style.display = selectedCategories.size > 0 ? '' : 'none';
   }
 
   function renderDatePicker(){
@@ -540,6 +542,13 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       }
     }
   }
+
+  document.getElementById('cat-clear').addEventListener('click', function(){
+    selectedCategories.clear();
+    visibleCount = EVENTS_PER_PAGE;
+    updateCategoryChips();
+    applyFilters();
+  });
 
   document.getElementById('filters-toggle').addEventListener('click', function(){
     const f = document.getElementById('filters');
