@@ -145,6 +145,19 @@
     ]
   },
   {
+    "name": "Flash Back - Rock Covers Duo",
+    "date": "2026-03-27",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/friday-27th-march-flash-back/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham Card Show - March 2026 - 2 Days",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -216,6 +229,20 @@
     ],
     "recurring": true,
     "time": "09:00"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-03-29",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "Monday Dating Club - Over 30s Dating Night - Monday 30th March",
@@ -410,6 +437,20 @@
     ]
   },
   {
+    "name": "Easter at The Exmouth",
+    "date": "2026-04-03",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/easter-at-the-exmouth-2026/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "food-drink",
+      "family"
+    ]
+  },
+  {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
@@ -555,6 +596,20 @@
     "price": "Adults \u00a31 (before 8am \u00a33)"
   },
   {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-04-05",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
+  },
+  {
     "name": "Southam Car Boot Sale (Easter Monday)",
     "date": "2026-04-06",
     "venue": "Cheltenham Racecourse (Southam)",
@@ -697,6 +752,19 @@
     ]
   },
   {
+    "name": "Masterplan - Britpop Covers",
+    "date": "2026-04-10",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/friday-10th-april-masterplan/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham: Quantum Gong Bath,Guided Meditation+Light Language",
     "date": "2026-04-11",
     "venue": "The Isbourne - Holistic Wellbeing",
@@ -810,6 +878,20 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-04-12",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "Pub Quiz",
@@ -1011,6 +1093,20 @@
     "price": "Adults \u00a31 (before 8am \u00a33)"
   },
   {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-04-19",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
+  },
+  {
     "name": "Pub Quiz",
     "date": "2026-04-21",
     "venue": "The Airs & Graces",
@@ -1094,6 +1190,32 @@
     ]
   },
   {
+    "name": "Tapas Nights",
+    "date": "2026-04-24",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/tapas-nights-friday-24th-saturday-25th-april/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Run Yoshi, Run - Indie/Britpop",
+    "date": "2026-04-24",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/saturday-25th-october-run-yoshi-run-2/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham parkrun",
     "date": "2026-04-25",
     "venue": "Pittville Park",
@@ -1155,6 +1277,20 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-04-26",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "Pub Quiz",
@@ -1257,6 +1393,20 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-05-03",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "Pub Quiz",
@@ -1388,6 +1538,20 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-05-10",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "Cotswold Networking Cheltenham May 2026 Meet-up",
@@ -1545,6 +1709,20 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "Quiz Night at The Exmouth",
+    "date": "2026-05-17",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurring": true
   },
   {
     "name": "An evening of mediumship with Carol Green",
