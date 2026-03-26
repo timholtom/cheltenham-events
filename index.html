@@ -53,7 +53,7 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 
 /* Filters */
 .filters{max-width:var(--max-w);margin:0 auto;padding:0 24px 24px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
-.filters.collapsed{max-height:88px;overflow:hidden;position:relative}
+.filters.collapsed{overflow:hidden;position:relative}
 .filters-toggle{font-size:12px;font-weight:600;color:var(--accent-dark);cursor:pointer;font-family:var(--font-body);background:none;border:none;padding:2px 0;margin-left:4px;white-space:nowrap}
 .filter-btn{padding:7px 16px;border-radius:100px;font-size:12px;font-weight:600;font-family:var(--font-body);border:1px solid var(--border);background:var(--surface);color:var(--text-2);cursor:pointer;transition:all 0.15s;white-space:nowrap}
 .filter-btn:hover{border-color:var(--accent);color:var(--accent-dark)}
@@ -473,6 +473,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       renderDatePicker();
       renderVenues();
       renderEvents();
+      setFilterCollapse();
     })
     .catch(err => {
       console.error('Failed to load events:', err);
@@ -512,10 +513,43 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   });
 
   // Category show more/less
+  function setFilterCollapse(){
+    const f = document.getElementById('filters');
+    const btns = f.querySelectorAll('.filter-btn');
+    if(btns.length < 2) return;
+    // Measure height of first two rows
+    const firstTop = btns[0].offsetTop;
+    let rowCount = 1;
+    let twoRowBottom = btns[0].offsetTop + btns[0].offsetHeight;
+    for(let i = 1; i < btns.length; i++){
+      if(btns[i].offsetTop > btns[i-1].offsetTop){
+        rowCount++;
+        if(rowCount === 2) twoRowBottom = btns[i].offsetTop + btns[i].offsetHeight;
+        if(rowCount > 2) break;
+      }
+    }
+    const toggle = document.getElementById('filters-toggle');
+    if(rowCount <= 2){
+      toggle.style.display = 'none';
+      f.style.maxHeight = '';
+      f.classList.remove('collapsed');
+    } else {
+      toggle.style.display = '';
+      if(f.classList.contains('collapsed')){
+        f.style.maxHeight = (twoRowBottom - f.offsetTop + 12) + 'px';
+      }
+    }
+  }
+
   document.getElementById('filters-toggle').addEventListener('click', function(){
     const f = document.getElementById('filters');
-    const collapsed = f.classList.toggle('collapsed');
-    this.textContent = collapsed ? 'Show more' : 'Show less';
+    const isCollapsed = f.classList.toggle('collapsed');
+    this.textContent = isCollapsed ? 'Show more' : 'Show less';
+    if(isCollapsed){
+      setFilterCollapse();
+    } else {
+      f.style.maxHeight = '';
+    }
   });
 
   // Date clear
