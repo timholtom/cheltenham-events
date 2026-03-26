@@ -119,6 +119,32 @@
     "price": "\u00a320.00"
   },
   {
+    "name": "PAY DAY SESSIONS",
+    "date": "2026-03-27",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pay-day-sessions/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.36.14.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-03-27",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-03-27/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Cheltenham Card Show - March 2026 - 2 Days",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -247,6 +273,19 @@
     ]
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-03-31",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "Property & Poppadoms - Cheltenham",
     "date": "2026-04-01",
     "venue": "Indian Brasserie",
@@ -343,6 +382,32 @@
     ],
     "on_sale": true,
     "price": "\u00a320.00"
+  },
+  {
+    "name": "EASTER BANK HOLIDAY WEEKEND",
+    "date": "2026-04-03",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/easter-bank-holiday-weekend/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-10.06.19.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-04-03",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-04-03/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Over 40s Day Party",
@@ -473,6 +538,19 @@
     "price": "\u00a312.00"
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-04-07",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-07/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "DWAEC Present: The Incredible Animal Show -Wednesday 8th April",
     "date": "2026-04-08",
     "venue": "Dunkertons Cider",
@@ -555,6 +633,19 @@
     ],
     "on_sale": true,
     "price": "\u00a315.00"
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-04-10",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-04-10/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Cheltenham: Quantum Gong Bath,Guided Meditation+Light Language",
@@ -640,6 +731,19 @@
     "time": "09:00"
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-04-14",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-14/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "Anna Bailey in conversation with Jackie Kabler - Cheltenham",
     "date": "2026-04-15",
     "venue": "Waterstones",
@@ -707,6 +811,19 @@
       "wellbeing",
       "sport-fitness",
       "business"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-04-17",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-04-17/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
     ]
   },
   {
@@ -781,6 +898,19 @@
     "time": "09:00"
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-04-21",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-21/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "Spanish Specials - Brewery Tour & Tasting",
     "date": "2026-04-22",
     "venue": "DEYA Brewery",
@@ -838,6 +968,19 @@
     ]
   },
   {
+    "name": "SKIVERS CLUB",
+    "date": "2026-04-24",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-04-24/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Cheltenham parkrun",
     "date": "2026-04-25",
     "venue": "Pittville Park",
@@ -867,6 +1010,45 @@
     ],
     "recurring": true,
     "time": "09:00"
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-04-28",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-28/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "name": "PAY DAY SESSIONS",
+    "date": "2026-05-01",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pay-day-sessions-2/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.37.04.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-05-01",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-05-01/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Cheltenham parkrun",
@@ -900,6 +1082,19 @@
     "time": "09:00"
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-05-05",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-05/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "ABBA Arrival - Friday 8th May",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
@@ -913,6 +1108,19 @@
     ],
     "on_sale": true,
     "price": "\u00a315.00"
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-05-08",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-05-08/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Nature Journaling in Wardens' Wood",
@@ -986,6 +1194,19 @@
     ]
   },
   {
+    "name": "Pub Quiz",
+    "date": "2026-05-12",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-12/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
     "name": "Robin Nolan Trio at the Steam and Whistle, Cheltenham",
     "date": "2026-05-13",
     "venue": "The Steam and Whistle",
@@ -1009,6 +1230,19 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-05-15",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-05-15/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
     ]
   },
   {
@@ -1082,6 +1316,32 @@
     "on_sale": true,
     "categories": [
       "theatre"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-05-19",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-19/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "other"
+    ]
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-05-22",
+    "venue": "The Bottle of Sauce",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/skivers-club/2026-05-22/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
     ]
   },
   {
