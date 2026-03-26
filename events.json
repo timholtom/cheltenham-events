@@ -1017,5 +1017,89 @@
       "food-drink"
     ],
     "on_sale": true
+  },
+  {
+    "name": "Save up to 15% off Pre booked Day trips",
+    "date": "",
+    "date_text": "Happening now",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Locals Noticeboard",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "other"
+    ],
+    "on_sale": false
+  },
+  {
+    "name": "The Board game evening",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 6:00\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Locals Noticeboard",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "other"
+    ],
+    "on_sale": false
+  },
+  {
+    "name": "Join Brush Party to paint the fabulous 'Summer of Love' in Moreton-in-Marsh",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 7:00\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Locals Noticeboard",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": false
+  },
+  {
+    "name": "Floating Sound Bath",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 7:30\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Events",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "wellbeing"
+    ],
+    "on_sale": false
+  },
+  {
+    "name": "St.Fian | LIVE at Caf\u00e9 Ren\u00e9",
+    "date": "",
+    "date_text": "Wed, Mar 25",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Events",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "live-music"
+    ],
+    "on_sale": false
+  },
+  {
+    "name": "Speed Dating in Stratford upon Avon 30-49",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 7:30\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/Cheltenham Community",
+    "image": "",
+    "source": "facebook",
+    "categories": [
+      "dating"
+    ],
+    "on_sale": false
   }
 ]
