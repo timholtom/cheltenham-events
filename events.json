@@ -66,6 +66,19 @@
     "price": "\u00a37.50"
   },
   {
+    "name": "1st Annual Dark Beer Festival",
+    "date": "2026-03-26",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
@@ -158,6 +171,20 @@
     ]
   },
   {
+    "name": "Dark Side of The Ale - Friday LIVE MUSIC",
+    "date": "2026-03-27",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "food-drink"
+    ]
+  },
+  {
     "name": "Cheltenham Card Show - March 2026 - 2 Days",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -199,6 +226,20 @@
     ],
     "recurring": true,
     "time": "09:00"
+  },
+  {
+    "name": "Dark Side of Ale - Saturday LIVE MUSIC",
+    "date": "2026-03-28",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "food-drink"
+    ]
   },
   {
     "name": "Comedy Night - Sunday 29th March",
@@ -243,6 +284,20 @@
       "pub-quiz"
     ],
     "recurring": true
+  },
+  {
+    "name": "Dark Side of Ale - Comedy Sunday",
+    "date": "2026-03-29",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "comedy",
+      "food-drink"
+    ]
   },
   {
     "name": "Monday Dating Club - Over 30s Dating Night - Monday 30th March",
@@ -2048,6 +2103,19 @@
     ]
   },
   {
+    "name": "Seafood and French Wine Festival",
+    "date": "2026-06-15",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "The Princess Proms: Cheltenham (First Session)",
     "date": "2026-07-04",
     "venue": "Everyman Theatre",
@@ -2105,6 +2173,47 @@
     "price": "\u00a320.00"
   },
   {
+    "name": "Cheese and Cider Festival",
+    "date": "2026-07-18",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink",
+      "live-music"
+    ]
+  },
+  {
+    "name": "Rum and Wing Festival",
+    "date": "2026-08-14",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink",
+      "live-music"
+    ]
+  },
+  {
+    "name": "OKTOBERFEST",
+    "date": "2026-09-21",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Sue Ryder Starlight Hike Cheltenham",
     "date": "2026-10-17",
     "venue": "Ashley Manor Preparatory School",
@@ -2115,6 +2224,20 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
+    ]
+  },
+  {
+    "name": "HALLOWEEN at Sandford Park",
+    "date": "2026-10-31",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "food-drink",
+      "family"
     ]
   },
   {
