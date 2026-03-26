@@ -694,6 +694,19 @@
     "price": ""
   },
   {
+    "name": "Hadestown: Teen Edition",
+    "date": "2026-04-01",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
@@ -954,6 +967,19 @@
     "price": "\u00a37.50"
   },
   {
+    "name": "U3A Actors",
+    "date": "2026-04-08",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
     "date": "2026-04-09",
     "venue": "Parabola Arts Centre",
@@ -1005,6 +1031,19 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "Mr Sleepybum's Dream Machine",
+    "date": "2026-04-09",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "family"
     ]
   },
   {
@@ -1166,6 +1205,19 @@
     ]
   },
   {
+    "name": "The Fleetwood Mack Experience",
+    "date": "2026-04-11",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -1302,6 +1354,19 @@
     ]
   },
   {
+    "name": "Cheltenham Welcomes Refugees",
+    "date": "2026-04-16",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "arts-culture"
+    ]
+  },
+  {
     "name": "Skivers Club",
     "date": "2026-04-17",
     "venue": "The Bottle of Sauce",
@@ -1326,6 +1391,19 @@
     "categories": [
       "theatre",
       "sport-fitness"
+    ]
+  },
+  {
+    "name": "A Night at the Movies Cabaret",
+    "date": "2026-04-17",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -1409,6 +1487,19 @@
     ]
   },
   {
+    "name": "The Jay Cee Big Band Plays Count Basie",
+    "date": "2026-04-19",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Adam Frost",
     "date": "2026-04-20",
     "venue": "Cheltenham Town Hall",
@@ -1462,6 +1553,19 @@
     ]
   },
   {
+    "name": "Picnic at Hanging Rock",
+    "date": "2026-04-22",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "Fresh: Art Fair",
     "date": "2026-04-23",
     "venue": "Cheltenham Racecourse",
@@ -1500,6 +1604,19 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "Howlers Comedy Club",
+    "date": "2026-04-23",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "comedy"
     ]
   },
   {
@@ -1597,6 +1714,19 @@
     ]
   },
   {
+    "name": "Marshall King's Showtime",
+    "date": "2026-04-24",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
     "date": "2026-04-25",
     "venue": "Frog & Fiddle",
@@ -1620,6 +1750,19 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
+    ]
+  },
+  {
+    "name": "Cheltenham Jazz Festival",
+    "date": "2026-04-29",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamfestivals.org/whats-on",
+    "image": "",
+    "source": "cheltenham-festivals",
+    "on_sale": false,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -1704,6 +1847,19 @@
     ]
   },
   {
+    "name": "Moments of Pleasure: Kate Bush Tribute",
+    "date": "2026-05-08",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Nature Journaling in Wardens' Wood",
     "date": "2026-05-09",
     "venue": "Wardens Wood",
@@ -1755,6 +1911,19 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "The Detective Dog",
+    "date": "2026-05-10",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "family"
     ]
   },
   {
@@ -1917,6 +2086,19 @@
     ]
   },
   {
+    "name": "Fringe Festival Launch Variety Show",
+    "date": "2026-05-22",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "comedy"
+    ]
+  },
+  {
     "name": "Soul Funker and R&B All Dayer",
     "date": "2026-05-23",
     "venue": "Cotswold Area Civil Service Sports Association",
@@ -1969,6 +2151,19 @@
     ]
   },
   {
+    "name": "Howlers May \u2014 Fringe Special",
+    "date": "2026-05-28",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "comedy"
+    ]
+  },
+  {
     "name": "Rory Bremner: Making an Impression",
     "date": "2026-05-29",
     "venue": "Cheltenham Town Hall",
@@ -1979,6 +2174,19 @@
     "on_sale": true,
     "categories": [
       "comedy"
+    ]
+  },
+  {
+    "name": "The Bubble Show 2 \u2014 More Bubbles!",
+    "date": "2026-05-29",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "family"
     ]
   },
   {
@@ -1995,6 +2203,19 @@
     ]
   },
   {
+    "name": "The Scene",
+    "date": "2026-05-30",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "70th Anniversary 1 Day AA Convention",
     "date": "2026-05-31",
     "venue": "Cheltenham Ladies' College",
@@ -2005,6 +2226,19 @@
     "on_sale": true,
     "categories": [
       "wellbeing"
+    ]
+  },
+  {
+    "name": "Cheltenham Science Festival",
+    "date": "2026-06-02",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamfestivals.org/whats-on",
+    "image": "",
+    "source": "cheltenham-festivals",
+    "on_sale": false,
+    "categories": [
+      "arts-culture"
     ]
   },
   {
@@ -2166,6 +2400,19 @@
     ]
   },
   {
+    "name": "Seas the Day: Jessica Rowe & Miriam Payne",
+    "date": "2026-06-18",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "family"
+    ]
+  },
+  {
     "name": "Not the Vicar's Tea Party 7!",
     "date": "2026-06-20",
     "venue": "Frog & Fiddle",
@@ -2205,6 +2452,19 @@
     ]
   },
   {
+    "name": "Steve Ashley",
+    "date": "2026-06-26",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Adriana Brownlee: Death Zone",
     "date": "2026-06-27",
     "venue": "Cheltenham Town Hall",
@@ -2218,6 +2478,19 @@
     ]
   },
   {
+    "name": "Tom Moriarty: Chapters",
+    "date": "2026-06-27",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Force Fest: Episode I \u2014 Into the Galaxy",
     "date": "2026-06-28",
     "venue": "Cheltenham Town Hall",
@@ -2228,6 +2501,19 @@
     "on_sale": true,
     "categories": [
       "family"
+    ]
+  },
+  {
+    "name": "Cheltenham Music Festival",
+    "date": "2026-07-03",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamfestivals.org/whats-on",
+    "image": "",
+    "source": "cheltenham-festivals",
+    "on_sale": false,
+    "categories": [
+      "live-music"
     ]
   },
   {
@@ -2268,6 +2554,19 @@
     "url": "https://www.eventbrite.co.uk/e/stow-motor-show-2026-registration-733023702627",
     "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174401188%2F332273861791%2F1%2Foriginal.20260109-114430?auto=format%2Ccompress&q=75&sharp=10&s=50111636bec8207ae5f463014fa6ce1a",
     "source": "eventbrite",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "date": "2026-07-12",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
     "on_sale": true,
     "categories": [
       "theatre"
@@ -2381,6 +2680,19 @@
     ]
   },
   {
+    "name": "Swing From Paris",
+    "date": "2026-09-04",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Jay Rayner: Nights Out in the Kitchen",
     "date": "2026-09-10",
     "venue": "Cheltenham Town Hall",
@@ -2409,6 +2721,19 @@
     ]
   },
   {
+    "name": "The Bowie Band",
+    "date": "2026-09-18",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "image": "",
+    "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Oktoberfest",
     "date": "2026-09-21",
     "venue": "Sandford Park Alehouse",
@@ -2432,6 +2757,19 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "Cheltenham Literature Festival",
+    "date": "2026-10-09",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamfestivals.org/whats-on",
+    "image": "",
+    "source": "cheltenham-festivals",
+    "on_sale": false,
+    "categories": [
+      "arts-culture"
     ]
   },
   {

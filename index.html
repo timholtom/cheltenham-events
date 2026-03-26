@@ -90,8 +90,7 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .event-date{font-size:11px;font-weight:700;color:var(--accent-dark);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:4px}
 .event-name{font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .event-venue{font-size:12px;color:var(--text-3);margin-top:auto;display:flex;align-items:center;gap:4px}
-.event-venue::before{content:'';width:3px;height:3px;border-radius:50%;background:var(--text-3);flex-shrink:0}
-.event-recurring-badge{display:inline-block;font-size:10px;font-weight:700;padding:3px 8px;border-radius:4px;background:var(--accent);color:white;text-transform:uppercase;letter-spacing:0.04em}
+.event-venue::before{content:'';width:12px;height:12px;flex-shrink:0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Cpath d='M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z'/%3E%3Ccircle cx='12' cy='10' r='3'/%3E%3C/svg%3E") center/contain no-repeat}
 .event-img-wrap{position:relative;overflow:hidden}
 .event-img-wrap .event-overlay-logo{position:absolute;bottom:8px;right:8px;height:28px;opacity:0.85;filter:drop-shadow(0 1px 2px rgba(0,0,0,0.3))}
 .event-tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px}
@@ -380,12 +379,16 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
 
   function applyFilters(){
     const q = currentSearch.toLowerCase().trim();
+    const today = new Date().toISOString().substring(0,10);
     filteredEvents = allEvents.filter(e => {
+      // Hide past events (unless recurring)
+      if(!e.is_recurring && e.date && e.date < today) return false;
       if(selectedCategories.size > 0 && !(e.categories||[]).some(c => selectedCategories.has(c))) return false;
       if(q){
         const name = (e.name||'').toLowerCase();
         const venue = (e.venue||'').toLowerCase();
-        if(!name.includes(q) && !venue.includes(q)) return false;
+        const cats = (e.categories||[]).join(' ').toLowerCase();
+        if(!name.includes(q) && !venue.includes(q) && !cats.includes(q)) return false;
       }
 
       if(selectedDates.size > 0 && !e.is_recurring){
@@ -435,7 +438,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       const url = e.url || '#';
       const isRecurring = e.is_recurring && e.recurrence_text;
       const dateDisplay = isRecurring 
-        ? '<span class="event-recurring-badge">' + e.recurrence_text + '</span>'
+        ? '<div class="event-date">' + e.recurrence_text + '</div>'
         : (dateFormatted ? '<div class="event-date">' + dateFormatted + '</div>' : '');
       
       card.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' +
