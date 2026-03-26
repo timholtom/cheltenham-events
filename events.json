@@ -473,6 +473,19 @@
     ]
   },
   {
+    "name": "Unicorn Live!",
+    "date": "2026-03-28",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/unicorn-live/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/04/040420251743760593.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "family"
+    ]
+  },
+  {
     "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -787,6 +800,19 @@
     ]
   },
   {
+    "name": "NT Live: The Audience",
+    "date": "2026-04-02",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/nt-live-the-audience/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/01/NTL-2026-The-Audience-Listing-image-portrait-1-2.png",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "Spring Trail",
     "date": "2026-04-03",
     "venue": "Cleeve Common",
@@ -1057,6 +1083,19 @@
     "on_sale": true,
     "categories": [
       "theatre"
+    ]
+  },
+  {
+    "name": "11+ Easter Skills Workshop",
+    "date": "2026-04-08",
+    "venue": "Holy Apostles Church Hall",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1243966160669295/",
+    "image": "https://images.unsplash.com/photo-1536640712-4d4c36ff0e4e?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "on_sale": true,
+    "categories": [
+      "family"
     ]
   },
   {
@@ -1526,6 +1565,19 @@
     ]
   },
   {
+    "name": "The Dolly Show",
+    "date": "2026-04-16",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/the-dolly-show/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/11/Social-Media-Announcement-1080px-x-1350px-the-dolly-show-decades-819x1024.jpg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Skivers Club",
     "date": "2026-04-17",
     "venue": "The Bottle of Sauce",
@@ -1560,6 +1612,19 @@
     "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
     "image": "https://d1bry8u3byci8.cloudfront.net/as-assets/variants/vpqgy4dk2f6lc6z0490de5u1e1um/aa234096476c0d199a8178bc707e05ddb2b",
     "source": "ticketsolve",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "A Night to Remember: Motown Show",
+    "date": "2026-04-17",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/a-night-to-remember-motown-show-2/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/05/210520251747821689.jpeg",
+    "source": "bacon-theatre",
     "on_sale": true,
     "categories": [
       "live-music"
@@ -1630,6 +1695,32 @@
     "categories": [
       "theatre",
       "comedy"
+    ]
+  },
+  {
+    "name": "Johnny Coppin 50th Anniversary Concert",
+    "date": "2026-04-18",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/johnny-coppin-50th-anniversary-concert/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/12/191220251766147877.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Modern Calligraphy Workshop for Beginners",
+    "date": "2026-04-18",
+    "venue": "Badgeworth Village Hall",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/899085679258645/",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "on_sale": true,
+    "categories": [
+      "arts-culture"
     ]
   },
   {
@@ -1899,6 +1990,19 @@
     ]
   },
   {
+    "name": "NT Live: All My Sons",
+    "date": "2026-04-24",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/nt-live-all-my-sons/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/01/160120261768574118.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
     "date": "2026-04-25",
     "venue": "Frog & Fiddle",
@@ -1961,6 +2065,45 @@
     "on_sale": false,
     "categories": [
       "food-drink"
+    ]
+  },
+  {
+    "name": "Soul in the City: 50 Years of a DJ",
+    "date": "2026-05-01",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/924935363334858/",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Harwood Dance 2026",
+    "date": "2026-05-03",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/harwood-dance-2026/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/02/120220261770882755.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "arts-culture"
+    ]
+  },
+  {
+    "name": "The Suffolks Market: Jazz Fringe",
+    "date": "2026-05-03",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
     ]
   },
   {
@@ -2323,6 +2466,19 @@
     ]
   },
   {
+    "name": "The Suffolks Market: May Fair",
+    "date": "2026-05-24",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ]
+  },
+  {
     "name": "Howlers May \u2014 Fringe Special",
     "date": "2026-05-28",
     "venue": "Cheltenham Playhouse",
@@ -2424,6 +2580,19 @@
     "on_sale": true,
     "categories": [
       "business"
+    ]
+  },
+  {
+    "name": "NT Live: The Playboy of the Western World",
+    "date": "2026-06-04",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/nt-live-the-playboy-of-the-western-world/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/01/160120261768588994.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "theatre"
     ]
   },
   {
@@ -2772,6 +2941,19 @@
     "price": "\u00a320.00"
   },
   {
+    "name": "Majesty: A Tribute to Queen",
+    "date": "2026-07-17",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/majesty-a-tribute-to-queen-2/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/01/280120261769597736.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheese and Cider Festival",
     "date": "2026-07-18",
     "venue": "Sandford Park Alehouse",
@@ -2783,6 +2965,58 @@
     "categories": [
       "food-drink",
       "live-music"
+    ]
+  },
+  {
+    "name": "Frankie's Guys",
+    "date": "2026-07-18",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/frankies-guys-2/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/10/131020251760350905.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Seriously Collins: Phil Collins Tribute",
+    "date": "2026-07-19",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/seriously-collins-a-tribute-to-phil-collins-genesis/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/01/SCB2025x2-blank_resized_resized-1.png",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Fearlessly Taylor",
+    "date": "2026-07-22",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/fearlessly-taylor-2/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/02/110220261770808599.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "The Suffolks Market: Dog Show",
+    "date": "2026-07-26",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
     ]
   },
   {
@@ -2823,6 +3057,19 @@
     "categories": [
       "food-drink",
       "live-music"
+    ]
+  },
+  {
+    "name": "The Suffolks Market: Bank Holiday",
+    "date": "2026-08-30",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
     ]
   },
   {
@@ -2958,6 +3205,19 @@
     ]
   },
   {
+    "name": "The Suffolks Market: Halloween & Harvest",
+    "date": "2026-10-25",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ]
+  },
+  {
     "name": "Halloween",
     "date": "2026-10-31",
     "venue": "Sandford Park Alehouse",
@@ -2985,6 +3245,19 @@
     ]
   },
   {
+    "name": "ELO Encounter",
+    "date": "2026-11-14",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.bacontheatre.co.uk/whatson/elo-encounter/",
+    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2026/03/230320261774273248.jpeg",
+    "source": "bacon-theatre",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Gaz Brookfield \u2014 Autumn Tour",
     "date": "2026-11-20",
     "venue": "Frog & Fiddle",
@@ -2995,6 +3268,19 @@
     "on_sale": true,
     "categories": [
       "live-music"
+    ]
+  },
+  {
+    "name": "The Suffolks Market: Christmas Market",
+    "date": "2026-11-29",
+    "venue": "The Suffolks",
+    "city": "Cheltenham",
+    "url": "https://thesuffolks.co.uk/markets/",
+    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "source": "suffolks",
+    "on_sale": false,
+    "categories": [
+      "markets"
     ]
   },
   {
