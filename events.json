@@ -92,6 +92,46 @@
     ]
   },
   {
+    "name": "Taylor Fever",
+    "date": "2026-03-26",
+    "venue": "Everyman Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Taylor-Fever_0F2EEF2F-BC64-498E-AB6A-C3379D2F0F77-9c68ce2a5056a36_9c68ced1-5056-a36a-0b0d87e54e4218e1.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "theatre"
+    ]
+  },
+  {
+    "name": "Cheltenham Observation Wheel",
+    "date": "2026-03-26",
+    "venue": "Imperial Gardens",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Cheltenham-Observation-Wheel.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "family"
+    ]
+  },
+  {
+    "name": "Elkie Brooks",
+    "date": "2026-03-26",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Elkie-Brooks.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
@@ -198,6 +238,76 @@
     ]
   },
   {
+    "name": "The Fleetwood Mac Legacy",
+    "date": "2026-03-27",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Fleetwood-Mac-Legacy.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Cheltenham Farmers Market",
+    "date": "2026-03-27",
+    "venue": "The Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Farmers-Market.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "markets",
+      "food-drink"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every 2nd & Last Friday"
+  },
+  {
+    "name": "Dough & Groove",
+    "date": "2026-03-27",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Dough-Groove.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Last Thursday"
+  },
+  {
+    "name": "Mikado Mayhem",
+    "date": "2026-03-27",
+    "venue": "Cheltenham Playhouse",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Mikado-Mayhem.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "theatre"
+    ]
+  },
+  {
+    "name": "Emilio Santoro as Elvis",
+    "date": "2026-03-27",
+    "venue": "The Bacon Theatre",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Emilio-Santoro-Elvis.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -269,6 +379,19 @@
     ],
     "is_recurring": true,
     "recurrence_text": "Every Saturday & Sunday"
+  },
+  {
+    "name": "Josh Widdicombe",
+    "date": "2026-03-28",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://www.visitcheltenham.com/whats-on/",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_300,q_65,w_440/https://assets.simpleviewinc.com/simpleview/image/upload/cms/visitcheltenham/Josh-Widdicombe.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "comedy"
+    ]
   },
   {
     "name": "Comedy Night",
