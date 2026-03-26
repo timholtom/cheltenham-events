@@ -105,7 +105,8 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 /* Date picker */
 .date-picker{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
 .date-picker-label{font-size:11px;font-weight:600;color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em;white-space:nowrap}
-.day-chips{display:flex;gap:4px;flex-wrap:wrap}
+.day-chips{display:flex;gap:4px;flex-wrap:wrap;align-items:center}
+.week-divider{width:1px;height:28px;background:var(--border);margin:0 4px;flex-shrink:0}
 .day-chip{width:36px;height:36px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text-2);font-size:11px;font-weight:700;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all 0.15s;user-select:none;line-height:1}
 .day-chip:hover{border-color:var(--accent);color:var(--accent-dark)}
 .day-chip.active{background:var(--text);color:var(--bg);border-color:var(--text)}
@@ -307,6 +308,13 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       d.setDate(d.getDate() + i);
       const key = d.toISOString().split('T')[0];
       const isToday = i === 0;
+
+      // Add week divider between Sunday and Monday
+      if(i > 0 && d.getDay() === 1){
+        const divider = document.createElement('div');
+        divider.className = 'week-divider';
+        container.appendChild(divider);
+      }
 
       const chip = document.createElement('button');
       chip.className = 'day-chip' + (selectedDates.has(key) ? ' active' : '') + (isToday ? ' today' : '');
