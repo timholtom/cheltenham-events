@@ -105,9 +105,9 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 /* Date picker */
 .date-picker{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
 .date-picker-label{font-size:11px;font-weight:600;color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em;white-space:nowrap}
-.day-chips{display:flex;gap:4px;flex-wrap:wrap;align-items:center}
-.week-divider{width:1px;height:28px;background:var(--border);margin:0 4px;flex-shrink:0}
-.day-chip{width:36px;height:36px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text-2);font-size:11px;font-weight:700;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all 0.15s;user-select:none;line-height:1}
+.day-chips{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.week-divider{width:1px;height:28px;background:var(--border);margin:0 2px;flex-shrink:0}
+.day-chip{width:40px;height:40px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text-2);font-size:11px;font-weight:700;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all 0.15s;user-select:none;line-height:1;touch-action:manipulation;-webkit-tap-highlight-color:transparent;position:relative;z-index:1}
 .day-chip:hover{border-color:var(--accent);color:var(--accent-dark)}
 .day-chip.active{background:var(--text);color:var(--bg);border-color:var(--text)}
 .day-chip.today{border-color:var(--accent);color:var(--accent-dark)}
@@ -154,7 +154,8 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   .newsletter-form input{min-width:0}
   .header-r a:not(.newsletter-btn){display:none}
   #date-filters{padding:0 20px 16px}
-  .day-chip{width:32px;height:32px;border-radius:6px}
+  .day-chips{gap:6px}
+  .day-chip{width:36px;height:36px;border-radius:6px}
   .day-chip .day-num{font-size:12px}
   .day-chip .day-name{font-size:7px}
   footer{flex-direction:column;gap:4px}
@@ -342,19 +343,24 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       chip.innerHTML = '<div class="day-chip-inner"><span class="day-name">' + days[d.getDay()] + '</span><span class="day-num">' + d.getDate() + '</span></div>';
       chip.title = days[d.getDay()] + ' ' + d.getDate() + ' ' + months[d.getMonth()];
 
-      chip.addEventListener('click', function(ev){
-        ev.preventDefault();
-        ev.stopPropagation();
-        const k = this.dataset.date;
-        if(selectedDates.has(k)){
-          selectedDates.delete(k);
-        } else {
-          selectedDates.add(k);
-        }
-        visibleCount = EVENTS_PER_PAGE;
-        updateDateChips();
-        applyFilters();
-      });
+      (function(chipEl, dateKey){
+        let handling = false;
+        chipEl.addEventListener('click', function(ev){
+          ev.preventDefault();
+          ev.stopImmediatePropagation();
+          if(handling) return;
+          handling = true;
+          setTimeout(function(){ handling = false; }, 300);
+          if(selectedDates.has(dateKey)){
+            selectedDates.delete(dateKey);
+          } else {
+            selectedDates.add(dateKey);
+          }
+          visibleCount = EVENTS_PER_PAGE;
+          updateDateChips();
+          applyFilters();
+        });
+      })(chip, key);
       container.appendChild(chip);
     }
   }
