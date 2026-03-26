@@ -61,6 +61,12 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .search-box{position:relative;width:100%}
 .search-box input{width:100%;padding:12px 16px 12px 40px;border:1px solid var(--border);border-radius:12px;font-size:15px;font-family:var(--font-body);background:var(--surface);color:var(--text);outline:none;transition:border-color 0.15s}
 .search-box input:focus{border-color:var(--accent);box-shadow:0 0 0 3px oklch(65% 0.15 250 / 0.1)}
+.search-suggestions{position:absolute;top:100%;left:0;right:0;background:var(--surface);border:1px solid var(--border);border-top:none;border-radius:0 0 12px 12px;max-height:240px;overflow-y:auto;z-index:100;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.08)}
+.search-suggestions.active{display:block}
+.search-suggestion{padding:10px 16px;cursor:pointer;font-size:13px;font-family:var(--font-body);color:var(--text);display:flex;align-items:center;gap:8px;transition:background 0.1s}
+.search-suggestion:hover,.search-suggestion.highlighted{background:oklch(95% 0.02 250)}
+.search-suggestion .sg-type{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.04em;color:var(--text-3);flex-shrink:0;width:44px}
+.search-suggestion .sg-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .search-box::before{content:'';position:absolute;left:14px;top:50%;transform:translateY(-50%);width:16px;height:16px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat}
 
 /* Events grid */
@@ -187,7 +193,8 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
 
 <div class="search-section">
   <div class="search-box">
-    <input type="text" id="search" placeholder="Search events, venues, categories...">
+    <input type="text" id="search" placeholder="Search events, venues, categories..." autocomplete="off">
+    <div class="search-suggestions" id="search-suggestions"></div>
   </div>
 </div>
 <div class="filters" id="filters">
@@ -484,15 +491,115 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       document.getElementById('events-grid').innerHTML = '<p style="color:var(--text-3);padding:24px">Failed to load events. Please refresh.</p>';
     });
 
-  // Search
+  // Search with autocomplete
   let searchTimeout;
-  document.getElementById('search').addEventListener('input', function(){
+  let highlightIdx = -1;
+  const searchInput = document.getElementById('search');
+  const sugBox = document.getElementById('search-suggestions');
+
+  function buildSuggestions(){
+    const q = searchInput.value.toLowerCase().trim();
+    sugBox.innerHTML = '';
+    highlightIdx = -1;
+    if(q.length < 2){ sugBox.classList.remove('active'); return; }
+
+    const seen = new Set();
+    const suggestions = [];
+
+    // Match events
+    allEvents.forEach(e => {
+      const name = (e.name||'').toLowerCase();
+      if(name.includes(q) && !seen.has('e:'+name)){
+        seen.add('e:'+name);
+        suggestions.push({type:'event', name: e.name, raw: name});
+      }
+    });
+
+    // Match venues
+    allEvents.forEach(e => {
+      const v = (e.venue||'').toLowerCase();
+      if(v && v.includes(q) && !seen.has('v:'+v)){
+        seen.add('v:'+v);
+        suggestions.push({type:'venue', name: e.venue, raw: v});
+      }
+    });
+
+    // Match categories
+    const catLabels = {
+      'live-music':'Live Music','comedy':'Comedy','theatre':'Theatre','family':'Family',
+      'food-drink':'Food & Drink','sport-fitness':'Sport & Fitness','arts-culture':'Arts & Culture',
+      'wellbeing':'Wellbeing','business':'Business','markets':'Markets','dating':'Dating',
+      'pub-quiz':'Pub Quiz','games-night':'Games Night','other':'Other'
+    };
+    Object.entries(catLabels).forEach(([id, label]) => {
+      if(label.toLowerCase().includes(q) && !seen.has('c:'+id)){
+        seen.add('c:'+id);
+        suggestions.push({type:'category', name: label, raw: id});
+      }
+    });
+
+    if(suggestions.length === 0){ sugBox.classList.remove('active'); return; }
+
+    // Sort: exact start matches first, then contains
+    suggestions.sort((a,b) => {
+      const aStarts = a.raw.startsWith(q) ? 0 : 1;
+      const bStarts = b.raw.startsWith(q) ? 0 : 1;
+      return aStarts - bStarts || a.raw.localeCompare(b.raw);
+    });
+
+    suggestions.slice(0, 8).forEach((s, i) => {
+      const div = document.createElement('div');
+      div.className = 'search-suggestion';
+      div.innerHTML = '<span class="sg-type">' + s.type + '</span><span class="sg-name">' + s.name + '</span>';
+      div.addEventListener('mousedown', function(ev){
+        ev.preventDefault();
+        searchInput.value = s.name;
+        currentSearch = s.name;
+        visibleCount = EVENTS_PER_PAGE;
+        sugBox.classList.remove('active');
+        applyFilters();
+      });
+      sugBox.appendChild(div);
+    });
+    sugBox.classList.add('active');
+  }
+
+  searchInput.addEventListener('input', function(){
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(function(){
-      currentSearch = document.getElementById('search').value;
+      currentSearch = searchInput.value;
       visibleCount = EVENTS_PER_PAGE;
       applyFilters();
-    }, 200);
+      buildSuggestions();
+    }, 150);
+  });
+
+  searchInput.addEventListener('keydown', function(ev){
+    const items = sugBox.querySelectorAll('.search-suggestion');
+    if(!items.length) return;
+    if(ev.key === 'ArrowDown'){
+      ev.preventDefault();
+      highlightIdx = Math.min(highlightIdx + 1, items.length - 1);
+    } else if(ev.key === 'ArrowUp'){
+      ev.preventDefault();
+      highlightIdx = Math.max(highlightIdx - 1, 0);
+    } else if(ev.key === 'Enter' && highlightIdx >= 0){
+      ev.preventDefault();
+      items[highlightIdx].dispatchEvent(new MouseEvent('mousedown'));
+      return;
+    } else if(ev.key === 'Escape'){
+      sugBox.classList.remove('active');
+      return;
+    } else { return; }
+    items.forEach((it, i) => it.classList.toggle('highlighted', i === highlightIdx));
+    items[highlightIdx].scrollIntoView({block:'nearest'});
+  });
+
+  searchInput.addEventListener('blur', function(){
+    setTimeout(() => sugBox.classList.remove('active'), 150);
+  });
+  searchInput.addEventListener('focus', function(){
+    if(searchInput.value.length >= 2) buildSuggestions();
   });
 
 
