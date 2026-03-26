@@ -129,7 +129,9 @@
     "on_sale": false,
     "categories": [
       "family"
-    ]
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Open daily"
   },
   {
     "name": "Elkie Brooks",
