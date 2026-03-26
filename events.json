@@ -1745,8 +1745,8 @@
     "price": ""
   },
   {
-    "name": "Quiz Night- Every Tuesday",
-    "date": "",
+    "name": "Quiz Night",
+    "date": "2026-03-31",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
@@ -1756,7 +1756,9 @@
       "pub-quiz"
     ],
     "on_sale": true,
-    "price": "\u00a312.00"
+    "price": "\u00a312.00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday"
   },
   {
     "name": "Taco Tuesday - Every Tuesday",
