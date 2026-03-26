@@ -10,7 +10,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Wonderful Art of Michael Harrison",
@@ -23,7 +24,8 @@
     "on_sale": false,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Mac Street Diner at DEYA",
@@ -36,7 +38,8 @@
     "on_sale": true,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Talk Property",
@@ -49,7 +52,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Charlotte Tilbury Skincare & Makeup Must Haves",
@@ -62,7 +66,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Under 30s Dating Night",
@@ -76,7 +81,8 @@
       "dating"
     ],
     "on_sale": true,
-    "price": "\u00a37.50"
+    "price": "\u00a37.50",
+    "image_position": "center 25%"
   },
   {
     "name": "1st Annual Dark Beer Festival",
@@ -89,7 +95,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "52nd Street \u2014 Live Soul & Jazz",
@@ -102,7 +109,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Taylor Fever",
@@ -116,7 +124,8 @@
     "categories": [
       "live-music",
       "theatre"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cheltenham Observation Wheel",
@@ -131,7 +140,8 @@
       "family"
     ],
     "is_recurring": true,
-    "recurrence_text": "Open daily"
+    "recurrence_text": "Open daily",
+    "image_position": "center"
   },
   {
     "name": "Elkie Brooks",
@@ -144,7 +154,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Comedy Huddle",
@@ -157,7 +168,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Styling Showcase with GHD Speed \u2013 Celebrating Official Good Hair Day",
@@ -170,7 +182,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Beginner Microsoft Copilot Training",
@@ -183,7 +196,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "This Is Country",
@@ -197,7 +211,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00"
+    "price": "\u00a320.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Pay Day Sessions",
@@ -210,7 +225,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -223,7 +239,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Flash Back - Rock Covers Duo",
@@ -236,7 +253,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Dark Side of the Ale \u2014 Friday Live Music",
@@ -250,7 +268,8 @@
     "categories": [
       "live-music",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Fleetwood Mac Legacy",
@@ -263,7 +282,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Cheltenham Farmers Market",
@@ -279,7 +299,8 @@
       "food-drink"
     ],
     "is_recurring": true,
-    "recurrence_text": "Every 2nd & Last Friday"
+    "recurrence_text": "Every 2nd & Last Friday",
+    "image_position": "center"
   },
   {
     "name": "Dough & Groove",
@@ -294,7 +315,8 @@
       "live-music"
     ],
     "is_recurring": true,
-    "recurrence_text": "Every Last Thursday"
+    "recurrence_text": "Every Last Thursday",
+    "image_position": "center 25%"
   },
   {
     "name": "Mikado Mayhem",
@@ -307,7 +329,8 @@
     "on_sale": false,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Emilio Santoro as Elvis",
@@ -320,7 +343,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "An Evening of Burlesque Cabaret",
@@ -334,7 +358,8 @@
     "categories": [
       "theatre",
       "comedy"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Inquiry",
@@ -347,7 +372,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Oasiz",
@@ -360,7 +386,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Cheltenham Card Show",
@@ -373,7 +400,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Hayao Miyazaki's Dreams by Mystery Ensemble",
@@ -388,7 +416,8 @@
       "arts-culture",
       "family",
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Dark Side of Ale \u2014 Saturday Live Music",
@@ -402,7 +431,8 @@
     "categories": [
       "live-music",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham parkrun",
@@ -418,7 +448,8 @@
     ],
     "time": "09:00",
     "recurrence_text": "Every Saturday",
-    "is_recurring": true
+    "is_recurring": true,
+    "image_position": "center"
   },
   {
     "name": "Southam Car Boot Sale",
@@ -433,7 +464,8 @@
       "markets"
     ],
     "is_recurring": true,
-    "recurrence_text": "Every Saturday & Sunday"
+    "recurrence_text": "Every Saturday & Sunday",
+    "image_position": "center"
   },
   {
     "name": "Josh Widdicombe",
@@ -446,7 +478,8 @@
     "on_sale": false,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Easter Trail",
@@ -459,7 +492,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Robbed Zombie \u2014 Rob Zombie Tribute",
@@ -472,7 +506,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Unicorn Live!",
@@ -485,7 +520,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Comedy Night",
@@ -499,7 +535,8 @@
       "comedy"
     ],
     "on_sale": true,
-    "price": "\u00a310.00"
+    "price": "\u00a310.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Dark Side of Ale - Comedy Sunday",
@@ -513,7 +550,8 @@
     "categories": [
       "comedy",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham Junior parkrun",
@@ -530,7 +568,8 @@
     ],
     "time": "09:00",
     "recurrence_text": "Every Sunday",
-    "is_recurring": true
+    "is_recurring": true,
+    "image_position": "center"
   },
   {
     "name": "Quiz Night",
@@ -545,7 +584,8 @@
       "pub-quiz"
     ],
     "recurrence_text": "Every Sunday",
-    "is_recurring": true
+    "is_recurring": true,
+    "image_position": "center 25%"
   },
   {
     "name": "Dunkertons Run Club",
@@ -561,7 +601,8 @@
     "on_sale": true,
     "price": "",
     "is_recurring": true,
-    "recurrence_text": "Every Sunday"
+    "recurrence_text": "Every Sunday",
+    "image_position": "center"
   },
   {
     "name": "Cheltenham Car Boot",
@@ -576,7 +617,8 @@
       "markets"
     ],
     "is_recurring": true,
-    "recurrence_text": "Every Wednesday & Sunday"
+    "recurrence_text": "Every Wednesday & Sunday",
+    "image_position": "center"
   },
   {
     "name": "Jason Fox: Embrace the Chaos",
@@ -589,7 +631,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Over 30s Dating Night",
@@ -603,7 +646,8 @@
       "dating"
     ],
     "on_sale": true,
-    "price": "\u00a37.50"
+    "price": "\u00a37.50",
+    "image_position": "center 25%"
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
@@ -617,7 +661,8 @@
     "categories": [
       "arts-culture",
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Easter Tablescaping Masterclass",
@@ -631,7 +676,8 @@
     "categories": [
       "family",
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "AVEDA x GHD Shine & Style Masterclass",
@@ -644,7 +690,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Pub Quiz",
@@ -659,7 +706,8 @@
       "pub-quiz"
     ],
     "is_recurring": true,
-    "recurrence_text": "Every Tuesday"
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%"
   },
   {
     "name": "Quiz Night",
@@ -675,7 +723,8 @@
     "on_sale": true,
     "price": "\u00a312.00",
     "is_recurring": true,
-    "recurrence_text": "Every Tuesday"
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%"
   },
   {
     "name": "Easter Crafting for Families",
@@ -689,7 +738,8 @@
     "categories": [
       "family",
       "arts-culture"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Chitty Chitty Bang Bang",
@@ -703,7 +753,8 @@
     "categories": [
       "theatre",
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Property & Poppadoms",
@@ -717,7 +768,8 @@
     "categories": [
       "food-drink",
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Real CSI",
@@ -731,7 +783,8 @@
     "categories": [
       "arts-culture",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cinema Club Presents: Wonka",
@@ -746,7 +799,8 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a33.00"
+    "price": "\u00a33.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Open Mic Night x Wildflower Whisky",
@@ -760,7 +814,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": ""
+    "price": "",
+    "image_position": "center 25%"
   },
   {
     "name": "Hadestown: Teen Edition",
@@ -773,7 +828,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cardboard Costumes",
@@ -786,7 +842,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Speed Dating - Age 28-45",
@@ -799,7 +856,8 @@
     "on_sale": true,
     "categories": [
       "dating"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "NT Live: The Audience",
@@ -812,7 +870,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Spring Trail",
@@ -826,7 +885,8 @@
     "categories": [
       "arts-culture",
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Discoliscious \u2014 The Ultimate Inclusive Party",
@@ -840,7 +900,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00"
+    "price": "\u00a320.00",
+    "image_position": "center 30%"
   },
   {
     "name": "Easter Bank Holiday Weekend",
@@ -853,7 +914,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -866,7 +928,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Easter at the Exmouth",
@@ -880,7 +943,8 @@
     "categories": [
       "food-drink",
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Metal 2 the Masses \u2014 Heat 2",
@@ -893,7 +957,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Over 40s Day Party",
@@ -907,7 +972,8 @@
     "categories": [
       "arts-culture",
       "comedy"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Orbit Card Show",
@@ -921,7 +987,8 @@
     "categories": [
       "sport-fitness",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "ELEMIS Power of Serums Masterclass",
@@ -934,7 +1001,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Ibiza Anthems - 90's vs 00's",
@@ -947,7 +1015,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Bottomless Brunch",
@@ -961,7 +1030,8 @@
     "categories": [
       "sport-fitness",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Ibiza Anthems: 90s vs 00s",
@@ -974,7 +1044,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Drag Wars \u2014 Heat 2",
@@ -988,7 +1059,8 @@
     "categories": [
       "theatre",
       "comedy"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Easter Trail Hunt",
@@ -1002,7 +1074,8 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a38.00"
+    "price": "\u00a38.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Miss Rachel: Fun for Little Ones",
@@ -1015,7 +1088,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Children's Painting Workshop \u2014 Easter Special",
@@ -1030,7 +1104,8 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a312.00"
+    "price": "\u00a312.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Playful Shadows: Family Drama Workshop",
@@ -1044,7 +1119,8 @@
     "categories": [
       "family",
       "theatre"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Barnum",
@@ -1057,7 +1133,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "DWAEC Present: The Incredible Animal Show",
@@ -1072,7 +1149,8 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a37.50"
+    "price": "\u00a37.50",
+    "image_position": "center 25%"
   },
   {
     "name": "U3A Actors",
@@ -1085,7 +1163,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "11+ Easter Skills Workshop",
@@ -1098,7 +1177,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
@@ -1111,7 +1191,8 @@
     "on_sale": true,
     "categories": [
       "wellbeing"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Junior Member Young Shot Progression Day",
@@ -1125,7 +1206,8 @@
     "categories": [
       "sport-fitness",
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Dram - Exchange!",
@@ -1139,7 +1221,8 @@
     "categories": [
       "arts-culture",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Legend of Barry White",
@@ -1152,7 +1235,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Mr Sleepybum's Dream Machine",
@@ -1165,7 +1249,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Daisy Donald",
@@ -1178,7 +1263,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Spring Session",
@@ -1192,7 +1278,8 @@
     "categories": [
       "live-music",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Chip Shop Boys",
@@ -1206,7 +1293,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a315.00"
+    "price": "\u00a315.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -1219,7 +1307,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Masterplan - Britpop Covers",
@@ -1232,7 +1321,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Rock'n'Roll Record Hop",
@@ -1245,7 +1335,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Rhythm and Blues Record Session",
@@ -1258,7 +1349,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Dance Floor Presents: Congratulations",
@@ -1271,7 +1363,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Quantum Gong Bath, Guided Meditation+ Light Language",
@@ -1284,7 +1377,8 @@
     "on_sale": true,
     "categories": [
       "wellbeing"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Swamp Stomp String Band",
@@ -1297,7 +1391,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Northern Live",
@@ -1310,7 +1405,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "GLHC Presents: Tempers Fray // Despondent",
@@ -1323,7 +1419,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Fleetwood Mack Experience",
@@ -1336,7 +1433,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Folk On",
@@ -1349,7 +1447,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Simcha: The Kindertransport Concert",
@@ -1363,7 +1462,8 @@
     "categories": [
       "live-music",
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Nurture & Nourish",
@@ -1376,7 +1476,8 @@
     "on_sale": true,
     "categories": [
       "wellbeing"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Jazz in the Studio",
@@ -1389,7 +1490,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "An Evening with Ian Botham",
@@ -1402,7 +1504,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Spy Who Came in From the Cold",
@@ -1415,7 +1518,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Anna Bailey in Conversation with Jackie Kabler",
@@ -1428,7 +1532,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Things We Found in the Ground",
@@ -1441,7 +1546,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "All DEYA 2",
@@ -1455,7 +1561,8 @@
     "categories": [
       "live-music",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Michaela Strachan: Not Just a Wild Life",
@@ -1469,7 +1576,8 @@
     "categories": [
       "comedy",
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cathryn Craig and Brian Willoughby",
@@ -1482,7 +1590,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "26.1: In the Eye of the Storm",
@@ -1496,7 +1605,8 @@
     "categories": [
       "arts-culture",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Netwalking \u2014 Creative Wellbeing Female Entrepreneurs",
@@ -1512,7 +1622,8 @@
       "wellbeing",
       "sport-fitness",
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "UoG Fine Art Degree Show Fundraiser Quiz",
@@ -1525,7 +1636,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham Welcomes Refugees",
@@ -1538,7 +1650,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Dolly Show",
@@ -1551,7 +1664,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Skivers Club",
@@ -1564,7 +1678,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Banff Mountain Film Festival",
@@ -1578,7 +1693,8 @@
     "categories": [
       "theatre",
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "A Night at the Movies Cabaret",
@@ -1591,7 +1707,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "A Night to Remember: Motown Show",
@@ -1604,7 +1721,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Lanc\u00f4me Skin & Makeup Masterclass",
@@ -1617,7 +1735,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "EVM Wrestling \u2014 You Can't Kill What Doesn't Die",
@@ -1631,7 +1750,8 @@
     "categories": [
       "sport-fitness",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Fire Feast \u2014 Ubuntu Food",
@@ -1644,7 +1764,8 @@
     "on_sale": true,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "The ELO Experience",
@@ -1657,7 +1778,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Drag Wars \u2014 Semi Final",
@@ -1671,7 +1793,8 @@
     "categories": [
       "theatre",
       "comedy"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Johnny Coppin 50th Anniversary Concert",
@@ -1684,7 +1807,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "For the Love of Rugby",
@@ -1697,7 +1821,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Jay Cee Big Band Plays Count Basie",
@@ -1710,7 +1835,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Adam Frost",
@@ -1723,7 +1849,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Constant Wife",
@@ -1736,7 +1863,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "John Cooper Clarke",
@@ -1750,7 +1878,8 @@
     "categories": [
       "comedy",
       "arts-culture"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Spanish Specials - Brewery Tour & Tasting",
@@ -1763,7 +1892,8 @@
     "on_sale": true,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Matt Forde: Defying Calamity",
@@ -1776,7 +1906,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Picnic at Hanging Rock",
@@ -1789,7 +1920,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Fresh: Art Fair",
@@ -1804,7 +1936,8 @@
       "arts-culture",
       "markets",
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Thunder From Down Under",
@@ -1817,7 +1950,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "UoG Music Society \u2014 Student Takeover",
@@ -1830,7 +1964,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Howlers Comedy Club",
@@ -1843,7 +1978,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Slates - Indie Nights by Gig Life Crisis",
@@ -1857,7 +1993,8 @@
     "categories": [
       "theatre",
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "'The One' Women's Network",
@@ -1872,7 +2009,8 @@
       "sport-fitness",
       "food-drink",
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -1885,7 +2023,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Tapas Nights",
@@ -1898,7 +2037,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Run Yoshi, Run \u2014 Indie/Britpop",
@@ -1911,7 +2051,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Girl Power",
@@ -1924,7 +2065,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Fantazmaz \u2014 Gonna Blow Your Top UK Tour",
@@ -1937,7 +2079,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Marshall King's Showtime",
@@ -1950,7 +2093,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "NT Live: All My Sons",
@@ -1963,7 +2107,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
@@ -1976,7 +2121,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Damian Hall: Running Forever",
@@ -1989,7 +2135,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cheltenham Jazz Festival",
@@ -2002,7 +2149,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Pay Day Sessions",
@@ -2015,7 +2163,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -2028,7 +2177,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Soul in the City: 50 Years of a DJ",
@@ -2041,7 +2191,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Harwood Dance 2026",
@@ -2054,7 +2205,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Suffolks Market: Jazz Fringe",
@@ -2067,7 +2219,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Cheltenham Festival of Performing Arts",
@@ -2081,7 +2234,8 @@
     "categories": [
       "theatre",
       "arts-culture"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "ABBA Arrival",
@@ -2096,7 +2250,8 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a315.00"
+    "price": "\u00a315.00",
+    "image_position": "center 30%"
   },
   {
     "name": "Skivers Club",
@@ -2109,7 +2264,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Metal 2 the Masses \u2014 Heat 2",
@@ -2122,7 +2278,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Moments of Pleasure: Kate Bush Tribute",
@@ -2135,7 +2292,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Nature Journaling in Wardens' Wood",
@@ -2148,7 +2306,8 @@
     "on_sale": true,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Drag Wars \u2014 Grand Final",
@@ -2162,7 +2321,8 @@
     "categories": [
       "theatre",
       "comedy"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Calligraphy Workshop",
@@ -2176,7 +2336,8 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a360.00"
+    "price": "\u00a360.00",
+    "image_position": "center 25%"
   },
   {
     "name": "GLHC Presents: Passed Out // Uncertainty",
@@ -2189,7 +2350,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Detective Dog",
@@ -2202,7 +2364,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cotswold Networking Meet-up",
@@ -2215,7 +2378,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Robin Nolan Trio",
@@ -2228,7 +2392,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Red On Back Yard Ultra",
@@ -2241,7 +2406,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Skivers Club",
@@ -2254,7 +2420,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Ed Force One \u2014 Iron Maiden Tribute",
@@ -2267,7 +2434,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Xtreme Colour Run",
@@ -2281,7 +2449,8 @@
     "categories": [
       "sport-fitness",
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Xtreme Colour Run in Partnership with Cobalt Health",
@@ -2296,7 +2465,8 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a310.00"
+    "price": "\u00a310.00",
+    "image_position": "center 25%"
   },
   {
     "name": "The K-Pop All Stars",
@@ -2309,7 +2479,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "An Evening of Mediumship with Carol Green",
@@ -2322,7 +2493,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Nick Mohammed Is Mr Swallow: Show Pony",
@@ -2335,7 +2507,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Skivers Club",
@@ -2348,7 +2521,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Keyframe Karnage! ft. Buried in Bermuda",
@@ -2361,7 +2535,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Fringe Festival Launch Variety Show",
@@ -2374,7 +2549,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Soul Funker and R&B All Dayer",
@@ -2387,7 +2563,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Dylan Night",
@@ -2400,7 +2577,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Oceanaires Big Band and Clare Teal",
@@ -2413,7 +2591,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "The Candlelight Series: ABBA",
@@ -2426,7 +2605,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "The Suffolks Market: May Fair",
@@ -2439,7 +2619,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Howlers May \u2014 Fringe Special",
@@ -2452,7 +2633,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Rory Bremner: Making an Impression",
@@ -2465,7 +2647,8 @@
     "on_sale": true,
     "categories": [
       "comedy"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Bubble Show 2 \u2014 More Bubbles!",
@@ -2478,7 +2661,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Drifters",
@@ -2491,7 +2675,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "The Scene",
@@ -2504,7 +2689,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "70th Anniversary 1 Day AA Convention",
@@ -2517,7 +2703,8 @@
     "on_sale": true,
     "categories": [
       "wellbeing"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham Science Festival",
@@ -2530,7 +2717,8 @@
     "on_sale": false,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "MKLINK National MSP Conference 2026",
@@ -2543,7 +2731,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "NT Live: The Playboy of the Western World",
@@ -2556,7 +2745,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Summer Charity Ceilidh",
@@ -2570,7 +2760,8 @@
     "categories": [
       "food-drink",
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Mind Expansion Pack 4.0",
@@ -2584,7 +2775,8 @@
     "categories": [
       "live-music",
       "food-drink"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Metal 2 the Masses \u2014 Heat 2",
@@ -2597,7 +2789,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "BID Training \u2014 Fire Marshal",
@@ -2610,7 +2803,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Merch Mindset: The AI Edition",
@@ -2623,7 +2817,8 @@
     "on_sale": true,
     "categories": [
       "business"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Jools Holland & His Rhythm & Blues Orchestra",
@@ -2636,7 +2831,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "A James Bond Concert Spectacular",
@@ -2649,7 +2845,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Three Peaks Challenge 2026 for Aim Up",
@@ -2662,7 +2859,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Silent Disco",
@@ -2675,7 +2873,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Seafood and French Wine Festival",
@@ -2688,7 +2887,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Seas the Day: Jessica Rowe & Miriam Payne",
@@ -2701,7 +2901,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Not the Vicar's Tea Party 7!",
@@ -2714,7 +2915,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Murder Trial Tonight",
@@ -2727,7 +2929,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Metal 2 the Masses \u2014 Heat 2",
@@ -2740,7 +2943,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Steve Ashley",
@@ -2753,7 +2957,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Adriana Brownlee: Death Zone",
@@ -2766,7 +2971,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Tom Moriarty: Chapters",
@@ -2779,7 +2985,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Force Fest: Episode I \u2014 Into the Galaxy",
@@ -2792,7 +2999,8 @@
     "on_sale": true,
     "categories": [
       "family"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cheltenham Music Festival",
@@ -2805,7 +3013,8 @@
     "on_sale": false,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "The Princess Proms (First Session)",
@@ -2820,7 +3029,8 @@
       "family",
       "live-music",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Princess Proms (Second Session)",
@@ -2835,7 +3045,8 @@
       "family",
       "live-music",
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Stow Motor Show 2026",
@@ -2848,7 +3059,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Addams Family",
@@ -2861,7 +3073,8 @@
     "on_sale": true,
     "categories": [
       "theatre"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Moon Reaper // Kryptess",
@@ -2874,7 +3087,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The After Party Summer Special",
@@ -2888,7 +3102,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00"
+    "price": "\u00a320.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Majesty: A Tribute to Queen",
@@ -2901,7 +3116,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Cheese and Cider Festival",
@@ -2915,7 +3131,8 @@
     "categories": [
       "food-drink",
       "live-music"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Frankie's Guys",
@@ -2928,7 +3145,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Seriously Collins: Phil Collins Tribute",
@@ -2941,7 +3159,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Fearlessly Taylor",
@@ -2954,7 +3173,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Suffolks Market: Dog Show",
@@ -2967,7 +3187,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Mercury: The Ultimate Queen Tribute",
@@ -2980,7 +3201,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "A Country Night in Nashville",
@@ -2993,7 +3215,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Rum and Wing Festival",
@@ -3007,7 +3230,8 @@
     "categories": [
       "food-drink",
       "live-music"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "The Suffolks Market: Bank Holiday",
@@ -3020,7 +3244,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "UK Pink Floyd Experience",
@@ -3033,7 +3258,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Lost in Music: One Night at the Disco",
@@ -3046,7 +3272,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Swing From Paris",
@@ -3059,7 +3286,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Jay Rayner: Nights Out in the Kitchen",
@@ -3073,7 +3301,8 @@
     "categories": [
       "comedy",
       "food-drink"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "John Barrowman: My Life in Musicals",
@@ -3087,7 +3316,8 @@
     "categories": [
       "theatre",
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Bowie Band",
@@ -3100,7 +3330,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Oktoberfest",
@@ -3113,7 +3344,8 @@
     "on_sale": false,
     "categories": [
       "food-drink"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "MC Devvo \u2014 20th Anniversary Tour",
@@ -3126,7 +3358,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "Cheltenham Literature Festival",
@@ -3139,7 +3372,8 @@
     "on_sale": false,
     "categories": [
       "arts-culture"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Sue Ryder Starlight Hike",
@@ -3152,7 +3386,8 @@
     "on_sale": true,
     "categories": [
       "sport-fitness"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "The Suffolks Market: Halloween & Harvest",
@@ -3165,7 +3400,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Halloween",
@@ -3179,7 +3415,8 @@
     "categories": [
       "food-drink",
       "family"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "Biffy McClyro \u2014 Double Header",
@@ -3192,7 +3429,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 25%"
   },
   {
     "name": "ELO Encounter",
@@ -3205,7 +3443,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "center 30%"
   },
   {
     "name": "Gaz Brookfield \u2014 Autumn Tour",
@@ -3218,7 +3457,8 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ]
+    ],
+    "image_position": "top"
   },
   {
     "name": "The Suffolks Market: Christmas Market",
@@ -3231,7 +3471,8 @@
     "on_sale": false,
     "categories": [
       "markets"
-    ]
+    ],
+    "image_position": "center"
   },
   {
     "name": "Late Sketch Club",
@@ -3245,7 +3486,8 @@
     "categories": [
       "food-drink"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center 25%"
   },
   {
     "name": "The Real CSI: More Than Just What You See on TV",
@@ -3259,7 +3501,8 @@
     "categories": [
       "food-drink"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center 25%"
   },
   {
     "name": "Jazz Launch Night",
@@ -3273,7 +3516,8 @@
     "categories": [
       "food-drink"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center 25%"
   },
   {
     "name": "What the Croc!?!? Quiz",
@@ -3288,7 +3532,8 @@
       "food-drink",
       "pub-quiz"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center 25%"
   },
   {
     "name": "Fire Feast from Ubuntu Food",
@@ -3302,7 +3547,8 @@
     "categories": [
       "food-drink"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center"
   },
   {
     "name": "Spanish Specials - Brewery Tour and Tasting",
@@ -3316,7 +3562,8 @@
     "categories": [
       "food-drink"
     ],
-    "on_sale": true
+    "on_sale": true,
+    "image_position": "center 25%"
   },
   {
     "name": "The Board Game Evening",
@@ -3330,7 +3577,8 @@
     "categories": [
       "games-night"
     ],
-    "on_sale": false
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Join Brush Party to Paint 'Summer of Love'",
@@ -3344,7 +3592,8 @@
     "categories": [
       "arts-culture"
     ],
-    "on_sale": false
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Floating Sound Bath",
@@ -3358,7 +3607,8 @@
     "categories": [
       "wellbeing"
     ],
-    "on_sale": false
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "St. Fian \u2014 Live at Caf\u00e9 Ren\u00e9",
@@ -3372,7 +3622,8 @@
     "categories": [
       "live-music"
     ],
-    "on_sale": false
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Tweedy's Massive Circus",
@@ -3388,7 +3639,8 @@
       "sport-fitness"
     ],
     "on_sale": true,
-    "price": "\u00a329.00"
+    "price": "\u00a329.00",
+    "image_position": "center 25%"
   },
   {
     "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
@@ -3402,7 +3654,8 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a315.00"
+    "price": "\u00a315.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Games Night",
@@ -3416,7 +3669,8 @@
       "games-night"
     ],
     "on_sale": true,
-    "price": ""
+    "price": "",
+    "image_position": "center 25%"
   },
   {
     "name": "Taco Tuesday",
@@ -3430,7 +3684,8 @@
       "food-drink"
     ],
     "on_sale": true,
-    "price": ""
+    "price": "",
+    "image_position": "center 25%"
   },
   {
     "name": "Funky Pants Music & Dance Parties",
@@ -3445,7 +3700,8 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a38.50"
+    "price": "\u00a38.50",
+    "image_position": "center 25%"
   },
   {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
@@ -3460,6 +3716,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a312.00"
+    "price": "\u00a312.00",
+    "image_position": "center 25%"
   }
 ]
