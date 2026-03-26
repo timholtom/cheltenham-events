@@ -35,7 +35,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -48,7 +48,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -101,7 +101,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "food-drink"
+      "business"
     ]
   },
   {
@@ -113,7 +113,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/This_is_Country_1080x1350_bbfc28d3-9bc0-45b2-a570-7cde5206b14c_1200x1200.png?v=1769421178",
     "source": "dunkertons",
     "categories": [
-      "theatre",
       "live-music"
     ],
     "on_sale": true,
@@ -142,7 +141,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture",
+      "family",
+      "live-music"
     ]
   },
   {
@@ -154,8 +155,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_tile_1200x1200.png?v=1766150960",
     "source": "dunkertons",
     "categories": [
-      "arts-culture",
-      "theatre",
       "comedy"
     ],
     "on_sale": true,
@@ -199,7 +198,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "family"
+      "family",
+      "business"
     ]
   },
   {
@@ -212,7 +212,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -225,7 +225,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "food-drink",
+      "business"
     ]
   },
   {
@@ -238,7 +239,8 @@
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture",
+      "theatre"
     ]
   },
   {
@@ -251,8 +253,7 @@
     "source": "dunkertons",
     "categories": [
       "family",
-      "theatre",
-      "arts-culture"
+      "theatre"
     ],
     "on_sale": true,
     "price": "\u00a33.00"
@@ -266,8 +267,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_tile_7b43bc14-a812-45d6-bc3a-9549cf5d0615_1200x1200.png?v=1767601549",
     "source": "dunkertons",
     "categories": [
-      "arts-culture",
-      "theatre",
       "live-music"
     ],
     "on_sale": true,
@@ -296,6 +295,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
+      "arts-culture",
       "family"
     ]
   },
@@ -308,7 +308,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/posts_3-02_1200x1200.png?v=1772548614",
     "source": "dunkertons",
     "categories": [
-      "arts-culture",
       "live-music"
     ],
     "on_sale": true,
@@ -324,7 +323,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "arts-culture"
+      "arts-culture",
+      "comedy"
     ]
   },
   {
@@ -337,8 +337,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "theatre",
-      "sport-fitness"
+      "sport-fitness",
+      "theatre"
     ]
   },
   {
@@ -351,7 +351,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -364,7 +364,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music"
     ]
   },
   {
@@ -377,8 +377,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "food-drink",
-      "sport-fitness"
+      "sport-fitness",
+      "food-drink"
     ]
   },
   {
@@ -420,8 +420,7 @@
     "source": "dunkertons",
     "categories": [
       "family",
-      "theatre",
-      "live-music"
+      "theatre"
     ],
     "on_sale": true,
     "price": "\u00a37.50"
@@ -436,7 +435,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "wellbeing"
     ]
   },
   {
@@ -449,7 +448,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "sport-fitness",
+      "family"
     ]
   },
   {
@@ -462,7 +462,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture",
+      "theatre"
     ]
   },
   {
@@ -475,7 +476,8 @@
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music",
+      "food-drink"
     ]
   },
   {
@@ -515,7 +517,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "theatre"
     ]
   },
   {
@@ -528,7 +530,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "wellbeing"
     ]
   },
   {
@@ -541,7 +543,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "food-drink"
     ]
   },
   {
@@ -554,7 +556,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture"
     ]
   },
   {
@@ -567,7 +569,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture"
     ]
   },
   {
@@ -580,7 +582,8 @@
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music",
+      "food-drink"
     ]
   },
   {
@@ -593,7 +596,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture",
+      "theatre"
     ]
   },
   {
@@ -606,9 +610,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "sport-fitness",
       "arts-culture",
       "wellbeing",
+      "sport-fitness",
       "business"
     ]
   },
@@ -622,7 +626,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -635,7 +639,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "sport-fitness",
+      "theatre"
     ]
   },
   {
@@ -674,9 +679,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "sport-fitness",
       "arts-culture",
-      "markets"
+      "markets",
+      "sport-fitness"
     ]
   },
   {
@@ -689,6 +694,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
+      "theatre",
       "live-music"
     ]
   },
@@ -702,7 +708,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "sport-fitness",
+      "food-drink",
+      "business"
     ]
   },
   {
@@ -714,8 +722,8 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.jpg?v=1771249303",
     "source": "dunkertons",
     "categories": [
-      "theatre",
-      "live-music"
+      "live-music",
+      "theatre"
     ],
     "on_sale": true,
     "price": "\u00a315.00"
@@ -730,7 +738,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "arts-culture"
     ]
   },
   {
@@ -770,7 +778,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music"
     ]
   },
   {
@@ -796,7 +804,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "sport-fitness"
+      "sport-fitness",
+      "family"
     ]
   },
   {
@@ -808,8 +817,8 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_337b6282-abb5-4c95-ae00-64c1184ab75b_1200x1200.png?v=1771867355",
     "source": "dunkertons",
     "categories": [
-      "arts-culture",
-      "sport-fitness"
+      "sport-fitness",
+      "family"
     ],
     "on_sale": true,
     "price": "\u00a310.00"
@@ -824,7 +833,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "theatre"
     ]
   },
   {
@@ -837,7 +846,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music"
     ]
   },
   {
@@ -850,7 +859,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "wellbeing"
     ]
   },
   {
@@ -876,7 +885,8 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "food-drink",
+      "live-music"
     ]
   },
   {
@@ -889,7 +899,8 @@
     "city": "Cheltenham",
     "on_sale": true,
     "categories": [
-      "other"
+      "live-music",
+      "food-drink"
     ]
   },
   {
@@ -902,7 +913,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "family"
     ]
   },
   {
@@ -915,7 +926,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -928,7 +939,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "business"
     ]
   },
   {
@@ -941,7 +952,7 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "other"
+      "sport-fitness"
     ]
   },
   {
@@ -967,8 +978,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "theatre",
-      "family"
+      "family",
+      "live-music",
+      "theatre"
     ]
   },
   {
@@ -981,8 +993,9 @@
     "source": "eventbrite",
     "on_sale": true,
     "categories": [
-      "theatre",
-      "family"
+      "family",
+      "live-music",
+      "theatre"
     ]
   },
   {
@@ -1007,8 +1020,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_9fd780f8-5df0-42d3-8bed-f6abd2a60ec4_1200x1200.png?v=1773992928",
     "source": "dunkertons",
     "categories": [
-      "arts-culture",
-      "theatre",
       "live-music"
     ],
     "on_sale": true,
@@ -1121,7 +1132,7 @@
     "image": "",
     "source": "facebook",
     "categories": [
-      "other"
+      "family"
     ],
     "on_sale": false
   },
@@ -1220,7 +1231,6 @@
     "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
     "source": "dunkertons",
     "categories": [
-      "theatre",
       "live-music"
     ],
     "on_sale": true,
@@ -1307,8 +1317,7 @@
     "source": "dunkertons",
     "categories": [
       "family",
-      "theatre",
-      "arts-culture"
+      "theatre"
     ],
     "on_sale": true,
     "price": "\u00a312.00"
