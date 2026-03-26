@@ -53,6 +53,8 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 
 /* Filters */
 .filters{max-width:var(--max-w);margin:0 auto;padding:0 24px 24px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.filters.collapsed{max-height:88px;overflow:hidden;position:relative}
+.filters-toggle{font-size:12px;font-weight:600;color:var(--accent-dark);cursor:pointer;font-family:var(--font-body);background:none;border:none;padding:2px 0;margin-left:4px;white-space:nowrap}
 .filter-btn{padding:7px 16px;border-radius:100px;font-size:12px;font-weight:600;font-family:var(--font-body);border:1px solid var(--border);background:var(--surface);color:var(--text-2);cursor:pointer;transition:all 0.15s;white-space:nowrap}
 .filter-btn:hover{border-color:var(--accent);color:var(--accent-dark)}
 .filter-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
@@ -191,10 +193,13 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
   </div>
 </section>
 
-<div class="filters" id="filters">
+<div class="filters collapsed" id="filters">
   <div class="search-box">
     <input type="text" id="search" placeholder="Search events or venues...">
   </div>
+</div>
+<div style="max-width:var(--max-w);margin:0 auto;padding:0 24px 8px">
+  <button class="filters-toggle" id="filters-toggle">Show more</button>
 </div>
 <div class="filters" id="date-filters">
   <div class="date-picker">
@@ -472,6 +477,13 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
       visibleCount = EVENTS_PER_PAGE;
       applyFilters();
     }, 200);
+  });
+
+  // Category show more/less
+  document.getElementById('filters-toggle').addEventListener('click', function(){
+    const f = document.getElementById('filters');
+    const collapsed = f.classList.toggle('collapsed');
+    this.textContent = collapsed ? 'Show more' : 'Show less';
   });
 
   // Date clear
