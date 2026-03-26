@@ -79,6 +79,19 @@
     ]
   },
   {
+    "name": "52nd Street - Live Soul & Jazz",
+    "date": "2026-03-26",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/806152181892113/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
@@ -620,6 +633,19 @@
     "price": "Adults \u00a31 (before 8am \u00a33)"
   },
   {
+    "name": "Ibiza Anthems: 90's vs 00's",
+    "date": "2026-04-04",
+    "venue": "Under The Prom",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1416185520127881/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Easter Trail Hunt - Sunday 5th April",
     "date": "2026-04-05",
     "venue": "Dunkertons Cider",
@@ -850,6 +876,32 @@
     ]
   },
   {
+    "name": "Rock'n'Roll Record Hop",
+    "date": "2026-04-10",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/907797365481868/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
+    "name": "Rhythm and Blues Record Session",
+    "date": "2026-04-10",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1424772488600787/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham: Quantum Gong Bath,Guided Meditation+Light Language",
     "date": "2026-04-11",
     "venue": "The Isbourne - Holistic Wellbeing",
@@ -905,6 +957,19 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "The Swamp Stomp String Band",
+    "date": "2026-04-11",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/723472433938980/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
   },
   {
     "name": "Nurture & Nourish",
@@ -1966,6 +2031,19 @@
     "recurring": true,
     "time": "08:00-14:00",
     "price": "Adults \u00a31 (before 8am \u00a33)"
+  },
+  {
+    "name": "DYLAN NIGHT",
+    "date": "2026-05-23",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1527400061860481/",
+    "image": "",
+    "source": "facebook-page",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ]
   },
   {
     "name": "Southam Car Boot Sale",
