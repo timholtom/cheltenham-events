@@ -423,19 +423,6 @@
     "time": "11:00"
   },
   {
-    "name": "Weekly board game night",
-    "venue": "Bath Road Beers",
-    "date": "2026-03-30",
-    "categories": [
-      "games-night"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
-    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313730851/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "18:30"
-  },
-  {
     "name": "The Fantasy Book Club: March",
     "venue": "The Moon Under Water",
     "date": "2026-03-30",
@@ -911,19 +898,6 @@
     ],
     "image_position": "top",
     "time": "19:30"
-  },
-  {
-    "name": "Weekly board game night",
-    "venue": "Bath Road Beers",
-    "date": "2026-04-06",
-    "categories": [
-      "games-night"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
-    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313821659/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "18:30"
   },
   {
     "name": "Children's Painting Workshop \u2014 Easter Special",
@@ -1405,19 +1379,6 @@
     ],
     "image_position": "center 30%",
     "time": "19:30"
-  },
-  {
-    "name": "Weekly board game night",
-    "venue": "Bath Road Beers",
-    "date": "2026-04-13",
-    "categories": [
-      "games-night"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
-    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313930166/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "18:30"
   },
   {
     "name": "An Evening with Ian Botham",
@@ -2698,19 +2659,6 @@
     "time": "10:00"
   },
   {
-    "name": "Weekly board game night",
-    "venue": "Bath Road Beers",
-    "date": "2026-05-25",
-    "categories": [
-      "games-night"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
-    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/312976452/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "18:30"
-  },
-  {
     "name": "Howlers May \u2014 Fringe Special",
     "date": "2026-05-28",
     "venue": "Cheltenham Playhouse",
@@ -3898,5 +3846,19 @@
     "is_recurring": true,
     "recurrence_text": "Every Tuesday",
     "recurrence_end": "2026-12-31"
+  },
+  {
+    "name": "Weekly Board Game Night",
+    "venue": "Bath Road Beers",
+    "time": "18:30",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/",
+    "image": "https://secure.meetupstatic.com/photos/event/8/a/0/d/600_525388493.webp",
+    "source": "meetup",
+    "city": "Cheltenham",
+    "categories": [
+      "games-night"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Monday"
   }
 ]
