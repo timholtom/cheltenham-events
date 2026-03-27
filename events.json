@@ -4434,5 +4434,20 @@
     "time": "11:00",
     "is_recurring": true,
     "recurrence_text": "Every Saturday"
+  },
+  {
+    "name": "Open Mic Nights @ The All Inn",
+    "time": "19:30",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-04-01/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "live-music"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday",
+    "recurrence_end": "2026-12-31"
   }
 ]
