@@ -55,6 +55,9 @@ img{display:block;max-width:100%}
 .header-r a{color:var(--text-3);font-size:13px;font-weight:500}
 .header-r a:hover{color:var(--text);text-decoration:none}
 .newsletter-btn{background:var(--text);color:var(--bg);padding:8px 18px;border-radius:8px;font-size:12px;font-weight:700;font-family:var(--font-body);border:none;cursor:pointer;transition:opacity 0.15s;white-space:nowrap}
+.newsletter-btn .btn-label-full{display:inline}
+.newsletter-btn .btn-label-short{display:none}
+@media(max-width:600px){.newsletter-btn{padding:8px 13px}.newsletter-btn .btn-label-full{display:none}.newsletter-btn .btn-label-short{display:inline}}
 .newsletter-btn:hover{opacity:0.85;text-decoration:none}
 
 /* Hero */
@@ -221,7 +224,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     </div>
     <div class="header-r">
       <a href="#newsletter" class="hide-mobile">Newsletter</a>
-      <a href="submit.html" class="newsletter-btn">Submit an event</a>
+      <a href="submit.html" class="newsletter-btn"><span class="btn-label-full">Submit an event</span><span class="btn-label-short">+</span></a>
     </div>
   </div>
 </header>
