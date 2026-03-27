@@ -74,7 +74,7 @@ header{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad);display:flex
 
 /* Events grid */
 .events-section{max-width:var(--max-w);margin:0 auto;padding:0 var(--pad) 48px}
-.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;align-items:start}
+.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;grid-auto-rows:1fr}
 @media(min-width:900px){.events-grid{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:1200px){.events-grid{grid-template-columns:repeat(4,1fr)}}
 @media(min-width:1600px){.events-grid{grid-template-columns:repeat(5,1fr)}}
@@ -97,7 +97,7 @@ header{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad);display:flex
 .flip-back-btn{font-size:11px;font-weight:600;color:var(--text-3);background:none;border:none;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;gap:4px;padding:0;margin-top:4px}
 .flip-back-btn:hover{color:var(--accent-dark)}
 
-.event-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:border-color 0.15s,box-shadow 0.15s;cursor:pointer;display:flex;flex-direction:column}
+.event-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:border-color 0.15s,box-shadow 0.15s;cursor:pointer;display:flex;flex-direction:column;height:100%}
 .event-card:hover{border-color:oklch(80% 0.02 80);box-shadow:0 4px 16px oklch(0% 0 0 / 0.04)}
 .event-card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1}
 .event-img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:center 25%;background:var(--surface-2)}
@@ -302,6 +302,16 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     }catch(e){return dateStr}
   }
 
+  function formatTime(t){
+    if(!t) return '';
+    try{
+      const [h, m] = t.split(':').map(Number);
+      const ampm = h >= 12 ? 'pm' : 'am';
+      const h12 = h % 12 || 12;
+      return h12 + (m ? ':' + String(m).padStart(2,'0') : '') + ampm;
+    }catch(e){return t}
+  }
+
   function renderFilters(){
     const container = document.getElementById('filters');
     const searchBox = container.querySelector('.search-box');
@@ -480,9 +490,10 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
       
       const url = e.url || '#';
       const isRecurring = e.is_recurring && e.recurrence_text;
-      const dateDisplay = isRecurring 
-        ? '<div class="event-date">' + e.recurrence_text + '</div>'
-        : (dateFormatted ? '<div class="event-date">' + dateFormatted + '</div>' : '');
+      const timeStr = e.time ? formatTime(e.time) : '';
+      const dateDisplay = isRecurring
+        ? '<div class="event-date">' + e.recurrence_text + (timeStr ? ' &middot; ' + timeStr : '') + '</div>'
+        : (dateFormatted ? '<div class="event-date">' + dateFormatted + (timeStr ? ' &middot; ' + timeStr : '') + '</div>' : '');
       
       const hasSessions = e.sessions && e.sessions.length > 1;
 
