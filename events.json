@@ -45,6 +45,31 @@
     "image_position": "center 25%"
   },
   {
+    "name": "The Wizard of Oz",
+    "venue": "Cheltenham Playhouse",
+    "date": "2026-04-18",
+    "categories": [
+      "theatre",
+      "family"
+    ],
+    "image": "https://d1bry8u3byci8.cloudfront.net/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "source": "test",
+    "city": "Cheltenham",
+    "sessions": [
+      {
+        "time": "2:30 PM",
+        "label": "Matinee",
+        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
+      },
+      {
+        "time": "7:30 PM",
+        "label": "Evening",
+        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
+      }
+    ]
+  },
+  {
     "name": "Beginner Microsoft Copilot Training",
     "date": "2026-03-27",
     "venue": "Frogmore House, Cheltenham",
