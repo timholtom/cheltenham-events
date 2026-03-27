@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Submit an Event — Cheltenham Events</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--font-display:'Fraunces',serif;--font-body:'Plus Jakarta Sans',sans-serif;--bg:#fafaf9;--surface:#fff;--text:oklch(25% 0.02 260);--text-2:oklch(45% 0.02 260);--text-3:oklch(55% 0.02 260);--border:oklch(90% 0.01 260);--accent:oklch(55% 0.15 250);--accent-dark:oklch(45% 0.15 250);--max-w:720px;--danger:oklch(55% 0.2 25);--success:oklch(50% 0.15 145)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-body);background:var(--bg);color:var(--text);line-height:1.6;-webkit-font-smoothing:antialiased}
+header{position:sticky;top:0;z-index:50;background:var(--surface);border-bottom:1px solid var(--border);padding:14px 24px;display:flex;align-items:center;justify-content:space-between}
+.logo{font-family:var(--font-display);font-size:18px;font-weight:900;letter-spacing:-0.03em}
+.logo a{color:var(--text);text-decoration:none}
+.logo span{font-size:10px;font-weight:700;font-family:var(--font-body);background:var(--accent);color:#fff;padding:2px 6px;border-radius:4px;margin-left:6px;vertical-align:middle}
+.back-link{font-size:13px;color:var(--text-2);text-decoration:none;font-weight:600}
+.back-link:hover{color:var(--accent)}
+
+.form-wrap{max-width:var(--max-w);margin:0 auto;padding:40px 24px 80px}
+h1{font-family:var(--font-display);font-size:clamp(24px,3.5vw,32px);font-weight:900;letter-spacing:-0.03em;margin-bottom:8px}
+.subtitle{color:var(--text-2);font-size:14px;margin-bottom:32px;line-height:1.6}
+
+.rules{background:oklch(95% 0.02 250 / 0.5);border:1px solid oklch(90% 0.03 250);border-radius:12px;padding:20px 24px;margin-bottom:32px}
+.rules h3{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;color:var(--accent-dark);margin-bottom:10px}
+.rules ul{list-style:none;font-size:13px;color:var(--text-2)}
+.rules li{padding:3px 0;padding-left:18px;position:relative}
+.rules li::before{content:'';position:absolute;left:0;top:10px;width:6px;height:6px;background:var(--accent);border-radius:50%}
+
+.field{margin-bottom:24px}
+label{display:block;font-size:13px;font-weight:700;margin-bottom:6px;color:var(--text)}
+label .req{color:var(--danger);margin-left:2px}
+label .hint{font-weight:400;color:var(--text-3);margin-left:6px}
+input[type="text"],input[type="url"],input[type="date"],input[type="time"],textarea,select{width:100%;padding:12px 14px;font-size:14px;font-family:var(--font-body);border:1.5px solid var(--border);border-radius:10px;background:var(--surface);color:var(--text);outline:none;transition:border-color 0.15s}
+input:focus,textarea:focus,select:focus{border-color:var(--accent);box-shadow:0 0 0 3px oklch(55% 0.15 250 / 0.1)}
+textarea{min-height:80px;resize:vertical}
+select{cursor:pointer;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23999' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center}
+.char-count{font-size:11px;color:var(--text-3);text-align:right;margin-top:4px}
+.char-count.over{color:var(--danger);font-weight:600}
+
+.date-type-row{display:flex;gap:8px;margin-bottom:16px}
+.date-type-btn{flex:1;padding:10px;border:1.5px solid var(--border);border-radius:10px;background:var(--surface);font-size:13px;font-weight:600;font-family:var(--font-body);cursor:pointer;text-align:center;transition:all 0.15s;color:var(--text-2)}
+.date-type-btn.active{border-color:var(--accent);background:oklch(55% 0.15 250 / 0.08);color:var(--accent-dark)}
+.date-fields{display:none}
+.date-fields.visible{display:block}
+
+.recurring-options{margin-top:12px}
+.recurring-options label{font-weight:500;font-size:13px}
+.day-checks{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.day-check{padding:8px 14px;border:1.5px solid var(--border);border-radius:8px;font-size:12px;font-weight:600;cursor:pointer;transition:all 0.15s;user-select:none}
+.day-check.active{border-color:var(--accent);background:oklch(55% 0.15 250 / 0.08);color:var(--accent-dark)}
+
+.cat-grid{display:flex;flex-wrap:wrap;gap:8px}
+.cat-option{padding:8px 14px;border:1.5px solid var(--border);border-radius:8px;font-size:12px;font-weight:600;cursor:pointer;transition:all 0.15s;user-select:none}
+.cat-option.active{border-color:var(--accent);background:oklch(55% 0.15 250 / 0.08);color:var(--accent-dark)}
+
+.image-upload{border:2px dashed var(--border);border-radius:12px;padding:32px;text-align:center;cursor:pointer;transition:border-color 0.15s}
+.image-upload:hover{border-color:var(--accent)}
+.image-upload.has-preview{border-style:solid;border-color:var(--accent)}
+.image-upload p{font-size:13px;color:var(--text-3)}
+.image-upload .preview{max-width:100%;max-height:200px;border-radius:8px;margin-top:12px;display:none}
+.image-upload input{display:none}
+
+.error-msg{color:var(--danger);font-size:12px;font-weight:600;margin-top:4px;display:none}
+.field.has-error input,.field.has-error textarea,.field.has-error select{border-color:var(--danger)}
+.field.has-error .error-msg{display:block}
+
+.submit-btn{width:100%;padding:16px;font-size:15px;font-weight:700;font-family:var(--font-body);background:var(--text);color:var(--bg);border:none;border-radius:12px;cursor:pointer;transition:opacity 0.15s;margin-top:8px}
+.submit-btn:hover{opacity:0.85}
+.submit-btn:disabled{opacity:0.4;cursor:not-allowed}
+
+.success-msg{display:none;text-align:center;padding:48px 24px}
+.success-msg h2{font-family:var(--font-display);font-size:24px;margin-bottom:8px}
+.success-msg p{color:var(--text-2);font-size:14px}
+.success-msg .check{font-size:48px;margin-bottom:16px}
+
+.cheltenham-venues{font-size:12px;color:var(--text-3);margin-top:6px}
+
+@media(max-width:600px){
+  .form-wrap{padding:24px 16px 60px}
+  .date-type-row{flex-direction:column}
+  .rules{padding:16px 18px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo"><a href="index.html">Cheltenham Events</a> <span>beta</span></div>
+  <a href="index.html" class="back-link">Back to events</a>
+</header>
+
+<div class="form-wrap">
+  <h1>Submit an Event</h1>
+  <p class="subtitle">Add your event to our listing. Events are automatically published if they pass our validation rules.</p>
+
+  <div class="rules">
+    <h3>Submission Rules</h3>
+    <ul>
+      <li>Event must be in Cheltenham (GL50-GL54 postcodes)</li>
+      <li>Must have a specific venue or location in Cheltenham</li>
+      <li>Title must be the event name only (no venue, date, or "Cheltenham")</li>
+      <li>Link must go to a real event page (Eventbrite, venue website, Facebook event, etc.)</li>
+      <li>Image must be event-related (no logos, text-only graphics, or inappropriate content)</li>
+      <li>No duplicate events — check existing listings first</li>
+    </ul>
+  </div>
+
+  <form id="submit-form" novalidate>
+
+    <!-- Event Name -->
+    <div class="field" id="f-name">
+      <label>Event Name <span class="req">*</span> <span class="hint">Max 60 characters</span></label>
+      <input type="text" id="event-name" maxlength="60" placeholder="e.g. Jazz in the Park" required>
+      <div class="char-count"><span id="name-count">0</span>/60</div>
+      <div class="error-msg" id="err-name"></div>
+    </div>
+
+    <!-- Venue -->
+    <div class="field" id="f-venue">
+      <label>Venue / Location <span class="req">*</span></label>
+      <input type="text" id="event-venue" placeholder="e.g. Cheltenham Town Hall" required>
+      <div class="error-msg" id="err-venue"></div>
+      <div class="cheltenham-venues">Popular venues: Town Hall, Everyman Theatre, Cheltenham Playhouse, DEYA Brewery, Frog & Fiddle, The Suffolks, Imperial Gardens</div>
+    </div>
+
+    <!-- Category -->
+    <div class="field" id="f-cat">
+      <label>Category <span class="req">*</span></label>
+      <div class="cat-grid" id="cat-grid">
+        <div class="cat-option" data-cat="live-music">Live Music</div>
+        <div class="cat-option" data-cat="comedy">Comedy</div>
+        <div class="cat-option" data-cat="theatre">Theatre</div>
+        <div class="cat-option" data-cat="family">Family</div>
+        <div class="cat-option" data-cat="food-drink">Food & Drink</div>
+        <div class="cat-option" data-cat="sport-fitness">Sport & Fitness</div>
+        <div class="cat-option" data-cat="arts-culture">Arts & Culture</div>
+        <div class="cat-option" data-cat="wellbeing">Wellbeing</div>
+        <div class="cat-option" data-cat="business">Business</div>
+        <div class="cat-option" data-cat="markets">Markets</div>
+        <div class="cat-option" data-cat="pub-quiz">Pub Quiz</div>
+        <div class="cat-option" data-cat="games-night">Games Night</div>
+        <div class="cat-option" data-cat="other">Other</div>
+      </div>
+      <div class="error-msg" id="err-cat"></div>
+    </div>
+
+    <!-- Date Type -->
+    <div class="field" id="f-date">
+      <label>When <span class="req">*</span></label>
+      <div class="date-type-row">
+        <div class="date-type-btn active" data-type="single">One Day</div>
+        <div class="date-type-btn" data-type="multi">Multiple Days</div>
+        <div class="date-type-btn" data-type="recurring">Recurring</div>
+      </div>
+
+      <div class="date-fields visible" id="df-single">
+        <input type="date" id="date-single" required>
+        <div style="margin-top:8px;display:flex;gap:12px">
+          <div style="flex:1"><label class="hint" style="margin-bottom:4px">Start Time</label><input type="time" id="time-start"></div>
+          <div style="flex:1"><label class="hint" style="margin-bottom:4px">End Time</label><input type="time" id="time-end"></div>
+        </div>
+      </div>
+
+      <div class="date-fields" id="df-multi">
+        <div style="display:flex;gap:12px">
+          <div style="flex:1"><label class="hint" style="margin-bottom:4px">Start Date</label><input type="date" id="date-multi-start"></div>
+          <div style="flex:1"><label class="hint" style="margin-bottom:4px">End Date</label><input type="date" id="date-multi-end"></div>
+        </div>
+      </div>
+
+      <div class="date-fields" id="df-recurring">
+        <div class="recurring-options">
+          <label>Which days?</label>
+          <div class="day-checks" id="day-checks">
+            <div class="day-check" data-day="Monday">Mon</div>
+            <div class="day-check" data-day="Tuesday">Tue</div>
+            <div class="day-check" data-day="Wednesday">Wed</div>
+            <div class="day-check" data-day="Thursday">Thu</div>
+            <div class="day-check" data-day="Friday">Fri</div>
+            <div class="day-check" data-day="Saturday">Sat</div>
+            <div class="day-check" data-day="Sunday">Sun</div>
+          </div>
+          <div style="margin-top:12px">
+            <label class="hint" style="margin-bottom:4px">Recurrence text (e.g. "Every Tuesday", "First Saturday of month")</label>
+            <input type="text" id="recurrence-text" placeholder="Every Tuesday">
+          </div>
+        </div>
+      </div>
+      <div class="error-msg" id="err-date"></div>
+    </div>
+
+    <!-- Event Link -->
+    <div class="field" id="f-url">
+      <label>Event Link <span class="req">*</span> <span class="hint">Eventbrite, venue site, or Facebook event</span></label>
+      <input type="url" id="event-url" placeholder="https://..." required>
+      <div class="error-msg" id="err-url"></div>
+    </div>
+
+    <!-- Image URL -->
+    <div class="field" id="f-image">
+      <label>Event Image URL <span class="hint">Direct link to a landscape image (optional but recommended)</span></label>
+      <input type="url" id="event-image" placeholder="https://example.com/event-image.jpg">
+      <div id="image-preview" style="margin-top:8px;display:none"><img id="img-prev" style="max-width:100%;max-height:180px;border-radius:8px;border:1px solid var(--border)"></div>
+      <div class="error-msg" id="err-image"></div>
+    </div>
+
+    <!-- Description -->
+    <div class="field">
+      <label>Short Description <span class="hint">Max 200 characters (optional)</span></label>
+      <textarea id="event-desc" maxlength="200" placeholder="A brief description of the event..."></textarea>
+      <div class="char-count"><span id="desc-count">0</span>/200</div>
+    </div>
+
+    <!-- Submitter -->
+    <div class="field" id="f-email">
+      <label>Your Email <span class="req">*</span> <span class="hint">Not displayed publicly</span></label>
+      <input type="text" id="submitter-email" placeholder="you@example.com" required>
+      <div class="error-msg" id="err-email"></div>
+    </div>
+
+    <button type="submit" class="submit-btn" id="submit-btn">Submit Event</button>
+  </form>
+
+  <div class="success-msg" id="success">
+    <div class="check">&#10003;</div>
+    <h2>Event Submitted</h2>
+    <p>Your event has been received and will be published automatically if it meets our guidelines. Thank you for contributing to Cheltenham Events!</p>
+    <p style="margin-top:16px"><a href="index.html" style="color:var(--accent);font-weight:600">Back to events</a></p>
+  </div>
+</div>
+
+<script>
+// Blocked words for spam/inappropriate content
+const BLOCKED_WORDS = ['casino','gambling','porn','xxx','viagra','crypto','forex','mlm','pyramid','weight loss','diet pill','click here','free money','act now','limited time'];
+const BLOCKED_DOMAINS = ['bit.ly','tinyurl.com','t.co','goo.gl','rebrand.ly'];
+const ALLOWED_DOMAINS = ['eventbrite.co.uk','eventbrite.com','facebook.com','wegottickets.com','ticketsolve.com','cheltenhamtownhall.org.uk','everymantheatre.org.uk','cheltplayhouse.org.uk','theexmouth.co.uk','dunkertonscider.co.uk','deyabrewing.com','dodopubs.com','bacontheatre.co.uk','sandfordparkalehouse.co.uk','visitcheltenham.com','cheltenham.gov.uk'];
+const CHELTENHAM_TERMS = ['cheltenham','gl50','gl51','gl52','gl53','gl54','imperial gardens','pittville','montpellier','the promenade','suffolks','tivoli','leckhampton','charlton kings','prestbury','bishops cleeve','up hatherley','warden hill'];
+
+let selectedCat = '';
+let dateType = 'single';
+let selectedDays = new Set();
+
+// Category selection
+document.querySelectorAll('.cat-option').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.cat-option').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    selectedCat = btn.dataset.cat;
+    clearError('f-cat');
+  });
+});
+
+// Date type toggle
+document.querySelectorAll('.date-type-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.date-type-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    dateType = btn.dataset.type;
+    document.querySelectorAll('.date-fields').forEach(f => f.classList.remove('visible'));
+    document.getElementById('df-' + dateType).classList.add('visible');
+  });
+});
+
+// Recurring day selection
+document.querySelectorAll('.day-check').forEach(btn => {
+  btn.addEventListener('click', () => {
+    btn.classList.toggle('active');
+    if(btn.classList.contains('active')) selectedDays.add(btn.dataset.day);
+    else selectedDays.delete(btn.dataset.day);
+  });
+});
+
+// Character counters
+document.getElementById('event-name').addEventListener('input', function(){
+  const c = this.value.length;
+  const el = document.getElementById('name-count');
+  el.textContent = c;
+  el.parentElement.classList.toggle('over', c > 60);
+});
+document.getElementById('event-desc').addEventListener('input', function(){
+  const c = this.value.length;
+  const el = document.getElementById('desc-count');
+  el.textContent = c;
+  el.parentElement.classList.toggle('over', c > 200);
+});
+
+// Image preview
+document.getElementById('event-image').addEventListener('change', function(){
+  const url = this.value.trim();
+  const prev = document.getElementById('img-prev');
+  const wrap = document.getElementById('image-preview');
+  if(url && (url.startsWith('http://') || url.startsWith('https://'))){
+    prev.src = url;
+    prev.onload = () => { wrap.style.display = 'block'; clearError('f-image'); };
+    prev.onerror = () => { wrap.style.display = 'none'; setError('f-image','err-image','Image failed to load. Check the URL.'); };
+  } else {
+    wrap.style.display = 'none';
+  }
+});
+
+// Min date = today
+const today = new Date().toISOString().substring(0, 10);
+document.getElementById('date-single').min = today;
+document.getElementById('date-multi-start').min = today;
+document.getElementById('date-multi-end').min = today;
+
+function setError(fieldId, errId, msg){ 
+  document.getElementById(fieldId).classList.add('has-error'); 
+  document.getElementById(errId).textContent = msg; 
+}
+function clearError(fieldId){ 
+  document.getElementById(fieldId).classList.remove('has-error'); 
+}
+
+function validate(){
+  let valid = true;
+  // Clear all errors
+  document.querySelectorAll('.field').forEach(f => f.classList.remove('has-error'));
+
+  // Name
+  const name = document.getElementById('event-name').value.trim();
+  if(!name){ setError('f-name','err-name','Event name is required'); valid = false; }
+  else if(name.length < 3){ setError('f-name','err-name','Name is too short'); valid = false; }
+  else if(name.length > 60){ setError('f-name','err-name','Name must be 60 characters or less'); valid = false; }
+  else if(/cheltenham/i.test(name)){ setError('f-name','err-name','Don\'t include "Cheltenham" in the event name'); valid = false; }
+  else if(BLOCKED_WORDS.some(w => name.toLowerCase().includes(w))){ setError('f-name','err-name','Event name contains blocked content'); valid = false; }
+  else if(/\d{1,2}[\/-]\d{1,2}[\/-]\d{2,4}/.test(name)){ setError('f-name','err-name','Don\'t include dates in the event name'); valid = false; }
+
+  // Venue
+  const venue = document.getElementById('event-venue').value.trim();
+  if(!venue){ setError('f-venue','err-venue','Venue is required'); valid = false; }
+  else if(venue.length < 3){ setError('f-venue','err-venue','Venue name is too short'); valid = false; }
+  else if(BLOCKED_WORDS.some(w => venue.toLowerCase().includes(w))){ setError('f-venue','err-venue','Venue contains blocked content'); valid = false; }
+
+  // Category
+  if(!selectedCat){ setError('f-cat','err-cat','Please select a category'); valid = false; }
+
+  // Date
+  if(dateType === 'single'){
+    const d = document.getElementById('date-single').value;
+    if(!d){ setError('f-date','err-date','Please select a date'); valid = false; }
+    else if(d < today){ setError('f-date','err-date','Date must be today or in the future'); valid = false; }
+  } else if(dateType === 'multi'){
+    const ds = document.getElementById('date-multi-start').value;
+    const de = document.getElementById('date-multi-end').value;
+    if(!ds || !de){ setError('f-date','err-date','Please select start and end dates'); valid = false; }
+    else if(ds > de){ setError('f-date','err-date','End date must be after start date'); valid = false; }
+    else if(ds < today){ setError('f-date','err-date','Start date must be today or in the future'); valid = false; }
+  } else {
+    if(selectedDays.size === 0 && !document.getElementById('recurrence-text').value.trim()){ 
+      setError('f-date','err-date','Select recurring days or describe the pattern'); valid = false; 
+    }
+  }
+
+  // URL
+  const url = document.getElementById('event-url').value.trim();
+  if(!url){ setError('f-url','err-url','Event link is required'); valid = false; }
+  else {
+    try {
+      const u = new URL(url);
+      if(!['http:','https:'].includes(u.protocol)){ setError('f-url','err-url','Link must start with http:// or https://'); valid = false; }
+      else if(BLOCKED_DOMAINS.some(d => u.hostname.includes(d))){ setError('f-url','err-url','Shortened URLs are not allowed. Use the full event page link.'); valid = false; }
+    } catch(e){ setError('f-url','err-url','Please enter a valid URL'); valid = false; }
+  }
+
+  // Image (optional but validate if provided)
+  const img = document.getElementById('event-image').value.trim();
+  if(img){
+    try {
+      const u = new URL(img);
+      if(!['http:','https:'].includes(u.protocol)){ setError('f-image','err-image','Image URL must start with http:// or https://'); valid = false; }
+    } catch(e){ setError('f-image','err-image','Please enter a valid image URL'); valid = false; }
+  }
+
+  // Email
+  const email = document.getElementById('submitter-email').value.trim();
+  if(!email){ setError('f-email','err-email','Email is required'); valid = false; }
+  else if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){ setError('f-email','err-email','Please enter a valid email'); valid = false; }
+
+  return valid;
+}
+
+// Form submit
+document.getElementById('submit-form').addEventListener('submit', async function(ev){
+  ev.preventDefault();
+  if(!validate()) return;
+
+  const btn = document.getElementById('submit-btn');
+  btn.disabled = true;
+  btn.textContent = 'Submitting...';
+
+  const data = {
+    name: document.getElementById('event-name').value.trim(),
+    venue: document.getElementById('event-venue').value.trim(),
+    category: selectedCat,
+    dateType: dateType,
+    url: document.getElementById('event-url').value.trim(),
+    image: document.getElementById('event-image').value.trim(),
+    description: document.getElementById('event-desc').value.trim(),
+    email: document.getElementById('submitter-email').value.trim(),
+    submitted: new Date().toISOString()
+  };
+
+  if(dateType === 'single'){
+    data.date = document.getElementById('date-single').value;
+    data.timeStart = document.getElementById('time-start').value;
+    data.timeEnd = document.getElementById('time-end').value;
+  } else if(dateType === 'multi'){
+    data.dateStart = document.getElementById('date-multi-start').value;
+    data.dateEnd = document.getElementById('date-multi-end').value;
+  } else {
+    data.recurringDays = [...selectedDays];
+    data.recurrenceText = document.getElementById('recurrence-text').value.trim();
+  }
+
+  try {
+    const resp = await fetch('https://formspree.io/f/xpwzjqkr', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+      body: JSON.stringify(data)
+    });
+    if(resp.ok){
+      document.getElementById('submit-form').style.display = 'none';
+      document.querySelector('.rules').style.display = 'none';
+      document.getElementById('success').style.display = 'block';
+    } else {
+      btn.disabled = false;
+      btn.textContent = 'Submit Event';
+      alert('Something went wrong. Please try again.');
+    }
+  } catch(e){
+    btn.disabled = false;
+    btn.textContent = 'Submit Event';
+    alert('Network error. Please check your connection and try again.');
+  }
+});
+</script>
+</body>
+</html>
