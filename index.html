@@ -97,7 +97,9 @@ img{display:block;max-width:100%}
 .session-btn .sess-time{font-size:12px;font-weight:700;color:var(--text)}
 .session-btn .sess-label{font-size:11px;color:var(--text-3)}
 .session-btn .sess-arrow{font-size:14px;color:var(--text-3);flex-shrink:0}
-.sessions-badge{position:absolute;top:8px;left:8px;background:rgba(0,0,0,0.65);color:#fff;font-size:10px;font-weight:700;padding:3px 8px;border-radius:4px;letter-spacing:0.04em;backdrop-filter:blur(4px)}
+.session-times{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px}
+.session-time-pill{display:inline-flex;align-items:center;gap:4px;padding:3px 10px;border:1.5px solid var(--accent);border-radius:20px;font-size:11px;font-weight:700;color:var(--accent-dark);background:var(--accent-light)}
+.session-time-label{font-weight:400;color:var(--text-3);font-size:10px}
 .flip-back-btn{font-size:11px;font-weight:600;color:var(--text-3);background:none;border:none;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;gap:4px;padding:0;margin-top:4px}
 .flip-back-btn:hover{color:var(--accent-dark)}
 
@@ -519,12 +521,18 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
       
       const hasSessions = e.sessions && e.sessions.length > 1;
 
+      const sessionTimesHtml = hasSessions
+        ? '<div class="session-times">' + e.sessions.map(s =>
+            '<span class="session-time-pill">' + s.time + (s.label ? ' <span class="session-time-label">' + s.label + '</span>' : '') + '</span>'
+          ).join('') + '</div>'
+        : '';
+
       const frontHtml = '<a ' + (hasSessions ? '' : 'href="' + url + '" target="_blank" rel="noopener"') + '>' +
         imgHtml +
-        (hasSessions ? '<span class="sessions-badge">' + e.sessions.length + ' times</span>' : '') +
         '<div class="event-body">' +
-          dateDisplay +
+          (hasSessions ? '<div class="event-date">' + dateFormatted + '</div>' : dateDisplay) +
           '<div class="event-name">' + e.name + '</div>' +
+          sessionTimesHtml +
           (e.venue ? '<div class="event-venue">' + e.venue + '</div>' : '') +
           (cats ? '<div class="event-tags">' + cats + '</div>' : '') +
         '</div>' +
