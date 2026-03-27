@@ -80,9 +80,9 @@ img{display:block;max-width:100%}
 @media(min-width:1200px){.events-grid{grid-template-columns:repeat(4,1fr)}}
 @media(min-width:1600px){.events-grid{grid-template-columns:repeat(5,1fr)}}
 /* Card flip */
-.card-flip-container{perspective:1000px;height:100%}
+.card-flip-container{perspective:1000px;height:100%;min-height:280px}
 .card-flip-container.has-sessions{cursor:pointer}
-.card-inner{position:relative;width:100%;height:100%;transform-style:preserve-3d;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1)}
+.card-inner{position:relative;width:100%;height:100%;min-height:280px;transform-style:preserve-3d;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1)}
 .card-flip-container.flipped .card-inner{transform:rotateY(180deg)}
 .card-front,.card-back{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:var(--radius);overflow:hidden}
 .card-back{transform:rotateY(180deg);background:var(--surface);border:1px solid var(--accent);display:flex;flex-direction:column;padding:20px;gap:12px}
@@ -307,10 +307,27 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   function formatTime(t){
     if(!t) return '';
     try{
-      const [h, m] = t.split(':').map(Number);
-      const ampm = h >= 12 ? 'pm' : 'am';
-      const h12 = h % 12 || 12;
-      return h12 + (m ? ':' + String(m).padStart(2,'0') : '') + ampm;
+      // Handle "7:30pm", "07:00 PM", "7.30pm", "19:00" etc.
+      const clean = String(t).trim();
+      const m12 = clean.match(/^(\d{1,2})[.:](\d{2})\s*(am|pm)/i);
+      if(m12){
+        let h = parseInt(m12[1]), mn = parseInt(m12[2]);
+        const isPm = m12[3].toLowerCase() === 'pm';
+        if(isPm && h < 12) h += 12;
+        if(!isPm && h === 12) h = 0;
+        const ampm = h >= 12 ? 'pm' : 'am';
+        const h12 = h % 12 || 12;
+        return h12 + ':' + String(mn).padStart(2,'0') + ampm;
+      }
+      // Handle "HH:MM" 24h
+      const m24 = clean.match(/^(\d{1,2}):(\d{2})$/);
+      if(m24){
+        const h = parseInt(m24[1]), mn = parseInt(m24[2]);
+        const ampm = h >= 12 ? 'pm' : 'am';
+        const h12 = h % 12 || 12;
+        return h12 + ':' + String(mn).padStart(2,'0') + ampm;
+      }
+      return clean;
     }catch(e){return t}
   }
 
