@@ -62,8 +62,8 @@ img{display:block;max-width:100%}
 .hero{position:relative;max-width:var(--max-w);margin:0 auto;padding:56px var(--pad) 120px;text-align:left;z-index:1}
 .hero h1{font-family:var(--font-display);font-size:clamp(28px,4.5vw,44px);font-weight:900;line-height:1.1;letter-spacing:-0.03em;margin-bottom:8px;color:var(--text)}
 .hero p{color:var(--text-2);font-size:15px;max-width:480px;line-height:1.6}
-/* Leaf shadow video — sits below hero text, fades into card grid */
-.hero-leaves{position:absolute;left:0;right:0;bottom:-80px;width:100%;height:320px;object-fit:cover;object-position:top;mix-blend-mode:multiply;pointer-events:none;z-index:0;-webkit-mask-image:linear-gradient(to bottom,transparent 0%,black 25%,black 65%,transparent 100%);mask-image:linear-gradient(to bottom,transparent 0%,black 25%,black 65%,transparent 100%);opacity:0.6}
+/* Leaf shadow video — full hero coverage, fades out at bottom */
+.hero-leaves{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top;mix-blend-mode:multiply;pointer-events:none;z-index:0;-webkit-mask-image:linear-gradient(to bottom,black 60%,transparent 100%);mask-image:linear-gradient(to bottom,black 60%,transparent 100%);opacity:0.6}
 
 
 /* Filters */
@@ -227,11 +227,11 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
 
 <div class="hero-wrap">
   <div class="hero-bg"></div>
+  <video class="hero-leaves" src="leaves.mp4" autoplay loop muted playsinline></video>
   <section class="hero">
     <h1>What's on in Cheltenham</h1>
     <p>Live music, comedy, theatre, food, markets and more. Everything happening in and around Cheltenham, in one place.</p>
   </section>
-  <video class="hero-leaves" src="leaves.mp4" autoplay loop muted playsinline></video>
 </div>
 
 
