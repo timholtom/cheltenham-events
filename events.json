@@ -1,7 +1,7 @@
 [
   {
     "name": "Late Sketch Club",
-    "date": "",
+    "date": "2026-04-08",
     "date_text": "",
     "venue": "DEYA Brewery",
     "city": "Cheltenham",
@@ -16,24 +16,8 @@
     "time": "19:00"
   },
   {
-    "name": "The Real CSI: More Than Just What You See on TV",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-7fc859e8-de88-460e-bb7c-c8837722133e",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/a5e1ca14-00ab-4d93-8909-39b9817f6de0/TAPPED-IN-500-X-500-.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
     "name": "Jazz Launch Night",
-    "date": "",
+    "date": "2026-04-30",
     "date_text": "",
     "venue": "DEYA Brewery",
     "city": "Cheltenham",
@@ -49,7 +33,7 @@
   },
   {
     "name": "What the Croc!?!? Quiz",
-    "date": "",
+    "date": "2026-05-07",
     "date_text": "",
     "venue": "DEYA Brewery",
     "city": "Cheltenham",
@@ -59,38 +43,6 @@
     "categories": [
       "food-drink",
       "pub-quiz"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Fire Feast from Ubuntu Food",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-331a33f3-151d-4fb2-a67f-252dc80ed64d",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/cd6f3019-033e-41bd-96c3-a7c1dee23c7b/UBUNTU-EVENT-500-X-500-.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center",
-    "time": "19:00"
-  },
-  {
-    "name": "Spanish Specials - Brewery Tour and Tasting",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-345b5b21-be04-4876-b882-9fd02548c88a",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/e22e246f-50b0-471d-b954-dffd502ff53c/SPANISH-BREWERY-TOUR.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
     ],
     "on_sale": true,
     "image_position": "center 25%",
@@ -146,7 +98,7 @@
   },
   {
     "name": "Tweedy's Massive Circus",
-    "date": "",
+    "date": "2026-04-23",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
@@ -164,7 +116,7 @@
   },
   {
     "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
-    "date": "",
+    "date": "2026-07-31",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
@@ -180,7 +132,6 @@
   },
   {
     "name": "Games Night",
-    "date": "",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
@@ -192,11 +143,12 @@
     "on_sale": true,
     "price": "",
     "image_position": "center 25%",
-    "time": "11:00"
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Monday"
   },
   {
     "name": "Taco Tuesday",
-    "date": "",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
@@ -208,11 +160,12 @@
     "on_sale": true,
     "price": "",
     "image_position": "center 25%",
-    "time": "11:00"
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday"
   },
   {
     "name": "Funky Pants Music & Dance Parties",
-    "date": "",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
@@ -225,11 +178,13 @@
     "on_sale": true,
     "price": "\u00a38.50",
     "image_position": "center 25%",
-    "time": "11:00"
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday"
   },
   {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
-    "date": "",
+    "date": "2026-04-02",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
     "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
