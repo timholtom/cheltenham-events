@@ -185,6 +185,10 @@ select{cursor:pointer;appearance:none;background-image:url("data:image/svg+xml,%
             <label class="hint" style="margin-bottom:4px">Recurrence text (e.g. "Every Tuesday", "First Saturday of month")</label>
             <input type="text" id="recurrence-text" placeholder="Every Tuesday">
           </div>
+          <div style="margin-top:12px">
+            <label class="hint" style="margin-bottom:4px">End date (when does this recurring event stop?)</label>
+            <input type="date" id="recurrence-end">
+          </div>
         </div>
       </div>
       <div class="error-msg" id="err-date"></div>
@@ -412,6 +416,7 @@ document.getElementById('submit-form').addEventListener('submit', async function
   } else {
     data.recurringDays = [...selectedDays];
     data.recurrenceText = document.getElementById('recurrence-text').value.trim();
+    data.recurrenceEnd = document.getElementById('recurrence-end').value;
   }
 
   try {

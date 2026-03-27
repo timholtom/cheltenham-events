@@ -389,6 +389,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid va
     filteredEvents = allEvents.filter(e => {
       // Hide past events (unless recurring)
       if(!e.is_recurring && e.date && e.date < today) return false;
+      if(e.is_recurring && e.recurrence_end && e.recurrence_end < today) return false;
       if(selectedCategories.size > 0 && !(e.categories||[]).some(c => selectedCategories.has(c))) return false;
       if(q){
         const name = (e.name||'').toLowerCase();
