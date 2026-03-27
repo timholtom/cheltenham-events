@@ -276,7 +276,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   const EVENTS_PER_PAGE = 24;
   let allEvents = [];
   let filteredEvents = [];
-  let selectedCategories = new Set();
+  let selectedCategory = '';
   let currentSearch = '';
 
   let selectedDates = new Set();
@@ -358,13 +358,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
         ev.preventDefault();
         ev.stopPropagation();
         const id = this.dataset.cat;
-        if(id === 'all'){
-          selectedCategories.clear();
-        } else if(selectedCategories.has(id)){
-          selectedCategories.delete(id);
-        } else {
-          if(selectedCategories.size < 3) selectedCategories.add(id);
-        }
+        selectedCategory = (id === 'all' || id === selectedCategory) ? '' : id;
         visibleCount = EVENTS_PER_PAGE;
         updateCategoryChips();
         applyFilters();
@@ -376,11 +370,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   function updateCategoryChips(){
     document.querySelectorAll('.filter-btn').forEach(btn => {
       const id = btn.dataset.cat;
-      if(id === 'all'){
-        btn.classList.toggle('active', selectedCategories.size === 0);
-      } else {
-        btn.classList.toggle('active', selectedCategories.has(id));
-      }
+      btn.classList.toggle('active', id === 'all' ? selectedCategory === '' : id === selectedCategory);
     });
 
   }
@@ -448,7 +438,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
       // Hide past events (unless recurring)
       if(!e.is_recurring && e.date && e.date < today) return false;
       if(e.is_recurring && e.recurrence_end && e.recurrence_end < today) return false;
-      if(selectedCategories.size > 0 && !(e.categories||[]).some(c => selectedCategories.has(c))) return false;
+      if(selectedCategory && !(e.categories||[]).includes(selectedCategory)) return false;
       if(q){
         const name = (e.name||'').toLowerCase();
         const venue = (e.venue||'').toLowerCase();
