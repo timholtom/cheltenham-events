@@ -1,20 +1,233 @@
 [
   {
-    "name": "Cheltenham Observation Wheel",
-    "date": "2026-03-26",
-    "venue": "Imperial Gardens",
+    "name": "Late Sketch Club",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
     "city": "Cheltenham",
-    "url": "https://observationwheelhire.co.uk/",
-    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
-    "source": "visitcheltenham",
-    "on_sale": false,
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/7ee3dc2c-29d6-42db-b33e-ee967796cff0/Late-Sketch-Club-compressed.jpg",
+    "source": "deya",
     "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "The Real CSI: More Than Just What You See on TV",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events#calendar-7fc859e8-de88-460e-bb7c-c8837722133e",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/a5e1ca14-00ab-4d93-8909-39b9817f6de0/TAPPED-IN-500-X-500-.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Jazz Launch Night",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events#calendar-f2864998-c629-4e94-9948-cb3ee8e5cd26",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/40120937-3e95-49d6-b2e3-99532fe0384c/JAZZ-FEST-500X500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "What the Croc!?!? Quiz",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events#calendar-d8056380-0c4e-4855-acd0-03f81302272a",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/97e65f3b-8ece-435b-aa42-48d1ada93536/QUIZ-500-X-500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink",
+      "pub-quiz"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Fire Feast from Ubuntu Food",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events#calendar-331a33f3-151d-4fb2-a67f-252dc80ed64d",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/cd6f3019-033e-41bd-96c3-a7c1dee23c7b/UBUNTU-EVENT-500-X-500-.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Spanish Specials - Brewery Tour and Tasting",
+    "date": "",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events#calendar-345b5b21-be04-4876-b882-9fd02548c88a",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/e22e246f-50b0-471d-b954-dffd502ff53c/SPANISH-BREWERY-TOUR.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Join Brush Party to Paint 'Summer of Love'",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 7:00\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/772091683187206/events",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Floating Sound Bath",
+    "date": "",
+    "date_text": "Thu, Mar 26 at 7:30\u202fPM GMT",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/1348499245566661/events",
+    "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "categories": [
+      "wellbeing"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "St. Fian \u2014 Live at Caf\u00e9 Ren\u00e9",
+    "date": "",
+    "date_text": "Wed, Mar 25",
+    "venue": "",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/groups/1348499245566661/events",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=340&fit=crop",
+    "source": "facebook",
+    "categories": [
+      "live-music"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Tweedy's Massive Circus",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/Tile_1080x1350_5ed83f69-b8d0-40d3-ba57-3e5ecf1e2028_1200x1200.jpg?v=1769154456",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": "\u00a329.00",
+    "image_position": "center 25%"
+  },
+  {
+    "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
+    "source": "dunkertons",
+    "categories": [
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "\u00a315.00",
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Games Night",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
+    "source": "dunkertons",
+    "categories": [
+      "games-night"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Taco Tuesday",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
+    "source": "dunkertons",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Funky Pants Music & Dance Parties",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
+    "source": "dunkertons",
+    "categories": [
+      "live-music",
       "family"
     ],
-    "is_recurring": true,
-    "recurrence_text": "Open daily",
-    "image_position": "center",
-    "recurrence_end": "2026-09-30"
+    "on_sale": true,
+    "price": "\u00a38.50",
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
+    "date": "",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/bunny_tile_1200x1200.png?v=1773672426",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre"
+    ],
+    "on_sale": true,
+    "price": "\u00a312.00",
+    "image_position": "center 25%"
   },
   {
     "name": "Comedy Huddle",
@@ -43,31 +256,6 @@
       "theatre"
     ],
     "image_position": "center 25%"
-  },
-  {
-    "name": "The Wizard of Oz",
-    "venue": "Cheltenham Playhouse",
-    "date": "2026-04-18",
-    "categories": [
-      "theatre",
-      "family"
-    ],
-    "image": "https://d1bry8u3byci8.cloudfront.net/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
-    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
-    "source": "test",
-    "city": "Cheltenham",
-    "sessions": [
-      {
-        "time": "2:30 PM",
-        "label": "Matinee",
-        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
-      },
-      {
-        "time": "7:30 PM",
-        "label": "Evening",
-        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
-      }
-    ]
   },
   {
     "name": "Beginner Microsoft Copilot Training",
@@ -170,39 +358,6 @@
     "image_position": "center 30%"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-03-27",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "markets",
-      "food-drink"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every 2nd & Last Friday",
-    "image_position": "center"
-  },
-  {
-    "name": "Dough & Groove",
-    "date": "2026-03-27",
-    "venue": "Smokey Joe's",
-    "city": "Cheltenham",
-    "url": "http://www.japes.uk/",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Last Thursday",
-    "image_position": "center 25%"
-  },
-  {
     "name": "Mikado Mayhem",
     "date": "2026-03-27",
     "venue": "Cheltenham Playhouse",
@@ -274,6 +429,18 @@
     "image_position": "center 30%"
   },
   {
+    "name": "In-person meetup on Autonomous AI: from War to Cyber Defense",
+    "venue": "Hub8 MX",
+    "date": "2026-03-27",
+    "categories": [
+      "business"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/532960098/676x380.jpg",
+    "url": "https://www.meetup.com/cheltenham-data-science-machine-learning-and-ai-meetup/events/313576378/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -317,40 +484,6 @@
       "food-drink"
     ],
     "image_position": "center 25%"
-  },
-  {
-    "name": "Cheltenham parkrun",
-    "date": "2026-03-28",
-    "venue": "Pittville Park",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham/",
-    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "sport-fitness"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Saturday",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Southam Car Boot Sale",
-    "date": "2026-03-28",
-    "venue": "Southam Lane, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.bootsrus.co.uk/",
-    "image": "https://static.wixstatic.com/media/cd6504_ecfeff61c1024d7c829b1f521e7018ac~mv2.jpg",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "markets"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
   },
   {
     "name": "Josh Widdicombe",
@@ -439,74 +572,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Cheltenham Junior parkrun",
-    "date": "2026-03-29",
-    "venue": "The Park, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
-    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "sport-fitness",
-      "family"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Sunday",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-29",
-    "venue": "The Exmouth Arms",
-    "city": "Cheltenham",
-    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
-    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
-    "source": "exmouth",
-    "on_sale": false,
-    "categories": [
-      "pub-quiz"
-    ],
-    "recurrence_text": "Every Sunday",
-    "is_recurring": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Dunkertons Run Club",
-    "date": "2026-03-29",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
-    "source": "dunkertons",
-    "categories": [
-      "sport-fitness"
-    ],
-    "on_sale": true,
-    "price": "",
-    "is_recurring": true,
-    "recurrence_text": "Every Sunday",
-    "image_position": "center"
-  },
-  {
-    "name": "Cheltenham Car Boot",
-    "date": "2026-03-29",
-    "venue": "Cheltenham Car Boot Site",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamcarboot.co.uk/",
-    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "markets"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
-  },
-  {
     "name": "Jason Fox: Embrace the Chaos",
     "date": "2026-03-29",
     "venue": "Cheltenham Town Hall",
@@ -519,6 +584,30 @@
       "comedy"
     ],
     "image_position": "top"
+  },
+  {
+    "name": "Writing Meetup and Social",
+    "venue": "The Wilson, Cheltenham Art Gallery & Museum",
+    "date": "2026-03-29",
+    "categories": [
+      "arts-culture"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/527207909/676x380.jpg",
+    "url": "https://www.meetup.com/shutupandwritecheltenham/events/313507992/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
+    "name": "Monthly Breakfast: The Moon Under Water, Cheltenham",
+    "venue": "The Moon Under Water",
+    "date": "2026-03-29",
+    "categories": [
+      "food-drink"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/476052097/676x380.jpg",
+    "url": "https://www.meetup.com/gloucestershire-humanists/events/313586842/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "Over 30s Dating Night",
@@ -534,6 +623,30 @@
     "on_sale": true,
     "price": "\u00a37.50",
     "image_position": "center 25%"
+  },
+  {
+    "name": "Weekly board game night",
+    "venue": "Bath Road Beers",
+    "date": "2026-03-30",
+    "categories": [
+      "games-night"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313730851/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
+    "name": "The Fantasy Book Club: March",
+    "venue": "The Moon Under Water",
+    "date": "2026-03-30",
+    "categories": [
+      "arts-culture"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/533105703/676x380.jpg",
+    "url": "https://www.meetup.com/meetup-group-qcvqxvdu/events/313746793/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
@@ -577,39 +690,6 @@
     "categories": [
       "business"
     ],
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-03-31",
-    "venue": "The Airs & Graces",
-    "city": "Cheltenham",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
-    "source": "dodo-pubs",
-    "on_sale": false,
-    "categories": [
-      "pub-quiz"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-31",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
-    "source": "dunkertons",
-    "categories": [
-      "pub-quiz"
-    ],
-    "on_sale": true,
-    "price": "\u00a312.00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
     "image_position": "center 25%"
   },
   {
@@ -732,6 +812,18 @@
     "image_position": "top"
   },
   {
+    "name": "Wilson Nights: The Joy of Making",
+    "venue": "The Wilson, Cheltenham Art Gallery & Museum",
+    "date": "2026-04-01",
+    "categories": [
+      "arts-culture"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/533351202/676x380.jpg",
+    "url": "https://www.meetup.com/shutupandwritecheltenham/events/313914633/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
@@ -758,6 +850,18 @@
       "theatre"
     ],
     "image_position": "center 25%"
+  },
+  {
+    "name": "Sea Shanty Session",
+    "venue": "Emmanuel Church",
+    "date": "2026-04-02",
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531311971/676x380.jpg",
+    "url": "https://www.meetup.com/cheltenham-shanty-singers/events/313799741/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "Spring Trail",
@@ -964,6 +1068,18 @@
     "image_position": "top"
   },
   {
+    "name": "Weekly board game night",
+    "venue": "Bath Road Beers",
+    "date": "2026-04-06",
+    "categories": [
+      "games-night"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313821659/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "Children's Painting Workshop \u2014 Easter Special",
     "date": "2026-04-07",
     "venue": "Dunkertons Cider",
@@ -1007,6 +1123,18 @@
       "theatre"
     ],
     "image_position": "top"
+  },
+  {
+    "name": "Toastmasters - Improve your public speaking!",
+    "venue": "The Exmouth Arms",
+    "date": "2026-04-07",
+    "categories": [
+      "business"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/520758919/676x380.jpg",
+    "url": "https://www.meetup.com/cheltenham-speaking-practice-club/events/313759033/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "DWAEC Present: The Incredible Animal Show",
@@ -1137,6 +1265,18 @@
       "comedy"
     ],
     "image_position": "top"
+  },
+  {
+    "name": "Sea Shanty Session",
+    "venue": "Emmanuel Church",
+    "date": "2026-04-09",
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531311971/676x380.jpg",
+    "url": "https://www.meetup.com/cheltenham-shanty-singers/events/313872734/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "Spring Session",
@@ -1323,6 +1463,18 @@
     "image_position": "center 30%"
   },
   {
+    "name": "Saturday stroll around Pittville Park",
+    "venue": "Waitrose bridge",
+    "date": "2026-04-11",
+    "categories": [
+      "sport-fitness"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/533309743/676x380.jpg",
+    "url": "https://www.meetup.com/friends-irl-cheltenham-womens-social-30/events/313886359/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -1349,6 +1501,18 @@
       "live-music"
     ],
     "image_position": "center 30%"
+  },
+  {
+    "name": "Weekly board game night",
+    "venue": "Bath Road Beers",
+    "date": "2026-04-13",
+    "categories": [
+      "games-night"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/313930166/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "An Evening with Ian Botham",
@@ -1582,6 +1746,31 @@
     "image_position": "center 30%"
   },
   {
+    "name": "The Wizard of Oz",
+    "venue": "Cheltenham Playhouse",
+    "date": "2026-04-18",
+    "categories": [
+      "theatre",
+      "family"
+    ],
+    "image": "https://d1bry8u3byci8.cloudfront.net/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
+    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
+    "source": "test",
+    "city": "Cheltenham",
+    "sessions": [
+      {
+        "time": "2:30 PM",
+        "label": "Matinee",
+        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
+      },
+      {
+        "time": "7:30 PM",
+        "label": "Evening",
+        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
+      }
+    ]
+  },
+  {
     "name": "Lanc\u00f4me Skin & Makeup Masterclass",
     "date": "2026-04-18",
     "venue": "John Lewis Cheltenham",
@@ -1666,6 +1855,18 @@
       "live-music"
     ],
     "image_position": "top"
+  },
+  {
+    "name": "The Alchemist Social",
+    "venue": "The Alchemist",
+    "date": "2026-04-18",
+    "categories": [
+      "food-drink"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/532760421/676x380.jpg",
+    "url": "https://www.meetup.com/cheers-and-chats/events/313374677/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "For the Love of Rugby",
@@ -2008,6 +2209,18 @@
       "live-music"
     ],
     "image_position": "center"
+  },
+  {
+    "name": "James Morrison at Cheltenham Jazz Festival.",
+    "venue": "Cheltenham",
+    "date": "2026-04-29",
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/533030502/676x380.jpg",
+    "url": "https://www.meetup.com/scrambled-legs-a-pint/events/313631206/",
+    "source": "meetup",
+    "city": "Cheltenham"
   },
   {
     "name": "Pay Day Sessions",
@@ -2466,6 +2679,18 @@
     "image_position": "center"
   },
   {
+    "name": "Weekly board game night",
+    "venue": "Bath Road Beers",
+    "date": "2026-05-25",
+    "categories": [
+      "games-night"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/531550717/676x380.jpg",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/events/312976452/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "Howlers May \u2014 Fringe Special",
     "date": "2026-05-28",
     "venue": "Cheltenham Playhouse",
@@ -2892,6 +3117,18 @@
     "image_position": "center 25%"
   },
   {
+    "name": "SkyGlow Music Festival Cheltenham Racecourse",
+    "venue": "Cheltenham Racecourse",
+    "date": "2026-07-11",
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://secure-content.meetupstatic.com/images/classic-events/532981788/676x380.jpg",
+    "url": "https://www.meetup.com/cheers-and-chats/events/313587688/",
+    "source": "meetup",
+    "city": "Cheltenham"
+  },
+  {
     "name": "The Addams Family",
     "date": "2026-07-12",
     "venue": "Cheltenham Playhouse",
@@ -3304,233 +3541,188 @@
     "image_position": "center"
   },
   {
-    "name": "Late Sketch Club",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
+    "name": "Cheltenham Observation Wheel",
+    "date": "2026-03-26",
+    "venue": "Imperial Gardens",
     "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/7ee3dc2c-29d6-42db-b33e-ee967796cff0/Late-Sketch-Club-compressed.jpg",
-    "source": "deya",
+    "url": "https://observationwheelhire.co.uk/",
+    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
     "categories": [
-      "food-drink"
+      "family"
     ],
-    "on_sale": true,
-    "image_position": "center 25%"
+    "is_recurring": true,
+    "recurrence_text": "Open daily",
+    "image_position": "center",
+    "recurrence_end": "2026-09-30"
   },
   {
-    "name": "The Real CSI: More Than Just What You See on TV",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
+    "name": "Cheltenham Farmers Market",
+    "date": "2026-03-27",
+    "venue": "The Promenade",
     "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-7fc859e8-de88-460e-bb7c-c8837722133e",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/a5e1ca14-00ab-4d93-8909-39b9817f6de0/TAPPED-IN-500-X-500-.png",
-    "source": "deya",
+    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
+    "source": "visitcheltenham",
+    "on_sale": false,
     "categories": [
+      "markets",
       "food-drink"
     ],
-    "on_sale": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Jazz Launch Night",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-f2864998-c629-4e94-9948-cb3ee8e5cd26",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/40120937-3e95-49d6-b2e3-99532fe0384c/JAZZ-FEST-500X500.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "What the Croc!?!? Quiz",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-d8056380-0c4e-4855-acd0-03f81302272a",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/97e65f3b-8ece-435b-aa42-48d1ada93536/QUIZ-500-X-500.png",
-    "source": "deya",
-    "categories": [
-      "food-drink",
-      "pub-quiz"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Fire Feast from Ubuntu Food",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-331a33f3-151d-4fb2-a67f-252dc80ed64d",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/cd6f3019-033e-41bd-96c3-a7c1dee23c7b/UBUNTU-EVENT-500-X-500-.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
+    "is_recurring": true,
+    "recurrence_text": "Every 2nd & Last Friday",
     "image_position": "center"
   },
   {
-    "name": "Spanish Specials - Brewery Tour and Tasting",
-    "date": "",
-    "date_text": "",
-    "venue": "DEYA Brewery",
+    "name": "Dough & Groove",
+    "date": "2026-03-27",
+    "venue": "Smokey Joe's",
     "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events#calendar-345b5b21-be04-4876-b882-9fd02548c88a",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/e22e246f-50b0-471d-b954-dffd502ff53c/SPANISH-BREWERY-TOUR.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Join Brush Party to Paint 'Summer of Love'",
-    "date": "",
-    "date_text": "Thu, Mar 26 at 7:00\u202fPM GMT",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/772091683187206/events",
-    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600&h=340&fit=crop",
-    "source": "facebook",
-    "categories": [
-      "arts-culture"
-    ],
+    "url": "http://www.japes.uk/",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
+    "source": "visitcheltenham",
     "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Floating Sound Bath",
-    "date": "",
-    "date_text": "Thu, Mar 26 at 7:30\u202fPM GMT",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/1348499245566661/events",
-    "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&h=340&fit=crop",
-    "source": "facebook",
-    "categories": [
-      "wellbeing"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "St. Fian \u2014 Live at Caf\u00e9 Ren\u00e9",
-    "date": "",
-    "date_text": "Wed, Mar 25",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/1348499245566661/events",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=340&fit=crop",
-    "source": "facebook",
     "categories": [
       "live-music"
     ],
-    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Last Thursday",
     "image_position": "center 25%"
   },
   {
-    "name": "Tweedy's Massive Circus",
-    "date": "",
+    "name": "Cheltenham parkrun",
+    "date": "2026-03-28",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Saturday",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Southam Car Boot Sale",
+    "date": "2026-03-28",
+    "venue": "Southam Lane, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.bootsrus.co.uk/",
+    "image": "https://static.wixstatic.com/media/cd6504_ecfeff61c1024d7c829b1f521e7018ac~mv2.jpg",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
+  },
+  {
+    "name": "Cheltenham Junior parkrun",
+    "date": "2026-03-29",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Sunday",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-29",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurrence_text": "Every Sunday",
+    "is_recurring": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Dunkertons Run Club",
+    "date": "2026-03-29",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/Tile_1080x1350_5ed83f69-b8d0-40d3-ba57-3e5ecf1e2028_1200x1200.jpg?v=1769154456",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
     "source": "dunkertons",
     "categories": [
-      "family",
-      "theatre",
       "sport-fitness"
     ],
     "on_sale": true,
-    "price": "\u00a329.00",
-    "image_position": "center 25%"
-  },
-  {
-    "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
-    "date": "",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
-    "source": "dunkertons",
-    "categories": [
-      "live-music"
-    ],
-    "on_sale": true,
-    "price": "\u00a315.00",
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Games Night",
-    "date": "",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
-    "source": "dunkertons",
-    "categories": [
-      "games-night"
-    ],
-    "on_sale": true,
     "price": "",
-    "image_position": "center 25%"
+    "is_recurring": true,
+    "recurrence_text": "Every Sunday",
+    "image_position": "center"
   },
   {
-    "name": "Taco Tuesday",
-    "date": "",
-    "venue": "Dunkertons Cider",
+    "name": "Cheltenham Car Boot",
+    "date": "2026-03-29",
+    "venue": "Cheltenham Car Boot Site",
     "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
-    "source": "dunkertons",
+    "url": "https://www.cheltenhamcarboot.co.uk/",
+    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
+    "source": "website",
+    "on_sale": false,
     "categories": [
-      "food-drink"
+      "markets"
     ],
-    "on_sale": true,
-    "price": "",
-    "image_position": "center 25%"
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
   },
   {
-    "name": "Funky Pants Music & Dance Parties",
-    "date": "",
-    "venue": "Dunkertons Cider",
+    "name": "Pub Quiz",
+    "date": "2026-03-31",
+    "venue": "The Airs & Graces",
     "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
-    "source": "dunkertons",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
     "categories": [
-      "live-music",
-      "family"
+      "pub-quiz"
     ],
-    "on_sale": true,
-    "price": "\u00a38.50",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
     "image_position": "center 25%"
   },
   {
-    "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
-    "date": "",
+    "name": "Quiz Night",
+    "date": "2026-03-31",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/bunny_tile_1200x1200.png?v=1773672426",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
     "source": "dunkertons",
     "categories": [
-      "family",
-      "theatre"
+      "pub-quiz"
     ],
     "on_sale": true,
     "price": "\u00a312.00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
     "image_position": "center 25%"
   }
 ]
