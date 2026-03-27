@@ -129,16 +129,7 @@ img{display:block;max-width:100%}
 .event-venue::before{content:'';width:12px;height:12px;flex-shrink:0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Cpath d='M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z'/%3E%3Ccircle cx='12' cy='10' r='3'/%3E%3C/svg%3E") center/contain no-repeat}
 .event-img-wrap{position:relative;overflow:hidden}
 .event-img-wrap .event-overlay-logo{position:absolute;bottom:8px;right:8px;height:28px;opacity:0.85;filter:drop-shadow(0 1px 2px rgba(0,0,0,0.3))}
-/* Leaves overlay in hero */
-.leaves-overlay{position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:2}
-.leaf{position:absolute;top:-60px;opacity:0;animation:leafFall linear infinite}
-@keyframes leafFall{
-  0%{transform:translateY(0) translateX(0) rotate(0deg);opacity:0}
-  5%{opacity:0.55}
-  90%{opacity:0.4}
-  100%{transform:translateY(calc(100vh + 80px)) translateX(var(--drift)) rotate(var(--spin));opacity:0}
-}
-.leaf svg{display:block}
+
 .event-tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px}
 .event-tag{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;background:var(--surface-2);color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em}
 .event-tag.live-music{background:oklch(92% 0.04 320);color:oklch(45% 0.15 320)}
@@ -234,7 +225,6 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
 
 <div class="hero-wrap">
   <div class="hero-bg"></div>
-  <div class="leaves-overlay"></div>
   <section class="hero">
     <h1>What's on in Cheltenham</h1>
     <p>Live music, comedy, theatre, food, markets and more. Everything happening in and around Cheltenham, in one place.</p>
@@ -748,34 +738,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   });
 })();
 
-    // Leaves overlay in hero
-    (function(){
-      const overlay = document.querySelector('.leaves-overlay');
-      if (!overlay) return;
-      const leafPaths = [
-        'M10,1 C5,1 1,5 1,10 C1,17 10,24 10,24 C10,24 19,17 19,10 C19,5 15,1 10,1z',
-        'M10,2 C7,2 2,6 2,11 C2,18 10,24 10,24 C10,24 18,18 18,11 C18,6 13,2 10,2z M10,8 C10,8 6,11 6,14 C6,17 10,20 10,20 C10,20 14,17 14,14 C14,11 10,8 10,8z',
-        'M2,12 Q10,2 18,12 Q10,22 2,12z',
-        'M1,10 C1,10 5,2 10,2 C15,2 19,10 19,10 C19,10 15,18 10,18 C5,18 1,10 1,10z',
-      ];
-      const colors = ['#5a8a4a','#4a7a3a','#6a9a5a','#3d6b30','#7aaa6a'];
-      const count = 14;
-      for (let i = 0; i < count; i++) {
-        const leaf = document.createElement('div');
-        leaf.className = 'leaf';
-        const size = 14 + Math.random() * 18;
-        const drift = (Math.random() - 0.5) * 120;
-        const spin = 200 + Math.random() * 400;
-        const dur = 8 + Math.random() * 12;
-        const delay = Math.random() * -20;
-        const left = Math.random() * 105;
-        const path = leafPaths[Math.floor(Math.random() * leafPaths.length)];
-        const color = colors[Math.floor(Math.random() * colors.length)];
-        leaf.style.cssText = `left:${left}%;width:${size}px;height:${size}px;--drift:${drift}px;--spin:${spin}deg;animation-duration:${dur}s;animation-delay:${delay}s`;
-        leaf.innerHTML = `<svg viewBox="0 0 20 24" width="${size}" height="${size}"><path d="${path}" fill="${color}" opacity="0.75"/></svg>`;
-        overlay.appendChild(leaf);
-      }
-    })();
+
 </script>
 
 </body>
