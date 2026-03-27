@@ -1,205 +1,5 @@
 [
   {
-    "name": "Late Sketch Club",
-    "date": "2026-04-08",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/7ee3dc2c-29d6-42db-b33e-ee967796cff0/Late-Sketch-Club-compressed.jpg",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Jazz Launch Night",
-    "date": "2026-04-30",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/40120937-3e95-49d6-b2e3-99532fe0384c/JAZZ-FEST-500X500.png",
-    "source": "deya",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "What the Croc!?!? Quiz",
-    "date": "2026-05-07",
-    "date_text": "",
-    "venue": "DEYA Brewery",
-    "city": "Cheltenham",
-    "url": "https://www.deyabrewing.com/pages/events",
-    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/97e65f3b-8ece-435b-aa42-48d1ada93536/QUIZ-500-X-500.png",
-    "source": "deya",
-    "categories": [
-      "food-drink",
-      "pub-quiz"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Join Brush Party to Paint 'Summer of Love'",
-    "date": "",
-    "date_text": "Thu, Mar 26 at 7:00\u202fPM GMT",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/772091683187206/events",
-    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600&h=340&fit=crop",
-    "source": "facebook",
-    "categories": [
-      "arts-culture"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Floating Sound Bath",
-    "date": "",
-    "date_text": "Thu, Mar 26 at 7:30\u202fPM GMT",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/1348499245566661/events",
-    "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&h=340&fit=crop",
-    "source": "facebook",
-    "categories": [
-      "wellbeing"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "St. Fian \u2014 Live at Caf\u00e9 Ren\u00e9",
-    "date": "",
-    "date_text": "Wed, Mar 25",
-    "venue": "",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/groups/1348499245566661/events",
-    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=340&fit=crop",
-    "source": "facebook",
-    "categories": [
-      "live-music"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Tweedy's Massive Circus",
-    "date": "2026-04-23",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/Tile_1080x1350_5ed83f69-b8d0-40d3-ba57-3e5ecf1e2028_1200x1200.jpg?v=1769154456",
-    "source": "dunkertons",
-    "categories": [
-      "family",
-      "theatre",
-      "sport-fitness"
-    ],
-    "on_sale": true,
-    "price": "\u00a329.00",
-    "image_position": "center 25%",
-    "time": "11:00"
-  },
-  {
-    "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
-    "date": "2026-07-31",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
-    "source": "dunkertons",
-    "categories": [
-      "live-music"
-    ],
-    "on_sale": true,
-    "price": "\u00a315.00",
-    "image_position": "center 25%",
-    "time": "11:00"
-  },
-  {
-    "name": "Games Night",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
-    "source": "dunkertons",
-    "categories": [
-      "games-night"
-    ],
-    "on_sale": true,
-    "price": "",
-    "image_position": "center 25%",
-    "time": "11:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Monday"
-  },
-  {
-    "name": "Taco Tuesday",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
-    "source": "dunkertons",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "price": "",
-    "image_position": "center 25%",
-    "time": "11:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday"
-  },
-  {
-    "name": "Funky Pants Music & Dance Parties",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
-    "source": "dunkertons",
-    "categories": [
-      "live-music",
-      "family"
-    ],
-    "on_sale": true,
-    "price": "\u00a38.50",
-    "image_position": "center 25%",
-    "time": "11:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday"
-  },
-  {
-    "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
-    "date": "2026-04-02",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/bunny_tile_1200x1200.png?v=1773672426",
-    "source": "dunkertons",
-    "categories": [
-      "family",
-      "theatre"
-    ],
-    "on_sale": true,
-    "price": "\u00a312.00",
-    "image_position": "center 25%",
-    "time": "11:00"
-  },
-  {
     "name": "Comedy Huddle",
     "date": "2026-03-27",
     "venue": "Smokey Joe's Diner, Bar and Venue",
@@ -215,7 +15,7 @@
     "time": "19:45"
   },
   {
-    "name": "Styling Showcase with GHD Speed \u2013 Celebrating Official Good Hair Day",
+    "name": "Styling Showcase with GHD Speed – Celebrating Official Good Hair Day",
     "date": "2026-03-27",
     "venue": "John Lewis Cheltenham",
     "city": "Cheltenham",
@@ -256,7 +56,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00",
+    "price": "£20.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -306,7 +106,7 @@
     "time": "20:00"
   },
   {
-    "name": "Dark Side of the Ale \u2014 Friday Live Music",
+    "name": "Dark Side of the Ale — Friday Live Music",
     "date": "2026-03-27",
     "venue": "Sandford Park Alehouse",
     "city": "Cheltenham",
@@ -458,7 +258,7 @@
     "time": "18:30"
   },
   {
-    "name": "Dark Side of Ale \u2014 Saturday Live Music",
+    "name": "Dark Side of Ale — Saturday Live Music",
     "date": "2026-03-28",
     "venue": "Sandford Park Alehouse",
     "city": "Cheltenham",
@@ -504,7 +304,7 @@
     "time": "19:30"
   },
   {
-    "name": "Robbed Zombie \u2014 Rob Zombie Tribute",
+    "name": "Robbed Zombie — Rob Zombie Tribute",
     "date": "2026-03-28",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -545,7 +345,7 @@
       "comedy"
     ],
     "on_sale": true,
-    "price": "\u00a310.00",
+    "price": "£10.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -607,6 +407,19 @@
     "time": "10:00"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-03-29",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-03-29/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Over 30s Dating Night",
     "date": "2026-03-30",
     "venue": "Dunkertons Cider",
@@ -618,7 +431,7 @@
       "dating"
     ],
     "on_sale": true,
-    "price": "\u00a37.50",
+    "price": "£7.50",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -728,6 +541,32 @@
     "time": "19:30"
   },
   {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-03-31",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-03-31",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Property & Poppadoms",
     "date": "2026-04-01",
     "venue": "Indian Brasserie",
@@ -772,7 +611,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a33.00",
+    "price": "£3.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -836,6 +675,36 @@
     "time": "18:00"
   },
   {
+    "name": "Open Mic Nights @ The All Inn",
+    "date": "2026-04-01",
+    "time": "19:30",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-04-01/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
+    "date": "2026-04-02",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/cotswold-childrens-parties-presents-phils-big-bunny-show-thursday-2nd-april",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/bunny_tile_1200x1200.png?v=1773672426",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre"
+    ],
+    "on_sale": true,
+    "price": "£12.00",
+    "image_position": "center 25%",
+    "time": "11:00"
+  },
+  {
     "name": "Speed Dating - Age 28-45",
     "date": "2026-04-02",
     "venue": "Mr Cambrays Curiosity",
@@ -895,7 +764,7 @@
     "time": "12:30"
   },
   {
-    "name": "Discoliscious \u2014 The Ultimate Inclusive Party",
+    "name": "Discoliscious — The Ultimate Inclusive Party",
     "date": "2026-04-03",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -906,7 +775,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00",
+    "price": "£20.00",
     "image_position": "center 30%",
     "time": "11:00"
   },
@@ -957,7 +826,7 @@
     "time": "20:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-04-03",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -1050,7 +919,7 @@
     "time": "13:00"
   },
   {
-    "name": "Drag Wars \u2014 Heat 2",
+    "name": "Drag Wars — Heat 2",
     "date": "2026-04-04",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -1077,9 +946,22 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a38.00",
+    "price": "£8.00",
     "image_position": "center 25%",
     "time": "11:00"
+  },
+  {
+    "name": "Sunday Roasts",
+    "date": "2026-04-05",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-05/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Miss Rachel: Fun for Little Ones",
@@ -1110,7 +992,7 @@
     "time": "18:30"
   },
   {
-    "name": "Children's Painting Workshop \u2014 Easter Special",
+    "name": "Children's Painting Workshop — Easter Special",
     "date": "2026-04-07",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -1122,7 +1004,7 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a312.00",
+    "price": "£12.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1171,6 +1053,61 @@
     "time": "20:00"
   },
   {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-04-07",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-07/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-04-07",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-07/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-04-07",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-07/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Late Sketch Club",
+    "date": "2026-04-08",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/7ee3dc2c-29d6-42db-b33e-ee967796cff0/Late-Sketch-Club-compressed.jpg",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:00"
+  },
+  {
     "name": "DWAEC Present: The Incredible Animal Show",
     "date": "2026-04-08",
     "venue": "Dunkertons Cider",
@@ -1183,7 +1120,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a37.50",
+    "price": "£7.50",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1218,7 +1155,7 @@
     "time": "19:00"
   },
   {
-    "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
+    "name": "A Psychologist’s Guide to Expressing Female Rage",
     "date": "2026-04-09",
     "venue": "Parabola Arts Centre",
     "city": "Cheltenham",
@@ -1323,6 +1260,19 @@
     "time": "20:00"
   },
   {
+    "name": "Comedy Night @ The All Inn",
+    "date": "2026-04-09",
+    "time": "19:00",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/comedy-night-the-all-inn-2/2026-04-09/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/02/TAI-Comedy-Nights-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Spring Session",
     "date": "2026-04-10",
     "venue": "The Tappy",
@@ -1350,7 +1300,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a315.00",
+    "price": "£15.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1548,6 +1498,19 @@
     "time": "12:00"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-04-12",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-12/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Jazz in the Studio",
     "date": "2026-04-13",
     "venue": "Everyman Theatre",
@@ -1604,6 +1567,45 @@
     ],
     "image_position": "center 25%",
     "time": "19:30"
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-04-14",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-14/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-04-14",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-14/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-04-14",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-14/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Anna Bailey in Conversation with Jackie Kabler",
@@ -1699,7 +1701,7 @@
     "time": "11:00"
   },
   {
-    "name": "Netwalking \u2014 Creative Wellbeing Female Entrepreneurs",
+    "name": "Netwalking — Creative Wellbeing Female Entrepreneurs",
     "date": "2026-04-16",
     "venue": "Central Cross Cafe, In The Park",
     "city": "Cheltenham",
@@ -1823,7 +1825,7 @@
     "time": "7:30pm"
   },
   {
-    "name": "Lanc\u00f4me Skin & Makeup Masterclass",
+    "name": "Lancôme Skin & Makeup Masterclass",
     "date": "2026-04-18",
     "venue": "John Lewis Cheltenham",
     "city": "Cheltenham",
@@ -1838,7 +1840,7 @@
     "time": "11:00"
   },
   {
-    "name": "EVM Wrestling \u2014 You Can't Kill What Doesn't Die",
+    "name": "EVM Wrestling — You Can't Kill What Doesn't Die",
     "date": "2026-04-18",
     "venue": "Gas Green Youth & Community Centre",
     "city": "Cheltenham",
@@ -1854,7 +1856,7 @@
     "time": "14:00"
   },
   {
-    "name": "Fire Feast \u2014 Ubuntu Food",
+    "name": "Fire Feast — Ubuntu Food",
     "date": "2026-04-18",
     "venue": "DEYA Brewery",
     "source": "deya",
@@ -1884,7 +1886,7 @@
     "time": "19:30"
   },
   {
-    "name": "Drag Wars \u2014 Semi Final",
+    "name": "Drag Wars — Semi Final",
     "date": "2026-04-18",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -1958,6 +1960,19 @@
     "time": "19:30"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-04-19",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-19/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Adam Frost",
     "date": "2026-04-20",
     "venue": "Cheltenham Town Hall",
@@ -2002,6 +2017,45 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-04-21",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-21/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-04-21",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-21/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-04-21",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-21/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Spanish Specials - Brewery Tour & Tasting",
@@ -2049,6 +2103,24 @@
     "time": "19:30"
   },
   {
+    "name": "Tweedy's Massive Circus",
+    "date": "2026-04-23",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/tweedys-massive-circus-23rd-april-to-9th-may",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/Tile_1080x1350_5ed83f69-b8d0-40d3-ba57-3e5ecf1e2028_1200x1200.jpg?v=1769154456",
+    "source": "dunkertons",
+    "categories": [
+      "family",
+      "theatre",
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": "£29.00",
+    "image_position": "center 25%",
+    "time": "11:00"
+  },
+  {
     "name": "Fresh: Art Fair",
     "date": "2026-04-23",
     "venue": "Cheltenham Racecourse",
@@ -2081,7 +2153,7 @@
     "time": "19:30"
   },
   {
-    "name": "UoG Music Society \u2014 Student Takeover",
+    "name": "UoG Music Society — Student Takeover",
     "date": "2026-04-23",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2174,7 +2246,7 @@
     "time": "20:00"
   },
   {
-    "name": "Run Yoshi, Run \u2014 Indie/Britpop",
+    "name": "Run Yoshi, Run — Indie/Britpop",
     "date": "2026-04-24",
     "venue": "The Exmouth Arms",
     "city": "Cheltenham",
@@ -2204,7 +2276,7 @@
     "time": "19:30"
   },
   {
-    "name": "Fantazmaz \u2014 Gonna Blow Your Top UK Tour",
+    "name": "Fantazmaz — Gonna Blow Your Top UK Tour",
     "date": "2026-04-24",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2264,6 +2336,19 @@
     "time": "20:00"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-04-26",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-26/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Damian Hall: Running Forever",
     "date": "2026-04-27",
     "venue": "Cheltenham Town Hall",
@@ -2277,6 +2362,45 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-04-28",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-28/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-04-28",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-28/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-04-28",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-28/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Cheltenham Jazz Festival",
@@ -2305,6 +2429,22 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "21:00"
+  },
+  {
+    "name": "Jazz Launch Night",
+    "date": "2026-04-30",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/40120937-3e95-49d6-b2e3-99532fe0384c/JAZZ-FEST-500X500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:00"
   },
   {
     "name": "Pay Day Sessions",
@@ -2367,6 +2507,58 @@
     "time": "10:00"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-05-03",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-03/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-05-05",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-05/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-05-05",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-05/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-05-05",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-05/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Cheltenham Festival of Performing Arts",
     "date": "2026-05-06",
     "venue": "Cheltenham Town Hall",
@@ -2383,6 +2575,36 @@
     "time": "19:30"
   },
   {
+    "name": "Open Mic Nights @ The All Inn",
+    "date": "2026-05-06",
+    "time": "19:30",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-05-06/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "What the Croc!?!? Quiz",
+    "date": "2026-05-07",
+    "date_text": "",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.deyabrewing.com/pages/events",
+    "image": "https://files.elfsightcdn.com/38cacda6-c58d-475c-9770-26c9d0a39c62/97e65f3b-8ece-435b-aa42-48d1ada93536/QUIZ-500-X-500.png",
+    "source": "deya",
+    "categories": [
+      "food-drink",
+      "pub-quiz"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:00"
+  },
+  {
     "name": "ABBA Arrival",
     "date": "2026-05-08",
     "venue": "Dunkertons Cider",
@@ -2395,7 +2617,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a315.00",
+    "price": "£15.00",
     "image_position": "center 30%",
     "time": "11:00"
   },
@@ -2415,7 +2637,7 @@
     "time": "20:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-05-08",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2460,7 +2682,7 @@
     "time": "10:30"
   },
   {
-    "name": "Drag Wars \u2014 Grand Final",
+    "name": "Drag Wars — Grand Final",
     "date": "2026-05-09",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2487,7 +2709,7 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a360.00",
+    "price": "£60.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -2522,6 +2744,19 @@
     "time": "19:30"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-05-10",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-10/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Cotswold Networking Meet-up",
     "date": "2026-05-11",
     "venue": "Dunkertons Cider",
@@ -2537,6 +2772,45 @@
     "time": "11:00"
   },
   {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-05-12",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-12/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-05-12",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-12/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-05-12",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-12/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Robin Nolan Trio",
     "date": "2026-05-13",
     "venue": "The Steam and Whistle",
@@ -2550,6 +2824,19 @@
     ],
     "image_position": "center 25%",
     "time": "19:30"
+  },
+  {
+    "name": "Comedy Night @ The All Inn",
+    "date": "2026-05-14",
+    "time": "19:00",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/comedy-night-the-all-inn-2/2026-05-14/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/02/TAI-Comedy-Nights-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Red On Back Yard Ultra",
@@ -2582,7 +2869,7 @@
     "time": "20:00"
   },
   {
-    "name": "Ed Force One \u2014 Iron Maiden Tribute",
+    "name": "Ed Force One — Iron Maiden Tribute",
     "date": "2026-05-16",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2625,7 +2912,7 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a310.00",
+    "price": "£10.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -2645,6 +2932,19 @@
     "time": "19:30"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-05-17",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-17/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "An Evening of Mediumship with Carol Green",
     "date": "2026-05-18",
     "venue": "Bar No.9",
@@ -2658,6 +2958,45 @@
     ],
     "image_position": "center 25%",
     "time": "19:00"
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "date": "2026-05-19",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-19/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "RunTribe @ The Slow &#038; Steady",
+    "date": "2026-05-19",
+    "time": "18:45",
+    "venue": "The Slow &#038; Steady",
+    "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-19/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-05-19",
+    "time": "19:30",
+    "venue": "",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-19/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Nick Mohammed Is Mr Swallow: Show Pony",
@@ -2795,6 +3134,19 @@
     "time": "10:00"
   },
   {
+    "name": "Sunday Roasts",
+    "date": "2026-05-24",
+    "time": "12:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-24/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
     "name": "Weekly board game night",
     "venue": "Bath Road Beers",
     "date": "2026-05-25",
@@ -2808,7 +3160,20 @@
     "time": "18:30"
   },
   {
-    "name": "Howlers May \u2014 Fringe Special",
+    "name": "Happy Hour! 🍻",
+    "date": "2026-05-26",
+    "time": "17:00",
+    "venue": "",
+    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-26/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
+  },
+  {
+    "name": "Howlers May — Fringe Special",
     "date": "2026-05-28",
     "venue": "Cheltenham Playhouse",
     "city": "Cheltenham",
@@ -2838,7 +3203,7 @@
     "time": "19:30"
   },
   {
-    "name": "The Bubble Show 2 \u2014 More Bubbles!",
+    "name": "The Bubble Show 2 — More Bubbles!",
     "date": "2026-05-29",
     "venue": "Cheltenham Playhouse",
     "city": "Cheltenham",
@@ -2975,7 +3340,7 @@
     "time": "19:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-06-05",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2990,7 +3355,7 @@
     "time": "20:00"
   },
   {
-    "name": "BID Training \u2014 Fire Marshal",
+    "name": "BID Training — Fire Marshal",
     "date": "2026-06-10",
     "venue": "Albion House Social Club",
     "city": "Cheltenham",
@@ -3140,7 +3505,7 @@
     "time": "19:30"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-06-26",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3200,7 +3565,7 @@
     "time": "19:30"
   },
   {
-    "name": "Force Fest: Episode I \u2014 Into the Galaxy",
+    "name": "Force Fest: Episode I — Into the Galaxy",
     "date": "2026-06-28",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
@@ -3313,7 +3678,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00",
+    "price": "£20.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -3407,6 +3772,22 @@
     ],
     "image_position": "center",
     "time": "10:00"
+  },
+  {
+    "name": "The 80s Mixtape — Iconic 80s Power Anthems",
+    "date": "2026-07-31",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/the-80s-mixtape-a-night-of-iconic-80s-power-anthems-friday-31st-july",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080X1350_TILE_7573a681-4812-4509-9e8b-cc2636a721de_1200x1200.jpg?v=1773057884",
+    "source": "dunkertons",
+    "categories": [
+      "live-music"
+    ],
+    "on_sale": true,
+    "price": "£15.00",
+    "image_position": "center 25%",
+    "time": "11:00"
   },
   {
     "name": "Mercury: The Ultimate Queen Tribute",
@@ -3577,7 +3958,7 @@
     "time": "20:00"
   },
   {
-    "name": "MC Devvo \u2014 20th Anniversary Tour",
+    "name": "MC Devvo — 20th Anniversary Tour",
     "date": "2026-10-03",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3653,7 +4034,7 @@
     "time": "20:00"
   },
   {
-    "name": "Biffy McClyro \u2014 Double Header",
+    "name": "Biffy McClyro — Double Header",
     "date": "2026-11-06",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3683,7 +4064,7 @@
     "time": "7:30pm"
   },
   {
-    "name": "Gaz Brookfield \u2014 Autumn Tour",
+    "name": "Gaz Brookfield — Autumn Tour",
     "date": "2026-11-20",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3893,9 +4274,61 @@
       "pub-quiz"
     ],
     "on_sale": true,
-    "price": "\u00a312.00",
+    "price": "£12.00",
     "is_recurring": true,
     "recurrence_text": "Every Tuesday",
     "image_position": "center 25%"
+  },
+  {
+    "name": "Games Night",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
+    "source": "dunkertons",
+    "categories": [
+      "games-night"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%",
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Monday"
+  },
+  {
+    "name": "Taco Tuesday",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
+    "source": "dunkertons",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%",
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday"
+  },
+  {
+    "name": "Funky Pants Music & Dance Parties",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
+    "source": "dunkertons",
+    "categories": [
+      "live-music",
+      "family"
+    ],
+    "on_sale": true,
+    "price": "£8.50",
+    "image_position": "center 25%",
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday"
   }
 ]
