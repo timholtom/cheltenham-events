@@ -3763,7 +3763,8 @@
     "price": "\u00a312.00",
     "is_recurring": true,
     "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%"
+    "image_position": "center 25%",
+    "time": "19:30"
   },
   {
     "name": "Games Night",
