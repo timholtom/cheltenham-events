@@ -42,7 +42,10 @@ img{display:block;max-width:100%}
 .logo{font-family:var(--font-display);font-size:18px;font-weight:900;letter-spacing:-0.02em;white-space:nowrap;flex-shrink:0}
 .logo span{color:var(--text-3);font-weight:400;font-size:11px;font-family:var(--font-body);margin-left:4px}
 .header-search{flex:1;position:relative;min-width:0}
-.header-search input{width:100%;padding:9px 14px 9px 36px;border:1px solid var(--border);border-radius:10px;font-size:14px;font-family:var(--font-body);background:var(--surface-2);color:var(--text);outline:none;transition:all 0.15s}
+.header-search input{width:100%;padding:9px 32px 9px 36px;border:1px solid var(--border);border-radius:10px;font-size:14px;font-family:var(--font-body);background:var(--surface-2);color:var(--text);outline:none;transition:all 0.15s}
+.search-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);width:18px;height:18px;border:none;background:none;cursor:pointer;color:var(--text-3);font-size:16px;line-height:1;display:none;align-items:center;justify-content:center;border-radius:50%;padding:0;transition:color 0.15s}
+.search-clear:hover{color:var(--text)}
+.search-clear.visible{display:flex}
 .header-search input:focus{border-color:var(--accent);background:var(--surface);box-shadow:0 0 0 3px oklch(50% 0.15 150 / 0.1)}
 .header-search::before{content:'';position:absolute;left:11px;top:50%;transform:translateY(-50%);width:15px;height:15px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat;pointer-events:none}
 .search-suggestions{position:absolute;top:calc(100% + 4px);left:0;right:0;background:var(--surface);border:1px solid var(--border);border-radius:12px;max-height:280px;overflow-y:auto;z-index:300;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.1)}
@@ -211,6 +214,7 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     <div class="logo">Cheltenham Events <span>beta</span></div>
     <div class="header-search">
       <input type="text" id="search" placeholder="Search events, venues, categories..." autocomplete="off">
+      <button class="search-clear" id="search-clear" tabindex="-1" aria-label="Clear search">&#x2715;</button>
       <div class="search-suggestions" id="search-suggestions"></div>
     </div>
     <div class="header-r">
@@ -670,7 +674,20 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     sugBox.classList.add('active');
   }
 
+  const searchClear = document.getElementById('search-clear');
+  searchClear.addEventListener('mousedown', function(ev){
+    ev.preventDefault();
+    searchInput.value = '';
+    currentSearch = '';
+    searchClear.classList.remove('visible');
+    sugBox.classList.remove('active');
+    visibleCount = EVENTS_PER_PAGE;
+    applyFilters();
+    searchInput.focus();
+  });
+
   searchInput.addEventListener('input', function(){
+    searchClear.classList.toggle('visible', this.value.length > 0);
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(function(){
       currentSearch = searchInput.value;
