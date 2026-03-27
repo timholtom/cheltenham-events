@@ -129,6 +129,10 @@ img{display:block;max-width:100%}
 .event-venue::before{content:'';width:12px;height:12px;flex-shrink:0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Cpath d='M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z'/%3E%3Ccircle cx='12' cy='10' r='3'/%3E%3C/svg%3E") center/contain no-repeat}
 .event-img-wrap{position:relative;overflow:hidden}
 .event-img-wrap .event-overlay-logo{position:absolute;bottom:8px;right:8px;height:28px;opacity:0.85;filter:drop-shadow(0 1px 2px rgba(0,0,0,0.3))}
+/* Halftone shader overlay — toggled by pressing S */
+.event-img-wrap::after{content:'';position:absolute;inset:0;pointer-events:none;opacity:0;transition:opacity 220ms cubic-bezier(0.23,1,0.32,1);background-image:radial-gradient(circle,#1a1a1a 1.2px,transparent 1.2px);background-size:7px 7px;mix-blend-mode:multiply}
+body.shader-on .event-img-wrap::after{opacity:1}
+body.shader-on .event-img-wrap:hover::after{opacity:0;transition:opacity 150ms cubic-bezier(0.23,1,0.32,1)}
 .event-tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:8px}
 .event-tag{font-size:10px;font-weight:600;padding:2px 8px;border-radius:4px;background:var(--surface-2);color:var(--text-3);text-transform:uppercase;letter-spacing:0.04em}
 .event-tag.live-music{background:oklch(92% 0.04 320);color:oklch(45% 0.15 320)}
@@ -736,6 +740,14 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     this.innerHTML = '<p style="color:var(--accent-dark);font-weight:600">Subscribed. See you Friday.</p>';
   });
 })();
+
+    // S key — toggle halftone shader overlay on card images (like dany.works)
+    document.addEventListener('keydown', e => {
+      if (e.key === 's' || e.key === 'S') {
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+        document.body.classList.toggle('shader-on');
+      }
+    });
 </script>
 
 </body>
