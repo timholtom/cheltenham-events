@@ -1875,7 +1875,7 @@
       "theatre",
       "family"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Judy_Garland_in_The_Wizard_of_Oz_%281939%29_2.jpg/640px-Judy_Garland_in_The_Wizard_of_Oz_%281939%29_2.jpg",
+    "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=600&q=80",
     "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
     "source": "test",
     "city": "Cheltenham",
@@ -1892,7 +1892,7 @@
       }
     ],
     "time": "19:30",
-    "image_position": "top"
+    "image_position": "center"
   },
   {
     "name": "Lanc\u00f4me Skin & Makeup Masterclass",
