@@ -3275,7 +3275,7 @@
     "time": "11:00"
   },
   {
-    "name": "The Princess Proms (First Session)",
+    "name": "The Princess Proms",
     "date": "2026-07-04",
     "venue": "Everyman Theatre",
     "city": "Cheltenham",
@@ -3289,24 +3289,19 @@
       "theatre"
     ],
     "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "The Princess Proms (Second Session)",
-    "date": "2026-07-04",
-    "venue": "Everyman Theatre",
-    "city": "Cheltenham",
-    "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-second-session-tickets-1975085638312",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F899693943%2F2198324733003%2F1%2Foriginal.20241115-111408?auto=format%2Ccompress&q=75&sharp=10&s=f3068b250e4bbd6e15c77b5d7a8720c9",
-    "source": "eventbrite",
-    "on_sale": true,
-    "categories": [
-      "family",
-      "live-music",
-      "theatre"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
+    "time": "13:30",
+    "sessions": [
+      {
+        "time": "1:30 PM",
+        "label": "First Session",
+        "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-first-session-tickets-1974904420284"
+      },
+      {
+        "time": "5:15 PM",
+        "label": "Second Session",
+        "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-second-session-tickets-1975085638312"
+      }
+    ]
   },
   {
     "name": "SkyGlow Music Festival Cheltenham Racecourse",
