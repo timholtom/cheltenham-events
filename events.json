@@ -1868,33 +1868,6 @@
     "time": "7:30pm"
   },
   {
-    "name": "The Wizard of Oz",
-    "venue": "Cheltenham Playhouse",
-    "date": "2026-04-18",
-    "categories": [
-      "theatre",
-      "family"
-    ],
-    "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?w=600&q=80",
-    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows",
-    "source": "test",
-    "city": "Cheltenham",
-    "sessions": [
-      {
-        "time": "2:30 PM",
-        "label": "Matinee",
-        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
-      },
-      {
-        "time": "7:30 PM",
-        "label": "Evening",
-        "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows"
-      }
-    ],
-    "time": "19:30",
-    "image_position": "center"
-  },
-  {
     "name": "Lanc\u00f4me Skin & Makeup Masterclass",
     "date": "2026-04-18",
     "venue": "John Lewis Cheltenham",
