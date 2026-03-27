@@ -25,7 +25,8 @@
   --font-display:'Fraunces',Georgia,serif;
   --font-body:'Plus Jakarta Sans',system-ui,sans-serif;
   --radius:10px;
-  --max-w:1080px;
+  --max-w:1440px;
+  --pad:clamp(16px,3vw,48px);
 }
 body{background:var(--bg);color:var(--text);font-family:var(--font-body);line-height:1.6;-webkit-font-smoothing:antialiased}
 a{color:var(--accent-dark);text-decoration:none}
@@ -34,7 +35,7 @@ a:hover{text-decoration:underline}
 img{display:block;max-width:100%}
 
 /* Header */
-header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justify-content:space-between;align-items:center}
+header{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad);display:flex;justify-content:space-between;align-items:center}
 .logo{font-family:var(--font-display);font-size:20px;font-weight:900;letter-spacing:-0.02em}
 .logo span{color:var(--text-3);font-weight:400;font-size:12px;font-family:var(--font-body);margin-left:4px}
 .header-r{display:flex;gap:16px;align-items:center}
@@ -46,20 +47,20 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 /* Hero */
 .hero-wrap{position:relative;overflow:hidden;margin-bottom:8px}
 .hero-bg{position:absolute;inset:0;background:url('https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/cheltenham/Aerial_photos_of_Cheltenham_15__a4e6d66c-e30f-4dd8-9a81-f6582f2a6b7c.jpg') center 40%/cover no-repeat;filter:brightness(0.35)}
-.hero{position:relative;max-width:var(--max-w);margin:0 auto;padding:64px 24px 48px;text-align:left}
+.hero{position:relative;max-width:var(--max-w);margin:0 auto;padding:56px var(--pad) 40px;text-align:left}
 .hero h1{font-family:var(--font-display);font-size:clamp(28px,4.5vw,44px);font-weight:900;line-height:1.1;letter-spacing:-0.03em;margin-bottom:8px;color:#fff}
 .hero p{color:rgba(255,255,255,0.85);font-size:15px;max-width:480px;line-height:1.6}
 
 
 /* Filters */
-.filters{max-width:var(--max-w);margin:0 auto;padding:0 24px 24px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.filters{max-width:var(--max-w);margin:0 auto;padding:0 var(--pad) 20px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
 
 
 .filter-btn{padding:7px 16px;border-radius:100px;font-size:12px;font-weight:600;font-family:var(--font-body);border:1px solid var(--border);background:var(--surface);color:var(--text-2);cursor:pointer;transition:all 0.15s;white-space:nowrap}
 .filter-btn:hover{border-color:var(--accent);color:var(--accent-dark)}
 .filter-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
 .filter-count{font-size:11px;color:var(--text-3);margin-left:4px;font-weight:400}
-.search-section{max-width:var(--max-w);margin:0 auto;padding:16px 24px 12px}
+.search-section{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad) 12px}
 .search-box{position:relative;width:100%}
 .search-box input{width:100%;padding:12px 16px 12px 40px;border:1px solid var(--border);border-radius:12px;font-size:15px;font-family:var(--font-body);background:var(--surface);color:var(--text);outline:none;transition:border-color 0.15s}
 .search-box input:focus{border-color:var(--accent);box-shadow:0 0 0 3px oklch(65% 0.15 250 / 0.1)}
@@ -72,9 +73,11 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .search-box::before{content:'';position:absolute;left:14px;top:50%;transform:translateY(-50%);width:16px;height:16px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat}
 
 /* Events grid */
-.events-section{max-width:var(--max-w);margin:0 auto;padding:0 24px 48px}
-.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;align-items:start}
+.events-section{max-width:var(--max-w);margin:0 auto;padding:0 var(--pad) 48px}
+.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;align-items:start}
+@media(min-width:900px){.events-grid{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:1200px){.events-grid{grid-template-columns:repeat(4,1fr)}}
+@media(min-width:1600px){.events-grid{grid-template-columns:repeat(5,1fr)}}
 /* Card flip */
 .card-flip-container{perspective:1000px;height:100%}
 .card-flip-container.has-sessions{cursor:pointer}
@@ -162,7 +165,7 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .load-more:hover{border-color:var(--accent);color:var(--accent-dark)}
 
 /* Newsletter */
-.newsletter{max-width:var(--max-w);margin:0 auto;padding:48px 24px}
+.newsletter{max-width:var(--max-w);margin:0 auto;padding:48px var(--pad)}
 .newsletter-box{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:40px;display:flex;gap:32px;align-items:center}
 .newsletter-box h2{font-family:var(--font-display);font-size:24px;font-weight:900;letter-spacing:-0.02em;margin-bottom:4px}
 .newsletter-box p{color:var(--text-2);font-size:14px;line-height:1.5}
@@ -173,22 +176,22 @@ header{max-width:var(--max-w);margin:0 auto;padding:20px 24px;display:flex;justi
 .newsletter-form button:hover{opacity:0.85}
 
 /* Footer */
-footer{max-width:var(--max-w);margin:0 auto;padding:24px;border-top:1px solid var(--border);color:var(--text-3);font-size:11px;display:flex;justify-content:space-between}
+footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1px solid var(--border);color:var(--text-3);font-size:11px;display:flex;justify-content:space-between}
 
 /* Responsive */
 @media(max-width:640px){
-  .hero{padding:40px 20px 32px}
-
-  .filters{padding:0 20px 16px}
-  .events-section{padding:0 20px 32px}
+  :root{--pad:16px}
+  .hero{padding:40px var(--pad) 32px}
+  .filters{padding:0 var(--pad) 16px}
+  .events-section{padding:0 var(--pad) 32px}
   .events-grid{grid-template-columns:1fr}
-  .search-section{padding:12px 20px 8px}
+  .search-section{padding:12px var(--pad) 8px}
   .search-box input{font-size:14px;padding:10px 14px 10px 36px}
   .newsletter-box{flex-direction:column;padding:28px 24px;gap:16px}
   .newsletter-form{flex-direction:column}
   .newsletter-form input{min-width:0}
   .header-r a:not(.newsletter-btn){display:none}
-  #date-filters{padding:0 20px 16px}
+  #date-filters{padding:0 var(--pad) 16px}
   .day-chips{gap:6px}
   .day-chip{width:36px;height:36px;border-radius:6px}
   .day-chip .day-num{font-size:12px}
