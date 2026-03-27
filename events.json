@@ -407,19 +407,6 @@
     "time": "10:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-03-29",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-03-29/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Over 30s Dating Night",
     "date": "2026-03-30",
     "venue": "Dunkertons Cider",
@@ -539,19 +526,6 @@
     ],
     "image_position": "top",
     "time": "19:30"
-  },
-  {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-03-31",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-03-31/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
   },
   {
     "name": "RunTribe @ The Slow &#038; Steady",
@@ -686,19 +660,6 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "18:00"
-  },
-  {
-    "name": "Open Mic Nights @ The All Inn",
-    "date": "2026-04-01",
-    "time": "19:30",
-    "venue": "The All Inn",
-    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-04-01/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
   },
   {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
@@ -964,19 +925,6 @@
     "time": "11:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-04-05",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-05/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Miss Rachel: Fun for Little Ones",
     "date": "2026-04-06",
     "venue": "Cheltenham Town Hall",
@@ -1066,38 +1014,12 @@
     "time": "20:00"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-04-07",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-07/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-04-07",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-07/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-04-07",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-07/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -1524,19 +1446,6 @@
     "time": "12:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-04-12",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-12/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Jazz in the Studio",
     "date": "2026-04-13",
     "venue": "Everyman Theatre",
@@ -1595,38 +1504,12 @@
     "time": "19:30"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-04-14",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-14/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-04-14",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-14/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-04-14",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-14/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -1999,19 +1882,6 @@
     "time": "19:30"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-04-19",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-19/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Adam Frost",
     "date": "2026-04-20",
     "venue": "Cheltenham Town Hall",
@@ -2058,38 +1928,12 @@
     "time": "19:30"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-04-21",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-21/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-04-21",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-21/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-04-21",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-21/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -2388,19 +2232,6 @@
     "time": "20:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-04-26",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-04-26/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Damian Hall: Running Forever",
     "date": "2026-04-27",
     "venue": "Cheltenham Town Hall",
@@ -2416,38 +2247,12 @@
     "time": "19:30"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-04-28",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-04-28/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-04-28",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-04-28/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-04-28",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-04-28/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -2572,51 +2377,12 @@
     "time": "10:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-05-03",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-03/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-05/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-05-05",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-05/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-05-05",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-05/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -2651,19 +2417,6 @@
     ],
     "image_position": "center",
     "time": "19:30"
-  },
-  {
-    "name": "Open Mic Nights @ The All Inn",
-    "date": "2026-05-06",
-    "time": "19:30",
-    "venue": "The All Inn",
-    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-05-06/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
   },
   {
     "name": "What the Croc!?!? Quiz",
@@ -2822,19 +2575,6 @@
     "time": "19:30"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-05-10",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-10/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Cotswold Networking Meet-up",
     "date": "2026-05-11",
     "venue": "Dunkertons Cider",
@@ -2850,38 +2590,12 @@
     "time": "11:00"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-05-12",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-12/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-05-12",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-12/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-05-12",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-12/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -3023,19 +2737,6 @@
     "time": "19:30"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-17/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "An Evening of Mediumship with Carol Green",
     "date": "2026-05-18",
     "venue": "Bar No.9",
@@ -3051,38 +2752,12 @@
     "time": "19:00"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-05-19",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-19/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "RunTribe @ The Slow &#038; Steady",
     "date": "2026-05-19",
     "time": "18:45",
     "venue": "The Slow &#038; Steady",
     "url": "https://dodopubs.com/event/runtribe-the-slow-steady/2026-05-19/",
     "image": "https://dodopubs.com/wp-content/uploads/2024/09/Runtribe-Grid.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-05-19",
-    "time": "19:30",
-    "venue": "",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-05-19/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
     "source": "dodo-pubs",
     "city": "Cheltenham",
     "categories": [
@@ -3238,19 +2913,6 @@
     "time": "10:00"
   },
   {
-    "name": "Sunday Roasts",
-    "date": "2026-05-24",
-    "time": "12:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/sunday-roasts/2026-05-24/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/01/NATIONS-1.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
-  },
-  {
     "name": "Weekly board game night",
     "venue": "Bath Road Beers",
     "date": "2026-05-25",
@@ -3262,19 +2924,6 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "18:30"
-  },
-  {
-    "name": "Happy Hour! \ud83c\udf7b",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "venue": "",
-    "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-05-26/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ]
   },
   {
     "name": "Howlers May \u2014 Fringe Special",
