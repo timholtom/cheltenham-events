@@ -35,13 +35,20 @@ a:hover{text-decoration:underline}
 img{display:block;max-width:100%}
 
 /* Header */
-header{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad);display:flex;justify-content:space-between;align-items:center}
-.logo{font-family:var(--font-display);font-size:20px;font-weight:900;letter-spacing:-0.02em}
-.logo span{color:var(--text-3);font-weight:400;font-size:12px;font-family:var(--font-body);margin-left:4px}
-.header-r{display:flex;gap:16px;align-items:center}
+.site-header{position:sticky;top:0;z-index:200;background:var(--surface);border-bottom:1px solid var(--border);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.header-inner{max-width:var(--max-w);margin:0 auto;padding:10px var(--pad);display:flex;align-items:center;gap:16px}
+.logo{font-family:var(--font-display);font-size:18px;font-weight:900;letter-spacing:-0.02em;white-space:nowrap;flex-shrink:0}
+.logo span{color:var(--text-3);font-weight:400;font-size:11px;font-family:var(--font-body);margin-left:4px}
+.header-search{flex:1;position:relative;max-width:520px}
+.header-search input{width:100%;padding:9px 14px 9px 36px;border:1px solid var(--border);border-radius:10px;font-size:14px;font-family:var(--font-body);background:var(--surface-2);color:var(--text);outline:none;transition:all 0.15s}
+.header-search input:focus{border-color:var(--accent);background:var(--surface);box-shadow:0 0 0 3px oklch(50% 0.15 150 / 0.1)}
+.header-search::before{content:'';position:absolute;left:11px;top:50%;transform:translateY(-50%);width:15px;height:15px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat;pointer-events:none}
+.search-suggestions{position:absolute;top:calc(100% + 4px);left:0;right:0;background:var(--surface);border:1px solid var(--border);border-radius:12px;max-height:280px;overflow-y:auto;z-index:300;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.1)}
+.search-suggestions.active{display:block}
+.header-r{display:flex;gap:12px;align-items:center;flex-shrink:0}
 .header-r a{color:var(--text-3);font-size:13px;font-weight:500}
 .header-r a:hover{color:var(--text);text-decoration:none}
-.newsletter-btn{background:var(--text);color:var(--bg);padding:8px 20px;border-radius:8px;font-size:12px;font-weight:700;font-family:var(--font-body);border:none;cursor:pointer;transition:opacity 0.15s}
+.newsletter-btn{background:var(--text);color:var(--bg);padding:8px 18px;border-radius:8px;font-size:12px;font-weight:700;font-family:var(--font-body);border:none;cursor:pointer;transition:opacity 0.15s;white-space:nowrap}
 .newsletter-btn:hover{opacity:0.85;text-decoration:none}
 
 /* Hero */
@@ -60,21 +67,15 @@ header{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad);display:flex
 .filter-btn:hover{border-color:var(--accent);color:var(--accent-dark)}
 .filter-btn.active{background:var(--text);color:var(--bg);border-color:var(--text)}
 .filter-count{font-size:11px;color:var(--text-3);margin-left:4px;font-weight:400}
-.search-section{max-width:var(--max-w);margin:0 auto;padding:16px var(--pad) 12px}
-.search-box{position:relative;width:100%}
-.search-box input{width:100%;padding:12px 16px 12px 40px;border:1px solid var(--border);border-radius:12px;font-size:15px;font-family:var(--font-body);background:var(--surface);color:var(--text);outline:none;transition:border-color 0.15s}
-.search-box input:focus{border-color:var(--accent);box-shadow:0 0 0 3px oklch(65% 0.15 250 / 0.1)}
-.search-suggestions{position:absolute;top:100%;left:0;right:0;background:var(--surface);border:1px solid var(--border);border-top:none;border-radius:0 0 12px 12px;max-height:240px;overflow-y:auto;z-index:100;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.08)}
-.search-suggestions.active{display:block}
 .search-suggestion{padding:10px 16px;cursor:pointer;font-size:13px;font-family:var(--font-body);color:var(--text);display:flex;align-items:center;gap:8px;transition:background 0.1s}
-.search-suggestion:hover,.search-suggestion.highlighted{background:oklch(95% 0.02 250)}
+.search-suggestion:hover,.search-suggestion.highlighted{background:var(--surface-2)}
 .search-suggestion .sg-type{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.04em;color:var(--text-3);flex-shrink:0;width:44px}
 .search-suggestion .sg-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.search-box::before{content:'';position:absolute;left:14px;top:50%;transform:translateY(-50%);width:16px;height:16px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat}
 
 /* Events grid */
 .events-section{max-width:var(--max-w);margin:0 auto;padding:0 var(--pad) 48px}
-.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;grid-auto-rows:1fr}
+.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.events-grid > *{display:flex;flex-direction:column}
 @media(min-width:900px){.events-grid{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:1200px){.events-grid{grid-template-columns:repeat(4,1fr)}}
 @media(min-width:1600px){.events-grid{grid-template-columns:repeat(5,1fr)}}
@@ -185,12 +186,12 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   .filters{padding:0 var(--pad) 16px}
   .events-section{padding:0 var(--pad) 32px}
   .events-grid{grid-template-columns:1fr}
-  .search-section{padding:12px var(--pad) 8px}
-  .search-box input{font-size:14px;padding:10px 14px 10px 36px}
+  .header-search input{font-size:14px}
+  .hide-mobile{display:none}
   .newsletter-box{flex-direction:column;padding:28px 24px;gap:16px}
   .newsletter-form{flex-direction:column}
   .newsletter-form input{min-width:0}
-  .header-r a:not(.newsletter-btn){display:none}
+
   #date-filters{padding:0 var(--pad) 16px}
   .day-chips{gap:6px}
   .day-chip{width:36px;height:36px;border-radius:6px}
@@ -202,11 +203,17 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
 </head>
 <body>
 
-<header>
-  <div class="logo">Cheltenham Events <span>beta</span></div>
-  <div class="header-r">
-    <a href="#newsletter">Newsletter</a>
-    <a href="submit.html" class="newsletter-btn">Submit an event</a>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">Cheltenham Events <span>beta</span></div>
+    <div class="header-search">
+      <input type="text" id="search" placeholder="Search events, venues, categories..." autocomplete="off">
+      <div class="search-suggestions" id="search-suggestions"></div>
+    </div>
+    <div class="header-r">
+      <a href="#newsletter" class="hide-mobile">Newsletter</a>
+      <a href="submit.html" class="newsletter-btn">Submit an event</a>
+    </div>
   </div>
 </header>
 
