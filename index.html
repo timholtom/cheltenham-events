@@ -19,9 +19,9 @@
   --text:oklch(18% 0.01 80);
   --text-2:oklch(42% 0.015 80);
   --text-3:oklch(58% 0.01 80);
-  --accent:oklch(50% 0.15 150);
-  --accent-light:oklch(95% 0.03 150);
-  --accent-dark:oklch(38% 0.12 150);
+  --accent:oklch(48% 0.18 155);
+  --accent-light:oklch(94% 0.06 155);
+  --accent-dark:oklch(34% 0.17 155);
   --warm:oklch(62% 0.14 55);
   --warm-light:oklch(95% 0.03 55);
   --font-display:'Fraunces',Georgia,serif;
@@ -47,7 +47,7 @@ img{display:block;max-width:100%}
 .search-clear{position:absolute;right:10px;top:50%;transform:translateY(-50%);width:18px;height:18px;border:none;background:none;cursor:pointer;color:var(--text-3);font-size:16px;line-height:1;display:none;align-items:center;justify-content:center;border-radius:50%;padding:0;transition:color 0.15s}
 .search-clear:hover{color:var(--text)}
 .search-clear.visible{display:flex}
-.header-search input:focus{border-color:var(--accent);background:var(--surface);box-shadow:0 0 0 3px oklch(50% 0.15 150 / 0.1)}
+.header-search input:focus{border-color:var(--accent);background:var(--surface);box-shadow:0 0 0 3px oklch(48% 0.20 155 / 0.12)}
 .header-search::before{content:'';position:absolute;left:11px;top:50%;transform:translateY(-50%);width:15px;height:15px;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='m21 21-4.35-4.35'/%3E%3C/svg%3E") center/contain no-repeat;pointer-events:none}
 .search-suggestions{position:absolute;top:calc(100% + 4px);left:0;right:0;background:var(--surface);border:1px solid var(--border);border-radius:12px;max-height:280px;overflow-y:auto;z-index:300;display:none;box-shadow:0 8px 24px rgba(0,0,0,0.1)}
 .search-suggestions.active{display:block}
