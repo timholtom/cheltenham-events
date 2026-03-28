@@ -154,7 +154,7 @@
     "source": "visitcheltenham",
     "on_sale": false,
     "categories": [
-      "markets",
+      "market",
       "food-drink"
     ],
     "is_recurring": true,
@@ -281,7 +281,7 @@
     "source": "website",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "is_recurring": true,
     "recurrence_text": "Every Saturday & Sunday",
@@ -743,7 +743,7 @@
     "source": "website",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "is_recurring": true,
     "recurrence_text": "Every Wednesday & Sunday",
@@ -1620,7 +1620,7 @@
     "on_sale": true,
     "categories": [
       "arts-culture",
-      "markets"
+      "market"
     ],
     "image_position": "center 25%",
     "time": "10:00"
@@ -3205,7 +3205,7 @@
     "on_sale": true,
     "categories": [
       "arts-culture",
-      "markets"
+      "market"
     ],
     "image_position": "center 25%",
     "time": "17:30"
@@ -3720,7 +3720,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
@@ -4348,7 +4348,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
@@ -5222,7 +5222,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
@@ -5455,7 +5455,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
@@ -5826,7 +5826,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
@@ -5984,7 +5984,7 @@
     "source": "suffolks",
     "on_sale": false,
     "categories": [
-      "markets"
+      "market"
     ],
     "image_position": "center",
     "time": "10:00"
