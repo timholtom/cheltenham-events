@@ -1499,6 +1499,20 @@
     "image_position": "center 25%"
   },
   {
+    "name": "Emo Night at The Steam & Whistle",
+    "date": "2026-04-03",
+    "venue": "The Steam & Whistle",
+    "city": "Cheltenham",
+    "url": "https://www.reddit.com/r/cheltenham/comments/1s4crva/emo_music_lovers/",
+    "source": "reddit-cheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "image": "https://i.redd.it/97hra2gw4frg1.png"
+  },
+  {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
