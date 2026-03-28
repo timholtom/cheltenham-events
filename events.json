@@ -1,231 +1,5 @@
 [
   {
-    "name": "Comedy Huddle",
-    "date": "2026-03-27",
-    "venue": "Smokey Joe's Diner, Bar and Venue",
-    "city": "Cheltenham",
-    "url": "https://www.eventbrite.co.uk/e/comedy-huddle-tickets-1981427576219",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175645548%2F1028489781793%2F1%2Foriginal.20260123-143011?auto=format%2Ccompress&q=75&sharp=10&s=8545bcc3dea1046bda0d921b849eb3ae",
-    "source": "eventbrite",
-    "on_sale": true,
-    "categories": [
-      "comedy"
-    ],
-    "image_position": "center 25%",
-    "time": "19:45"
-  },
-  {
-    "name": "Styling Showcase with GHD Speed \u2013 Celebrating Official Good Hair Day",
-    "date": "2026-03-27",
-    "venue": "John Lewis Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.eventbrite.co.uk/e/styling-showcase-with-ghd-speed-celebrating-official-good-hair-day-tickets-1983962775067",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178410477%2F678163826753%2F1%2Foriginal.20260225-145930?auto=format%2Ccompress&q=75&sharp=10&s=57a3c296fe102621c48fef02d2896002",
-    "source": "eventbrite",
-    "on_sale": true,
-    "categories": [
-      "theatre"
-    ],
-    "image_position": "center 25%",
-    "time": "16:00"
-  },
-  {
-    "name": "Beginner Microsoft Copilot Training",
-    "date": "2026-03-27",
-    "venue": "Frogmore House, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.eventbrite.co.uk/e/beginner-microsoft-copilot-training-tickets-1983271406164",
-    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177642751%2F2922661579141%2F1%2Foriginal.20260216-164718?auto=format%2Ccompress&q=75&sharp=10&s=6b59523b84efdee60c2d979c17f7754c",
-    "source": "eventbrite",
-    "on_sale": true,
-    "categories": [
-      "business"
-    ],
-    "image_position": "center 25%",
-    "time": "09:30"
-  },
-  {
-    "name": "This Is Country",
-    "date": "2026-03-27",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/this-is-country-friday-27th-march",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/This_is_Country_1080x1350_bbfc28d3-9bc0-45b2-a570-7cde5206b14c_1200x1200.png?v=1769421178",
-    "source": "dunkertons",
-    "categories": [
-      "live-music"
-    ],
-    "on_sale": true,
-    "price": "\u00a320.00",
-    "image_position": "center 25%",
-    "time": "11:00"
-  },
-  {
-    "name": "Pay Day Sessions",
-    "date": "2026-03-27",
-    "venue": "The Bottle of Sauce",
-    "city": "Cheltenham",
-    "url": "https://dodopubs.com/event/pay-day-sessions/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.36.14.png",
-    "source": "dodo-pubs",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
-    "name": "Skivers Club",
-    "date": "2026-03-27",
-    "venue": "The Bottle of Sauce",
-    "city": "Cheltenham",
-    "url": "https://dodopubs.com/event/skivers-club/2026-03-27/",
-    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
-    "source": "dodo-pubs",
-    "on_sale": false,
-    "categories": [
-      "food-drink"
-    ],
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
-    "name": "Flash Back - Rock Covers Duo",
-    "date": "2026-03-27",
-    "venue": "The Exmouth Arms",
-    "city": "Cheltenham",
-    "url": "https://theexmouth.co.uk/whats-on/friday-27th-march-flash-back/",
-    "image": "https://theexmouth.co.uk/wp-content/uploads/2026/02/flash-back-web.png",
-    "source": "exmouth",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
-    "name": "Dark Side of the Ale \u2014 Friday Live Music",
-    "date": "2026-03-27",
-    "venue": "Sandford Park Alehouse",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/sanfordpark.house/events",
-    "image": "https://sandfordparkalehouse.co.uk/wp-content/uploads/elementor/thumbs/watch-the-lionesss-at-the-sandford-pwcwvv8ic368snid4xghk9wgrpm1cs79hmpandpwua.png",
-    "source": "facebook-page",
-    "on_sale": false,
-    "categories": [
-      "live-music",
-      "food-drink"
-    ],
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
-    "name": "The Fleetwood Mac Legacy",
-    "date": "2026-03-27",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://www.visitcheltenham.com/whats-on",
-    "image": "https://d1bry8u3byci8.cloudfront.net/as-assets/variants/kbk94dxm5ovwx1dz3gmsdawi3p75/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
-    "name": "Mikado Mayhem",
-    "date": "2026-03-27",
-    "venue": "Cheltenham Playhouse",
-    "city": "Cheltenham",
-    "url": "https://cheltplayhouse.ticketsolve.com/ticketbooth/shows/1173675124",
-    "image": "https://d1bry8u3byci8.cloudfront.net/as-assets/variants/ey8ez68hbl4dzhhf6ere5igirvre/7790667b1499641e0a482fd470ef3a3eb0b7d17469237a4cb9f28a097afaa2aa",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "theatre"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "Emilio Santoro as Elvis",
-    "date": "2026-03-27",
-    "venue": "The Bacon Theatre",
-    "city": "Cheltenham",
-    "url": "https://www.bacontheatre.co.uk/whatson/emilio-santoro-as-elvis/",
-    "image": "https://www.bacontheatre.co.uk/wp-content/uploads/2025/05/210520251747822706.jpeg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
-    "name": "An Evening of Burlesque Cabaret",
-    "date": "2026-03-27",
-    "venue": "Everyman Theatre",
-    "city": "Cheltenham",
-    "url": "https://www.everymantheatre.org.uk/shows/an-evening-of-burlesque-cabaret/",
-    "image": "https://www.everymantheatre.org.uk/media/vmwb32jz/burlesquecabaret289x177.jpg?width=725&height=468&quality=85",
-    "source": "everyman-theatre",
-    "on_sale": true,
-    "categories": [
-      "theatre",
-      "comedy"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "The Inquiry",
-    "date": "2026-03-27",
-    "venue": "Everyman Theatre",
-    "city": "Cheltenham",
-    "url": "https://www.everymantheatre.org.uk/shows/the-inquiry/",
-    "image": "https://www.everymantheatre.org.uk/media/1vxbl3ap/the-inquiry-act-3-yt-show-2026-289-x-177-px.png?width=725&height=468&quality=85",
-    "source": "everyman-theatre",
-    "on_sale": true,
-    "categories": [
-      "theatre"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "Oasiz",
-    "date": "2026-03-27",
-    "venue": "College Pool",
-    "city": "Cheltenham",
-    "url": "https://wegottickets.com/event/686705",
-    "image": "https://static.wegottickets.com/images/events/694177f32e34b_event.jpeg",
-    "source": "wegottickets",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
-    "name": "In-person meetup on Autonomous AI: from War to Cyber Defense",
-    "venue": "Hub8 MX",
-    "date": "2026-03-27",
-    "categories": [
-      "business"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/532960098/676x380.jpg",
-    "url": "https://www.meetup.com/cheltenham-data-science-machine-learning-and-ai-meetup/events/313576378/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "12:00"
-  },
-  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -258,7 +32,7 @@
     "time": "18:30"
   },
   {
-    "name": "Dark Side of Ale \u2014 Saturday Live Music",
+    "name": "Dark Side of Ale — Saturday Live Music",
     "date": "2026-03-28",
     "venue": "Sandford Park Alehouse",
     "city": "Cheltenham",
@@ -304,7 +78,7 @@
     "time": "19:30"
   },
   {
-    "name": "Robbed Zombie \u2014 Rob Zombie Tribute",
+    "name": "Robbed Zombie — Rob Zombie Tribute",
     "date": "2026-03-28",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -345,7 +119,7 @@
       "comedy"
     ],
     "on_sale": true,
-    "price": "\u00a310.00",
+    "price": "£10.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -418,7 +192,7 @@
       "dating"
     ],
     "on_sale": true,
-    "price": "\u00a37.50",
+    "price": "£7.50",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -559,7 +333,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a33.00",
+    "price": "£3.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -635,7 +409,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a312.00",
+    "price": "£12.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -699,7 +473,7 @@
     "time": "12:30"
   },
   {
-    "name": "Discoliscious \u2014 The Ultimate Inclusive Party",
+    "name": "Discoliscious — The Ultimate Inclusive Party",
     "date": "2026-04-03",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -710,7 +484,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00",
+    "price": "£20.00",
     "image_position": "center 30%",
     "time": "11:00"
   },
@@ -761,7 +535,7 @@
     "time": "20:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-04-03",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -853,7 +627,7 @@
     "time": "13:00"
   },
   {
-    "name": "Drag Wars \u2014 Heat 2",
+    "name": "Drag Wars — Heat 2",
     "date": "2026-04-04",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -880,7 +654,7 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a38.00",
+    "price": "£8.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -900,7 +674,7 @@
     "time": "19:30"
   },
   {
-    "name": "Children's Painting Workshop \u2014 Easter Special",
+    "name": "Children's Painting Workshop — Easter Special",
     "date": "2026-04-07",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -912,7 +686,7 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a312.00",
+    "price": "£12.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -989,7 +763,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a37.50",
+    "price": "£7.50",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1024,7 +798,7 @@
     "time": "19:00"
   },
   {
-    "name": "A Psychologist\u2019s Guide to Expressing Female Rage",
+    "name": "A Psychologist’s Guide to Expressing Female Rage",
     "date": "2026-04-09",
     "venue": "Parabola Arts Centre",
     "city": "Cheltenham",
@@ -1168,7 +942,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a315.00",
+    "price": "£15.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1504,7 +1278,7 @@
     "time": "11:00"
   },
   {
-    "name": "Netwalking \u2014 Creative Wellbeing Female Entrepreneurs",
+    "name": "Netwalking — Creative Wellbeing Female Entrepreneurs",
     "date": "2026-04-16",
     "venue": "Central Cross Cafe, In The Park",
     "city": "Cheltenham",
@@ -1628,7 +1402,7 @@
     "time": "7:30pm"
   },
   {
-    "name": "Lanc\u00f4me Skin & Makeup Masterclass",
+    "name": "Lancôme Skin & Makeup Masterclass",
     "date": "2026-04-18",
     "venue": "John Lewis Cheltenham",
     "city": "Cheltenham",
@@ -1643,7 +1417,7 @@
     "time": "11:00"
   },
   {
-    "name": "EVM Wrestling \u2014 You Can't Kill What Doesn't Die",
+    "name": "EVM Wrestling — You Can't Kill What Doesn't Die",
     "date": "2026-04-18",
     "venue": "Gas Green Youth & Community Centre",
     "city": "Cheltenham",
@@ -1658,7 +1432,7 @@
     "time": "14:00"
   },
   {
-    "name": "Fire Feast \u2014 Ubuntu Food",
+    "name": "Fire Feast — Ubuntu Food",
     "date": "2026-04-18",
     "venue": "DEYA Brewery",
     "source": "deya",
@@ -1688,7 +1462,7 @@
     "time": "19:30"
   },
   {
-    "name": "Drag Wars \u2014 Semi Final",
+    "name": "Drag Wars — Semi Final",
     "date": "2026-04-18",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -1865,7 +1639,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a329.00",
+    "price": "£29.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -1901,7 +1675,7 @@
     "time": "19:30"
   },
   {
-    "name": "UoG Music Society \u2014 Student Takeover",
+    "name": "UoG Music Society — Student Takeover",
     "date": "2026-04-23",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -1992,7 +1766,7 @@
     "time": "20:00"
   },
   {
-    "name": "Run Yoshi, Run \u2014 Indie/Britpop",
+    "name": "Run Yoshi, Run — Indie/Britpop",
     "date": "2026-04-24",
     "venue": "The Exmouth Arms",
     "city": "Cheltenham",
@@ -2022,7 +1796,7 @@
     "time": "19:30"
   },
   {
-    "name": "Fantazmaz \u2014 Gonna Blow Your Top UK Tour",
+    "name": "Fantazmaz — Gonna Blow Your Top UK Tour",
     "date": "2026-04-24",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2246,7 +2020,7 @@
       "theatre"
     ],
     "on_sale": true,
-    "price": "\u00a315.00",
+    "price": "£15.00",
     "image_position": "center 30%",
     "time": "11:00"
   },
@@ -2266,7 +2040,7 @@
     "time": "20:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-05-08",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2311,7 +2085,7 @@
     "time": "10:30"
   },
   {
-    "name": "Drag Wars \u2014 Grand Final",
+    "name": "Drag Wars — Grand Final",
     "date": "2026-05-09",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2338,7 +2112,7 @@
       "arts-culture"
     ],
     "on_sale": true,
-    "price": "\u00a360.00",
+    "price": "£60.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -2446,7 +2220,7 @@
     "time": "20:00"
   },
   {
-    "name": "Ed Force One \u2014 Iron Maiden Tribute",
+    "name": "Ed Force One — Iron Maiden Tribute",
     "date": "2026-05-16",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2489,7 +2263,7 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a310.00",
+    "price": "£10.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -2659,7 +2433,7 @@
     "time": "10:00"
   },
   {
-    "name": "Howlers May \u2014 Fringe Special",
+    "name": "Howlers May — Fringe Special",
     "date": "2026-05-28",
     "venue": "Cheltenham Playhouse",
     "city": "Cheltenham",
@@ -2689,7 +2463,7 @@
     "time": "19:30"
   },
   {
-    "name": "The Bubble Show 2 \u2014 More Bubbles!",
+    "name": "The Bubble Show 2 — More Bubbles!",
     "date": "2026-05-29",
     "venue": "Cheltenham Playhouse",
     "city": "Cheltenham",
@@ -2826,7 +2600,7 @@
     "time": "19:00"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-06-05",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -2841,7 +2615,7 @@
     "time": "20:00"
   },
   {
-    "name": "BID Training \u2014 Fire Marshal",
+    "name": "BID Training — Fire Marshal",
     "date": "2026-06-10",
     "venue": "Albion House Social Club",
     "city": "Cheltenham",
@@ -2991,7 +2765,7 @@
     "time": "19:30"
   },
   {
-    "name": "Metal 2 the Masses \u2014 Heat 2",
+    "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-06-26",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3051,7 +2825,7 @@
     "time": "19:30"
   },
   {
-    "name": "Force Fest: Episode I \u2014 Into the Galaxy",
+    "name": "Force Fest: Episode I — Into the Galaxy",
     "date": "2026-06-28",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
@@ -3164,7 +2938,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a320.00",
+    "price": "£20.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -3260,7 +3034,7 @@
     "time": "10:00"
   },
   {
-    "name": "The 80s Mixtape \u2014 Iconic 80s Power Anthems",
+    "name": "The 80s Mixtape — Iconic 80s Power Anthems",
     "date": "2026-07-31",
     "venue": "Dunkertons Cider",
     "city": "Cheltenham",
@@ -3271,7 +3045,7 @@
       "live-music"
     ],
     "on_sale": true,
-    "price": "\u00a315.00",
+    "price": "£15.00",
     "image_position": "center 25%",
     "time": "11:00"
   },
@@ -3444,7 +3218,7 @@
     "time": "20:00"
   },
   {
-    "name": "MC Devvo \u2014 20th Anniversary Tour",
+    "name": "MC Devvo — 20th Anniversary Tour",
     "date": "2026-10-03",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3520,7 +3294,7 @@
     "time": "20:00"
   },
   {
-    "name": "Biffy McClyro \u2014 Double Header",
+    "name": "Biffy McClyro — Double Header",
     "date": "2026-11-06",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3550,7 +3324,7 @@
     "time": "7:30pm"
   },
   {
-    "name": "Gaz Brookfield \u2014 Autumn Tour",
+    "name": "Gaz Brookfield — Autumn Tour",
     "date": "2026-11-20",
     "venue": "Frog & Fiddle",
     "city": "Cheltenham",
@@ -3760,7 +3534,7 @@
       "pub-quiz"
     ],
     "on_sale": true,
-    "price": "\u00a312.00",
+    "price": "£12.00",
     "is_recurring": true,
     "recurrence_text": "Every Tuesday",
     "image_position": "center 25%",
@@ -3812,7 +3586,7 @@
       "family"
     ],
     "on_sale": true,
-    "price": "\u00a38.50",
+    "price": "£8.50",
     "image_position": "center 25%",
     "time": "11:00",
     "is_recurring": true,
@@ -3834,7 +3608,7 @@
     "recurrence_end": "2026-12-31"
   },
   {
-    "name": "Happy Hour! \ud83c\udf7b",
+    "name": "Happy Hour! 🍻",
     "time": "17:00",
     "venue": "The Airs & Graces",
     "url": "https://dodopubs.com/event/happy-hour-%f0%9f%8d%bb/2026-03-31/",
@@ -3861,5 +3635,20 @@
     ],
     "is_recurring": true,
     "recurrence_text": "Every Monday"
+  },
+  {
+    "name": "Pub Quiz",
+    "time": "19:30",
+    "venue": "The Bottle of Sauce",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "pub-quiz"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "recurrence_end": "2026-12-31"
   }
 ]
