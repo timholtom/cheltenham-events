@@ -2278,7 +2278,7 @@
     "venue": "Smokey Joe's",
     "city": "Cheltenham",
     "url": "https://www.facebook.com/events/907797365481868/",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/smokey-joes/smokey-rocknroll-record-hop.jpg",
     "source": "facebook-page",
     "on_sale": false,
     "categories": [
@@ -2293,7 +2293,7 @@
     "venue": "Smokey Joe's",
     "city": "Cheltenham",
     "url": "https://www.facebook.com/events/1424772488600787/",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/smokey-joes/smokey-rhythm-blues-record.jpg",
     "source": "facebook-page",
     "on_sale": false,
     "categories": [
@@ -2355,7 +2355,7 @@
     "venue": "Smokey Joe's",
     "city": "Cheltenham",
     "url": "https://www.facebook.com/events/723472433938980/",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/smokey-joes/smokey-swamp-stomp.jpg",
     "source": "facebook-page",
     "on_sale": false,
     "categories": [
@@ -4245,7 +4245,7 @@
     "venue": "Smokey Joe's",
     "city": "Cheltenham",
     "url": "https://www.facebook.com/events/1527400061860481/",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/smokey-joes/smokey-dylan-night.jpg",
     "source": "facebook-page",
     "on_sale": false,
     "categories": [
