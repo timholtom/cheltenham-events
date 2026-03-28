@@ -1864,6 +1864,20 @@
     "image_position": "center 25%"
   },
   {
+    "name": "Chasingdolls + Easter All Day Lineup",
+    "date": "2026-04-05",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DVtpVLnjPv1/",
+    "image": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/650027916_18084330536463228_7325611156369589_n.jpg",
+    "source": "instagram-scrape",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Chasingdolls headline plus a stacked all-day lineup to celebrate Easter. Free entry."
+  },
+  {
     "name": "Benhall Park Easter Hunt",
     "date": "2026-04-06",
     "date_text": "",
@@ -3780,6 +3794,20 @@
     "image_position": "center 25%"
   },
   {
+    "name": "Gloucestershire Hardcore: Passedxout (Germany) + Support",
+    "date": "2026-05-10",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DV6zHejCYAp/",
+    "image": "https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/652037908_17857575153620796_2565339252026621_n.jpg",
+    "source": "instagram-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Sassy German hardcore punk (Passedxout) + Spiruline (France) + local Bristol support. Sunday show, early doors."
+  },
+  {
     "name": "Cotswold Networking Meet-up",
     "date": "2026-05-11",
     "venue": "Dunkertons Cider",
@@ -4915,6 +4943,21 @@
     "time": "19:30"
   },
   {
+    "name": "Vinestock 2026",
+    "date": "2026-07-31",
+    "venue": "The Vine",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DUoceE5jIzk/",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/631769548_18090332720514279_6509106315836478_n.jpg",
+    "source": "instagram-scrape",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "description": "Three-day celebration of local talent in aid of a local charity. Bigger and louder than ever. July 31 – August 2."
+  },
+  {
     "name": "Over 30s Daytime Clubbing",
     "date": "2026-08-01",
     "venue": "Home And Botanic Nightclub",
@@ -4927,6 +4970,36 @@
     ],
     "image": "https://d31fr2pwly4c4s.cloudfront.net/0/1/0/2204038_73019958_Over-30s-Daytime-Clubbing---Cheltenham.jpg",
     "description": "Over 30s Daytime Clubbing - Cheltenham"
+  },
+  {
+    "name": "Vinestock 2026",
+    "date": "2026-08-01",
+    "venue": "The Vine",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DUoceE5jIzk/",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/631769548_18090332720514279_6509106315836478_n.jpg",
+    "source": "instagram-scrape",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "description": "Three-day celebration of local talent in aid of a local charity. Bigger and louder than ever. July 31 – August 2."
+  },
+  {
+    "name": "Vinestock 2026",
+    "date": "2026-08-02",
+    "venue": "The Vine",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DUoceE5jIzk/",
+    "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/631769548_18090332720514279_6509106315836478_n.jpg",
+    "source": "instagram-scrape",
+    "on_sale": false,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "description": "Three-day celebration of local talent in aid of a local charity. Bigger and louder than ever. July 31 – August 2."
   },
   {
     "name": "A Country Night in Nashville",
