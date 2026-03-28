@@ -3021,7 +3021,7 @@
     ],
     "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
     "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
+    "recurrence_text": "3rd Saturday of every month (Feb–Nov), 9am–5pm"
   },
   {
     "name": "The Jay Cee Big Band Plays Count Basie",
@@ -4089,24 +4089,6 @@
     ]
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-05-16",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Xtreme Colour Run",
     "date": "2026-05-17",
     "venue": "Dunkertons Cider",
@@ -4811,24 +4793,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-06-20",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Murder Trial Tonight",
     "date": "2026-06-25",
     "venue": "Cheltenham Town Hall",
@@ -5165,24 +5129,6 @@
     "time": "7:30pm"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-07-18",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Seriously Collins: Phil Collins Tribute",
     "date": "2026-07-19",
     "venue": "The Bacon Theatre",
@@ -5383,24 +5329,6 @@
     "recurrence_text": "2nd and last Friday of every month"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-08-15",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Cheltenham Farmers Market",
     "date": "2026-08-28",
     "venue": "The Promenade",
@@ -5588,24 +5516,6 @@
     "time": "19:30"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-09-19",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Oktoberfest",
     "date": "2026-09-21",
     "venue": "Sandford Park Alehouse",
@@ -5766,24 +5676,6 @@
     "time": "18:00"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-10-17",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
-  },
-  {
     "name": "Well Run X Dunkertons 5k Night Trail",
     "date": "2026-10-21",
     "date_text": "",
@@ -5938,24 +5830,6 @@
     "categories": [
       "comedy"
     ]
-  },
-  {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-11-21",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-craft",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-craft-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of the month (Feb–Nov)"
   },
   {
     "name": "Cheltenham Farmers Market",
