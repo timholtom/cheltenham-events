@@ -983,6 +983,24 @@
     "description": "Weekly community lunch open to everyone. Pay as you feel — contribute what you can or nothing at all. Run in partnership with Wiggly and Good Food Cheltenham."
   },
   {
+    "name": "A Whittle Quiz at Whittletaps",
+    "date": "2026-03-30",
+    "venue": "Whittletaps",
+    "city": "Cheltenham",
+    "url": "https://www.awhittlequiz.co.uk/",
+    "image": "https://www.awhittlequiz.co.uk/wp-content/uploads/2024/01/logo.png",
+    "source": "manual",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Monday, 7:45pm (doors), done by 9:30pm",
+    "categories": [
+      "quiz",
+      "community",
+      "nightlife"
+    ],
+    "description": "8 rounds, live app-based scoring, rollover jackpot. £1 entry per person, max 8 per team. Book ahead — regularly 20+ teams. Run by Charlie since 2019."
+  },
+  {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
     "date": "2026-03-31",
     "venue": "The Site",
