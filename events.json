@@ -484,21 +484,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Southam Car Boot",
-    "date": "2026-03-28",
-    "date_text": "",
-    "venue": "Southam Lane",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/southam-car-boot",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F8tNlZS1C2VY1DzvqIuK1%2F1742484308186_Cheltenham-Car-Boot.jpg?alt=media&token=aef4a2e9-0dc3-4f06-837d-b8c00970343e",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "shopping"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
     "name": "Easter Days Out at Alton Towers",
     "date": "2026-03-28",
     "date_text": "",
@@ -745,21 +730,6 @@
     "categories": [
       "animals-nature",
       "community"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Car Boot and Market at the Racecourse",
-    "date": "2026-03-29",
-    "date_text": "",
-    "venue": "See pin",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/cheltenham-racecourse-car-boot-sale",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FXuZLKT2d4EH0AK1cEx64%2F1772522395376_cheltenham-car-boot-2-.jpg?alt=media&token=f66ab6dc-777e-412a-9c8b-e84abfa3607e",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "shopping"
     ],
     "on_sale": false,
     "image_position": "center 25%"
@@ -2892,24 +2862,6 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "20:00"
-  },
-  {
-    "name": "Leckhampton Spring Market and Car Boot Sale",
-    "date": "2026-04-18",
-    "date_text": "",
-    "venue": "Naunton Park School",
-    "city": "Cheltenham",
-    "url": "https://www.pta-events.co.uk/nauntonpta/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FyUgqvx9sFMN8CQVNcA26%2F1774018039210_market-in-cheltenham.jpg?alt=media&token=563f4fcc-96f3-4d4d-9ae2-785abf035778",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "shopping",
-      "arts-culture"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "14:00"
   },
   {
     "name": "St Mary's Churchyard Clear-up",
