@@ -3063,6 +3063,23 @@
     "image_position": "center 25%"
   },
   {
+    "name": "Ale Amble to Bristol Redland",
+    "date": "2026-04-25",
+    "date_text": "",
+    "venue": "Cheltenham Spa Station",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/ale-amble-to-redland/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2019/04/Pickled.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "community",
+      "outdoors"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Damian Hall: Running Forever",
     "date": "2026-04-27",
     "venue": "Cheltenham Town Hall",
@@ -3631,6 +3648,23 @@
     ],
     "image_position": "center",
     "time": "19:30"
+  },
+  {
+    "name": "Ale Amble to Warwick",
+    "date": "2026-05-22",
+    "date_text": "",
+    "venue": "Cheltenham Spa Station",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/ale-amble-to-warwick/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2019/04/Pickled.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "community",
+      "outdoors"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Soul Funker and R&B All Dayer",
