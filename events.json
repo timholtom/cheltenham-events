@@ -113,21 +113,6 @@
     "time": "19:30"
   },
   {
-    "name": "Easter Trail",
-    "date": "2026-03-28",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/easter-trail/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/bcb656b0-3729-4f8d-806a-cd2171c374f6.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
     "name": "Robbed Zombie — Rob Zombie Tribute",
     "date": "2026-03-28",
     "venue": "Frog & Fiddle",
@@ -527,21 +512,6 @@
     "time": "20:00"
   },
   {
-    "name": "Jason Fox: Embrace the Chaos",
-    "date": "2026-03-29",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/jason-fox-embrace-the-chaos/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/8b76735e-7fb7-4828-8c81-01c20f70973c.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "Writing Meetup and Social",
     "venue": "The Wilson Art Gallery & Museum",
     "date": "2026-03-29",
@@ -897,22 +867,6 @@
     ],
     "image_position": "center 25%",
     "time": "11:00"
-  },
-  {
-    "name": "Easter Crafting for Families",
-    "date": "2026-03-31",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/easter-crafting-for-families/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/74ac40b2-ad9c-4950-9b39-25f5ed7c7102.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family",
-      "arts-culture"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Chitty Chitty Bang Bang",
@@ -1620,21 +1574,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Miss Rachel: Fun for Little Ones",
-    "date": "2026-04-06",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/miss-rachel-fun-for-little-ones/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/c71fc904-9e42-49f3-b009-7d5eb7719145.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "Benhall Park Easter Hunt",
     "date": "2026-04-06",
     "date_text": "",
@@ -1699,22 +1638,6 @@
     "price": "£12.00",
     "image_position": "center 25%",
     "time": "11:00"
-  },
-  {
-    "name": "Playful Shadows: Family Drama Workshop",
-    "date": "2026-04-07",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/playful-shadows-family-drama-workshop/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/02/807bb46c-3c4d-458c-a787-95eaa07d423f.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family",
-      "theatre"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Barnum",
@@ -1852,21 +1775,6 @@
     ],
     "image_position": "center 25%",
     "time": "10:00"
-  },
-  {
-    "name": "The Legend of Barry White",
-    "date": "2026-04-09",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-legend-of-barry-white/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/40d2aa55-de9d-45f5-a66a-dac36f497c5b.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
   },
   {
     "name": "Mr Sleepybum's Dream Machine",
@@ -2093,21 +2001,6 @@
     "time": "20:00"
   },
   {
-    "name": "Northern Live",
-    "date": "2026-04-11",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/northern-live/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/f4b1314c-6816-41d0-ade8-e348399c1e23.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "GLHC Presents: Tempers Fray // Despondent",
     "date": "2026-04-11",
     "venue": "Frog & Fiddle",
@@ -2244,21 +2137,6 @@
     "time": "19:30"
   },
   {
-    "name": "An Evening with Ian Botham",
-    "date": "2026-04-14",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/an-evening-with-ian-botham/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/ab63cc9b-d976-4a77-90f2-9ccdc86e0325.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "arts-culture"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "The Spy Who Came in From the Cold",
     "date": "2026-04-14",
     "venue": "Everyman Theatre",
@@ -2318,22 +2196,6 @@
     ],
     "image_position": "center 25%",
     "time": "19:00"
-  },
-  {
-    "name": "Michaela Strachan: Not Just a Wild Life",
-    "date": "2026-04-15",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/michaela-strachan-not-just-a-wild-life/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/1a55576c-99d5-4419-a9e6-f27be23c7b5a.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy",
-      "family"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Cathryn Craig and Brian Willoughby",
@@ -2445,22 +2307,6 @@
     "time": "20:00"
   },
   {
-    "name": "Banff Mountain Film Festival",
-    "date": "2026-04-17",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/banff-mountain-film-festival/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/10/93d84c4c-d704-4926-8190-24ba3d3c2a3d.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "theatre",
-      "sport-fitness"
-    ],
-    "image_position": "center",
-    "time": "19:30"
-  },
-  {
     "name": "A Night at the Movies Cabaret",
     "date": "2026-04-17",
     "venue": "Cheltenham Playhouse",
@@ -2534,21 +2380,6 @@
     ],
     "image_position": "center",
     "time": "19:00"
-  },
-  {
-    "name": "The ELO Experience",
-    "date": "2026-04-18",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-elo-experience/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/77cecffa-3cac-43d9-93c4-b652035bcc99.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
   },
   {
     "name": "Drag Wars — Semi Final",
@@ -2659,21 +2490,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "For the Love of Rugby",
-    "date": "2026-04-19",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/for-the-love-of-rugby/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/0ba0cb80-7b47-4a67-89bb-c7afdea04d86.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "sport-fitness"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
     "name": "The Jay Cee Big Band Plays Count Basie",
     "date": "2026-04-19",
     "venue": "Cheltenham Playhouse",
@@ -2705,21 +2521,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Adam Frost",
-    "date": "2026-04-20",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/adam-frost/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/10/f3d82393-2d15-407d-8c18-beee07f258a1.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "arts-culture"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "The Constant Wife",
     "date": "2026-04-20",
     "venue": "Everyman Theatre",
@@ -2732,22 +2533,6 @@
       "theatre"
     ],
     "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "John Cooper Clarke",
-    "date": "2026-04-21",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/john-cooper-clarke/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/cf17102f-6687-4a5f-a209-9a1c2ae7cda3.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy",
-      "arts-culture"
-    ],
-    "image_position": "top",
     "time": "19:30"
   },
   {
@@ -2764,21 +2549,6 @@
     ],
     "image_position": "center",
     "time": "19:00"
-  },
-  {
-    "name": "Matt Forde: Defying Calamity",
-    "date": "2026-04-22",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/matt-forde-defying-calamity/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/a70b570b-0b62-4208-875c-1a37d0deed32.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Picnic at Hanging Rock",
@@ -2827,21 +2597,6 @@
     ],
     "image_position": "center 25%",
     "time": "17:30"
-  },
-  {
-    "name": "Thunder From Down Under",
-    "date": "2026-04-23",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/thunder-from-down-under/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/3fd95852-2d2b-4bd1-bebf-b06e043a443b.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "theatre"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
   },
   {
     "name": "UoG Music Society — Student Takeover",
@@ -2950,21 +2705,6 @@
     "time": "20:00"
   },
   {
-    "name": "Girl Power",
-    "date": "2026-04-24",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/girl-power/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/32c20d56-dce9-4d8e-a827-977f8a50c4f6.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "Fantazmaz — Gonna Blow Your Top UK Tour",
     "date": "2026-04-24",
     "venue": "Frog & Fiddle",
@@ -3039,21 +2779,6 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
-  },
-  {
-    "name": "Damian Hall: Running Forever",
-    "date": "2026-04-27",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/damian-hall-running-forever/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/a5be1939-e142-4bd2-88aa-ec2467ab9267.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "sport-fitness"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Cheltenham Jazz Festival",
@@ -3176,22 +2901,6 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
-  },
-  {
-    "name": "Cheltenham Festival of Performing Arts",
-    "date": "2026-05-06",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/cheltenham-festival-of-performing-arts/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/02/335284d6-1267-4000-aebf-148c7e023045.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "theatre",
-      "arts-culture"
-    ],
-    "image_position": "center",
-    "time": "19:30"
   },
   {
     "name": "What the Croc!?!? Quiz",
@@ -3471,21 +3180,6 @@
     "time": "11:00"
   },
   {
-    "name": "The K-Pop All Stars",
-    "date": "2026-05-17",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-k-pop-all-stars/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/1c637795-83da-4842-86fa-7fe168ee0cbc.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "Model Train Rides",
     "date": "2026-05-17",
     "date_text": "",
@@ -3515,21 +3209,6 @@
     ],
     "image_position": "center 25%",
     "time": "19:00"
-  },
-  {
-    "name": "Nick Mohammed Is Mr Swallow: Show Pony",
-    "date": "2026-05-20",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/nick-mohammed-is-mr-swallow-show-pony/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/10/befc2864-7610-492e-b627-2dd13444cf72.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy"
-    ],
-    "image_position": "top",
-    "time": "19:30"
   },
   {
     "name": "Skivers Club",
@@ -3607,36 +3286,6 @@
     "time": "20:00"
   },
   {
-    "name": "The Oceanaires Big Band and Clare Teal",
-    "date": "2026-05-23",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-oceanaires-big-band-and-clare-teal/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/3a60b9b6-e46f-43e9-bc8e-785f9c5130f4.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
-    "name": "The Candlelight Series: ABBA",
-    "date": "2026-05-24",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-candlelight-series-abba/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/7f029aa5-e7d9-4d38-bfcc-deb8d4a1c8db.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "The Suffolks Market: May Fair",
     "date": "2026-05-24",
     "venue": "The Suffolks",
@@ -3667,21 +3316,6 @@
     "time": "19:30"
   },
   {
-    "name": "Rory Bremner: Making an Impression",
-    "date": "2026-05-29",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/rory-bremner-making-an-impression/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/01/03e0d6d2-7900-4f7b-9ba5-8887f09dbd48.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "The Bubble Show 2 — More Bubbles!",
     "date": "2026-05-29",
     "venue": "Cheltenham Playhouse",
@@ -3694,21 +3328,6 @@
       "family"
     ],
     "image_position": "top",
-    "time": "19:30"
-  },
-  {
-    "name": "The Drifters",
-    "date": "2026-05-30",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/the-drifters/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/0afa1898-bc12-4198-9fdd-e6bc4127ce04.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
     "time": "19:30"
   },
   {
@@ -3883,36 +3502,6 @@
     "time": "09:30"
   },
   {
-    "name": "Jools Holland & His Rhythm & Blues Orchestra",
-    "date": "2026-06-11",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/jools-holland--his-rhythm--blues-orchestra/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/10/f6d76bea-7f38-43c5-b70d-a902d802b46b.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
-    "name": "A James Bond Concert Spectacular",
-    "date": "2026-06-12",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/a-james-bond-concert-spectacular/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/0abf5153-bc5b-4c43-bceb-5a12e46abec8.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "Three Peaks Challenge 2026 for Aim Up",
     "date": "2026-06-13",
     "venue": "Cheltenham",
@@ -3988,21 +3577,6 @@
     "time": "20:00"
   },
   {
-    "name": "Murder Trial Tonight",
-    "date": "2026-06-25",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/murder-trial-tonight/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/bf379765-d8ef-4e37-824e-58ed8fe9c095.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "theatre"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
     "name": "Metal 2 the Masses — Heat 2",
     "date": "2026-06-26",
     "venue": "Frog & Fiddle",
@@ -4033,21 +3607,6 @@
     "time": "19:30"
   },
   {
-    "name": "Adriana Brownlee: Death Zone",
-    "date": "2026-06-27",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/adriana-brownlee-death-zone/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/2b102e60-6330-4ea5-8567-bdbf696a1b2d.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "sport-fitness"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
     "name": "Tom Moriarty: Chapters",
     "date": "2026-06-27",
     "venue": "Cheltenham Playhouse",
@@ -4058,21 +3617,6 @@
     "on_sale": true,
     "categories": [
       "live-music"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
-    "name": "Force Fest: Episode I — Into the Galaxy",
-    "date": "2026-06-28",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/force-fest-episode-i--into-the-galaxy/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/02/Square-Image-for-Cheltenham-Site.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family"
     ],
     "image_position": "top",
     "time": "19:30"
@@ -4288,36 +3832,6 @@
     "time": "11:00"
   },
   {
-    "name": "Mercury: The Ultimate Queen Tribute",
-    "date": "2026-07-31",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/mercury-the-ultimate-queen-tribute/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/b969a5da-49a2-4caa-a044-59337d5ba866.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
-    "name": "A Country Night in Nashville",
-    "date": "2026-08-07",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/a-country-night-in-nashville/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/02/a7564615-834d-43ab-8fd6-479368b32570.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "Rum and Wing Festival",
     "date": "2026-08-14",
     "venue": "Sandford Park Alehouse",
@@ -4367,36 +3881,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "UK Pink Floyd Experience",
-    "date": "2026-09-03",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/uk-pink-floyd-experience/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/c88b1105-8ed3-408f-a559-e14f092870f2.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
-    "name": "Lost in Music: One Night at the Disco",
-    "date": "2026-09-04",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/lost-in-music-one-night-at-the-disco/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/d8240f2c-06e3-4d01-9fb1-c177034551d2.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "live-music"
-    ],
-    "image_position": "center 30%",
-    "time": "19:30"
-  },
-  {
     "name": "Swing From Paris",
     "date": "2026-09-04",
     "venue": "Cheltenham Playhouse",
@@ -4409,38 +3893,6 @@
       "live-music"
     ],
     "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "Jay Rayner: Nights Out in the Kitchen",
-    "date": "2026-09-10",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/jay-rayner-nights-out-in-the-kitchen/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/59b53546-375a-4ce3-bd06-cd42d51ab750.jpeg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "comedy",
-      "food-drink"
-    ],
-    "image_position": "top",
-    "time": "19:30"
-  },
-  {
-    "name": "John Barrowman: My Life in Musicals",
-    "date": "2026-09-12",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/john-barrowman-my-life-in-musicals/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/82f11c52-c865-40c3-8aad-fd5b425114c7.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "theatre",
-      "live-music"
-    ],
-    "image_position": "top",
     "time": "19:30"
   },
   {
