@@ -145,23 +145,6 @@
     "description": "Thursday night pub quiz at The Strand. Free entry — £50 bar tab up for grabs. Starts 8PM."
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-03-27",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "market",
-      "food-drink"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every 2nd & Last Friday",
-    "image_position": "center"
-  },
-  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -2349,7 +2332,7 @@
     ],
     "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
     "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
+    "recurrence_text": "2nd and last Friday of every month, 9am–2pm"
   },
   {
     "name": "Quantum Gong Bath, Guided Meditation+ Light Language",
@@ -3466,23 +3449,6 @@
     "description": "Fantazmaz on their Gonna Blow Your Top UK Tour with Bottlekids, Sak!, and more at the Frog & Fiddle."
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-04-24",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
     "date": "2026-04-25",
     "venue": "Frog & Fiddle",
@@ -3833,23 +3799,6 @@
     ],
     "image_position": "top",
     "time": "19:30"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-05-08",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "Nature Journaling in Wardens' Wood",
@@ -4410,23 +4359,6 @@
     "time": "19:30"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-05-29",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "The Scene",
     "date": "2026-05-30",
     "venue": "Cheltenham Playhouse",
@@ -4671,23 +4603,6 @@
     "time": "19:30"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-06-12",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "Three Peaks Challenge 2026 for Aim Up",
     "date": "2026-06-13",
     "venue": "Cheltenham",
@@ -4838,23 +4753,6 @@
     "time": "19:30"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-06-26",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "Tom Moriarty: Chapters",
     "date": "2026-06-27",
     "venue": "Cheltenham Playhouse",
@@ -4991,23 +4889,6 @@
         "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-second-session-tickets-1975085638312"
       }
     ]
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-07-10",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "SkyGlow Music Festival",
@@ -5220,23 +5101,6 @@
     "description": "Three-day celebration of local talent in aid of a local charity. Bigger and louder than ever. July 31 – August 2."
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-07-31",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "Over 30s Daytime Clubbing",
     "date": "2026-08-01",
     "venue": "Home And Botanic Nightclub",
@@ -5310,40 +5174,6 @@
     ],
     "image_position": "center",
     "time": "20:00"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-08-14",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-08-28",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "Cheltenham Tribute Festival 2026",
@@ -5468,23 +5298,6 @@
     "time": "19:30"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-09-11",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "John Barrowman: My Life in Musicals",
     "date": "2026-09-12",
     "venue": "Cheltenham Town Hall",
@@ -5529,23 +5342,6 @@
     ],
     "image_position": "center",
     "time": "20:00"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-09-25",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "Banff Mountain Film Festival World Tour 2026 (Blue Programme)",
@@ -5606,23 +5402,6 @@
     ],
     "image_position": "center",
     "time": "11:00"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-10-09",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "Inflatable 5K",
@@ -5724,23 +5503,6 @@
     "time": "10:00"
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-10-30",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "Halloween",
     "date": "2026-10-31",
     "venue": "Sandford Park Alehouse",
@@ -5770,23 +5532,6 @@
     ],
     "image_position": "center 25%",
     "time": "20:00"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-11-13",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "ELO Encounter",
@@ -5832,23 +5577,6 @@
     ]
   },
   {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-11-27",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
-  },
-  {
     "name": "The Suffolks Market: Christmas Market",
     "date": "2026-11-29",
     "venue": "The Suffolks",
@@ -5862,23 +5590,6 @@
     ],
     "image_position": "center",
     "time": "10:00"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-12-11",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://www.cotswoldmarkets.com/uploads/1/0/4/8/104898490/cheltenham-farmers-market-cotswold-markets_orig.jpg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month"
   },
   {
     "name": "CLOSEUP COMEDY at the Parabola Arts Centre in Cheltenham",
