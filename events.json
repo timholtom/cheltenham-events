@@ -111,6 +111,22 @@
     "recurrence_end": "2026-12-31"
   },
   {
+    "name": "1st Annual Dark Beer Festival",
+    "date": "2026-03-23",
+    "end_date": "2026-03-29",
+    "venue": "Sandford Park Alehouse",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/sanfordpark.house/events",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/sandford-park/sandford-dark-side.jpg",
+    "categories": [
+      "food-drink",
+      "community"
+    ],
+    "source": "facebook-page",
+    "on_sale": true,
+    "description": "7 days celebrating dark beer from around the world at Sandford Park Alehouse. Dark stouts, porters and more on tap."
+  },
+  {
     "name": "Cheltenham Observation Wheel",
     "date": "2026-03-26",
     "venue": "Imperial Gardens",
@@ -4610,7 +4626,8 @@
     "categories": [
       "food-drink"
     ],
-    "image_position": "center"
+    "image_position": "center",
+    "end_date": "2026-06-21"
   },
   {
     "name": "Seas the Day: Jessica Rowe & Miriam Payne",
@@ -4942,7 +4959,8 @@
       "food-drink",
       "live-music"
     ],
-    "image_position": "center"
+    "image_position": "center",
+    "end_date": "2026-07-26"
   },
   {
     "name": "Frankie's Guys",
@@ -5122,7 +5140,8 @@
       "food-drink",
       "live-music"
     ],
-    "image_position": "center"
+    "image_position": "center",
+    "end_date": "2026-08-16"
   },
   {
     "name": "Cheltenham Tribute Festival 2026",
@@ -5289,7 +5308,8 @@
     "categories": [
       "food-drink"
     ],
-    "image_position": "center"
+    "image_position": "center",
+    "end_date": "2026-10-04"
   },
   {
     "name": "Banff Mountain Film Festival World Tour 2026 (Blue Programme)",
@@ -5463,7 +5483,8 @@
       "food-drink",
       "family"
     ],
-    "image_position": "center 25%"
+    "image_position": "center 25%",
+    "end_date": "2026-11-01"
   },
   {
     "name": "Biffy McClyro — Double Header",
