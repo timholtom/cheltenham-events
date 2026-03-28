@@ -3330,6 +3330,23 @@
     "description": "This immersive performance unites modern music and contemporary dance, transforming sound into movement and emotion!"
   },
   {
+    "name": "Monthly Quiz Night at Royal Oak Prestbury",
+    "date": "2026-04-24",
+    "venue": "Royal Oak Prestbury",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/royaloakprestbury",
+    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/294969474_454382933363009_5234948448253608086_n.jpg?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfwZnawk8HPXwR6Dzqry9PnjWfG0oWbpt4ywIrwObQt7bw&oe=69CDBEA0",
+    "source": "facebook-scrape",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Last Friday of each month",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "Monthly quiz night hosted by quiz master Matt. Book early to reserve your space."
+  },
+  {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
     "date": "2026-04-25",
     "venue": "Frog & Fiddle",
@@ -3376,6 +3393,23 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "Big Phat Quiz at The Vine",
+    "date": "2026-04-26",
+    "venue": "The Vine",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/thevinecheltenham",
+    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/449027871_1227546341857568_6913428086751375347_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfzhJK3zdJf1Ztvy4RKuQ6vS0RdXJokJA2unyYTe6dexGQ&oe=69CDDF44",
+    "source": "facebook-scrape",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Last Sunday of each month",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "The Vine's popular monthly quiz night. Table booking recommended — it fills up fast."
   },
   {
     "name": "Damian Hall: Running Forever",
