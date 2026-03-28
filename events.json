@@ -3575,6 +3575,19 @@
     ]
   },
   {
+    "name": "A Guy Called Gerald: Live at DEYA Brewery",
+    "date": "2026-05-14",
+    "venue": "DEYA Brewery",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/DEYA-Brewing-Company/A-Guy-Called-Gerald---Live-In-Session-at-DEYA-Brewery/42093040/",
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/9/9/e/2208160_5074a0b5_a-guy-called-gerald-live-in-session-at-deya-brewery_400.jpg",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ]
+  },
+  {
     "name": "Red On Back Yard Ultra",
     "date": "2026-05-15",
     "venue": "Cheltenham Racecourse",
@@ -3618,6 +3631,20 @@
     ],
     "image_position": "center 30%",
     "time": "20:00"
+  },
+  {
+    "name": "Carmina Burana Inspired",
+    "date": "2026-05-16",
+    "venue": "Parabola Arts Centre",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Parabola-Arts-Centre/Carmina-Burana-Inspired/42283394/",
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/7/3/8/2234184_1a874336_carmina-burana-inspired_400.jpg",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "live-music"
+    ]
   },
   {
     "name": "Xtreme Colour Run",
@@ -4345,6 +4372,20 @@
     "time": "10:00"
   },
   {
+    "name": "Phantoms of the Popera",
+    "date": "2026-07-01",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham-Town-Hall/Phantoms-of-the-Popera/41162254/",
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/5/b/4/2208682_55244303_CLOSEUP-COMEDY-at-the-Parabola-Arts-Centre-in-Cheltenham_400.jpg",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "theatre",
+      "live-music"
+    ]
+  },
+  {
     "name": "Cheltenham Music Festival",
     "date": "2026-07-03",
     "venue": "Cheltenham",
@@ -4945,6 +4986,19 @@
     ],
     "image_position": "top",
     "time": "20:00"
+  },
+  {
+    "name": "Closeup Comedy at Parabola Arts Centre",
+    "date": "2026-11-21",
+    "venue": "Parabola Arts Centre",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Parabola-Arts-Centre/CLOSEUP-COMEDY-at-the-Parabola-Arts-Centre-in-Cheltenham/42094060/",
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/6/f/5/2208683_42509608_CLOSEUP-COMEDY-at-the-Parabola-Arts-Centre-in-Cheltenham_400.jpg",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "comedy"
+    ]
   },
   {
     "name": "The Suffolks Market: Christmas Market",
