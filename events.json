@@ -1131,22 +1131,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Easter Crafting for Families",
-    "date": "2026-03-31",
-    "date_text": "",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/easter-crafting-for-families/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/74ac40b2-ad9c-4950-9b39-25f5ed7c7102.jpg",
-    "source": "cheltenham-town-hall",
-    "categories": [
-      "arts-culture"
-    ],
-    "on_sale": true,
-    "image_position": "center 25%",
-    "time": "11:00"
-  },
-  {
     "name": "Property & Poppadoms",
     "date": "2026-04-01",
     "venue": "Indian Brasserie",
@@ -3680,7 +3664,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-jazz.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
@@ -3696,7 +3680,7 @@
     "venue": "Suffolk Parade",
     "city": "Cheltenham",
     "url": "https://www.cheltenhamrocks.co.uk/things-to-do/suffolks-sunday-market",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FfkCChCwcvb5H4q8OGRcw%2F1772570196227_2026-suffolks-sunday-markets.jpg?alt=media&token=664f5266-d786-47fd-9e31-0b472164306e",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-general.jpg",
     "source": "cheltenham-rocks",
     "categories": [
       "community",
@@ -4291,7 +4275,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-mayfair.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
@@ -5061,7 +5045,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-dogshow.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
@@ -5225,7 +5209,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-aug.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
@@ -5509,7 +5493,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-oct.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
@@ -5598,7 +5582,7 @@
     "venue": "The Suffolks",
     "city": "Cheltenham",
     "url": "https://thesuffolks.co.uk/markets/",
-    "image": "https://thesuffolks.co.uk/wp-content/uploads/2024/01/Suffolks-Market-scaled.jpg",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-xmas.jpg",
     "source": "suffolks",
     "on_sale": false,
     "categories": [
