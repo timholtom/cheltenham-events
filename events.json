@@ -2004,6 +2004,21 @@
     "time": "10:30"
   },
   {
+    "name": "Friends of Montpellier Skatepark: Skate 3 Tournament",
+    "date": "2026-04-07",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1247029687410147/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1247029687410147",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "community",
+      "sport"
+    ],
+    "description": "Skate 3 gaming tournament with fundraiser merch market. £5 entry, free to watch. All donations welcome."
+  },
+  {
     "name": "Late Sketch Club",
     "date": "2026-04-08",
     "date_text": "",
@@ -3208,6 +3223,21 @@
     "time": "19:30"
   },
   {
+    "name": "UoG Music Society Student Takeover",
+    "date": "2026-04-23",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1410983493567639/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1410983493567639",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "description": "University of Gloucestershire Music Society takeover at the Frog & Fiddle. Student bands and artists."
+  },
+  {
     "name": "The Slates - Indie Nights by Gig Life Crisis",
     "date": "2026-04-24",
     "venue": "The Steam and Whistle",
@@ -3375,6 +3405,34 @@
     "description": "Monthly quiz night hosted by quiz master Matt. Book early to reserve your space."
   },
   {
+    "name": "Avon Euro Tour 2026 ft. Alfredo Hernandez (KYUSS/QOTSA)",
+    "date": "2026-04-24",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1710970843221280/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1710970843221280",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Avon live at the Frog & Fiddle featuring Alfredo Hernandez of Kyuss and QOTSA fame, plus Nuns of the Forest."
+  },
+  {
+    "name": "Fantazmaz UK Tour + Support",
+    "date": "2026-04-24",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1489110522545119/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1489110522545119",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Fantazmaz on their Gonna Blow Your Top UK Tour with Bottlekids, Sak!, and more at the Frog & Fiddle."
+  },
+  {
     "name": "Avon ft. Alfredo Hernandez (Kyuss & QOTSA)",
     "date": "2026-04-25",
     "venue": "Frog & Fiddle",
@@ -3499,6 +3557,21 @@
     "time": "19:00"
   },
   {
+    "name": "Dragaoke! Hosted by Misty Monique",
+    "date": "2026-04-30",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/26174999505492623/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=26174999505492623",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music",
+      "community"
+    ],
+    "description": "Drag karaoke night at the Frog & Fiddle hosted by resident drag queen Misty Monique."
+  },
+  {
     "name": "Pay Day Sessions",
     "date": "2026-05-01",
     "venue": "The Bottle of Sauce",
@@ -3589,6 +3662,20 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "The May Day Parade: Free Entry All Dayer",
+    "date": "2026-05-03",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/1198268455489915/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1198268455489915",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Free entry all-day live music event at the Frog & Fiddle. Multiple bands across the day."
   },
   {
     "name": "Cheltenham Festival of Performing Arts",
@@ -4094,6 +4181,20 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "Keyframe Karnage",
+    "date": "2026-05-22",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/898946226315328/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=898946226315328",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Live music at the Frog & Fiddle featuring Buried in Bermuda, Azaleas, Struggler + more."
   },
   {
     "name": "Soul Funker and R&B All Dayer",
@@ -4805,6 +4906,20 @@
     "time": "20:00"
   },
   {
+    "name": "Moon Reaper July 2026 Tour + Support",
+    "date": "2026-07-16",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/990003130280713/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=990003130280713",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Moon Reaper on their 2026 tour, with Kryptess and Oneiromancer in support at the Frog & Fiddle."
+  },
+  {
     "name": "The After Party Summer Special",
     "date": "2026-07-17",
     "venue": "Dunkertons Cider",
@@ -5230,6 +5345,20 @@
     ],
     "image_position": "top",
     "time": "20:00"
+  },
+  {
+    "name": "MC Devvo 20th Anniversary: SIX:FORTY + Dan Cooper",
+    "date": "2026-10-03",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/events/2175149456586673/",
+    "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2175149456586673",
+    "source": "facebook-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "The infamous Donny Soldier returns to Cheltenham to celebrate 20 years of MC Devvo. With local legends SIX:FORTY and Dan Cooper."
   },
   {
     "name": "Cheltenham Literature Festival",
