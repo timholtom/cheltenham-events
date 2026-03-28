@@ -1,5 +1,55 @@
 [
   {
+    "name": "Cheltenham Observation Wheel",
+    "date": "2026-03-26",
+    "venue": "Imperial Gardens",
+    "city": "Cheltenham",
+    "url": "https://observationwheelhire.co.uk/",
+    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "family"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Open daily",
+    "image_position": "center",
+    "recurrence_end": "2026-09-30"
+  },
+  {
+    "name": "Cheltenham Farmers Market",
+    "date": "2026-03-27",
+    "venue": "The Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "markets",
+      "food-drink"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every 2nd & Last Friday",
+    "image_position": "center"
+  },
+  {
+    "name": "Dough & Groove",
+    "date": "2026-03-27",
+    "venue": "Smokey Joe's",
+    "city": "Cheltenham",
+    "url": "http://www.japes.uk/",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "live-music"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Last Thursday",
+    "image_position": "center 25%"
+  },
+  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
@@ -108,6 +158,479 @@
     "time": "01:00 PM"
   },
   {
+    "name": "Cheltenham parkrun",
+    "date": "2026-03-28",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Saturday",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Southam Car Boot Sale",
+    "date": "2026-03-28",
+    "venue": "Southam Lane, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.bootsrus.co.uk/",
+    "image": "https://static.wixstatic.com/media/cd6504_ecfeff61c1024d7c829b1f521e7018ac~mv2.jpg",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
+  },
+  {
+    "name": "The Big Batsford Bunny Hunt",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Batsford Arboretum and Garden Centre",
+    "city": "Cheltenham",
+    "url": "https://batsarb.co.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FcqWuLbKrFGYNefa3ajhh%2F1773317856369_PXL_20230409_120146171.jpg?alt=media&token=dbb55af9-3618-41f3-ab61-c9db67fdeffc",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community",
+      "sport-leisure",
+      "self-care"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "09:30"
+  },
+  {
+    "name": "Lido Opening Day",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Sandford Parks Lido",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamlido.co.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FKzNHaFas85aZzzQDZw17%2F1774000375046_Cheltenham-Lido.png?alt=media&token=b03c1404-f3c3-4d3e-aae1-8c6608c53ebf",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Trail at The Wilson",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "The Wilson Art Gallery and Museum",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/easter-trail/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FdEMPPNHyivtdroeorchj%2F1770662713620_Easter-Trail-2026-scaled.jpg?alt=media&token=65a366fa-dd3c-4028-89d6-335e2a12ebab",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "arts-culture",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Prestbury Easter Trail",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Whiskers Coffee",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/prestbury-easter-trail",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fb0Q1krZPd3dPmrO4fOpV%2F1773347035185_Prestbury-Easter-Egg-Hunt.jpg?alt=media&token=4378735e-2853-495c-af54-b70540fb3905",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Trail at Primrose Vale",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Primrose Vale",
+    "city": "Cheltenham",
+    "url": "https://primrosevale.com/easter2026/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F9cJySieMLt1G04Gf2z9j%2F1710842417900_Easter-Trail-at-Primrose-Vale.jpg?alt=media&token=545cc38b-bb07-4379-b114-2bff7d44cec2",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter at Sudeley Castle",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Sudeley Castle & Gardens",
+    "city": "Cheltenham",
+    "url": "https://sudeleycastle.co.uk/events/easter-at-sudeley-castle",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FFjdSOf29oDxJ20saONA9%2F1769864895264_Credit-Primrose-Photography-1.jpg?alt=media&token=cf93cbb1-2645-4939-a05d-63b7aa444cd2",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Gozzle - WWT Slimbridge",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "WWT Slimbridge",
+    "city": "Cheltenham",
+    "url": "https://www.wwt.org.uk/wetland-centres/slimbridge/whats-on/events/gozzle",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings-v2/6XHlYoY8iy04vG4Jh4hp/1772446933147_Gozzle-Stroud-Rocks.png",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Antiques Market",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "The Promenade Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/cheltenham-antique-and-vintage-street-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FuwKBmVkAaHWjP9Lbm8Kw%2F1705076978994_Chelt-Antiques-Market.jpg?alt=media&token=d344fab9-eee3-4c67-a8fa-a5ab3e8f1f01",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Sue Ryder Spring Fayre",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Sue Ryder Leckhampton Court Hospice Church Road Cheltenham GL53 0QJ England",
+    "city": "Cheltenham",
+    "url": "https://www.sueryder.org/get-involved/fundraise-for-us/events/sue-ryder-leckhampton-court-spring-fayre/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FW7nRxp4uvtLkaOZYIgHz%2F1769856847570_559261103_1216264763862254_1363438492338541981_n.jpg?alt=media&token=5aa6e11b-9c58-4944-b962-e9ba41567c8d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community",
+      "shopping",
+      "shows-entertainment",
+      "fetes-fairs-festivals",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Inflatable Theme Park",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Cheltenham Rugby Club",
+    "city": "Cheltenham",
+    "url": "https://inflatablethemepark.co.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FkOGykQvwnpF6NamWbpcm%2F1769807662697_cheltenham-inflatable-theme-park.jpg?alt=media&token=24093b55-467b-46f5-98ad-6a2b9c79fba5",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "fetes-fairs-festivals",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "St Paul’s Litter Pick",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "St. Pauls Road GL50 4EZ Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/st-pauls-litter-pick",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FMBvpfzOLgdm45NWnLIY9%2F1655918497749_St-Pauls-Litter-Pick.jpg?alt=media&token=53bca40a-d80d-47e8-ac71-10944c439eff",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Skater's Club",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Leisure At",
+    "city": "Cheltenham",
+    "url": "https://www.tickets.skatersclub.org.uk/",
+    "image": "https://storage.googleapis.com/mytownrocks-pw/cheltenham/1169/skaters-club-cheltenham-848x500.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "£2 Family Films at Cineworld",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Cineworld",
+    "city": "Cheltenham",
+    "url": "https://www.cineworld.co.uk/movies-for-juniors#/",
+    "image": "https://storage.googleapis.com/mytownrocks-pw/cheltenham/1475/photo-1512149074996-e923ac45be6a.jpeg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shows-entertainment"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Craft Markets at Nature in Art",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Wallsworth Hall",
+    "city": "Cheltenham",
+    "url": "https://natureinart.org.uk/mini-craft-markets/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fe2AD0U2EIUK2kHwHQZ7f%2F1774389605583_glouceter-craft-market.jpg?alt=media&token=8e2ea7b4-870c-482b-b51f-fabeec936474",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shopping",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Friends of Leckhampton Primary School Easter Trail!",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Leckhampton Primary School 58 Hall Road",
+    "city": "Cheltenham",
+    "url": "https://www.pta-events.co.uk/friendsofleckhampton/index.cfm?event=event&eventId=114989",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FbXeRXTrwIw0oi4OIcNSm%2F1774211070600_Easter-6-.png?alt=media&token=4167733d-88d5-45a7-a5ed-35309352fb6b",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "House in the Tree Play Area Re-opening",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "The House in the Tree",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/house-in-the-tree-play-area-re-opening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FWC3dV8hVMM0gdsHoK1AF%2F1773956327113_house-in-the-tree-play-area-re-opening.jpg?alt=media&token=c47b0112-239c-475e-8a84-d1f757eb0f3d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Winchcombe Easter Egg Hunt",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Winchcombe",
+    "city": "Cheltenham",
+    "url": "https://www.pta-events.co.uk/winchcombeabbey/",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/Z4WP1hu4YvVzDJXrC3Y0/1617291598858_easter.JPG",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Alton Towers Bluey the Ride: Launch",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Farley Ln",
+    "city": "Cheltenham",
+    "url": "https://prf.hn/click/camref:1011l4opAd/destination:https%3A%2F%2Fwww.altontowers.com%2F2026%2F",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings-v2/V2xX3yLZF0gaAHCdhY8W/1772563228893_Bluey-Ride-Alton-Towers.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Southam Car Boot",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Southam Lane",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/southam-car-boot",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F8tNlZS1C2VY1DzvqIuK1%2F1742484308186_Cheltenham-Car-Boot.jpg?alt=media&token=aef4a2e9-0dc3-4f06-837d-b8c00970343e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Days Out at Alton Towers",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Farley Ln",
+    "city": "Cheltenham",
+    "url": "https://prf.hn/click/camref:1011l4opAd/destination:https%3A%2F%2Fwww.altontowers.com%2F",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FvgSpbHCg4vAEorQd6bMG%2F1743168146778_FSP_Alton_Towers_2022_Opening_0131.jpg?alt=media&token=bcc81a51-05bc-4115-9ab2-aee720b58fdf",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Floats Fun at Leisure At",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Leisure At Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://leisureatcheltenham.com/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FgmQX5iumXx7jVcsG41tO%2F1761226149413_FLoats-fun.png?alt=media&token=adc4ac2e-6b75-4a5d-be48-4256deca1bcc",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "BOGOF Pizzas at School House Cafe",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.schoolhousecafe.co.uk/our-cafe/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FmbTFUG4nxDsF0Wy6xAVh%2F1769881381589_BOGOF-Pizza.png?alt=media&token=65c9d549-0901-45e1-bf75-92ed0593897c",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Prestbury Parish Council Monthly Litter Pick",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Prestbury Parish Council",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/prestbury-parish-council-monthly-litter-pick",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/sVjMB19e2481amCu9dpZ/1621350617794_Untitled-design-12-.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "King George V Playing Field Parkrun",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "King George V Playing Field",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/kinggeorgevplayingfield/",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/lkEuRZMz5s8oCR4hDW93/1637683813921_eventhomepagepicture.jpeg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Parkrun",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Leisure Centre",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "https://storage.googleapis.com/mytownrocks-pw/cheltenham/3834/cheltenham_parkrun_2.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Free basketball sessions",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Grange Field",
+    "city": "Cheltenham",
+    "url": "https://www.charltonkingsparishcouncil.gov.uk/local-events?month=2025-11#item-2032970",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FInsd1WenksraTU5ByNFX%2F1761814738778_tran-huy-PtBb68uxQX4-unsplash.jpg?alt=media&token=828a62d4-4df7-48cb-8721-d203e3c80036",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "61st Wildlife Photographer of the Year at Nature in Art",
+    "date": "2026-03-28",
+    "date_text": "",
+    "venue": "Nature in Art",
+    "city": "Cheltenham",
+    "url": "https://natureinart.org.uk/whatson/action~agenda/cat_ids~20/request_format~json/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fufbx16yuAERvASyAXjOA%2F1766145294322_-Parham-Pourahmad-Wildlife-Photographer-of-the-Year.jpg?alt=media&token=424093a0-4968-47eb-88f8-6b034d25251f",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "arts-culture",
+      "shows-entertainment"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "10:00"
+  },
+  {
     "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -181,6 +704,137 @@
     "time": "10:00"
   },
   {
+    "name": "Cheltenham Junior parkrun",
+    "date": "2026-03-29",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "sport-fitness",
+      "family"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Sunday",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-29",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "recurrence_text": "Every Sunday",
+    "is_recurring": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Dunkertons Run Club",
+    "date": "2026-03-29",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
+    "source": "dunkertons",
+    "categories": [
+      "sport-fitness"
+    ],
+    "on_sale": true,
+    "price": "",
+    "is_recurring": true,
+    "recurrence_text": "Every Sunday",
+    "image_position": "center"
+  },
+  {
+    "name": "Cheltenham Car Boot",
+    "date": "2026-03-29",
+    "venue": "Cheltenham Car Boot Site",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamcarboot.co.uk/",
+    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "markets"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
+  },
+  {
+    "name": "Sandford Park Litter Pick",
+    "date": "2026-03-29",
+    "date_text": "",
+    "venue": "20 High St",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/sandford-park-litter-pick",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FoY8KUj1rqY7RZ8Ubzv7L%2F1766761241166_479520937_606424222099248_4505638405581229576_n.jpg?alt=media&token=a804e155-b834-4589-9be2-1a4543afa9ce",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Car Boot and Market at the Racecourse",
+    "date": "2026-03-29",
+    "date_text": "",
+    "venue": "See pin",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/cheltenham-racecourse-car-boot-sale",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FXuZLKT2d4EH0AK1cEx64%2F1772522395376_cheltenham-car-boot-2-.jpg?alt=media&token=f66ab6dc-777e-412a-9c8b-e84abfa3607e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Fun and Crafts",
+    "date": "2026-03-29",
+    "date_text": "",
+    "venue": "Bishops Cleeve Football Club",
+    "city": "Cheltenham",
+    "url": "https://www.tickettailor.com/events/serenswish/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F8HJ1pvxZeYyluEAFef7s%2F1769852518797_easter.JPG?alt=media&token=09521c1d-d6df-4489-8973-e07cc1d09c63",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Junior Parkrun",
+    "date": "2026-03-29",
+    "date_text": "",
+    "venue": "The Park",
+    "city": "Cheltenham",
+    "url": "http://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "https://storage.googleapis.com/mytownrocks-pw/cheltenham/1142/junior-parkrun-cheltenham-848x500.png",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Over 30s Dating Night",
     "date": "2026-03-30",
     "venue": "Dunkertons Cider",
@@ -208,6 +862,146 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "19:00"
+  },
+  {
+    "name": "Easter at StarBistro",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Starbistro",
+    "city": "Cheltenham",
+    "url": "https://www.starbistro.org",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FTls54cXhd8U2fFU0YuGg%2F1774521435805_Easter-Lego-Shmoo.jpg?alt=media&token=213c32a6-0ce6-4bdd-a8fc-0f269f7703f7",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "arts-culture",
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "09:00"
+  },
+  {
+    "name": "Camp 4-2-11 Holiday Club",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "St Edward's School",
+    "city": "Cheltenham",
+    "url": "https://camp4211.co.uk/our-camps/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FpUNTUiYol754G2Yjp2cw%2F1710160722743_360168302_763455542446592_50032388080164604_n.jpg?alt=media&token=76a07dae-2224-4155-a7eb-10c536cd242d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Atlas Camps",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Dunalley Primary School",
+    "city": "Cheltenham",
+    "url": "https://atlascamps.co.uk/holiday-clubs/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FLDE7dPQEdthEdk0cKukz%2F1732022549158_326742176_1019891576080772_8006566541307401540_n.jpg?alt=media&token=356b474f-07ad-46c2-b8df-17a4c2ad9f61",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning",
+      "drama-dance-music",
+      "arts-culture",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Move More Holiday Camp",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Various",
+    "city": "Cheltenham",
+    "url": "https://www.move-more.org/camps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FRDYMDVTwDRABXl9JnK5t%2F1755171538393_Move-More-Camp-5.jpg?alt=media&token=38eabbff-622f-4f2f-9b68-9ff277d7d1bf",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "sport-leisure",
+      "learning",
+      "arts-culture",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "08:30"
+  },
+  {
+    "name": "Ultimate Activity Holiday Camp",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Dean Close Prep School",
+    "city": "Cheltenham",
+    "url": "https://www.ultimateactivity.co.uk/locations/cheltenham",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FQXLJHJIZFhVnis3RgjKq%2F1682674522252_Ultimate-Activity-Summer-Camp.jpg?alt=media&token=e9c1617d-f181-49dd-bc9f-6fe9b7e7d43d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning",
+      "drama-dance-music",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter at Søstrene Grene",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Søstrene Grene",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/guides/easter-savings-at-the-brewery-quarter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FVNvhHPpUxJ7erGi6Wiin%2F1774457256457_easter-at-sostrene-grene.png?alt=media&token=e4ec6aec-6ec7-47d5-a0df-3df1abfed61e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Charlton Kings Easter Hunt",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Charlton Kings Parish Council Office",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/charlton-kings-easter-egg-hunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FLgLpwWA9vTBvz9FxH2ye%2F1711447383200_Easter-Egg-Hunt-3-.png?alt=media&token=4d871d2e-cd5b-40a0-9fc1-391f99e6949c",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Bikeability Courses",
+    "date": "2026-03-30",
+    "date_text": "",
+    "venue": "Gloucestershire",
+    "city": "Cheltenham",
+    "url": "https://forms.office.com/pages/responsepage.aspx?id=VMeuX-NkFECbzOcvxzujEmdRNJv-obJKrFBgwQSp1BhUOTRaSlM3TzBCTjI5VFZGMDNLRE8yUlpXRC4u",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings-v2/R6ewQsRr0iDtAA4oNKOZ/1770669150112_img20250415101142.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
@@ -287,6 +1081,88 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-03-31",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "pub-quiz"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%",
+    "time": "20:00"
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-31",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
+    "source": "dunkertons",
+    "categories": [
+      "pub-quiz"
+    ],
+    "on_sale": true,
+    "price": "£12.00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%",
+    "time": "19:30"
+  },
+  {
+    "name": "Easter Crafts at the Wilson",
+    "date": "2026-03-31",
+    "date_text": "",
+    "venue": "The Wilson Art Gallery and Museum and The Wilson Kitchen arts café 51 Clarence Street Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/easter-crafting-for-families/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FX0kJP6jNfE9XBGncsXhP%2F1773953137652_easter-crafts-at-the-Wilson-cheltenham.jpg?alt=media&token=e866499e-18a1-462c-9039-bacb12314184",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Holiday Activities at Nature in Art",
+    "date": "2026-03-31",
+    "date_text": "",
+    "venue": "Nature in Art",
+    "city": "Cheltenham",
+    "url": "https://natureinart.org.uk/activitydays/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FmWu6A2RcnZ9vCUdkyo2r%2F1772212991377_crown.jpg?alt=media&token=509b3e88-88da-4f61-98b3-e835eef12e1f",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Moreton-in-Marsh Market",
+    "date": "2026-03-31",
+    "date_text": "",
+    "venue": "Moreton-in-Marsh",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/moreton-in-marsh-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FrUlyaR2OgqZM6ymJjUkA%2F1761812181935_514456870_10162101051624272_3027566507570028488_n.jpg?alt=media&token=79a55be7-bab1-429f-89c5-63e7ba6505b6",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Property & Poppadoms",
@@ -397,6 +1273,40 @@
     "time": "18:00"
   },
   {
+    "name": "Bake Back in Time: Easter Treats",
+    "date": "2026-04-01",
+    "date_text": "",
+    "venue": "Holst Victorian House",
+    "city": "Cheltenham",
+    "url": "https://holstvictorianhouse.org.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FsuwCcQIXcKX7eRsRFLyX%2F1773761116030_IMG_3711.JPG?alt=media&token=01aefe19-6f5d-4fee-9e72-aefe2452faf1",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "learning",
+      "shows-entertainment"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Holiday Workshop: Cardboard Costume Creations",
+    "date": "2026-04-01",
+    "date_text": "",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/easter-holiday-workshop-cardboard-costume-creations",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FNpCJc4GS19J6EuSBxXai%2F1774018755992_cardboard-workshop.png?alt=media&token=664ac56f-f2f4-4545-92d8-1106595973d0",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "drama-dance-music",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Cotswold Children's Parties Presents, Phil's Big Bunny Show!",
     "date": "2026-04-02",
     "venue": "Dunkertons Cider",
@@ -455,6 +1365,72 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "20:00"
+  },
+  {
+    "name": "Nature Tots at Crickley Hill",
+    "date": "2026-04-02",
+    "date_text": "",
+    "venue": "Crickley Hill Country Park",
+    "city": "Cheltenham",
+    "url": "https://www.gloucestershirewildlifetrust.co.uk/events/2026-04-02-nature-tots-crickley-hill-spring-springing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FcEAPlfzIY4mGqfbVn4c4%2F1773955345876_Crickley-Image.jpg.webp?alt=media&token=ee6dce21-36a9-4a0b-b796-5b7c5dbc52d0",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "learning",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Hoppin' Boppin' Easter Party",
+    "date": "2026-04-02",
+    "date_text": "",
+    "venue": "Leisure at Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://leisureatcheltenham.com/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FfytEMIKYt5KBMGGETb32%2F1772965453803_easter-party-hoppin-boppin.jpg?alt=media&token=d629bb40-24eb-43de-b3d0-1c78d8487873",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Seren’s Wish Charity Easter Disco",
+    "date": "2026-04-02",
+    "date_text": "",
+    "venue": "Bishops Cleeve Football Club",
+    "city": "Cheltenham",
+    "url": "https://www.tickettailor.com/events/serenswish/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FRijI2WqbqRuOHKrJxkz8%2F1769852175723_Easter.png?alt=media&token=56ddb3e6-d8fd-4a2b-a246-c85c337a8370",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Pittville Park Gardening and Litter Picking Volunteer Group",
+    "date": "2026-04-02",
+    "date_text": "",
+    "venue": "St Arvans Court",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/pittville-gardening-and-litter-picking-volunteer-group",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F52onhFA21N0YK25pVt3l%2F1766762735694_196078309_5499349516804778_1853395307627325961_n.jpg?alt=media&token=2ede34b8-50af-4ab9-ab4d-74ff8b55760d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Spring Trail",
@@ -550,6 +1526,99 @@
     "time": "20:00"
   },
   {
+    "name": "Easter Fun at The Plough Prestbury",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "Mill St",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/easter-fun-day-at-the-plough-prestbury",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FrWLFHw3TkiTVddujbYoY%2F1773091941003_571814643_18369724618156208_4761071541306864059_n.jpg?alt=media&token=7335ca53-b54b-4d53-9213-76c999577385",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "arts-culture",
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Roller Disco | Roller Revolution",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "Cheltenham Ladies College Sports Centre",
+    "city": "Cheltenham",
+    "url": "https://www.rollerrevolution.co.uk/book-online",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FxK5hXQGHegy3QHTLmxId%2F1680091313228_Roller-Skating-Cheltenham.jpg?alt=media&token=43608181-7b3a-4f79-b674-85cebcf833fd",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Greatfield PTA Easter Bunny Trail",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "Greatfield Park Primary School Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/greatfield-pta-easter-bunny-trail",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FQspnVjI6s4nTq6e5lUMY%2F1774624235588_Easter-12-.png?alt=media&token=4e081b2c-a074-42fa-a917-71a6a1159149",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "The Bayshill Easter Party",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "The Bayshill Pub",
+    "city": "Cheltenham",
+    "url": "https://www.thebayshill.co.uk/event-details/childrens-easter-party",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FrqSYckb3hJUqRVNL6ZdT%2F1774386599709_Easter-Egg-Hunt-3-.png?alt=media&token=753807fe-9dca-4743-81ea-cd44120da94d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Cleeve Common Easter Trail",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "Cleeve Hill Golf Club",
+    "city": "Cheltenham",
+    "url": "https://www.eventbrite.co.uk/e/cleeve-common-spring-trail-tickets-1980580470503",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fj4fVRy2Bwf8MBzqDdJyB%2F1742213414409_DSC_0052.JPG?alt=media&token=cbc2e26f-1a09-4da4-a3fc-eef81a01a2f6",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "GWSR Bricks Weekend",
+    "date": "2026-04-03",
+    "date_text": "",
+    "venue": "Cheltenham Race Course Railway Station",
+    "city": "Cheltenham",
+    "url": "https://www.gwsr.com/events/bricks-bricks-and-more-bricks",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FMBVRORCbVz0UHTpUzJgy%2F1773051129284_GSWR-Bricks-Weekend.jpg?alt=media&token=7de0fbef-e55e-482d-b160-443b615e6f83",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
@@ -643,6 +1712,132 @@
     "time": "20:00"
   },
   {
+    "name": "Regeneration Repair Cafe",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "St Andrews Church Montpellier Cheltenham GL50 1SP",
+    "city": "Cheltenham",
+    "url": "http://www.vision21.org.uk/news/regeneration-repair-cafe/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FAQJAeM0XNhZZs08YhY2f%2F1685705699396_Repair-Cafe.jpg?alt=media&token=df66601e-9a39-4000-81d2-91e72b8a886c",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Friends of Elmfield Litter Pick",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "Elmfield Park",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/friends-of-elmfield-park-litter-pick",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/lwM68ArMgJUVaI69fe4c/1620907127688_Untitled-design-8-.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Kids' Easter Clay Chicks Workshop",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "Hobbycraft",
+    "city": "Cheltenham",
+    "url": "https://classbento.co.uk/kids-easter-clay-chicks-workshop",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings-v2/OKzo1ISK0yp3LfDQsHIl/1774203730629_kids-easter-clay-chicks-workshop-2-portrait-big.png",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Hatherley Park Easter Egg Hunt",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "Bournside Rd",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/the-friends-of-hatherley-park-easter-egg-hunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FSeKbnozySqjkxwzWfavh%2F1742992370085_Hatherley-Park-Easter-Egg-Hunt-2.jpg?alt=media&token=48471966-736c-4243-89bc-b2c5c0b49014",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Egg Hunt at the Hatherley",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "293 Hatherley Rd",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/easter-egg-hunt-at-the-hatherley",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FpC98MQf3O8n06z6CYcaQ%2F1742992601839_sebastian-staines-NV4YaqJ2eZY-unsplash.jpg?alt=media&token=251c1338-2341-4b05-9355-b347519ea470",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Painswick Playgroup Easter Egg Hunt",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "Memorial Grounds of St Mary's Church",
+    "city": "Cheltenham",
+    "url": "https://www.zeffy.com/en-GB/ticketing/painswick-easter-egg-hunt--2026",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F1rrXER82jN8ZClTX1yuz%2F1743760110229_WhatsApp-Image-2025-03-19-at-12.28.18.jpeg?alt=media&token=b1b52983-9f4d-4e33-8c22-b033a8a058cd",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "fetes-fairs-festivals"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "The Great Easter Escape",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "St Edward's School",
+    "city": "Cheltenham",
+    "url": "https://freedomcheltenham.church/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FMmwHgqx4vKDNbAGaWj2A%2F1772832981814_Copy-of-The-Great-easter-escape-Presentation-1-.jpg?alt=media&token=5deecd0e-c5d8-4934-9c00-d6551e6a9d4f",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "11:00"
+  },
+  {
+    "name": "Springfield Park Monthly Community Litter Pick",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "Blake Croft",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/springfield-park-monthly-community-litter-pick",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/9fQn7GVrb5nyDWef0BZx/1621351078108_Untitled-design-11-.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Easter Trail Hunt",
     "date": "2026-04-05",
     "venue": "Dunkertons Cider",
@@ -659,6 +1854,53 @@
     "time": "11:00"
   },
   {
+    "name": "The Royal Easter Egg Hunt",
+    "date": "2026-04-05",
+    "date_text": "",
+    "venue": "54 Horsefair St",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/the-royal-easter-egg-hunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FafawfnyHnVbU73YySjSR%2F1744030515852_Easter.png?alt=media&token=424b5874-de37-49a3-bd8a-38444e5ff986",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Shurdington Easter Egg Hunt",
+    "date": "2026-04-05",
+    "date_text": "",
+    "venue": "The Pavilion",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/shurdington-easter-egg-hunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F8OT1nSx85rRzDb6YzIPU%2F1773091400226_Easter-5-.png?alt=media&token=7f53d7ed-c516-4daf-a9a3-f0554d624800",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "The Slaughters Country Inn Easter Egg Hunt",
+    "date": "2026-04-05",
+    "date_text": "",
+    "venue": "The Slaughters Country Inn  Lower Slaughter GL54 2HS",
+    "city": "Cheltenham",
+    "url": "https://theslaughtersinn.wearegifted.co.uk/easter-egg-hunt",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FOIiAXFm1ak3FjqpN4RFg%2F1773050340371_easter-hunt-at-the-slaughters.jpg?alt=media&token=28f82dee-645a-48a6-8321-28a3e532eedd",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Miss Rachel: Fun for Little Ones",
     "date": "2026-04-06",
     "venue": "Cheltenham Town Hall",
@@ -672,6 +1914,55 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Benhall Park Easter Hunt",
+    "date": "2026-04-06",
+    "date_text": "",
+    "venue": "Benhall Park",
+    "city": "Cheltenham",
+    "url": "https://www.benhallresidentsassociation.org/product/easter-hunt/57",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FV5rCqr5pVOOZTqbISH6V%2F1773348951354_Easter-Egg-Hunt-9-.png?alt=media&token=142b5836-828a-491c-8002-51ed0d7259bb",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Elkstone Studios Easter Fun Day",
+    "date": "2026-04-06",
+    "date_text": "",
+    "venue": "Elkstone Studios  Elkstone Studios Elkstone GL53 9PQ",
+    "city": "Cheltenham",
+    "url": "https://www.elkstone-studios.com/event-details/elkstone-studios-easter-fun-day",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FsevJlqfB2fWeYx3vM5KX%2F1709481511980_https___cdn.evbuc.com_images_676599989_1890748576373_1_original.jpeg?alt=media&token=b9442f70-9e4b-4413-b114-b0da9f019ef3",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "shows-entertainment",
+      "fetes-fairs-festivals"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Easter Crafternoon",
+    "date": "2026-04-06",
+    "date_text": "",
+    "venue": "Horsefair St",
+    "city": "Cheltenham",
+    "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=yLBcGtI8TEy_3uE_-hO9aDXujSvtTqpFt7dGQCtAig9UOUQ4MktIUlFCU082QUVEMURVNUU4NUJUQi4u&origin=lprLink",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fl0O780oOvYFOQijGgjzv%2F1773093384861_Easter-3-.png?alt=media&token=83c2562d-da49-4d71-b06a-56f78ceae5b3",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "arts-culture",
+      "shows-entertainment",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Children's Painting Workshop — Easter Special",
@@ -733,6 +2024,23 @@
     "source": "meetup",
     "city": "Cheltenham",
     "time": "20:00"
+  },
+  {
+    "name": "Young Guns - School Holiday Activity",
+    "date": "2026-04-07",
+    "date_text": "",
+    "venue": "Ian Coley Sporting",
+    "city": "Cheltenham",
+    "url": "https://www.iancoley.co.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FvNfNinZ3qxH0uoG9L0ap%2F1774263207842_IMG_1071.jpg?alt=media&token=d1d8bc1d-c704-4b9d-97ab-b4c4fe182d02",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "sport-leisure",
+      "learning"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "10:00"
   },
   {
     "name": "Late Sketch Club",
@@ -915,6 +2223,22 @@
     ]
   },
   {
+    "name": "Where Next?",
+    "date": "2026-04-09",
+    "date_text": "",
+    "venue": "Dunkertons Park",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/melanie-carr-where-next",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FMVzVHfDddeSiZUGUDhsd%2F1774529935658_Pittville-Park_no-text.jpeg?alt=media&token=690a7dfc-4941-4e8c-a87b-f2607763693e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Spring Session",
     "date": "2026-04-10",
     "venue": "The Tappy",
@@ -1022,6 +2346,21 @@
     "time": "20:00"
   },
   {
+    "name": "Farmers Market",
+    "date": "2026-04-10",
+    "date_text": "",
+    "venue": "The Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/oBN5cOjqnDCcPSU51fxW/1642066209801_Untitled-design-2022-01-13T093000.060.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Quantum Gong Bath, Guided Meditation+ Light Language",
     "date": "2026-04-11",
     "venue": "The Isbourne - Holistic Wellbeing",
@@ -1125,6 +2464,68 @@
     "time": "11:00"
   },
   {
+    "name": "Bishops Cleeve Repair Cafe",
+    "date": "2026-04-11",
+    "date_text": "",
+    "venue": "Bishops Cleeve Youth Centre",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/bishops-cleeve-repair-cafe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fo9LrQEPwATqK39BsXE98%2F1769853740440_476987341_930381702546221_511209525898038909_n.jpg?alt=media&token=98e38023-5901-40b9-b7e0-7976f75351c4",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Kids' Easter Egg Character Workshop",
+    "date": "2026-04-11",
+    "date_text": "",
+    "venue": "Hobbycraft",
+    "city": "Cheltenham",
+    "url": "https://classbento.co.uk/kids-easter-egg-character-workshop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FAQE6fXmrNu2Iq8vo4wdT%2F1774204120875_kids-easter-egg-character-workshop-600.png?alt=media&token=0a3846cd-5f52-48b8-99e8-bdb28b8814b3",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Hester's Way Litter Picks",
+    "date": "2026-04-11",
+    "date_text": "",
+    "venue": "Kempton Grove",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/hesters-way-litter-picks",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FOntHatUDYm81CaUeIBec%2F1766762126937_595172209_122174615132524455_6042081012962493645_n.jpg?alt=media&token=ebf0e62b-1a50-4f72-89d7-8fb267226208",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Winchcombe Country Market",
+    "date": "2026-04-11",
+    "date_text": "",
+    "venue": "Guide Hall GL54 5LJ Winchcombe",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/winchcombe-country-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FdavuxRDKe0zhGmq461Rf%2F1761811783132_470232953_1070386428219271_5418025811753558571_n.jpg?alt=media&token=2312ee21-f7ab-436c-a091-d742fe48a858",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Nurture & Nourish",
     "date": "2026-04-12",
     "venue": "Elkstone Studios",
@@ -1138,6 +2539,23 @@
     ],
     "image_position": "center 25%",
     "time": "12:00"
+  },
+  {
+    "name": "Dad Matters Stay & Play",
+    "date": "2026-04-12",
+    "date_text": "",
+    "venue": "Gardners Lane Childrens Centre  Gardner's Lane  Cheltenham GL51 9JW",
+    "city": "Cheltenham",
+    "url": "https://home-startgloucestershire.org.uk/dad-matters/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fy9AZFZDoavWEtfOOfxMC%2F1769867188317_2025-aa-dad-matters-2578-scaled.jpg?alt=media&token=e325f462-1753-47f0-ac45-029221a8276a",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "family",
+      "self-care"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Jazz in the Studio",
@@ -1260,6 +2678,22 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Drama Tots - All Stars (Gretton Village Hall)",
+    "date": "2026-04-15",
+    "date_text": "",
+    "venue": "Gretton Village Hall",
+    "city": "Cheltenham",
+    "url": "https://www.dramatots.co.uk/cheltenham",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fs4D01ZMrb6EzgWXFraoZ%2F1773084884914_1000017439.png?alt=media&token=fb298d25-d4a8-4df8-af25-f995295ff553",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "drama-dance-music",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "26.1: In the Eye of the Storm",
@@ -1506,6 +2940,87 @@
     "time": "20:00"
   },
   {
+    "name": "Leckhampton Spring Market and Car Boot Sale",
+    "date": "2026-04-18",
+    "date_text": "",
+    "venue": "Naunton Park School",
+    "city": "Cheltenham",
+    "url": "https://www.pta-events.co.uk/nauntonpta/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FyUgqvx9sFMN8CQVNcA26%2F1774018039210_market-in-cheltenham.jpg?alt=media&token=563f4fcc-96f3-4d4d-9ae2-785abf035778",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shopping",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "14:00"
+  },
+  {
+    "name": "St Mary's Churchyard Clear-up",
+    "date": "2026-04-18",
+    "date_text": "",
+    "venue": "St Mary's Churchyard",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/st-marys-churchyard-clear-up",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FzPOBSMmzlzXHJa1nbHKJ%2F1773347569869_large-1-.webp?alt=media&token=c0f2b88c-9fe7-4fba-9135-dfe39f5a2804",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Sacred Earth book launch with Fiona McIntyre",
+    "date": "2026-04-18",
+    "date_text": "",
+    "venue": "Nature in Art",
+    "city": "Cheltenham",
+    "url": "https://natureinart.org.uk",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F8foP7rMrt2JByURSzgAv%2F1773158443142_2.jpg?alt=media&token=48ed90c6-63e6-4085-b120-dcdb49d99426",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "arts-culture"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "18:30"
+  },
+  {
+    "name": "Charlton Kings Repair Cafe",
+    "date": "2026-04-18",
+    "date_text": "",
+    "venue": "Church St",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/charlton-kings-repair-cafe",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FVqnVsmhdh8khRICi9sgn%2F1736530119618_alexander-grey-TAZUc51iPUM-unsplash.jpg?alt=media&token=a863da07-adcc-4953-817a-60d3d6e6ff42",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Arts and Crafts Market",
+    "date": "2026-04-18",
+    "date_text": "",
+    "venue": "Municipal Offices",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/cheltenham-arts-and-crafts-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FKD3GKMc2X6TQRhblV8H0%2F1761770994405_image-asset.webp?alt=media&token=bf9693c0-82dd-4ab3-ae28-ca2c6c06be3d",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "For the Love of Rugby",
     "date": "2026-04-19",
     "venue": "Cheltenham Town Hall",
@@ -1534,6 +3049,22 @@
     ],
     "image_position": "center 25%",
     "time": "19:30"
+  },
+  {
+    "name": "Kids Swap Shop",
+    "date": "2026-04-19",
+    "date_text": "",
+    "venue": "Stanton Suite",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/kids-swap-shop",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FkaedSykbIEejVFMBwXD4%2F1763202375277_1730203776712_2.png?alt=media&token=23c7260d-3f50-45db-934e-bb1db1ff6570",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shopping"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Adam Frost",
@@ -1856,6 +3387,38 @@
     "time": "20:00"
   },
   {
+    "name": "Baby & Kids Nearly New Sale",
+    "date": "2026-04-25",
+    "date_text": "",
+    "venue": "St Margaret's Hall & Annex",
+    "city": "Cheltenham",
+    "url": "https://www.mum2mummarket.co.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F5fvpjC4pJiojsf4sDyEG%2F1769865268131_625237219_1335540658570968_3446213945948293635_n.jpg?alt=media&token=49e07bf4-519d-4c55-bbdb-bd408bda7f1f",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping",
+      "pregnancy"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Nipper The Dog Family Trail",
+    "date": "2026-04-25",
+    "date_text": "",
+    "venue": "Holst Victorian House",
+    "city": "Cheltenham",
+    "url": "https://www.holstvictorianhouse.org.uk",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FKpRImo0wOC7TIALPPIQ9%2F1721137685831_Nipper-Trail-.jpg?alt=media&token=dd1ad48b-28a6-4410-a4f0-bf1107b905b6",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Damian Hall: Running Forever",
     "date": "2026-04-27",
     "venue": "Cheltenham Town Hall",
@@ -1973,6 +3536,24 @@
     ],
     "image_position": "center",
     "time": "10:00"
+  },
+  {
+    "name": "Suffolks Sunday Markets",
+    "date": "2026-05-03",
+    "date_text": "",
+    "venue": "Suffolk Parade",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/suffolks-sunday-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FfkCChCwcvb5H4q8OGRcw%2F1772570196227_2026-suffolks-sunday-markets.jpg?alt=media&token=664f5266-d786-47fd-9e31-0b472164306e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "shopping",
+      "fetes-fairs-festivals",
+      "food-drink"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham Festival of Performing Arts",
@@ -2283,6 +3864,22 @@
     "time": "19:30"
   },
   {
+    "name": "Model Train Rides",
+    "date": "2026-05-17",
+    "date_text": "",
+    "venue": "Hatherley Lane",
+    "city": "Cheltenham",
+    "url": "https://www.cheltsme.org.uk/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FpwJprUO54GzbQJYZhmjg%2F1769862802689_model-train-rides.jpg?alt=media&token=d18d24e9-efd4-4eae-86d1-e1f81efad8aa",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "learning",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "An Evening of Mediumship with Carol Green",
     "date": "2026-05-18",
     "venue": "Bar No.9",
@@ -2521,6 +4118,25 @@
     ],
     "image_position": "center 25%",
     "time": "09:30"
+  },
+  {
+    "name": "Sandford Park Summer Festival",
+    "date": "2026-05-31",
+    "date_text": "",
+    "venue": "Sandford Park",
+    "city": "Cheltenham",
+    "url": "https://www.sandfordparkfriends.co.uk",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FxwiTQRY2Zo9Ull4uf5Qc%2F1772569612710_sandford-park-summer-festival.jpeg?alt=media&token=fef7fb2d-dc0f-485a-9300-03319ace0d9e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "community",
+      "drama-dance-music",
+      "shopping",
+      "shows-entertainment",
+      "fetes-fairs-festivals"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "Cheltenham Science Festival",
@@ -3034,6 +4650,26 @@
     "time": "10:00"
   },
   {
+    "name": "AppFest Family Festival",
+    "date": "2026-07-30",
+    "date_text": "",
+    "venue": "Hillworth Farm",
+    "city": "Cheltenham",
+    "url": "https://www.app-fest.co.uk/?utm_source=cheltenhamrocks&utm_medium=cheltenhamrocks&utm_content=cheltenhamrocks",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fdea8M1q68igd7voKSNAN%2F1774432684648_family-festival-appfest.jpg?alt=media&token=9e303df1-90ae-432a-8180-094f134a7f0b",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "drama-dance-music",
+      "shopping",
+      "shows-entertainment",
+      "family",
+      "food-drink",
+      "self-care"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "The 80s Mixtape — Iconic 80s Power Anthems",
     "date": "2026-07-31",
     "venue": "Dunkertons Cider",
@@ -3063,6 +4699,24 @@
     ],
     "image_position": "center 30%",
     "time": "19:30"
+  },
+  {
+    "name": "Lakefest Festival",
+    "date": "2026-08-06",
+    "date_text": "",
+    "venue": "Eastnor Castle",
+    "city": "Cheltenham",
+    "url": "https://www.lakefest.co.uk",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FmLponilMulleeBaJ9jbu%2F1753094153798_475424604_1126366772227570_4088070795594120609_n.jpg?alt=media&token=699c2096-ff47-49e7-a2b7-f4bda136258f",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "drama-dance-music",
+      "shows-entertainment",
+      "fetes-fairs-festivals",
+      "family"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "A Country Night in Nashville",
@@ -3096,6 +4750,23 @@
     "time": "20:00"
   },
   {
+    "name": "The Big Feastival",
+    "date": "2026-08-28",
+    "date_text": "",
+    "venue": "Alex James's Farm",
+    "city": "Cheltenham",
+    "url": "https://bigfeastival.com/",
+    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/rRqScs0eQg3tA5RLZ0Kw/1615468436937_Screenshot-2021-03-11-at-13.13.09.png",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "drama-dance-music",
+      "shows-entertainment",
+      "fetes-fairs-festivals"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "The Suffolks Market: Bank Holiday",
     "date": "2026-08-30",
     "venue": "The Suffolks",
@@ -3109,6 +4780,24 @@
     ],
     "image_position": "center",
     "time": "10:00"
+  },
+  {
+    "name": "Coberley Village Fete",
+    "date": "2026-08-31",
+    "date_text": "",
+    "venue": "Coberley School",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/coberley-village-fete-produce-show",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FF2B2i2aH8heWkZTalnYV%2F1693036155389_Coberley-Village-Fete.jpg?alt=media&token=b6936e65-5620-4f81-bf71-558c6943422e",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "animals-nature",
+      "community",
+      "shopping",
+      "fetes-fairs-festivals"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
   },
   {
     "name": "UK Pink Floyd Experience",
@@ -3248,6 +4937,25 @@
     "time": "11:00"
   },
   {
+    "name": "Vegan Market",
+    "date": "2026-10-11",
+    "date_text": "",
+    "venue": "Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.veganfairs.co.uk/upcoming-events/cheltenham-autumn-vegan-market",
+    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FAoq4J5At2gXUQzJsjtpD%2F1687768396639_Stroudveganmarket.jpg?alt=media&token=10c498c4-76b8-453e-9d03-bb72e673a0d3",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "shopping",
+      "shows-entertainment",
+      "fetes-fairs-festivals",
+      "food-drink",
+      "self-care"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Sue Ryder Starlight Hike",
     "date": "2026-10-17",
     "venue": "Ashley Manor Preparatory School",
@@ -3352,193 +5060,6 @@
     ],
     "image_position": "center",
     "time": "10:00"
-  },
-  {
-    "name": "Cheltenham Observation Wheel",
-    "date": "2026-03-26",
-    "venue": "Imperial Gardens",
-    "city": "Cheltenham",
-    "url": "https://observationwheelhire.co.uk/",
-    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "family"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Open daily",
-    "image_position": "center",
-    "recurrence_end": "2026-09-30"
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-03-27",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.cotswoldmarkets.com/cheltenham-farmers-2",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "markets",
-      "food-drink"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every 2nd & Last Friday",
-    "image_position": "center"
-  },
-  {
-    "name": "Dough & Groove",
-    "date": "2026-03-27",
-    "venue": "Smokey Joe's",
-    "city": "Cheltenham",
-    "url": "http://www.japes.uk/",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Last Thursday",
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Cheltenham parkrun",
-    "date": "2026-03-28",
-    "venue": "Pittville Park",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham/",
-    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "sport-fitness"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Saturday",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Southam Car Boot Sale",
-    "date": "2026-03-28",
-    "venue": "Southam Lane, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.bootsrus.co.uk/",
-    "image": "https://static.wixstatic.com/media/cd6504_ecfeff61c1024d7c829b1f521e7018ac~mv2.jpg",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "markets"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
-  },
-  {
-    "name": "Cheltenham Junior parkrun",
-    "date": "2026-03-29",
-    "venue": "The Park, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
-    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "sport-fitness",
-      "family"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Sunday",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-29",
-    "venue": "The Exmouth Arms",
-    "city": "Cheltenham",
-    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
-    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
-    "source": "exmouth",
-    "on_sale": false,
-    "categories": [
-      "pub-quiz"
-    ],
-    "recurrence_text": "Every Sunday",
-    "is_recurring": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Dunkertons Run Club",
-    "date": "2026-03-29",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
-    "source": "dunkertons",
-    "categories": [
-      "sport-fitness"
-    ],
-    "on_sale": true,
-    "price": "",
-    "is_recurring": true,
-    "recurrence_text": "Every Sunday",
-    "image_position": "center"
-  },
-  {
-    "name": "Cheltenham Car Boot",
-    "date": "2026-03-29",
-    "venue": "Cheltenham Car Boot Site",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamcarboot.co.uk/",
-    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "markets"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-03-31",
-    "venue": "The Airs & Graces",
-    "city": "Cheltenham",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
-    "source": "dodo-pubs",
-    "on_sale": false,
-    "categories": [
-      "pub-quiz"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-31",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
-    "source": "dunkertons",
-    "categories": [
-      "pub-quiz"
-    ],
-    "on_sale": true,
-    "price": "£12.00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%",
-    "time": "19:30"
   },
   {
     "name": "Games Night",
