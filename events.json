@@ -128,6 +128,23 @@
     "recurrence_end": "2026-09-30"
   },
   {
+    "name": "Quiz Night at The Strand",
+    "date": "2026-03-26",
+    "venue": "The Strand",
+    "city": "Cheltenham",
+    "url": "https://thestrandcheltenham.co.uk/event/quiz-night-v3/",
+    "image": "https://thestrandcheltenham.co.uk/wp-content/uploads/sites/3/2026/01/STSM-Quiz-Night-v2.jpg",
+    "source": "thestrand",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Thursday",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "Gather your most intelligent friends and test your brain cells at The Strand. Free entry — prizes to be won."
+  },
+  {
     "name": "Cheltenham Farmers Market",
     "date": "2026-03-27",
     "venue": "The Promenade",
