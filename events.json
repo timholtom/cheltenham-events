@@ -513,21 +513,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Easter Trail",
-    "date": "2026-03-28",
-    "venue": "Cheltenham Town Hall",
-    "city": "Cheltenham",
-    "url": "https://cheltenhamtownhall.org.uk/event/easter-trail/",
-    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/bcb656b0-3729-4f8d-806a-cd2171c374f6.jpg",
-    "source": "cheltenham-town-hall",
-    "on_sale": true,
-    "categories": [
-      "family"
-    ],
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
     "name": "Comedy Night",
     "date": "2026-03-29",
     "venue": "Dunkertons Cider",
@@ -719,16 +704,17 @@
   {
     "name": "Jason Fox: Embrace the Chaos",
     "date": "2026-03-29",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/jason-fox-embrace-the-chaos/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/8b76735e-7fb7-4828-8c81-01c20f70973c.jpg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "comedy"
+      "arts-culture"
     ],
-    "image_position": "top",
+    "on_sale": true,
+    "image_position": "center 25%",
     "time": "19:30"
   },
   {
@@ -1000,18 +986,18 @@
   {
     "name": "Easter Crafting for Families",
     "date": "2026-03-31",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/easter-crafting-for-families/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/74ac40b2-ad9c-4950-9b39-25f5ed7c7102.jpg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "family",
       "arts-culture"
     ],
-    "image_position": "top",
-    "time": "19:30"
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "11:00"
   },
   {
     "name": "Property & Poppadoms",
@@ -1704,17 +1690,18 @@
   {
     "name": "Miss Rachel: Fun for Little Ones",
     "date": "2026-04-06",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/miss-rachel-fun-for-little-ones/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/c71fc904-9e42-49f3-b009-7d5eb7719145.jpeg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "family"
+      "arts-culture"
     ],
-    "image_position": "top",
-    "time": "19:30"
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "14:30"
   },
   {
     "name": "Children's Painting Workshop — Easter Special",
@@ -1764,18 +1751,18 @@
   {
     "name": "Playful Shadows: Family Drama Workshop",
     "date": "2026-04-07",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/playful-shadows-family-drama-workshop/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/02/807bb46c-3c4d-458c-a787-95eaa07d423f.jpg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "family",
-      "theatre"
+      "arts-culture"
     ],
-    "image_position": "top",
-    "time": "19:30"
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "10:30"
   },
   {
     "name": "Late Sketch Club",
@@ -1961,16 +1948,17 @@
   {
     "name": "The Legend of Barry White",
     "date": "2026-04-09",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/the-legend-of-barry-white/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/09/40d2aa55-de9d-45f5-a66a-dac36f497c5b.jpg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "live-music"
+      "arts-culture"
     ],
-    "image_position": "center 30%",
+    "on_sale": true,
+    "image_position": "center 25%",
     "time": "19:30"
   },
   {
@@ -2816,16 +2804,17 @@
   {
     "name": "Matt Forde: Defying Calamity",
     "date": "2026-04-22",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/matt-forde-defying-calamity/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/08/a70b570b-0b62-4208-875c-1a37d0deed32.jpeg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "comedy"
+      "arts-culture"
     ],
-    "image_position": "top",
+    "on_sale": true,
+    "image_position": "center 25%",
     "time": "19:30"
   },
   {
@@ -4445,19 +4434,19 @@
     "time": "19:30"
   },
   {
-    "name": "Jay Rayner: Nights Out in the Kitchen",
+    "name": "Jay Rayner: Nights Out In the Kitchen",
     "date": "2026-09-10",
+    "date_text": "",
     "venue": "Cheltenham Town Hall",
     "city": "Cheltenham",
     "url": "https://cheltenhamtownhall.org.uk/event/jay-rayner-nights-out-in-the-kitchen/",
     "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/59b53546-375a-4ce3-bd06-cd42d51ab750.jpeg",
     "source": "cheltenham-town-hall",
-    "on_sale": true,
     "categories": [
-      "comedy",
-      "food-drink"
+      "arts-culture"
     ],
-    "image_position": "top",
+    "on_sale": true,
+    "image_position": "center 25%",
     "time": "19:30"
   },
   {
@@ -4505,6 +4494,22 @@
     ],
     "image_position": "center",
     "time": "20:00"
+  },
+  {
+    "name": "Banff Mountain Film Festival World Tour 2026 (Blue Programme)",
+    "date": "2026-10-02",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/banff-mountain-film-festival-world-tour-2026-blue-programme/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2026/01/6fd939d3-e2c8-485e-88b2-6572757175b1.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:30"
   },
   {
     "name": "MC Devvo — 20th Anniversary Tour",
@@ -4569,6 +4574,22 @@
     ],
     "image_position": "center 25%",
     "time": "18:00"
+  },
+  {
+    "name": "Phil Wang: Uh Oh",
+    "date": "2026-10-23",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/phil-wang-uh-oh/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/dc8e2ffa-58cb-48d3-8169-4626fedd1d34.jpeg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "20:00"
   },
   {
     "name": "The Suffolks Market: Halloween & Harvest",
@@ -4659,6 +4680,102 @@
       "markets"
     ],
     "image_position": "center",
+    "time": "10:00"
+  },
+  {
+    "name": "Coffee With A Curator",
+    "date": "2027-01-07",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/coffee-with-a-curator/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/567f7f21-b445-436f-b56e-decdb3471aae.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "13:30"
+  },
+  {
+    "name": "Practical Fine Art for Adults Course: 2026",
+    "date": "2027-01-09",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/practical-fine-art-for-adults-course-2026/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/f85b61c2-b2f5-4ced-b032-018dc0fb08f9.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "13:30"
+  },
+  {
+    "name": "Practical Fine Art for Children Course: 2026",
+    "date": "2027-01-10",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/practical-fine-art-for-children-course-2026/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/11/a30fd405-8da9-4d65-80f7-fab6bddbbff2.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "10:00"
+  },
+  {
+    "name": "Creative Explorers 2026",
+    "date": "2027-02-18",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/creative-explorers-2026/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/05bd50b8-2d46-47cb-972c-4a9e4eef2efe.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "10:00"
+  },
+  {
+    "name": "Josh Widdicombe: Not My Cup of Tea",
+    "date": "2027-03-28",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/josh-widdicombe-not-my-cup-of-tea/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2024/09/897fe39d-ac5d-4111-ab6f-060a84dffddf.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:30"
+  },
+  {
+    "name": "Easter Trail",
+    "date": "2027-03-28",
+    "date_text": "",
+    "venue": "Cheltenham Town Hall",
+    "city": "Cheltenham",
+    "url": "https://cheltenhamtownhall.org.uk/event/easter-trail/",
+    "image": "https://cheltenhamtownhall.org.uk/wp-content/uploads/2025/12/bcb656b0-3729-4f8d-806a-cd2171c374f6.jpg",
+    "source": "cheltenham-town-hall",
+    "categories": [
+      "arts-culture"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
     "time": "10:00"
   },
   {
