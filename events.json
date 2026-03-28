@@ -137,12 +137,12 @@
     "source": "thestrand",
     "on_sale": false,
     "is_recurring": true,
-    "recurrence_text": "Every Thursday",
+    "recurrence_text": "Every Thursday, 8PM",
     "categories": [
       "quiz",
       "community"
     ],
-    "description": "Gather your most intelligent friends and test your brain cells at The Strand. Free entry — prizes to be won."
+    "description": "Thursday night pub quiz at The Strand. Free entry — £50 bar tab up for grabs. Starts 8PM."
   },
   {
     "name": "Cheltenham Farmers Market",
@@ -2454,6 +2454,20 @@
     ],
     "image": "https://d31fr2pwly4c4s.cloudfront.net/c/f/7/2203121_20310793_Over-30s-Daytime-Clubbing---Cheltenham.jpg",
     "description": "Over 30s Daytime Clubbing - Cheltenham"
+  },
+  {
+    "name": "Gloucestershire Hardcore: vctimsoflife + Support",
+    "date": "2026-04-11",
+    "venue": "The Frog & Fiddle",
+    "city": "Cheltenham",
+    "url": "https://www.instagram.com/p/DWYq6aFjGQr/",
+    "image": "https://scontent-lga3-3.cdninstagram.com/v/t51.71878-15/658109618_1571256990608704_3354419041748333630_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&ccb=7-5&oh=00_Afw4bxw23HTUwTHuSKrkge4huC6NcjGvKw_YfzHsw_pF0w&oe=69CDE57E&_nc_sid=10d13b",
+    "source": "instagram-scrape",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "description": "Heavy UKHC at the Frog & Fiddle. vctimsoflife, Tempersfray, Despondent UKHC + more. Doors 7PM. £10 ADV / £12 OTD. 18+."
   },
   {
     "name": "Nurture & Nourish",
