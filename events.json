@@ -3674,24 +3674,6 @@
     "time": "10:00"
   },
   {
-    "name": "Suffolks Sunday Markets",
-    "date": "2026-05-03",
-    "date_text": "",
-    "venue": "Suffolk Parade",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/suffolks-sunday-market",
-    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/suffolks/suffolks-general.jpg",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "shopping",
-      "fetes-fairs-festivals",
-      "food-drink"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
     "name": "The May Day Parade: Free Entry All Dayer",
     "date": "2026-05-03",
     "venue": "The Frog & Fiddle",
