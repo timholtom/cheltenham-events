@@ -4044,6 +4044,22 @@
     "time": "20:00"
   },
   {
+    "name": "Wheel Ale Festival",
+    "date": "2026-06-20",
+    "date_text": "",
+    "venue": "Cheltenham Motor Club",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/wheel-ale-festival-2026/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2016/01/cheltmotorclublogo-RS.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "festival"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Murder Trial Tonight",
     "date": "2026-06-25",
     "venue": "Cheltenham Town Hall",
