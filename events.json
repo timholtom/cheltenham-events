@@ -3372,6 +3372,23 @@
     "time": "19:30"
   },
   {
+    "name": "Morans Junior Aquathlon & Triathlon in association with Pied Piper",
+    "date": "2026-05-10",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/pied-piper-junior-aquathlon",
+    "image": "https://images.uk.findarace.com/production/organisers/303534/gallery/image_2024-12-17-142329_khio.png?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1734445409&s=e97a1beef0e11b2fb40c760054c7bc52",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "triathlon",
+      "swimming"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Cotswold Networking Meet-up",
     "date": "2026-05-11",
     "venue": "Dunkertons Cider",
@@ -3552,6 +3569,23 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Well Run X Dunkertons 5k & NEW 10k Summer Trail",
+    "date": "2026-05-20",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/well-run-dunkertons-5k-trail",
+    "image": "https://images.uk.findarace.com/production/organisers/3713415/gallery/image.jpeg?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1749737926&s=0db6a08cd24f645fc2d0c653181ef9d7",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "running"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:00"
   },
   {
     "name": "Skivers Club",
@@ -4085,6 +4119,24 @@
     "time": "19:30"
   },
   {
+    "name": "Race for Life",
+    "date": "2026-06-27",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/race-for-life-cheltenham-pretty-muddy-5k",
+    "image": "https://images.uk.findarace.com/production/organisers/2280686/gallery/rflpm-w1830h1829autocompressformatfitcropdm1765805758s55b113a993ea903a9f3ef39f8d6c4638_2025-12-15-134955_pupp.jpg?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1765806595&s=5845f3ff245a387b7be024316249cb9d",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "running",
+      "family"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "11:00"
+  },
+  {
     "name": "Force Fest: Episode I — Into the Galaxy",
     "date": "2026-06-28",
     "venue": "Cheltenham Town Hall",
@@ -4098,6 +4150,23 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "Race for Life",
+    "date": "2026-06-28",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/race-for-life-cheltenham-10k",
+    "image": "https://images.uk.findarace.com/production/organisers/2280686/gallery/rfl10k-w1830h1829autocompressformatfitcropdm1765805761sf3d3651a0bedbc73e17b36198f4d7594_2025-12-15-134944_hjim.jpg?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1765806584&s=f6f5beae1d8ea5836d6fa6261b3cd1da",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "running"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "10:00"
   },
   {
     "name": "Cheltenham Music Festival",
@@ -4542,6 +4611,23 @@
     "time": "11:00"
   },
   {
+    "name": "Inflatable 5K",
+    "date": "2026-10-10",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/inflatable-5k-cheltenham",
+    "image": "https://images.uk.findarace.com/production/organisers/302868/gallery/WhatsApp-Image-2025-01-09-at-13.09.13.jpeg?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1741698820&s=20733d09c2508ab40bdcafb178b1136c",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "running",
+      "family"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%"
+  },
+  {
     "name": "Vegan Market",
     "date": "2026-10-11",
     "date_text": "",
@@ -4574,6 +4660,23 @@
     ],
     "image_position": "center 25%",
     "time": "18:00"
+  },
+  {
+    "name": "Well Run X Dunkertons 5k Night Trail",
+    "date": "2026-10-21",
+    "date_text": "",
+    "venue": "Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://findarace.com/events/well-run-dunkertons-night-run-5k",
+    "image": "https://images.uk.findarace.com/production/organisers/3713415/gallery/effde0c29b62c96053650276f3d21560.jpeg?w=1600&h=840&auto=compress%2Cformat&fit=crop&dm=1768473353&s=bc7919614a775545ba92fc63d7718243",
+    "source": "findarace",
+    "categories": [
+      "sport-fitness",
+      "running"
+    ],
+    "on_sale": true,
+    "image_position": "center 25%",
+    "time": "19:00"
   },
   {
     "name": "Phil Wang: Uh Oh",
