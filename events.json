@@ -145,22 +145,6 @@
     "image_position": "center"
   },
   {
-    "name": "Dough & Groove",
-    "date": "2026-03-27",
-    "venue": "Smokey Joe's",
-    "city": "Cheltenham",
-    "url": "http://www.japes.uk/",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "live-music"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Last Thursday",
-    "image_position": "center 25%"
-  },
-  {
     "name": "Cheltenham Card Show",
     "date": "2026-03-28",
     "venue": "Leonardo Hotel Cheltenham",
