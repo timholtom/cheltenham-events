@@ -74,7 +74,7 @@ async function scrapeEventPage(page, eventId) {
   const url = `https://www.facebook.com/events/${eventId}/`;
   console.log(`  → ${url}`);
 
-  await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
+  await page.goto(url, { waitUntil: 'load', timeout: 45000 });
   await jitter(3000, 6000);
   await humanScroll(page, 2);
 
@@ -96,7 +96,7 @@ async function scrapeEventPage(page, eventId) {
 
 async function scrapeEventsPage(page) {
   console.log('Checking events page for new events...');
-  await page.goto(FB_PAGE, { waitUntil: 'networkidle', timeout: 30000 });
+  await page.goto(FB_PAGE, { waitUntil: 'load', timeout: 45000 });
   await jitter(3000, 5000);
   await humanScroll(page, 4);
 
@@ -153,7 +153,7 @@ async function main() {
 
   // Land on FB homepage first — looks natural
   console.log('Landing on Facebook homepage...');
-  await page.goto('https://www.facebook.com/', { waitUntil: 'domcontentloaded', timeout: 20000 });
+  await page.goto('https://www.facebook.com/', { waitUntil: 'load', timeout: 30000 });
   await jitter(3000, 5500);
 
   // Brief idle — simulate reading the feed
