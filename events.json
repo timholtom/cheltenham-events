@@ -65,7 +65,7 @@
       "community"
     ],
     "time": "09:00",
-    "recurrence_text": "Every Saturday",
+    "recurrence_text": "Every Saturday at 9am",
     "is_recurring": true,
     "image_position": "center"
   },
@@ -135,7 +135,7 @@
       "community"
     ],
     "time": "09:00",
-    "recurrence_text": "Every Sunday",
+    "recurrence_text": "Every Sunday at 9am",
     "is_recurring": true,
     "image_position": "center"
   },
@@ -1098,7 +1098,7 @@
     "on_sale": false,
     "image_position": "center 25%",
     "is_recurring": true,
-    "recurrence_text": "Every Saturday",
+    "recurrence_text": "Every Saturday at 9am",
     "time": "09:00",
     "description": "Free weekly 5K run every Saturday at 9am at King George V Playing Field, Cheltenham. All abilities welcome. Register free at parkrun.org.uk."
   },
