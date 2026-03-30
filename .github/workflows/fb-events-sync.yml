@@ -1,0 +1,40 @@
+name: Sync Facebook Events (Sandford Park)
+
+on:
+  schedule:
+    # Every Monday at 8am UTC (after the main weekly scrape at 7am)
+    - cron: '0 8 * * 1'
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright
+        run: |
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: Run Facebook scraper
+        env:
+          FB_COOKIES: ${{ secrets.FB_COOKIES }}
+        run: node --experimental-vm-modules scripts/fb-sandford-scraper.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.json images/fb-events/
+          git diff --staged --quiet || git commit -m "Auto: sync Sandford Park Facebook event images [skip ci]"
+          git push
