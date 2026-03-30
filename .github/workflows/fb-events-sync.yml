@@ -37,4 +37,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add events.json images/fb-events/
           git diff --staged --quiet || git commit -m "Auto: sync Sandford Park Facebook event images [skip ci]"
-          git push
+          for i in 1 2 3; do git push && break || sleep 10; done
