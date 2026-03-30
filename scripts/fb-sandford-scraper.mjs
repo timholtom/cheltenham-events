@@ -75,22 +75,49 @@ async function scrapeEventPage(page, eventId) {
   console.log(`  → ${url}`);
 
   await page.goto(url, { waitUntil: 'load', timeout: 45000 });
-  await jitter(3000, 6000);
+  await jitter(2000, 4000);
+
+  // Wait for event content to render (look for date or cover image)
+  try {
+    await page.waitForSelector('img[data-imgperflogname], div[data-testid="event-cover-photo"] img, h1, [role="main"] img', { timeout: 10000 });
+  } catch(e) { /* continue anyway */ }
+
   await humanScroll(page, 2);
+  await jitter(1500, 3000);
 
   const html = await page.content();
 
-  // Cover image: FB puts it in og:image meta tag
-  const ogImg = html.match(/<meta property="og:image" content="([^"]+)"/i);
-  const ogTitle = html.match(/<meta property="og:title" content="([^"]+)"/i);
-  const ogDesc = html.match(/<meta property="og:description" content="([^"]+)"/i);
+  // Try og:image (may need unescaping)
+  const ogImg = html.match(/<meta[^>]+property="og:image"[^>]+content="([^"]+)"/i)
+    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
+  const ogTitle = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)
+    || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
+
+  // Also try largest image on page as fallback
+  let fallbackImg = null;
+  if (!ogImg) {
+    fallbackImg = await page.evaluate(() => {
+      const imgs = [...document.querySelectorAll('img')];
+      // Find largest image (likely the cover)
+      const sized = imgs.map(img => ({ src: img.src, w: img.naturalWidth, h: img.naturalHeight }))
+        .filter(i => i.w > 300 && i.h > 200 && i.src.startsWith('http'));
+      sized.sort((a, b) => (b.w * b.h) - (a.w * a.h));
+      return sized[0]?.src || null;
+    });
+  }
+
+  // Also try page title from document
+  const pageTitle = await page.title();
+
+  const imageUrl = ogImg ? ogImg[1].replace(/&amp;/g, '&') : fallbackImg;
+
+  console.log(`    html size: ${html.length}, og:image: ${!!ogImg}, fallback img: ${!!fallbackImg}`);
 
   return {
     id: eventId,
     url,
-    image: ogImg ? ogImg[1].replace(/&amp;/g, '&') : null,
-    title: ogTitle ? ogTitle[1] : null,
-    description: ogDesc ? ogDesc[1] : null,
+    image: imageUrl,
+    title: ogTitle ? ogTitle[1] : pageTitle?.replace(' | Facebook', '').trim() || null,
   };
 }
 
