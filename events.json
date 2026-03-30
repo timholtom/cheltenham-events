@@ -1085,13 +1085,18 @@
     "venue": "King George V Playing Field",
     "city": "Cheltenham",
     "url": "https://www.parkrun.org.uk/kinggeorgevplayingfield/",
-    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/lkEuRZMz5s8oCR4hDW93/1637683813921_eventhomepagepicture.jpeg",
+    "image": "https://images.parkrun.com/blogs.dir/2149/files/2021/10/eventhomepagepicture.jpg",
     "source": "cheltenham-rocks",
     "categories": [
-      "sport"
+      "running",
+      "community"
     ],
     "on_sale": false,
-    "image_position": "center 25%"
+    "image_position": "center 25%",
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday at 9am",
+    "time": "09:00",
+    "description": "Free weekly 5K run every Saturday at 9am at King George V Playing Field, Cheltenham. All abilities welcome. Register free at parkrun.org.uk."
   },
   {
     "name": "Southam Car Boot",
