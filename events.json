@@ -954,7 +954,7 @@
     "date_text": "",
     "venue": "The Bayshill Pub",
     "city": "Cheltenham",
-    "url": "https://www.facebook.com/bayshillpub/events",
+    "url": "https://www.thebayshill.co.uk/event-list",
     "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FrqSYckb3hJUqRVNL6ZdT%2F1774386599709_Easter-Egg-Hunt-3-.png?alt=media&token=753807fe-9dca-4743-81ea-cd44120da94d",
     "source": "cheltenham-rocks",
     "categories": [
@@ -3057,7 +3057,7 @@
     "date": "2026-04-24",
     "venue": "Royal Oak Prestbury",
     "city": "Cheltenham",
-    "url": "https://www.facebook.com/royaloakprestbury/events",
+    "url": "https://butcombe.com/the-royal-oak-pub-gloucestershire/whats-on/",
     "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/294969474_454382933363009_5234948448253608086_n.jpg?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfwZnawk8HPXwR6Dzqry9PnjWfG0oWbpt4ywIrwObQt7bw&oe=69CDBEA0",
     "source": "facebook-scrape",
     "on_sale": false,
