@@ -1,5 +1,116 @@
 [
   {
+    "name": "Games Night",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
+    "source": "dunkertons",
+    "categories": [
+      "games-night"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%",
+    "time": "19:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Monday"
+  },
+  {
+    "name": "Taco Tuesday",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
+    "source": "dunkertons",
+    "categories": [
+      "food-drink"
+    ],
+    "on_sale": true,
+    "price": "",
+    "image_position": "center 25%",
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday"
+  },
+  {
+    "name": "Funky Pants Music & Dance Parties",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
+    "source": "dunkertons",
+    "categories": [
+      "live-music",
+      "family"
+    ],
+    "on_sale": true,
+    "price": "£8.50",
+    "image_position": "center 25%",
+    "time": "11:00",
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday"
+  },
+  {
+    "name": "Open Mic Nights @ The All Inn",
+    "time": "19:30",
+    "venue": "The All Inn",
+    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-04-01/",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "live-music"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday",
+    "recurrence_end": "2026-12-31"
+  },
+  {
+    "name": "Happy Hour! 🍻",
+    "time": "17:00",
+    "venue": "The Airs & Graces",
+    "url": "https://www.facebook.com/theairsandgraces/events",
+    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "recurrence_end": "2026-12-31"
+  },
+  {
+    "name": "Weekly Board Game Night",
+    "venue": "Bath Road Beers",
+    "time": "18:30",
+    "url": "https://www.meetup.com/bath-road-beers-board-gamers/",
+    "image": "https://secure.meetupstatic.com/photos/event/2/9/d/d/600_531550717.webp",
+    "source": "meetup",
+    "city": "Cheltenham",
+    "categories": [
+      "games-night"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Monday"
+  },
+  {
+    "name": "Pub Quiz",
+    "time": "19:30",
+    "venue": "The Bottle of Sauce",
+    "url": "https://www.facebook.com/bottleofsaucecheltenham/events",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "pub-quiz"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "recurrence_end": "2026-12-31"
+  },
+  {
     "name": "Cheltenham Observation Wheel",
     "date": "2026-03-26",
     "venue": "Imperial Gardens",
@@ -509,6 +620,18 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "OFFICIAL FANTASY BOOKCLUB",
+    "date": "2026-03-30",
+    "venue": "The Moon Under Water",
+    "city": "Cheltenham",
+    "url": "https://www.reddit.com/r/cheltenham/comments/1s6zow2/official_fantasy_bookclub/",
+    "source": "reddit-cheltenham",
+    "on_sale": false,
+    "categories": [
+      "community"
+    ]
   },
   {
     "name": "Dress the Part: A Wardrobe to Define Your Career Success",
@@ -1116,6 +1239,19 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "Emo music lovers",
+    "date": "2026-04-03",
+    "venue": "Steam And Whistle",
+    "city": "Cheltenham",
+    "url": "https://www.reddit.com/r/cheltenham/comments/1s4crva/emo_music_lovers/",
+    "source": "reddit-cheltenham",
+    "on_sale": false,
+    "categories": [
+      "community"
+    ],
+    "image": "https://i.redd.it/97hra2gw4frg1.png"
   },
   {
     "name": "Over 40s Day Party",
@@ -3661,6 +3797,20 @@
     ]
   },
   {
+    "name": "A Guy Called Gerald - Live In Session at DEYA Brewery",
+    "date": "2026-05-14",
+    "venue": "DEYA Brewing Company",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/DEYA-Brewing-Company/A-Guy-Called-Gerald---Live-In-Session-at-DEYA-Brewery/42093040/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/9/9/e/2208160_5074a0b5_a-guy-called-gerald-live-in-session-at-deya-brewery.jpg",
+    "description": "DEYA x Byrd Out present: A Guy Called Gerald - Live In Session\nA Guy Called Gerald - a pioneering figure in electronic music, here in the Tappy."
+  },
+  {
     "name": "Red On Back Yard Ultra",
     "date": "2026-05-15",
     "venue": "Cheltenham Racecourse",
@@ -5449,116 +5599,5 @@
     "on_sale": true,
     "image_position": "center 25%",
     "time": "10:00"
-  },
-  {
-    "name": "Games Night",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/games-night-mondays",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_Tile_c160bdbe-b4d1-4449-b35b-03c51c965220_1200x1200.png?v=1767600951",
-    "source": "dunkertons",
-    "categories": [
-      "games-night"
-    ],
-    "on_sale": true,
-    "price": "",
-    "image_position": "center 25%",
-    "time": "19:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Monday"
-  },
-  {
-    "name": "Taco Tuesday",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/taco-tuesday-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_1200x1200.png?v=1769421476",
-    "source": "dunkertons",
-    "categories": [
-      "food-drink"
-    ],
-    "on_sale": true,
-    "price": "",
-    "image_position": "center 25%",
-    "time": "11:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday"
-  },
-  {
-    "name": "Funky Pants Music & Dance Parties",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/funky-pants-music-dance-parties",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_new_tile_1200x1200.png?v=1769421525",
-    "source": "dunkertons",
-    "categories": [
-      "live-music",
-      "family"
-    ],
-    "on_sale": true,
-    "price": "£8.50",
-    "image_position": "center 25%",
-    "time": "11:00",
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday"
-  },
-  {
-    "name": "Open Mic Nights @ The All Inn",
-    "time": "19:30",
-    "venue": "The All Inn",
-    "url": "https://dodopubs.com/event/open-mic-nights-the-all-inn/2026-04-01/",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/04/Open-Mic-Website-Square.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "live-music"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday",
-    "recurrence_end": "2026-12-31"
-  },
-  {
-    "name": "Happy Hour! 🍻",
-    "time": "17:00",
-    "venue": "The Airs & Graces",
-    "url": "https://www.facebook.com/theairsandgraces/events",
-    "image": "https://dodopubs.com/wp-content/uploads/2025/02/Happy-Hour.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "food-drink"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "recurrence_end": "2026-12-31"
-  },
-  {
-    "name": "Weekly Board Game Night",
-    "venue": "Bath Road Beers",
-    "time": "18:30",
-    "url": "https://www.meetup.com/bath-road-beers-board-gamers/",
-    "image": "https://secure.meetupstatic.com/photos/event/2/9/d/d/600_531550717.webp",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "categories": [
-      "games-night"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Monday"
-  },
-  {
-    "name": "Pub Quiz",
-    "time": "19:30",
-    "venue": "The Bottle of Sauce",
-    "url": "https://www.facebook.com/bottleofsaucecheltenham/events",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
-    "source": "dodo-pubs",
-    "city": "Cheltenham",
-    "categories": [
-      "pub-quiz"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "recurrence_end": "2026-12-31"
   }
 ]
