@@ -3905,7 +3905,9 @@
       "food-drink"
     ],
     "image_position": "center",
-    "end_date": "2026-06-21"
+    "end_date": "2026-06-21",
+    "time": "12:00",
+    "end_time": "23:30"
   },
   {
     "name": "Seas the Day: Jessica Rowe & Miriam Payne",
@@ -4251,7 +4253,9 @@
       "live-music"
     ],
     "image_position": "center",
-    "end_date": "2026-07-26"
+    "end_date": "2026-07-26",
+    "time": "11:00",
+    "end_time": "23:00"
   },
   {
     "name": "Frankie's Guys",
@@ -4432,7 +4436,9 @@
       "live-music"
     ],
     "image_position": "center",
-    "end_date": "2026-08-16"
+    "end_date": "2026-08-16",
+    "time": "11:00",
+    "end_time": "22:00"
   },
   {
     "name": "Cheltenham Tribute Festival 2026",
@@ -4614,7 +4620,9 @@
       "food-drink"
     ],
     "image_position": "center",
-    "end_date": "2026-10-04"
+    "end_date": "2026-10-04",
+    "time": "12:00",
+    "end_time": "23:30"
   },
   {
     "name": "Banff Mountain Film Festival World Tour 2026 (Blue Programme)",
@@ -4801,7 +4809,9 @@
       "family"
     ],
     "image_position": "center 25%",
-    "end_date": "2026-11-01"
+    "end_date": "2026-11-01",
+    "time": "12:00",
+    "end_time": "00:30"
   },
   {
     "name": "Biffy McClyro — Double Header",
