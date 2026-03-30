@@ -24,6 +24,7 @@ const ACCOUNTS = [
   { handle: 'exmoutharmscheltenham',     venue: 'Exmouth Arms' },
   { handle: 'royaloakprestbury',         venue: 'Royal Oak Prestbury' },
   { handle: 'thevinecheltenham',         venue: 'The Vine' },
+  { handle: 'thevinechelt',             venue: 'The Vine' },
   { handle: 'airsandgracescheltenham',   venue: 'Airs & Graces' },
   { handle: '33therumbar',               venue: '33 The Rum Bar' },
   { handle: 'johngordons',               venue: 'John Gordon\'s' },
