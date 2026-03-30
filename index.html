@@ -117,15 +117,16 @@ img{display:block;max-width:100%}
 .event-img-placeholder.theatre{background:linear-gradient(135deg,oklch(42% 0.14 25),oklch(32% 0.12 0))}
 .event-img-placeholder.family{background:linear-gradient(135deg,oklch(50% 0.12 140),oklch(40% 0.1 120))}
 .event-img-placeholder.food-drink{background:linear-gradient(135deg,oklch(48% 0.12 75),oklch(38% 0.1 55))}
-.event-img-placeholder.sport-fitness{background:linear-gradient(135deg,oklch(45% 0.12 200),oklch(35% 0.1 220))}
-.event-img-placeholder.arts-culture{background:linear-gradient(135deg,oklch(42% 0.14 290),oklch(32% 0.12 310))}
-.event-img-placeholder.wellbeing{background:linear-gradient(135deg,oklch(48% 0.12 170),oklch(38% 0.1 150))}
-.event-img-placeholder.business{background:linear-gradient(135deg,oklch(40% 0.06 250),oklch(30% 0.04 230))}
-.event-img-placeholder.markets{background:linear-gradient(135deg,oklch(48% 0.12 100),oklch(38% 0.1 80))}
-.event-img-placeholder.dating{background:linear-gradient(135deg,oklch(48% 0.15 350),oklch(38% 0.12 330))}
+.event-img-placeholder.sport{background:linear-gradient(135deg,oklch(45% 0.12 200),oklch(35% 0.1 220))}
+.event-img-placeholder.arts{background:linear-gradient(135deg,oklch(42% 0.14 290),oklch(32% 0.12 310))}
+.event-img-placeholder.wellness{background:linear-gradient(135deg,oklch(48% 0.12 170),oklch(38% 0.1 150))}
+.event-img-placeholder.networking{background:linear-gradient(135deg,oklch(40% 0.06 250),oklch(30% 0.04 230))}
+.event-img-placeholder.market{background:linear-gradient(135deg,oklch(48% 0.12 100),oklch(38% 0.1 80))}
+.event-img-placeholder.nightlife{background:linear-gradient(135deg,oklch(30% 0.1 300),oklch(20% 0.08 280))}
+.event-img-placeholder.quiz{background:linear-gradient(135deg,oklch(48% 0.12 60),oklch(38% 0.1 40))}
+.event-img-placeholder.outdoors{background:linear-gradient(135deg,oklch(48% 0.14 155),oklch(38% 0.12 130))}
+.event-img-placeholder.community{background:linear-gradient(135deg,oklch(46% 0.1 240),oklch(36% 0.08 220))}
 .event-img-placeholder.other{background:linear-gradient(135deg,oklch(42% 0.04 80),oklch(32% 0.02 60))}
-.event-img-placeholder.pub-quiz{background:linear-gradient(135deg,oklch(48% 0.12 60),oklch(38% 0.1 40))}
-.event-img-placeholder.games-night{background:linear-gradient(135deg,oklch(48% 0.12 180),oklch(38% 0.1 160))}
 .event-body{padding:14px 16px;flex:1;display:flex;flex-direction:column}
 .event-date{font-size:11px;font-weight:700;color:var(--accent-dark);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:4px}
 .event-name{font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -142,14 +143,15 @@ img{display:block;max-width:100%}
 .event-tag.theatre{background:oklch(92% 0.04 25);color:oklch(45% 0.15 25)}
 .event-tag.family{background:oklch(92% 0.04 140);color:oklch(40% 0.12 140)}
 .event-tag.food-drink{background:oklch(92% 0.04 75);color:oklch(45% 0.12 75)}
-.event-tag.sport-fitness{background:oklch(92% 0.04 200);color:oklch(42% 0.12 200)}
-.event-tag.arts-culture{background:oklch(92% 0.04 290);color:oklch(42% 0.14 290)}
-.event-tag.wellbeing{background:oklch(92% 0.04 170);color:oklch(42% 0.12 170)}
-.event-tag.business{background:oklch(92% 0.02 250);color:oklch(42% 0.08 250)}
-.event-tag.markets{background:oklch(92% 0.04 100);color:oklch(42% 0.12 100)}
-.event-tag.dating{background:oklch(92% 0.04 350);color:oklch(42% 0.15 350)}
-.event-tag.pub-quiz{background:oklch(92% 0.04 60);color:oklch(42% 0.12 60)}
-.event-tag.games-night{background:oklch(92% 0.04 180);color:oklch(42% 0.12 180)}
+.event-tag.sport{background:oklch(92% 0.04 200);color:oklch(42% 0.12 200)}
+.event-tag.arts{background:oklch(92% 0.04 290);color:oklch(42% 0.14 290)}
+.event-tag.wellness{background:oklch(92% 0.04 170);color:oklch(42% 0.12 170)}
+.event-tag.networking{background:oklch(92% 0.02 250);color:oklch(42% 0.08 250)}
+.event-tag.market{background:oklch(92% 0.04 100);color:oklch(42% 0.12 100)}
+.event-tag.nightlife{background:oklch(88% 0.04 300);color:oklch(35% 0.12 300)}
+.event-tag.quiz{background:oklch(92% 0.04 60);color:oklch(42% 0.12 60)}
+.event-tag.outdoors{background:oklch(92% 0.04 155);color:oklch(38% 0.14 155)}
+.event-tag.community{background:oklch(92% 0.03 240);color:oklch(38% 0.08 240)}
 
 /* Date picker */
 .date-picker{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
@@ -291,20 +293,21 @@ import { prepare, layout } from 'https://unpkg.com/@chenglou/pretext@0.0.3/dist/
   let visibleCount = EVENTS_PER_PAGE;
 
   const categories = [
-    {id:'all', label:'All'},
-    {id:'live-music', label:'Live Music'},
-    {id:'comedy', label:'Comedy'},
-    {id:'theatre', label:'Theatre'},
-    {id:'family', label:'Family'},
-    {id:'food-drink', label:'Food & Drink'},
-    {id:'sport-fitness', label:'Sport & Fitness'},
-    {id:'arts-culture', label:'Arts & Culture'},
-    {id:'wellbeing', label:'Wellbeing'},
-    {id:'business', label:'Business'},
-    {id:'markets', label:'Markets'},
-    {id:'dating', label:'Dating'},
-    {id:'pub-quiz', label:'Pub Quiz'},
-    {id:'games-night', label:'Games Night'}
+    {id:'all',         label:'All'},
+    {id:'live-music',  label:'Live Music'},
+    {id:'theatre',     label:'Theatre'},
+    {id:'comedy',      label:'Comedy'},
+    {id:'arts',        label:'Arts'},
+    {id:'food-drink',  label:'Food & Drink'},
+    {id:'sport',       label:'Sport'},
+    {id:'family',      label:'Family'},
+    {id:'community',   label:'Community'},
+    {id:'market',      label:'Markets'},
+    {id:'quiz',        label:'Quiz'},
+    {id:'nightlife',   label:'Nightlife'},
+    {id:'outdoors',    label:'Outdoors'},
+    {id:'wellness',    label:'Wellness'},
+    {id:'networking',  label:'Networking'},
   ];
 
   function formatDate(dateStr){
@@ -705,9 +708,9 @@ import { prepare, layout } from 'https://unpkg.com/@chenglou/pretext@0.0.3/dist/
     // Match categories
     const catLabels = {
       'live-music':'Live Music','comedy':'Comedy','theatre':'Theatre','family':'Family',
-      'food-drink':'Food & Drink','sport-fitness':'Sport & Fitness','arts-culture':'Arts & Culture',
-      'wellbeing':'Wellbeing','business':'Business','markets':'Markets','dating':'Dating',
-      'pub-quiz':'Pub Quiz','games-night':'Games Night','other':'Other'
+      'food-drink':'Food & Drink','sport':'Sport','arts':'Arts',
+      'wellness':'Wellness','networking':'Networking','market':'Markets',
+      'quiz':'Quiz','nightlife':'Nightlife','outdoors':'Outdoors','community':'Community','other':'Other'
     };
     Object.entries(catLabels).forEach(([id, label]) => {
       if(label.toLowerCase().includes(q) && !seen.has('c:'+id)){
