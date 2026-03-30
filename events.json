@@ -5315,10 +5315,8 @@
     ],
     "description": "Get a team together and test your brains! Monthly Sunday quiz at The Plough Prestbury. 6pm. Limited space — DM or call to book your table.",
     "source": "facebook-scrape",
-    "on_sale": true,
+    "on_sale": false,
     "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Monthly on Sundays",
     "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/plough-prestbury-quiz.jpg",
     "time": "18:00"
   },
