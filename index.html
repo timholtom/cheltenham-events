@@ -84,19 +84,16 @@ img{display:block;max-width:100%}
 .search-suggestion .sg-type{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.04em;color:var(--text-3);flex-shrink:0;width:44px}
 .search-suggestion .sg-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
-/* Events grid */
+/* Events grid — masonry via JS columns */
 .events-section{max-width:var(--max-w);margin:0 auto;padding:0 var(--pad) 48px}
-.events-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
-.events-grid > *{display:flex;flex-direction:column}
-@media(min-width:900px){.events-grid{grid-template-columns:repeat(3,1fr)}}
-@media(min-width:1200px){.events-grid{grid-template-columns:repeat(4,1fr)}}
-@media(min-width:1600px){.events-grid{grid-template-columns:repeat(5,1fr)}}
+.events-grid{display:flex;gap:16px;align-items:flex-start}
+.events-col{flex:1;min-width:0;display:flex;flex-direction:column;gap:16px}
 /* Card flip */
-.card-flip-container{perspective:1000px;height:100%}
+.card-flip-container{perspective:1000px}
 .card-flip-container.has-sessions{cursor:pointer}
-.card-inner{position:relative;width:100%;height:100%;transform-style:preserve-3d;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1)}
+.card-inner{position:relative;width:100%;transform-style:preserve-3d;transition:transform 0.4s cubic-bezier(0.4,0,0.2,1)}
 .card-flip-container.flipped .card-inner{transform:rotateY(180deg)}
-.card-front{position:relative;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:var(--radius);overflow:hidden;height:100%}
+.card-front{position:relative;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:var(--radius);overflow:hidden}
 .card-back{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:var(--radius);overflow:hidden;transform:rotateY(180deg)}
 .card-back{transform:rotateY(180deg);background:var(--surface);border:1px solid var(--accent);display:flex;flex-direction:column;padding:16px;gap:8px}
 .card-back-title{font-size:14px;font-weight:700;line-height:1.3;color:var(--text)}
@@ -109,7 +106,7 @@ img{display:block;max-width:100%}
 .flip-back-btn{font-size:11px;font-weight:600;color:var(--text-3);background:none;border:none;font-family:var(--font-body);cursor:pointer;display:flex;align-items:center;gap:4px;padding:0;margin-top:4px}
 .flip-back-btn:hover{color:var(--accent-dark)}
 
-.event-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:border-color 0.15s,box-shadow 0.15s;cursor:pointer;display:flex;flex-direction:column;height:100%}
+.event-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;transition:border-color 0.15s,box-shadow 0.15s;cursor:pointer;display:flex;flex-direction:column}
 .event-card:hover{border-color:oklch(80% 0.02 80);box-shadow:0 4px 16px oklch(0% 0 0 / 0.04)}
 .event-card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;flex:1}
 .event-img{width:100%;aspect-ratio:1/1;object-fit:cover;object-position:center 25%;background:var(--surface-2)}
@@ -132,6 +129,7 @@ img{display:block;max-width:100%}
 .event-body{padding:14px 16px;flex:1;display:flex;flex-direction:column}
 .event-date{font-size:11px;font-weight:700;color:var(--accent-dark);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:4px}
 .event-name{font-size:15px;font-weight:700;line-height:1.35;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.event-name.single-line{-webkit-line-clamp:1}
 .event-venue{font-size:12px;color:var(--text-3);margin-top:auto;display:flex;align-items:center;gap:4px}
 .event-venue::before{content:'';width:12px;height:12px;flex-shrink:0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888' stroke-width='2'%3E%3Cpath d='M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z'/%3E%3Ccircle cx='12' cy='10' r='3'/%3E%3C/svg%3E") center/contain no-repeat}
 .event-img-wrap{position:relative;overflow:hidden}
@@ -280,7 +278,8 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
   <span>Updated weekly.</span>
 </footer>
 
-<script>
+<script type="module">
+import { prepare, layout } from 'https://unpkg.com/@chenglou/pretext@0.0.3/dist/layout.js';
 (function(){
   const EVENTS_PER_PAGE = 24;
   let allEvents = [];
@@ -475,64 +474,124 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
     renderEvents();
   }
 
+  // --- pretext helpers ---
+  // Title font: 700 weight, 15px, Plus Jakarta Sans
+  const TITLE_FONT = '700 15px "Plus Jakarta Sans", system-ui, sans-serif';
+  const TITLE_LINE_H = 15 * 1.35; // 20.25px
+  // Card body padding: 16px each side = 32px total
+  const CARD_BODY_PADDING = 32;
+
+  function getColCount(){
+    const w = window.innerWidth;
+    if(w >= 1600) return 5;
+    if(w >= 1200) return 4;
+    if(w >= 900)  return 3;
+    if(w >= 600)  return 2;
+    return 1;
+  }
+
+  function titleLineCount(name, cardWidth){
+    const textWidth = cardWidth - CARD_BODY_PADDING;
+    try {
+      const prep = prepare(name, TITLE_FONT);
+      const { lineCount } = layout(prep, textWidth, TITLE_LINE_H);
+      return lineCount;
+    } catch(e) {
+      return 2; // fallback
+    }
+  }
+
+  function buildColumns(count){
+    const grid = document.getElementById('events-grid');
+    grid.innerHTML = '';
+    const cols = [];
+    for(let i = 0; i < count; i++){
+      const col = document.createElement('div');
+      col.className = 'events-col';
+      grid.appendChild(col);
+      cols.push({ el: col, height: 0 });
+    }
+    return cols;
+  }
+
   function renderEvents(){
     const grid = document.getElementById('events-grid');
     const noResults = document.getElementById('no-results');
     const loadMoreWrap = document.getElementById('load-more-wrap');
-    
+
     grid.innerHTML = '';
-    
+
     if(filteredEvents.length === 0){
       noResults.style.display = '';
       loadMoreWrap.style.display = 'none';
       return;
     }
-    
+
     noResults.style.display = 'none';
     const toShow = filteredEvents.slice(0, visibleCount);
-    
+
+    const colCount = getColCount();
+    const gapPx = 16;
+    const sectionPad = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--pad')) || 24;
+    const totalGap = gapPx * (colCount - 1);
+    const cardWidth = Math.floor((grid.closest('.events-section').offsetWidth - totalGap) / colCount);
+
+    const cols = buildColumns(colCount);
+
+    // Estimate card height for masonry column balancing.
+    // Image is square (cardWidth × cardWidth), body is fixed-ish.
+    // Title height varies by line count — pretext tells us exactly.
+    const IMG_H = cardWidth; // square image
+    const BODY_FIXED = 14 + 18 + 6 + 22 + 14; // top-pad + date + gap + venue + bottom-pad
+    const TAG_H = 30; // approx when tags present
+    const TITLE_ONE_LINE = TITLE_LINE_H + 6;   // line height + margin-bottom
+    const TITLE_TWO_LINES = TITLE_LINE_H * 2 + 6;
+
     toShow.forEach(e => {
-      const card = document.createElement('div');
-      card.className = 'event-card';
-      
       const dateFormatted = formatDate(e.date);
-      const cats = (e.categories||[]).filter(c=>c!=='other').map(c => 
+      const cats = (e.categories||[]).filter(c=>c!=='other').map(c =>
         '<span class="event-tag ' + c + '">' + c.replace('-',' ') + '</span>'
       ).join('');
-      
+
       const mainCat = (e.categories||[]).find(c=>c!=='other') || 'other';
       let imgHtml;
       const overlayLogo = e.source === 'parkrun' ? '<img class="event-overlay-logo" src="https://imgs.search.brave.com/6NUuxvjtYBFa9-nB6yxpPFajtJwa954sr42oij1f8Bo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZWN0/b3JzZWVrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/Ni9QYXJrcnVuLUxv/Z28tVmVjdG9yLmpw/Zw" alt="parkrun" style="height:32px">' : '';
-      
+
       if(e.image){
         const imgPos = e.image_position || 'center 25%';
         imgHtml = '<div class="event-img-wrap"><img class="event-img" style="object-position:' + imgPos + '" src="' + e.image + '" alt="" loading="lazy" onerror="this.outerHTML=\'<div class=event-img-placeholder ' + mainCat + '>' + mainCat.replace(/-/g,' ') + '</div>\'">' + overlayLogo + '</div>';
       } else {
         imgHtml = '<div class="event-img-wrap"><div class="event-img-placeholder ' + mainCat + '">' + mainCat.replace(/-/g,' ') + '</div>' + overlayLogo + '</div>';
       }
-      
+
       const url = e.url || '#';
       const isRecurring = e.is_recurring && e.recurrence_text;
       const timeStr = e.time ? formatTime(e.time) : '';
       const dateDisplay = isRecurring
         ? '<div class="event-date">' + e.recurrence_text + (timeStr ? ' &middot; ' + timeStr : '') + '</div>'
         : (dateFormatted ? '<div class="event-date">' + dateFormatted + (timeStr ? ' &middot; ' + timeStr : '') + '</div>' : '');
-      
+
       const hasSessions = e.sessions && e.sessions.length > 1;
 
       const sessionDateHtml = hasSessions
         ? '<div class="event-date">' + dateFormatted + ' &middot; ' + e.sessions.map(s => formatTime(s.time)).join(' &amp; ') + '</div>'
         : '';
 
+      // Use pretext to measure title — single-line titles get .single-line class
+      const lines = titleLineCount(e.name, cardWidth);
+      const titleClass = lines <= 1 ? 'event-name single-line' : 'event-name';
+
       const frontHtml = '<a ' + (hasSessions ? '' : 'href="' + url + '" target="_blank" rel="noopener"') + '>' +
         imgHtml +
         '<div class="event-body">' +
           (hasSessions ? sessionDateHtml : dateDisplay) +
-          '<div class="event-name">' + e.name + '</div>' +
+          '<div class="' + titleClass + '">' + e.name + '</div>' +
           (e.venue ? '<div class="event-venue">' + e.venue + '</div>' : '') +
           (cats ? '<div class="event-tags">' + cats + '</div>' : '') +
         '</div>' +
       '</a>';
+
+      const card = document.createElement('div');
 
       if(hasSessions){
         const sessionItems = e.sessions.map(s =>
@@ -540,36 +599,39 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
             '<span class="sess-time">' + (s.time||'') + '</span>' +
           '</a>'
         ).join('');
-        const backHtml = 
+        const backHtml =
           '<div class="card-back-title">' + e.name + '</div>' +
           '<div class="card-back-sub">' + (e.venue||'') + ' &middot; ' + (dateFormatted||'') + '</div>' +
           '<div class="sessions-list">' + sessionItems + '</div>' +
           '<button class="flip-back-btn" onclick="this.closest(\'.card-flip-container\').classList.remove(\'flipped\');event.stopPropagation()">&#8592; Back</button>';
 
-        card.innerHTML = 
-          '<div class="card-flip-container has-sessions" style="height:100%">' +
+        card.innerHTML =
+          '<div class="card-flip-container has-sessions">' +
             '<div class="card-inner">' +
               '<div class="card-front event-card">' + frontHtml + '</div>' +
               '<div class="card-back">' + backHtml + '</div>' +
             '</div>' +
           '</div>';
-        
+
         card.style.overflow = 'visible';
-        card.style.background = 'transparent';
-        card.style.border = 'none';
-        card.style.boxShadow = 'none';
 
         card.querySelector('.card-flip-container').addEventListener('click', function(ev){
           if(ev.target.closest('.session-btn') || ev.target.closest('.flip-back-btn')) return;
           this.classList.toggle('flipped');
         });
       } else {
+        card.className = 'event-card';
         card.innerHTML = frontHtml;
       }
-      
-      grid.appendChild(card);
+
+      // Place card in shortest column (masonry)
+      const titleH = lines <= 1 ? TITLE_ONE_LINE : TITLE_TWO_LINES;
+      const estimatedH = IMG_H + BODY_FIXED + titleH + (cats ? TAG_H : 0) + gapPx;
+      const shortestCol = cols.reduce((a, b) => a.height <= b.height ? a : b);
+      shortestCol.el.appendChild(card);
+      shortestCol.height += estimatedH;
     });
-    
+
     loadMoreWrap.style.display = visibleCount >= filteredEvents.length ? 'none' : '';
   }
 
@@ -592,6 +654,20 @@ footer{max-width:var(--max-w);margin:0 auto;padding:24px var(--pad);border-top:1
       console.error('Failed to load events:', err);
       document.getElementById('events-grid').innerHTML = '<p style="color:var(--text-3);padding:24px">Failed to load events. Please refresh.</p>';
     });
+
+  // Re-render on resize when column count changes (masonry rebalance)
+  let _lastColCount = getColCount();
+  let _resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(_resizeTimer);
+    _resizeTimer = setTimeout(() => {
+      const newCount = getColCount();
+      if(newCount !== _lastColCount){
+        _lastColCount = newCount;
+        renderEvents();
+      }
+    }, 150);
+  });
 
   // Search with autocomplete
   let searchTimeout;
