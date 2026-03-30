@@ -5309,16 +5309,18 @@
     "name": "Quiz Night at The Plough Prestbury",
     "date": "2026-04-26",
     "venue": "The Plough Prestbury",
-    "url": "https://www.facebook.com/theploughprestbury/events",
+    "url": "https://www.instagram.com/p/DWRFKCdDPrW/",
     "categories": [
       "community"
     ],
-    "description": "Monthly Sunday quiz at The Plough Prestbury, Cheltenham. 6pm. Book a table by DM or calling 01242 361506.",
+    "description": "Get a team together and test your brains! Monthly Sunday quiz at The Plough Prestbury. 6pm. Limited space — DM or call to book your table.",
     "source": "facebook-scrape",
     "on_sale": true,
     "city": "Cheltenham",
     "is_recurring": true,
-    "recurrence_text": "Monthly on Sundays"
+    "recurrence_text": "Monthly on Sundays",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/plough-prestbury-quiz.jpg",
+    "time": "18:00"
   },
   {
     "name": "Games Night",
