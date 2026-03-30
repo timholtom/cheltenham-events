@@ -496,23 +496,6 @@
     "time": "18:00"
   },
   {
-    "name": "Pub Quiz at Mad Dog Brew Co",
-    "date": "2026-04-01",
-    "time": "19:00",
-    "venue": "Mad Dog Brew Co",
-    "url": "https://www.instagram.com/maddogbrewcheltenham/",
-    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/mad-dog-quiz.jpg",
-    "categories": [
-      "pub-quiz",
-      "community"
-    ],
-    "description": "60 questions across 6 rounds with beer + cash prizes. £1pp to play, max 6 per team. Email cheltenham@maddogbrew.co.uk to book. The Fire Station, Cheltenham.",
-    "source": "instagram-pubs",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday"
-  },
-  {
     "name": "Sabor Salsa & Bachata Night",
     "date": "2026-04-01",
     "venue": "School House Café",
