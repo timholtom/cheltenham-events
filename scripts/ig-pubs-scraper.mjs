@@ -27,6 +27,7 @@ const ACCOUNTS = [
   { handle: 'airsandgracescheltenham',   venue: 'Airs & Graces' },
   { handle: '33therumbar',               venue: '33 The Rum Bar' },
   { handle: 'johngordons',               venue: 'John Gordon\'s' },
+  { handle: 'parlerbar',                 venue: 'Parler Bar' },
 ];
 
 const MONTH_MAP = { january:1,february:2,march:3,april:4,may:5,june:6,july:7,august:8,september:9,october:10,november:11,december:12,jan:1,feb:2,mar:3,apr:4,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12 };
