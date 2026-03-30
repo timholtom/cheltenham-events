@@ -74,66 +74,53 @@ async function scrapeEventPage(page, eventId) {
   const url = `https://www.facebook.com/events/${eventId}/`;
   console.log(`  → ${url}`);
 
+  // Intercept image responses — track the largest one fetched (likely the cover)
+  const interceptedImages = [];
+  const responseHandler = async (response) => {
+    const resUrl = response.url();
+    const ct = response.headers()['content-type'] || '';
+    if (ct.startsWith('image/') && (resUrl.includes('scontent') || resUrl.includes('fbcdn'))) {
+      try {
+        const buf = await response.body();
+        if (buf.length > 40000) { // >40KB = real photo, not icon
+          interceptedImages.push({ url: resUrl, size: buf.length });
+        }
+      } catch(e) {}
+    }
+  };
+  page.on('response', responseHandler);
+
   await page.goto(url, { waitUntil: 'load', timeout: 45000 });
-  await jitter(2000, 4000);
-
-  // Wait for event content to render (look for date or cover image)
-  try {
-    await page.waitForSelector('img[data-imgperflogname], div[data-testid="event-cover-photo"] img, h1, [role="main"] img', { timeout: 10000 });
-  } catch(e) { /* continue anyway */ }
-
+  await jitter(3000, 5000);
   await humanScroll(page, 2);
-  await jitter(1500, 3000);
+  await jitter(2000, 3000);
+
+  page.off('response', responseHandler);
 
   const html = await page.content();
+  const pageTitle = await page.title();
 
-  // Try og:image (may need unescaping)
+  // og:image from HTML
   const ogImg = html.match(/<meta[^>]+property="og:image"[^>]+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/i);
   const ogTitle = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
 
-  // Grab cover image: look for topmost large img on page
-  let fallbackImg = null;
-  if (!ogImg) {
-    // Wait a bit longer for lazy images to load
-    await jitter(2000, 3000);
-    await page.evaluate(() => window.scrollTo(0, 0));
-    await jitter(1000, 2000);
+  // Pick largest intercepted image as cover
+  interceptedImages.sort((a, b) => b.size - a.size);
+  const bestIntercepted = interceptedImages[0]?.url || null;
 
-    fallbackImg = await page.evaluate(() => {
-      // Log all images for debugging
-      const all = [...document.querySelectorAll('img')];
-      const data = all.map(img => ({
-        src: img.src,
-        w: img.naturalWidth,
-        h: img.naturalHeight,
-        top: img.getBoundingClientRect().top,
-        currentSrc: img.currentSrc,
-      })).filter(i => i.src && i.src.startsWith('http'));
+  console.log(`    og:image: ${!!ogImg}, intercepted: ${interceptedImages.length} (largest: ${interceptedImages[0]?.size || 0} bytes)`);
 
-      // Sort by position (topmost first) and find first reasonably large one
-      data.sort((a, b) => a.top - b.top);
-      console.log('IMG DUMP:', JSON.stringify(data.slice(0, 8)));
-
-      // Event cover: topmost img with decent size
-      const cover = data.find(i => i.w > 200 && i.h > 150 && i.top < 600);
-      return cover?.src || null;
-    });
-  }
-
-  // Also try page title from document
-  const pageTitle = await page.title();
-
-  const imageUrl = ogImg ? ogImg[1].replace(/&amp;/g, '&') : fallbackImg;
-
-  console.log(`    html size: ${html.length}, og:image: ${!!ogImg}, fallback img: ${!!fallbackImg}`);
+  const imageUrl = ogImg
+    ? ogImg[1].replace(/&amp;/g, '&')
+    : bestIntercepted;
 
   return {
     id: eventId,
     url,
     image: imageUrl,
-    title: ogTitle ? ogTitle[1] : pageTitle?.replace(' | Facebook', '').trim() || null,
+    title: ogTitle ? ogTitle[1] : pageTitle?.replace(/^\(\d+\)\s*/, '').replace(' | Facebook', '').trim() || null,
   };
 }
 
