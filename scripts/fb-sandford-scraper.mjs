@@ -93,14 +93,32 @@ async function scrapeEventPage(page, eventId) {
   const ogTitle = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
 
-  // Also try largest image on page as fallback
+  // Also try event cover image via known FB selectors
   let fallbackImg = null;
   if (!ogImg) {
     fallbackImg = await page.evaluate(() => {
-      const imgs = [...document.querySelectorAll('img')];
-      // Find largest image (likely the cover)
+      // FB event cover is typically the first large image in the top section
+      // Try specific selectors first
+      const selectors = [
+        // Event cover photo container
+        'div[data-pagelet="EventCoverPhoto"] img',
+        'div[data-pagelet="event_cover_photo"] img',
+        // Hero image area
+        'div[role="main"] > div:first-child img[src*="scontent"]',
+        // Any image in top position with scontent CDN
+        'img[src*="scontent"][style*="top: 0"]',
+      ];
+      for (const sel of selectors) {
+        const el = document.querySelector(sel);
+        if (el?.src) return el.src;
+      }
+      // Fallback: first scontent image that's wide (cover aspect ratio ~1.9:1)
+      const imgs = [...document.querySelectorAll('img[src*="scontent"]')];
+      const covers = imgs.filter(img => img.naturalWidth > 400 && img.naturalWidth / img.naturalHeight > 1.4);
+      if (covers.length) return covers[0].src;
+      // Last resort: largest image
       const sized = imgs.map(img => ({ src: img.src, w: img.naturalWidth, h: img.naturalHeight }))
-        .filter(i => i.w > 300 && i.h > 200 && i.src.startsWith('http'));
+        .filter(i => i.w > 300 && i.h > 200);
       sized.sort((a, b) => (b.w * b.h) - (a.w * a.h));
       return sized[0]?.src || null;
     });
