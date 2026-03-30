@@ -1049,24 +1049,6 @@
     "image": "https://i.redd.it/97hra2gw4frg1.png"
   },
   {
-    "name": "Weekend Vinyl DJ Set",
-    "date": "2026-04-04",
-    "time": "19:30",
-    "end_time": "23:30",
-    "venue": "Parler Bar",
-    "url": "https://www.instagram.com/parlerbar/",
-    "image": "https://images.squarespace-cdn.com/content/v1/685dc43c6a36f52b834fd049/1774207540796-J2HWSPVTK5BM9C288Y2J/image-asset.jp",
-    "categories": [
-      "live-music",
-      "nightlife"
-    ],
-    "description": "Weekly vinyl DJ sets at Parler Bar — Jazz, Soul, Funk, Disco and more. 7:30pm–11:30pm. 40 Clarence Street, Cheltenham.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Most Fridays and Saturdays"
-  },
-  {
     "name": "Over 40s Day Party",
     "date": "2026-04-04",
     "venue": "The Apartment Cheltenham Bar",
