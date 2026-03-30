@@ -570,9 +570,23 @@ import { prepare, layout } from 'https://unpkg.com/@chenglou/pretext@0.0.3/dist/
       const url = e.url || '#';
       const isRecurring = e.is_recurring && e.recurrence_text;
       const timeStr = e.time ? formatTime(e.time) : '';
-      const dateDisplay = isRecurring
-        ? '<div class="event-date">' + e.recurrence_text + (timeStr ? ' &middot; ' + timeStr : '') + '</div>'
-        : (dateFormatted ? '<div class="event-date">' + dateFormatted + (timeStr ? ' &middot; ' + timeStr : '') + '</div>' : '');
+      // Multi-day events: show date range e.g. "Jun 15–21 · from 12pm"
+      let dateDisplay;
+      if(isRecurring){
+        dateDisplay = '<div class="event-date">' + e.recurrence_text + (timeStr ? ' &middot; ' + timeStr : '') + '</div>';
+      } else if(e.end_date && e.end_date !== e.date){
+        const startD = new Date(e.date + 'T00:00:00');
+        const endD = new Date(e.end_date + 'T00:00:00');
+        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        const sameMonth = startD.getMonth() === endD.getMonth() && startD.getFullYear() === endD.getFullYear();
+        const rangeStr = sameMonth
+          ? months[startD.getMonth()] + ' ' + startD.getDate() + '–' + endD.getDate()
+          : months[startD.getMonth()] + ' ' + startD.getDate() + ' – ' + months[endD.getMonth()] + ' ' + endD.getDate();
+        const timeLabel = timeStr ? ' &middot; from ' + timeStr : '';
+        dateDisplay = '<div class="event-date">' + rangeStr + timeLabel + '</div>';
+      } else {
+        dateDisplay = dateFormatted ? '<div class="event-date">' + dateFormatted + (timeStr ? ' &middot; ' + timeStr : '') + '</div>' : '';
+      }
 
       const hasSessions = e.sessions && e.sessions.length > 1;
 
