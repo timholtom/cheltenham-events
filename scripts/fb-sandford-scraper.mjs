@@ -93,34 +93,32 @@ async function scrapeEventPage(page, eventId) {
   const ogTitle = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)
     || html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:title"/i);
 
-  // Also try event cover image via known FB selectors
+  // Grab cover image: look for topmost large img on page
   let fallbackImg = null;
   if (!ogImg) {
+    // Wait a bit longer for lazy images to load
+    await jitter(2000, 3000);
+    await page.evaluate(() => window.scrollTo(0, 0));
+    await jitter(1000, 2000);
+
     fallbackImg = await page.evaluate(() => {
-      // FB event cover is typically the first large image in the top section
-      // Try specific selectors first
-      const selectors = [
-        // Event cover photo container
-        'div[data-pagelet="EventCoverPhoto"] img',
-        'div[data-pagelet="event_cover_photo"] img',
-        // Hero image area
-        'div[role="main"] > div:first-child img[src*="scontent"]',
-        // Any image in top position with scontent CDN
-        'img[src*="scontent"][style*="top: 0"]',
-      ];
-      for (const sel of selectors) {
-        const el = document.querySelector(sel);
-        if (el?.src) return el.src;
-      }
-      // Fallback: first scontent image that's wide (cover aspect ratio ~1.9:1)
-      const imgs = [...document.querySelectorAll('img[src*="scontent"]')];
-      const covers = imgs.filter(img => img.naturalWidth > 400 && img.naturalWidth / img.naturalHeight > 1.4);
-      if (covers.length) return covers[0].src;
-      // Last resort: largest image
-      const sized = imgs.map(img => ({ src: img.src, w: img.naturalWidth, h: img.naturalHeight }))
-        .filter(i => i.w > 300 && i.h > 200);
-      sized.sort((a, b) => (b.w * b.h) - (a.w * a.h));
-      return sized[0]?.src || null;
+      // Log all images for debugging
+      const all = [...document.querySelectorAll('img')];
+      const data = all.map(img => ({
+        src: img.src,
+        w: img.naturalWidth,
+        h: img.naturalHeight,
+        top: img.getBoundingClientRect().top,
+        currentSrc: img.currentSrc,
+      })).filter(i => i.src && i.src.startsWith('http'));
+
+      // Sort by position (topmost first) and find first reasonably large one
+      data.sort((a, b) => a.top - b.top);
+      console.log('IMG DUMP:', JSON.stringify(data.slice(0, 8)));
+
+      // Event cover: topmost img with decent size
+      const cover = data.find(i => i.w > 200 && i.h > 150 && i.top < 600);
+      return cover?.src || null;
     });
   }
 
