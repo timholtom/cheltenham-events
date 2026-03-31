@@ -1,409 +1,5 @@
 [
   {
-    "name": "Quiz Night at The Strand",
-    "date": "2026-03-26",
-    "venue": "The Strand",
-    "city": "Cheltenham",
-    "url": "https://thestrandcheltenham.co.uk/event/quiz-night-v4/",
-    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/strand-quiz.jpg",
-    "source": "thestrand",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Every Thursday, 8PM",
-    "categories": [
-      "quiz",
-      "community"
-    ],
-    "description": "Thursday night pub quiz at The Strand. Free entry — £50 bar tab up for grabs. Starts 8PM."
-  },
-  {
-    "name": "Cheltenham Observation Wheel",
-    "date": "2026-03-26",
-    "venue": "Imperial Gardens",
-    "city": "Cheltenham",
-    "url": "https://observationwheelhire.co.uk/",
-    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
-    "source": "visitcheltenham",
-    "on_sale": false,
-    "categories": [
-      "family"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Open daily",
-    "image_position": "center",
-    "recurrence_end": "2026-09-30"
-  },
-  {
-    "name": "Southam Car Boot Sale",
-    "date": "2026-03-28",
-    "venue": "Southam Lane, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.bootsrus.co.uk/",
-    "image": "https://static.wixstatic.com/media/cd6504_ddc8d204345c47779924eeb2a0374aa9~mv2.jpg/v1/fill/w_798,h_1150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/533366556_752584544046665_1782598195824003266_n.jpg",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "market"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
-  },
-  {
-    "name": "Cheltenham parkrun",
-    "date": "2026-04-04",
-    "venue": "Pittville Park",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham/",
-    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "running",
-      "sport",
-      "community"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Saturday at 9am",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Cheltenham Car Boot",
-    "date": "2026-03-29",
-    "venue": "Cheltenham Car Boot Site",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamcarboot.co.uk/",
-    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
-    "source": "website",
-    "on_sale": false,
-    "categories": [
-      "market"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday & Sunday",
-    "image_position": "center",
-    "recurrence_end": "2026-10-31"
-  },
-  {
-    "name": "Dunkertons Run Club",
-    "date": "2026-03-29",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
-    "source": "dunkertons",
-    "categories": [
-      "sport"
-    ],
-    "on_sale": true,
-    "price": "",
-    "is_recurring": true,
-    "recurrence_text": "Every Sunday",
-    "image_position": "center"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-29",
-    "venue": "The Exmouth Arms",
-    "city": "Cheltenham",
-    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
-    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
-    "source": "exmouth",
-    "on_sale": false,
-    "categories": [
-      "quiz"
-    ],
-    "recurrence_text": "Every Sunday",
-    "is_recurring": true,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Cheltenham Junior parkrun",
-    "date": "2026-04-05",
-    "venue": "The Park, Cheltenham",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
-    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
-    "source": "parkrun",
-    "on_sale": false,
-    "categories": [
-      "running",
-      "sport",
-      "family",
-      "community"
-    ],
-    "time": "09:00",
-    "recurrence_text": "Every Sunday at 9am",
-    "is_recurring": true,
-    "image_position": "center"
-  },
-  {
-    "name": "Community Lunch at School House Café",
-    "date": "2026-03-30",
-    "venue": "School House Café",
-    "city": "Cheltenham",
-    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
-    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
-    "source": "schoolhousecafe",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Every Monday, 12:30–1:30pm",
-    "categories": [
-      "community",
-      "food-drink"
-    ],
-    "description": "Weekly community lunch open to everyone. Pay as you feel — contribute what you can or nothing at all. Run in partnership with Wiggly and Good Food Cheltenham."
-  },
-  {
-    "name": "£2 Family Films at Cineworld",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Cineworld",
-    "city": "Cheltenham",
-    "url": "https://www.cineworld.co.uk/movies-for-juniors#/",
-    "image": "https://storage.googleapis.com/mytownrocks-pw/cheltenham/1475/photo-1512149074996-e923ac45be6a.jpeg",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "arts"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Inflatable Theme Park",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Cheltenham Rugby Club",
-    "city": "Cheltenham",
-    "url": "https://inflatablethemepark.co.uk/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FkOGykQvwnpF6NamWbpcm%2F1769807662697_cheltenham-inflatable-theme-park.jpg?alt=media&token=24093b55-467b-46f5-98ad-6a2b9c79fba5",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport",
-      "market",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Prestbury Easter Trail",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Whiskers Coffee",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/prestbury-easter-trail",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2Fb0Q1krZPd3dPmrO4fOpV%2F1773347035185_Prestbury-Easter-Egg-Hunt.jpg?alt=media&token=4378735e-2853-495c-af54-b70540fb3905",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Easter Trail at Primrose Vale",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Primrose Vale",
-    "city": "Cheltenham",
-    "url": "https://primrosevale.com/easter2026/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2F9cJySieMLt1G04Gf2z9j%2F1710842417900_Easter-Trail-at-Primrose-Vale.jpg?alt=media&token=545cc38b-bb07-4379-b114-2bff7d44cec2",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport",
-      "arts",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Charlton Kings Easter Hunt",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Charlton Kings Parish Council Office",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/charlton-kings-easter-egg-hunt",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FLgLpwWA9vTBvz9FxH2ye%2F1711447383200_Easter-Egg-Hunt-3-.png?alt=media&token=4d871d2e-cd5b-40a0-9fc1-391f99e6949c",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Easter at Søstrene Grene",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Søstrene Grene",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/guides/easter-savings-at-the-brewery-quarter",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FVNvhHPpUxJ7erGi6Wiin%2F1774457256457_easter-at-sostrene-grene.png?alt=media&token=e4ec6aec-6ec7-47d5-a0df-3df1abfed61e",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "market",
-      "arts"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Ultimate Activity Holiday Camp",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Dean Close Prep School",
-    "city": "Cheltenham",
-    "url": "https://www.ultimateactivity.co.uk/locations/cheltenham",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2FQXLJHJIZFhVnis3RgjKq%2F1682674522252_Ultimate-Activity-Summer-Camp.jpg?alt=media&token=e9c1617d-f181-49dd-bc9f-6fe9b7e7d43d",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport",
-      "arts"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Move More Holiday Camp",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Various",
-    "city": "Cheltenham",
-    "url": "https://www.move-more.org/camps",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FRDYMDVTwDRABXl9JnK5t%2F1755171538393_Move-More-Camp-5.jpg?alt=media&token=38eabbff-622f-4f2f-9b68-9ff277d7d1bf",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "sport",
-      "arts",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "08:30"
-  },
-  {
-    "name": "Atlas Camps",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Dunalley Primary School",
-    "city": "Cheltenham",
-    "url": "https://atlascamps.co.uk/holiday-clubs/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FLDE7dPQEdthEdk0cKukz%2F1732022549158_326742176_1019891576080772_8006566541307401540_n.jpg?alt=media&token=356b474f-07ad-46c2-b8df-17a4c2ad9f61",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport",
-      "arts",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Camp 4-2-11 Holiday Club",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "St Edward's School",
-    "city": "Cheltenham",
-    "url": "https://camp4211.co.uk/our-camps/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FpUNTUiYol754G2Yjp2cw%2F1710160722743_360168302_763455542446592_50032388080164604_n.jpg?alt=media&token=76a07dae-2224-4155-a7eb-10c536cd242d",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport",
-      "arts"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Easter at StarBistro",
-    "date": "2026-03-30",
-    "date_text": "",
-    "venue": "Starbistro",
-    "city": "Cheltenham",
-    "url": "https://www.starbistro.org",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FTls54cXhd8U2fFU0YuGg%2F1774521435805_Easter-Lego-Shmoo.jpg?alt=media&token=213c32a6-0ce6-4bdd-a8fc-0f269f7703f7",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "arts",
-      "family",
-      "food-drink"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "09:00"
-  },
-  {
-    "name": "The Fantasy Book Club: March",
-    "venue": "The Moon Under Water",
-    "date": "2026-03-30",
-    "categories": [
-      "arts"
-    ],
-    "image": "https://secure-content.meetupstatic.com/images/classic-events/533105703/676x380.jpg",
-    "url": "https://www.meetup.com/meetup-group-qcvqxvdu/events/313746793/",
-    "source": "meetup",
-    "city": "Cheltenham",
-    "time": "19:00"
-  },
-  {
-    "name": "Over 30s Dating Night",
-    "date": "2026-03-30",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/monday-dating-club-over-30s-dating-night-monday-30th-march",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/TILE_ART_a2bc8244-93cd-42d1-a20c-58fa152c0990_1200x1200.png?v=1769421358",
-    "source": "dunkertons",
-    "categories": [
-      "nightlife"
-    ],
-    "on_sale": true,
-    "price": "£7.50",
-    "image_position": "center 25%",
-    "time": "19:00"
-  },
-  {
-    "name": "Quiz Night",
-    "date": "2026-03-31",
-    "venue": "Dunkertons Cider",
-    "city": "Cheltenham",
-    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
-    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
-    "source": "dunkertons",
-    "categories": [
-      "quiz"
-    ],
-    "on_sale": true,
-    "price": "£12.00",
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%",
-    "time": "19:30"
-  },
-  {
-    "name": "Pub Quiz",
-    "date": "2026-03-31",
-    "venue": "The Airs & Graces",
-    "city": "Cheltenham",
-    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
-    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
-    "source": "dodo-pubs",
-    "on_sale": false,
-    "categories": [
-      "quiz"
-    ],
-    "is_recurring": true,
-    "recurrence_text": "Every Tuesday",
-    "image_position": "center 25%",
-    "time": "20:00"
-  },
-  {
     "name": "Easter Crafts at the Wilson",
     "date": "2026-03-31",
     "date_text": "",
@@ -480,23 +76,6 @@
     ],
     "image_position": "center 25%",
     "time": "18:00"
-  },
-  {
-    "name": "Sabor Salsa & Bachata Night",
-    "date": "2026-04-01",
-    "venue": "School House Café",
-    "city": "Cheltenham",
-    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
-    "image": "https://images.squarespace-cdn.com/content/v1/5dd2945fcf3c9512c3357e9d/1587935049210-OR2EZIH24OUO9OEU9U4T/ardian-lumi-6Woj_wozqmA-unsplash.jpg",
-    "source": "schoolhousecafe",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday evening, doors 7:45pm",
-    "categories": [
-      "community",
-      "arts"
-    ],
-    "description": "Weekly salsa and bachata social. 8–8:45pm salsa, 8:45–9:30pm bachata, 9:30–10:30pm social dancing. £10 per session."
   },
   {
     "name": "Friends of Leckhampton Primary School Easter Trail!",
@@ -638,54 +217,6 @@
     "time": "19:00"
   },
   {
-    "name": "Bottomless Beer & Birria",
-    "date": "2026-04-01",
-    "time": "16:00",
-    "venue": "Planet Caravan",
-    "url": "https://www.planetcaravancheltenham.com/events/bottomlessbeersandbirria",
-    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/68a779ab51295b5e5cab839b/1757071431752/Bottomless%2Bbirria%2Bbeers%2Bposter.jpg?format=1500w",
-    "categories": [
-      "food-drink"
-    ],
-    "description": "Bottomless beers with birria beef (or mushroom) tacos every Wednesday at Planet Caravan.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday"
-  },
-  {
-    "name": "Weekly Quiz Night",
-    "date": "2026-04-01",
-    "time": "19:30",
-    "venue": "Brewhouse & Kitchen Cheltenham",
-    "url": "https://www.brewhouseandkitchen.com/venue/cheltenham/#whats-on",
-    "categories": [
-      "pub-quiz",
-      "community"
-    ],
-    "description": "Weekly quiz night every Wednesday at 7:30pm. £2pp entry, max 6 per team. Great prizes, lots of fun!",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Every Wednesday"
-  },
-  {
-    "name": "Musical Bingo at The Botanist",
-    "date": "2026-04-02",
-    "venue": "The Botanist Cheltenham",
-    "url": "https://www.thebreweryquarter.com/offers-events/regular-quiz-nights-in-the-brewery-quarter",
-    "image": "https://cdn.prod.website-files.com/667a8bbcc4e6e69954947c3f/669e9bffb05ac2e0b2a4512c_the-botanist-top.jpg",
-    "categories": [
-      "pub-quiz",
-      "community"
-    ],
-    "description": "Musical Bingo at The Botanist — one musician, three chances to win. Bingo re-imagined. Walk-ins welcome, booking recommended. First Thursday of every month.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "First Thursday of the month"
-  },
-  {
     "name": "Pittville Park Gardening and Litter Picking Volunteer Group",
     "date": "2026-04-02",
     "date_text": "",
@@ -793,23 +324,6 @@
     "price": "£12.00",
     "image_position": "center 25%",
     "time": "10:30"
-  },
-  {
-    "name": "Cheap Margaritas Every Thursday",
-    "date": "2026-04-02",
-    "time": "16:00",
-    "venue": "Planet Caravan",
-    "url": "https://www.planetcaravancheltenham.com/events/cheap-margaritas-every-thursday",
-    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/67f135cd61d0a415829184bc/1755806838320/IMG_2059_VSCO.jpeg?format=1500w",
-    "categories": [
-      "food-drink",
-      "nightlife"
-    ],
-    "description": "£3.50 Picantes, £5 Classic Margaritas + £5 O.G Lageritas every Thursday.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Every Thursday"
   },
   {
     "name": "Emo music lovers",
@@ -1035,39 +549,6 @@
     "time": "12:30"
   },
   {
-    "name": "D&D Open Table",
-    "date": "2026-04-04",
-    "venue": "School House Café",
-    "city": "Cheltenham",
-    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
-    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
-    "source": "schoolhousecafe",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday, 10:30am–2pm",
-    "categories": [
-      "community"
-    ],
-    "description": "Open Dungeons & Dragons table every Saturday morning. Drop in and join a game — all experience levels welcome."
-  },
-  {
-    "name": "Board Game Drop-in",
-    "date": "2026-04-04",
-    "venue": "School House Café",
-    "city": "Cheltenham",
-    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
-    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
-    "source": "schoolhousecafe",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday, 10am–12pm",
-    "categories": [
-      "community",
-      "family"
-    ],
-    "description": "Drop in for a morning of board games at School House Café. All welcome — bring your own or use theirs."
-  },
-  {
     "name": "Free basketball sessions",
     "date": "2026-04-04",
     "date_text": "",
@@ -1081,26 +562,6 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
-  },
-  {
-    "name": "King George V Playing Field Parkrun",
-    "date": "2026-04-04",
-    "date_text": "",
-    "venue": "King George V Playing Field",
-    "city": "Cheltenham",
-    "url": "https://www.parkrun.org.uk/kinggeorgevplayingfield/",
-    "image": "https://images.parkrun.com/blogs.dir/2149/files/2021/10/eventhomepagepicture.jpg",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "running",
-      "community"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "is_recurring": true,
-    "recurrence_text": "Every Saturday at 9am",
-    "time": "09:00",
-    "description": "Free weekly 5K run every Saturday at 9am at King George V Playing Field, Cheltenham. All abilities welcome. Register free at parkrun.org.uk."
   },
   {
     "name": "Southam Car Boot",
@@ -1478,23 +939,6 @@
     "image_position": "center 25%"
   },
   {
-    "name": "Talk Club — Men's Mental Health",
-    "date": "2026-04-06",
-    "time": "19:30",
-    "venue": "Planet Caravan",
-    "url": "https://www.planetcaravancheltenham.com/events/talk-club",
-    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/6706b8a8f67bad5093b31746/1769677815592/Logo+2.jpg?format=1500w",
-    "categories": [
-      "wellness",
-      "community"
-    ],
-    "description": "Men's mental health Talk Club at Planet Caravan. Every 1st and 3rd Monday, 7:30pm. Just rock up.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Every 1st and 3rd Monday"
-  },
-  {
     "name": "Friends of Montpellier Skatepark: Skate 3 Tournament",
     "date": "2026-04-07",
     "venue": "The Frog & Fiddle",
@@ -1777,23 +1221,6 @@
     ],
     "image": "https://d31fr2pwly4c4s.cloudfront.net/6/8/2/2221326_61044789_A-Psychologist-s-Guide-to-Expressing-Female-Rage.jpg",
     "description": "Join award-winning psychologist Dr Lalitaa Suglani to explore women's hidden rage, why it matters, and how to release it. With Q&A."
-  },
-  {
-    "name": "Cheltenham Farmers Market",
-    "date": "2026-04-10",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/cotswoldmarkets/events",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
-    "is_recurring": true,
-    "recurrence_text": "2nd and last Friday of every month, 9am–2pm"
   },
   {
     "name": "Farmers Market",
@@ -2419,24 +1846,6 @@
     "city": "Cheltenham"
   },
   {
-    "name": "Cheltenham Craft Market",
-    "date": "2026-04-18",
-    "venue": "The Promenade",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/cotswoldmarkets/events",
-    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
-    "source": "cotswold-markets",
-    "on_sale": true,
-    "categories": [
-      "community",
-      "arts",
-      "market"
-    ],
-    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
-    "is_recurring": true,
-    "recurrence_text": "3rd Saturday of every month (Feb–Nov), 9am–5pm"
-  },
-  {
     "name": "Leckhampton Spring Market and Car Boot Sale",
     "date": "2026-04-18",
     "date_text": "",
@@ -2866,23 +2275,6 @@
     "time": "19:00"
   },
   {
-    "name": "Monthly Quiz Night at Royal Oak Prestbury",
-    "date": "2026-04-24",
-    "venue": "Royal Oak Prestbury",
-    "city": "Cheltenham",
-    "url": "https://butcombe.com/the-royal-oak-pub-gloucestershire/whats-on/",
-    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/294969474_454382933363009_5234948448253608086_n.jpg?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfwZnawk8HPXwR6Dzqry9PnjWfG0oWbpt4ywIrwObQt7bw&oe=69CDBEA0",
-    "source": "facebook-scrape",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Last Friday of each month",
-    "categories": [
-      "quiz",
-      "community"
-    ],
-    "description": "Monthly quiz night hosted by quiz master Matt. Book early to reserve your space."
-  },
-  {
     "name": "Fantazmaz UK Tour + Support",
     "date": "2026-04-24",
     "venue": "The Frog & Fiddle",
@@ -3153,41 +2545,6 @@
     "city": "Cheltenham",
     "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/plough-prestbury-quiz.jpg",
     "time": "18:00"
-  },
-  {
-    "name": "Big Phat Quiz at The Vine",
-    "date": "2026-04-26",
-    "venue": "The Vine",
-    "city": "Cheltenham",
-    "url": "https://www.facebook.com/thevinecheltenham/events",
-    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/449027871_1227546341857568_6913428086751375347_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfzhJK3zdJf1Ztvy4RKuQ6vS0RdXJokJA2unyYTe6dexGQ&oe=69CDDF44",
-    "source": "facebook-scrape",
-    "on_sale": false,
-    "is_recurring": true,
-    "recurrence_text": "Last Sunday of each month",
-    "categories": [
-      "quiz",
-      "community"
-    ],
-    "description": "The Vine's popular monthly quiz night. Table booking recommended — it fills up fast."
-  },
-  {
-    "name": "Monthly Bottle Share",
-    "date": "2026-04-26",
-    "time": "13:00",
-    "end_time": "20:00",
-    "venue": "Planet Caravan",
-    "url": "https://www.planetcaravancheltenham.com/events/bv2zf8jjccffhesimmbig6oplvisbp-ty2rp",
-    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/67191b9a66c1a254bc76e625/1762456862576/Noa+non+alc.PNG?format=1500w",
-    "categories": [
-      "food-drink",
-      "community"
-    ],
-    "description": "Ben cracks open his secret stash of rare, limited and super ridiculous beers. Tasting trays 3×1/3rds £10. Last Sunday of the month 1pm–8pm.",
-    "source": "website",
-    "city": "Cheltenham",
-    "is_recurring": true,
-    "recurrence_text": "Last Sunday of the month"
   },
   {
     "name": "Damian Hall: Running Forever",
@@ -4072,6 +3429,19 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-05-29",
+    "time": "16:00",
+    "venue": "The Bottle of Sauce",
+    "url": "https://dodopubs.com/event/skivers-club/2026-05-29/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "House Revolution UK Day Party with Paul Morrell",
@@ -5503,6 +4873,437 @@
     "on_sale": true,
     "image_position": "center 25%",
     "time": "19:30"
+  },
+  {
+    "name": "Quiz Night at The Strand",
+    "date": "2026-03-26",
+    "venue": "The Strand",
+    "city": "Cheltenham",
+    "url": "https://thestrandcheltenham.co.uk/event/quiz-night-v4/",
+    "image": "https://raw.githubusercontent.com/timholtom/cheltenham-events/main/images/strand-quiz.jpg",
+    "source": "thestrand",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Thursday, 8PM",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "Thursday night pub quiz at The Strand. Free entry — £50 bar tab up for grabs. Starts 8PM."
+  },
+  {
+    "name": "Cheltenham Observation Wheel",
+    "date": "2026-03-26",
+    "venue": "Imperial Gardens",
+    "city": "Cheltenham",
+    "url": "https://observationwheelhire.co.uk/",
+    "image": "https://observationwheelhire.co.uk/wp-content/uploads/2023/02/S1.jpg",
+    "source": "visitcheltenham",
+    "on_sale": false,
+    "categories": [
+      "family"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Open daily",
+    "image_position": "center",
+    "recurrence_end": "2026-09-30"
+  },
+  {
+    "name": "Southam Car Boot Sale",
+    "date": "2026-03-28",
+    "venue": "Southam Lane, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.bootsrus.co.uk/",
+    "image": "https://static.wixstatic.com/media/cd6504_ddc8d204345c47779924eeb2a0374aa9~mv2.jpg/v1/fill/w_798,h_1150,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/533366556_752584544046665_1782598195824003266_n.jpg",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "market"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
+  },
+  {
+    "name": "Cheltenham Car Boot",
+    "date": "2026-03-29",
+    "venue": "Cheltenham Car Boot Site",
+    "city": "Cheltenham",
+    "url": "https://www.cheltenhamcarboot.co.uk/",
+    "image": "https://www.cheltenhamcarboot.co.uk/media/pages/home/f573a5fc73-1768828457/cheltenham-carboot-sale-05-1980x900-crop-q80.webp",
+    "source": "website",
+    "on_sale": false,
+    "categories": [
+      "market"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday & Sunday",
+    "image_position": "center",
+    "recurrence_end": "2026-10-31"
+  },
+  {
+    "name": "Dunkertons Run Club",
+    "date": "2026-03-29",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/dunkertons-run-club",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/1080x1350_291225_1200x1200.png?v=1766997976",
+    "source": "dunkertons",
+    "categories": [
+      "sport"
+    ],
+    "on_sale": true,
+    "price": "",
+    "is_recurring": true,
+    "recurrence_text": "Every Sunday",
+    "image_position": "center"
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-29",
+    "venue": "The Exmouth Arms",
+    "city": "Cheltenham",
+    "url": "https://theexmouth.co.uk/whats-on/the-exmouth-quiz-every-sunday-3/",
+    "image": "https://theexmouth.co.uk/wp-content/uploads/2023/04/The-Exmouth-14-gallery.jpg",
+    "source": "exmouth",
+    "on_sale": false,
+    "categories": [
+      "quiz"
+    ],
+    "recurrence_text": "Every Sunday",
+    "is_recurring": true,
+    "image_position": "center 25%"
+  },
+  {
+    "name": "Community Lunch at School House Café",
+    "date": "2026-03-30",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
+    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
+    "source": "schoolhousecafe",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Monday, 12:30–1:30pm",
+    "categories": [
+      "community",
+      "food-drink"
+    ],
+    "description": "Weekly community lunch open to everyone. Pay as you feel — contribute what you can or nothing at all. Run in partnership with Wiggly and Good Food Cheltenham."
+  },
+  {
+    "name": "Quiz Night",
+    "date": "2026-03-31",
+    "venue": "Dunkertons Cider",
+    "city": "Cheltenham",
+    "url": "https://www.dunkertonscider.co.uk/collections/events/products/quiz-night-every-tuesday",
+    "image": "http://www.dunkertonscider.co.uk/cdn/shop/files/xmas_new_tile_1200x1200.png?v=1765279812",
+    "source": "dunkertons",
+    "categories": [
+      "quiz"
+    ],
+    "on_sale": true,
+    "price": "£12.00",
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%",
+    "time": "19:30"
+  },
+  {
+    "name": "Pub Quiz",
+    "date": "2026-03-31",
+    "venue": "The Airs & Graces",
+    "city": "Cheltenham",
+    "url": "https://dodopubs.com/event/pub-quiz-the-steady-2/2026-03-31/",
+    "image": "https://dodopubs.com/wp-content/uploads/2024/08/Quiz-Website-Square.png",
+    "source": "dodo-pubs",
+    "on_sale": false,
+    "categories": [
+      "quiz"
+    ],
+    "is_recurring": true,
+    "recurrence_text": "Every Tuesday",
+    "image_position": "center 25%",
+    "time": "20:00"
+  },
+  {
+    "name": "Sabor Salsa & Bachata Night",
+    "date": "2026-04-01",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
+    "image": "https://images.squarespace-cdn.com/content/v1/5dd2945fcf3c9512c3357e9d/1587935049210-OR2EZIH24OUO9OEU9U4T/ardian-lumi-6Woj_wozqmA-unsplash.jpg",
+    "source": "schoolhousecafe",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday evening, doors 7:45pm",
+    "categories": [
+      "community",
+      "arts"
+    ],
+    "description": "Weekly salsa and bachata social. 8–8:45pm salsa, 8:45–9:30pm bachata, 9:30–10:30pm social dancing. £10 per session."
+  },
+  {
+    "name": "Bottomless Beer & Birria",
+    "date": "2026-04-01",
+    "time": "16:00",
+    "venue": "Planet Caravan",
+    "url": "https://www.planetcaravancheltenham.com/events/bottomlessbeersandbirria",
+    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/68a779ab51295b5e5cab839b/1757071431752/Bottomless%2Bbirria%2Bbeers%2Bposter.jpg?format=1500w",
+    "categories": [
+      "food-drink"
+    ],
+    "description": "Bottomless beers with birria beef (or mushroom) tacos every Wednesday at Planet Caravan.",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday"
+  },
+  {
+    "name": "Weekly Quiz Night",
+    "date": "2026-04-01",
+    "time": "19:30",
+    "venue": "Brewhouse & Kitchen Cheltenham",
+    "url": "https://www.brewhouseandkitchen.com/venue/cheltenham/#whats-on",
+    "categories": [
+      "pub-quiz",
+      "community"
+    ],
+    "description": "Weekly quiz night every Wednesday at 7:30pm. £2pp entry, max 6 per team. Great prizes, lots of fun!",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "Every Wednesday"
+  },
+  {
+    "name": "Musical Bingo at The Botanist",
+    "date": "2026-04-02",
+    "venue": "The Botanist Cheltenham",
+    "url": "https://www.thebreweryquarter.com/offers-events/regular-quiz-nights-in-the-brewery-quarter",
+    "image": "https://cdn.prod.website-files.com/667a8bbcc4e6e69954947c3f/669e9bffb05ac2e0b2a4512c_the-botanist-top.jpg",
+    "categories": [
+      "pub-quiz",
+      "community"
+    ],
+    "description": "Musical Bingo at The Botanist — one musician, three chances to win. Bingo re-imagined. Walk-ins welcome, booking recommended. First Thursday of every month.",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "First Thursday of the month"
+  },
+  {
+    "name": "Cheap Margaritas Every Thursday",
+    "date": "2026-04-02",
+    "time": "16:00",
+    "venue": "Planet Caravan",
+    "url": "https://www.planetcaravancheltenham.com/events/cheap-margaritas-every-thursday",
+    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/67f135cd61d0a415829184bc/1755806838320/IMG_2059_VSCO.jpeg?format=1500w",
+    "categories": [
+      "food-drink",
+      "nightlife"
+    ],
+    "description": "£3.50 Picantes, £5 Classic Margaritas + £5 O.G Lageritas every Thursday.",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "Every Thursday"
+  },
+  {
+    "name": "Cheltenham parkrun",
+    "date": "2026-04-04",
+    "venue": "Pittville Park",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham/",
+    "image": "https://images.parkrun.com/parkrun-marketing/512x288/50266987317.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "running",
+      "sport",
+      "community"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Saturday at 9am",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "D&D Open Table",
+    "date": "2026-04-04",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
+    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
+    "source": "schoolhousecafe",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday, 10:30am–2pm",
+    "categories": [
+      "community"
+    ],
+    "description": "Open Dungeons & Dragons table every Saturday morning. Drop in and join a game — all experience levels welcome."
+  },
+  {
+    "name": "Board Game Drop-in",
+    "date": "2026-04-04",
+    "venue": "School House Café",
+    "city": "Cheltenham",
+    "url": "https://www.schoolhousecafe.co.uk/whats-on/",
+    "image": "https://www.schoolhousecafe.co.uk/media/2022/06/School-House-Cafe-0428-scaled.jpeg",
+    "source": "schoolhousecafe",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday, 10am–12pm",
+    "categories": [
+      "community",
+      "family"
+    ],
+    "description": "Drop in for a morning of board games at School House Café. All welcome — bring your own or use theirs."
+  },
+  {
+    "name": "King George V Playing Field Parkrun",
+    "date": "2026-04-04",
+    "date_text": "",
+    "venue": "King George V Playing Field",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/kinggeorgevplayingfield/",
+    "image": "https://images.parkrun.com/blogs.dir/2149/files/2021/10/eventhomepagepicture.jpg",
+    "source": "cheltenham-rocks",
+    "categories": [
+      "running",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "is_recurring": true,
+    "recurrence_text": "Every Saturday at 9am",
+    "time": "09:00",
+    "description": "Free weekly 5K run every Saturday at 9am at King George V Playing Field, Cheltenham. All abilities welcome. Register free at parkrun.org.uk."
+  },
+  {
+    "name": "Cheltenham Junior parkrun",
+    "date": "2026-04-05",
+    "venue": "The Park, Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.parkrun.org.uk/cheltenham-juniors/",
+    "image": "https://images.parkrun.com/blogs.dir/761/files/2021/12/junioreventhomepagepicture.jpg",
+    "source": "parkrun",
+    "on_sale": false,
+    "categories": [
+      "running",
+      "sport",
+      "family",
+      "community"
+    ],
+    "time": "09:00",
+    "recurrence_text": "Every Sunday at 9am",
+    "is_recurring": true,
+    "image_position": "center"
+  },
+  {
+    "name": "Talk Club — Men's Mental Health",
+    "date": "2026-04-06",
+    "time": "19:30",
+    "venue": "Planet Caravan",
+    "url": "https://www.planetcaravancheltenham.com/events/talk-club",
+    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/6706b8a8f67bad5093b31746/1769677815592/Logo+2.jpg?format=1500w",
+    "categories": [
+      "wellness",
+      "community"
+    ],
+    "description": "Men's mental health Talk Club at Planet Caravan. Every 1st and 3rd Monday, 7:30pm. Just rock up.",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "Every 1st and 3rd Monday"
+  },
+  {
+    "name": "Cheltenham Farmers Market",
+    "date": "2026-04-10",
+    "venue": "The Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/cotswoldmarkets/events",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277638850-6K3O2Y3XVJVWNEZ0OWLI/image-asset.jpeg",
+    "source": "cotswold-markets",
+    "on_sale": true,
+    "categories": [
+      "food-drink",
+      "community"
+    ],
+    "description": "Award-winning farmers market on The Promenade. 2nd and last Friday of every month, 9am–2pm. Local food producers, artisan goods.",
+    "is_recurring": true,
+    "recurrence_text": "2nd and last Friday of every month, 9am–2pm"
+  },
+  {
+    "name": "Cheltenham Craft Market",
+    "date": "2026-04-18",
+    "venue": "The Promenade",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/cotswoldmarkets/events",
+    "image": "https://images.squarespace-cdn.com/content/v1/5865693637c58153c75d6a77/1483277174513-53850LB9TIQTJMK88H11/CheltenhamCraft_1.png",
+    "source": "cotswold-markets",
+    "on_sale": true,
+    "categories": [
+      "community",
+      "arts",
+      "market"
+    ],
+    "description": "Monthly craft market on The Promenade featuring local artists and craftspeople. 3rd Saturday, 9am–5pm, February–November.",
+    "is_recurring": true,
+    "recurrence_text": "3rd Saturday of every month (Feb–Nov), 9am–5pm"
+  },
+  {
+    "name": "Monthly Quiz Night at Royal Oak Prestbury",
+    "date": "2026-04-24",
+    "venue": "Royal Oak Prestbury",
+    "city": "Cheltenham",
+    "url": "https://butcombe.com/the-royal-oak-pub-gloucestershire/whats-on/",
+    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/294969474_454382933363009_5234948448253608086_n.jpg?stp=dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfwZnawk8HPXwR6Dzqry9PnjWfG0oWbpt4ywIrwObQt7bw&oe=69CDBEA0",
+    "source": "facebook-scrape",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Last Friday of each month",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "Monthly quiz night hosted by quiz master Matt. Book early to reserve your space."
+  },
+  {
+    "name": "Big Phat Quiz at The Vine",
+    "date": "2026-04-26",
+    "venue": "The Vine",
+    "city": "Cheltenham",
+    "url": "https://www.facebook.com/thevinecheltenham/events",
+    "image": "https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-1/449027871_1227546341857568_6913428086751375347_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&oh=00_AfzhJK3zdJf1Ztvy4RKuQ6vS0RdXJokJA2unyYTe6dexGQ&oe=69CDDF44",
+    "source": "facebook-scrape",
+    "on_sale": false,
+    "is_recurring": true,
+    "recurrence_text": "Last Sunday of each month",
+    "categories": [
+      "quiz",
+      "community"
+    ],
+    "description": "The Vine's popular monthly quiz night. Table booking recommended — it fills up fast."
+  },
+  {
+    "name": "Monthly Bottle Share",
+    "date": "2026-04-26",
+    "time": "13:00",
+    "end_time": "20:00",
+    "venue": "Planet Caravan",
+    "url": "https://www.planetcaravancheltenham.com/events/bv2zf8jjccffhesimmbig6oplvisbp-ty2rp",
+    "image": "http://static1.squarespace.com/static/62e1ab2509cec128300bb70e/64806c73428dba294c7009d7/67191b9a66c1a254bc76e625/1762456862576/Noa+non+alc.PNG?format=1500w",
+    "categories": [
+      "food-drink",
+      "community"
+    ],
+    "description": "Ben cracks open his secret stash of rare, limited and super ridiculous beers. Tasting trays 3×1/3rds £10. Last Sunday of the month 1pm–8pm.",
+    "source": "website",
+    "city": "Cheltenham",
+    "is_recurring": true,
+    "recurrence_text": "Last Sunday of the month"
   },
   {
     "name": "Pub Quiz",
