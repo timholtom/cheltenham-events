@@ -4028,6 +4028,24 @@
     "description": "House Revolution UK's first Day Party of the year in Cheltenham and we welcome the fantastic Paul Morrell to headline for us."
   },
   {
+    "name": "Ale Amble to Tamworth",
+    "date": "2026-05-30",
+    "date_text": "",
+    "venue": "Cheltenham Spa Station",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/ale-amble-to-tamworth/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2019/04/Pickled.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "festival",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "10:59"
+  },
+  {
     "name": "70th Anniversary 1 Day AA Convention",
     "date": "2026-05-31",
     "venue": "Cheltenham Ladies' College",
