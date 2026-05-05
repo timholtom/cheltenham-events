@@ -1,109 +1,5 @@
 [
   {
-    "name": "Southam Car Boot",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "Southam Lane",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/southam-car-boot",
-    "image": "https://storage.googleapis.com/mytownrocks.appspot.com/cheltenhamrocks.co.uk/listings/8tNlZS1C2VY1DzvqIuK1/1618041460225_Southam-Car-Boot-3.jpg",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "shopping"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Inflatable Theme Park",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "Cheltenham Rugby Club",
-    "city": "Cheltenham",
-    "url": "https://inflatablethemepark.co.uk/",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FkOGykQvwnpF6NamWbpcm%2F1769807662697_cheltenham-inflatable-theme-park.jpg?alt=media&token=24093b55-467b-46f5-98ad-6a2b9c79fba5",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "sport-leisure",
-      "fetes-fairs-festivals",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "May Day in Woodmancote",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "Woodmancote Playing Field.",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamrocks.co.uk/things-to-do/may-day-in-woodmancote",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings%2Fkm0OYR1abUlfSb8NLax0%2F1680714433928_may-day-in-woodmancote.jpg?alt=media&token=dd720ce2-5377-4076-9af3-f0b0e3e9ab28",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "animals-nature",
-      "community",
-      "shows-entertainment",
-      "fetes-fairs-festivals",
-      "family"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Big Benhall Yard Sale",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "Benhall",
-    "city": "Cheltenham",
-    "url": "https://www.benhallresidentsassociation.org/product/the-benhall-yard-sale-monday-4th-may-2026/56?cs=true&cst=custom",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FrxLXtIV3lRXUXRbBOCJ0%2F1758379830430_markus-spiske-pqjJjzpCr-o-unsplash-1-.jpg?alt=media&token=ce3cdedf-86df-412f-b9ff-8a14a74083c5",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "shopping"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
-    "name": "Charlton Kings Village Fete",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "St Marys Church",
-    "city": "Cheltenham",
-    "url": "https://www.royalpub.co.uk",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FFP0OCrW0LX9JWoTX9yf6%2F1776335851395_ChatGPT-Image-Mar-17-2026-11_55_06-AM.png?alt=media&token=11d19220-fb1c-4549-8ee0-146f50619edb",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "community",
-      "shopping",
-      "arts-culture",
-      "shows-entertainment",
-      "fetes-fairs-festivals",
-      "food-drink"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%",
-    "time": "12:00"
-  },
-  {
-    "name": "Jazz in The Gardens - Free Stage Line-up",
-    "date": "2026-05-04",
-    "date_text": "",
-    "venue": "Montpellier Gardens",
-    "city": "Cheltenham",
-    "url": "https://www.cheltenhamfestivals.org/festivals/jazz-festival",
-    "image": "https://firebasestorage.googleapis.com/v0/b/mytownrocks.appspot.com/o/cheltenhamrocks.co.uk%2Flistings-v2%2FUHUapQOb90HwnPm6Ld6A%2F1745406858612_CJF-2024-outside-free-stage.webp?alt=media&token=cb5fc656-19b2-4659-8685-46951d9817a7",
-    "source": "cheltenham-rocks",
-    "categories": [
-      "shows-entertainment",
-      "fetes-fairs-festivals"
-    ],
-    "on_sale": false,
-    "image_position": "center 25%"
-  },
-  {
     "name": "Cheltenham Festival of Performing Arts",
     "date": "2026-05-06",
     "venue": "Cheltenham Town Hall",
@@ -1779,6 +1675,19 @@
     ],
     "image_position": "top",
     "time": "19:30"
+  },
+  {
+    "name": "SKIVERS CLUB",
+    "date": "2026-06-26",
+    "time": "16:00",
+    "venue": "The Bottle of Sauce",
+    "url": "https://dodopubs.com/event/skivers-club/2026-06-26/",
+    "image": "https://dodopubs.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-14.18.27.png",
+    "source": "dodo-pubs",
+    "city": "Cheltenham",
+    "categories": [
+      "food-drink"
+    ]
   },
   {
     "name": "Adriana Brownlee: Death Zone",
