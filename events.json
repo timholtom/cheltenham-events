@@ -1643,6 +1643,20 @@
     "time": "09:30"
   },
   {
+    "name": "Creatives Collide",
+    "date": "2026-06-01",
+    "venue": "Airs And Graces",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Airs-And-Graces/Creatives-Collide/42439221/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/6/6/b/2269098_34778457_Creatives-Collide.jpg",
+    "description": "Social arts club in Cheltenham. Bring a creative project, meet like-minded people and spend the evening making rather than scrolling."
+  },
+  {
     "name": "Cheltenham Science Festival",
     "date": "2026-06-02",
     "venue": "Cheltenham",
@@ -1656,6 +1670,24 @@
     ],
     "image_position": "center",
     "time": "11:00"
+  },
+  {
+    "name": "Club of the Year Presentation 2026",
+    "date": "2026-06-02",
+    "date_text": "",
+    "venue": "Cheltenham Motor Club",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/club-of-the-year-presentation-2026/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2022/03/IMG_7272-scaled.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "festival",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "20:00"
   },
   {
     "name": "Biweekly Quiz Night @ 33 The Rum Bar",
@@ -1854,6 +1886,20 @@
     ],
     "on_sale": false,
     "image_position": "center 25%"
+  },
+  {
+    "name": "Blurred: Multi Genre Madness | Link up",
+    "date": "2026-06-06",
+    "venue": "Cheltenham: Under The Prom",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham%3A-Under-The-Prom/Blurred-Multi-Genre-Madness--Link-up/42434726/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "nightlife"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/9/4/7/2266985_a4f6ea0e_blurred-multi-genre-madness-link-up.jpg",
+    "description": "We are bringing artists from Cheltenham and Birmingham to bring you a night filled with the best Multi genre music to keep you going!"
   },
   {
     "name": "BID Training — Fire Marshal",
@@ -2093,6 +2139,20 @@
     "time": "20:00"
   },
   {
+    "name": "Under The Prom - Day/Night Party.",
+    "date": "2026-06-20",
+    "venue": "Cheltenham: Under The Prom",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham%3A-Under-The-Prom/Under-The-Prom---DayNight-Party/42446517/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "nightlife"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/b/1/4/2269634_ca187b2d_under-the-prom-day-night-party-.jpg",
+    "description": "Mandidextrous/Burt Cope/Carlie Jayne + Many More.\nBlurred X Aired Archive X Smile-Z\nHuge summer day party located in the heart of Cheltenham!"
+  },
+  {
     "name": "Hazlewood's Sunrise Swim",
     "date": "2026-06-21",
     "date_text": "",
@@ -2276,6 +2336,20 @@
     ]
   },
   {
+    "name": "Speed dating in Cheltenham | Ages 30-45",
+    "date": "2026-07-01",
+    "venue": "Turtle Bay Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Turtle-Bay-Cheltenham/Speed-dating-in-Cheltenham--Ages-30-45/42434623/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/4/1/c/2266929_43626555_Speed-dating-in-Cheltenham---Ages-30-45.jpg",
+    "description": "Cheltenham, are you ready to meet your match? Original Dating is bringing the most sought-after speed dating event."
+  },
+  {
     "name": "Cheltenham Music Festival",
     "date": "2026-07-03",
     "venue": "Cheltenham",
@@ -2301,6 +2375,24 @@
     ],
     "description": "32 likes, 2 comments - 33therumbar on July 3, 2025: \"A huge THANK YOU🍸🙌🏼 Last night’s quiz was one of our best yet. Carla, our quiz master, was blown away by the support, and the electric atmosphere in the room. Seeing this little bar packed with such joy and good energy reminds us exactly why w",
     "city": "Cheltenham"
+  },
+  {
+    "name": "Ale Amble to Warwick",
+    "date": "2026-07-03",
+    "date_text": "",
+    "venue": "Cheltenham Spa Station",
+    "city": "Cheltenham",
+    "url": "https://cheltenham.camra.org.uk/events/ale-amble-wawick0726/",
+    "image": "https://cheltenham.camra.org.uk/wp-content/uploads/2019/04/Pickled.jpg",
+    "source": "camra-cheltenham",
+    "categories": [
+      "food-drink",
+      "festival",
+      "community"
+    ],
+    "on_sale": false,
+    "image_position": "center 25%",
+    "time": "09:59"
   },
   {
     "name": "Lido Aquathlon & Triathlon",
@@ -2361,6 +2453,34 @@
         "url": "https://www.eventbrite.co.uk/e/the-princess-proms-cheltenham-second-session-tickets-1975085638312"
       }
     ]
+  },
+  {
+    "name": "Ibiza Anthems - 90's vs 00's",
+    "date": "2026-07-04",
+    "venue": "Cheltenham: Under The Prom",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham%3A-Under-The-Prom/Ibiza-Anthems---90s-vs-00s---Cheltenham/42428016/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "nightlife"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/3/8/d/2265226_98843742_Ibiza-Anthems---90-s-vs-00-s---Cheltenham.jpg",
+    "description": "Grab your glow sticks for a day of nostalgia reliving House & Trance Ibiza Classics from the 90s & 00's"
+  },
+  {
+    "name": "Bassix: Crossy, Gino, Trafic MC",
+    "date": "2026-07-04",
+    "venue": "Cheltenham: Under The Prom",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham%3A-Under-The-Prom/Bassix-Crossy-Gino-Trafic-MC/42462726/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "nightlife"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/0/2/8/2273375_6078016f_bassix-crossy-gino-trafic-mc.jpg",
+    "description": "BASSIX IS BACK. Crossy, Gino & Trafic MC. 8 hours of pure drum and bass. Under the Prom, Cheltenham. 10pm-6am."
   },
   {
     "name": "Mini Market at The Baby Journey",
@@ -2756,6 +2876,19 @@
     "image_position": "center 25%"
   },
   {
+    "name": "Speed dating in Cheltenham | Ages 40-55",
+    "date": "2026-08-05",
+    "venue": "Turtle Bay Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Turtle-Bay-Cheltenham/Speed-dating-in-Cheltenham--Ages-40-55/42435061/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "description": "Cheltenham, are you ready to meet your match? Original Dating is bringing the most sought-after speed dating event."
+  },
+  {
     "name": "Parler Bar Event",
     "date": "2026-08-06",
     "time": "12:00",
@@ -2830,6 +2963,20 @@
     "description": "EPIC MUSIC LINE-UP with 8 top UK tribute bands, amazing food and fun for all"
   },
   {
+    "name": "Good Vibes Only. 29th & 30th August 2026.",
+    "date": "2026-08-29",
+    "venue": "Cheltenham RFC Newlands Park ",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Cheltenham-RFC-Newlands-Park-/Good-Vibes-Only-29th--30th-August-2026/42459735/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/3/e/a/2272382_93037320_Good-Vibes-Only--29th---30th-August-2026-.jpg",
+    "description": "Good Vibes Only is back at Newlands Park for 2 days jam packed with incredible headline artists and the very best local talent around. Let's dance!"
+  },
+  {
     "name": "The Suffolks Market: Bank Holiday",
     "date": "2026-08-30",
     "venue": "The Suffolks",
@@ -2880,6 +3027,20 @@
     "on_sale": false,
     "image_position": "center 25%",
     "time": "12:00"
+  },
+  {
+    "name": "Speed dating in Cheltenham | Ages 30-45",
+    "date": "2026-09-02",
+    "venue": "Turtle Bay Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Turtle-Bay-Cheltenham/Speed-dating-in-Cheltenham--Ages-30-45/42434624/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/1/6/9/2266929_43626555_Speed-dating-in-Cheltenham---Ages-30-45.jpg",
+    "description": "Cheltenham, are you ready to meet your match? Original Dating is bringing the most sought-after speed dating event."
   },
   {
     "name": "UK Pink Floyd Experience",
@@ -3152,6 +3313,19 @@
     "time": "20:00"
   },
   {
+    "name": "Speed dating in Cheltenham | Ages 40-55",
+    "date": "2026-10-07",
+    "venue": "Turtle Bay Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Turtle-Bay-Cheltenham/Speed-dating-in-Cheltenham--Ages-40-55/42435062/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "description": "Cheltenham, are you ready to meet your match? Original Dating is bringing the most sought-after speed dating event."
+  },
+  {
     "name": "Cheltenham Literature Festival",
     "date": "2026-10-09",
     "venue": "Cheltenham",
@@ -3245,6 +3419,20 @@
     "description": "Sue Ryder charity night hike in Cheltenham. Walk under the stars and raise funds for people facing life-limiting illness and grief.",
     "source": "website",
     "city": "Cheltenham"
+  },
+  {
+    "name": "The Sound of Musicals",
+    "date": "2026-10-17",
+    "venue": "St Gregory's Church, Cheltenham, GL50 3PR",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/St-Gregory%27s-Church%2C-Cheltenham%2C-GL50-3PR/The-Sound-of-Musicals---Cheltenham/42459705/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "live-music"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/2/0/f/2272363_45b2ed42_the-sound-of-musicals-cheltenham.jpg",
+    "description": "The greatest songs from musical theatre - reimagined."
   },
   {
     "name": "Well Run X Dunkertons 5k Night Trail",
@@ -3491,6 +3679,20 @@
     ],
     "image_position": "center",
     "time": "10:00"
+  },
+  {
+    "name": "Speed dating in Cheltenham | Ages 30-45",
+    "date": "2026-12-02",
+    "venue": "Turtle Bay Cheltenham",
+    "city": "Cheltenham",
+    "url": "https://www.skiddle.com/whats-on/Cheltenham/Turtle-Bay-Cheltenham/Speed-dating-in-Cheltenham--Ages-30-45/42434625/",
+    "source": "skiddle",
+    "on_sale": true,
+    "categories": [
+      "community"
+    ],
+    "image": "https://d31fr2pwly4c4s.cloudfront.net/8/d/8/2266929_43626555_Speed-dating-in-Cheltenham---Ages-30-45.jpg",
+    "description": "Cheltenham, are you ready to meet your match? Original Dating is bringing the most sought-after speed dating event."
   },
   {
     "name": "Retreat Cheltenham Event",
